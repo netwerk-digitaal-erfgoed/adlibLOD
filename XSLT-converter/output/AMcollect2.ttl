@@ -1,0 +1,1767 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lido: <http://www.lido-schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://hdl.handle.net/11259/collection.206> a edm:ProvidedCHO ;
+    rdfs:label "Portret van een jongeling" ;
+    dc:creator <http://hdl.handle.net/11259/people.23044> ;
+    dc:identifier "A 11068" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Portret van een jongeling" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1646" ;
+    sem:hasEndTimeStamp "1646" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.206> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11068_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.207> a edm:ProvidedCHO ;
+    rdfs:label "De heuvel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28067> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11069" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "De heuvel",
+        "Een noordsch landschap" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1636" ;
+    sem:hasEndTimeStamp "1675" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.207> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11069_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.208> a edm:ProvidedCHO ;
+    rdfs:label "Portret van Christina koningin van Zweden" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28098> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.26235> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11070" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.48760>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret",
+        "vrouwenportret" ;
+    dc:title "Portret van Christina koningin van Zweden" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1653" ;
+    sem:hasEndTimeStamp "1653" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.208> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11070.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11070_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.209> a edm:ProvidedCHO ;
+    rdfs:label "De annunciatie" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11071" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De annunciatie",
+        "De verkondiging aan Maria" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1594" ;
+    sem:hasEndTimeStamp "1594" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.209> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11071_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.210> a edm:ProvidedCHO ;
+    rdfs:label "Visitatie, Maria en haar nicht Elisabet" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11072" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Visitatie, Maria en haar nicht Elisabet" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1593" ;
+    sem:hasEndTimeStamp "1593" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.210> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11072_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.211> a edm:ProvidedCHO ;
+    rdfs:label "Aanbidding der herders" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11073" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject [ a sem:Event ;
+            skos:altLabel "Nieuwe Testament" ],
+        [ a sem:Event ;
+            skos:altLabel "Nieuwe Testament" ],
+        [ a sem:Event ;
+            skos:altLabel "geboorte van Christus" ],
+        [ a sem:Event ;
+            skos:altLabel "Kerstmis" ],
+        [ a sem:Event ;
+            skos:altLabel "aanbidding der herders" ],
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "Luyken trefwoorden",
+        "bijbelse voorstelling",
+        "religie/bijbel/filosofie" ;
+    dc:title "Aanbidding der herders" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1594" ;
+    sem:hasEndTimeStamp "1594" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.211> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11073_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.212> a edm:ProvidedCHO ;
+    rdfs:label "De Besnijdenis" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11074" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De Besnijdenis" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1594" ;
+    sem:hasEndTimeStamp "1594" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.212> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11074_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.213> a edm:ProvidedCHO ;
+    rdfs:label "De drie koningen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11075" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De drie koningen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1593" ;
+    sem:hasEndTimeStamp "1594" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.213> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11075_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.214> a edm:ProvidedCHO ;
+    rdfs:label "De heilige familie met Johannes de Doper" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11076" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "Heilige familie met Johannes de Doper",
+        "Nieuwe Testament",
+        "bijbelse voorstelling" ;
+    dc:title "De heilige familie met Johannes de Doper" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1593" ;
+    sem:hasEndTimeStamp "1593" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.214> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11076_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.215> a edm:ProvidedCHO ;
+    rdfs:label "De aanbidding der herders" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11077" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject [ a sem:Event ;
+            skos:altLabel "geboorte van Christus" ],
+        [ a sem:Event ;
+            skos:altLabel "aanbidding der herders" ],
+        [ a sem:Event ;
+            skos:altLabel "Nieuwe Testament" ],
+        [ a sem:Event ;
+            skos:altLabel "Kerstmis" ],
+        [ a sem:Event ;
+            skos:altLabel "Nieuwe Testament" ],
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "Luyken trefwoorden",
+        "bijbelse voorstelling",
+        "religie/bijbel/filosofie" ;
+    dc:title "De aanbidding der herders" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1598" ;
+    sem:hasEndTimeStamp "1600" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.215> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11077.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11077_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.216> a edm:ProvidedCHO ;
+    rdfs:label "Piëta" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11078" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De maagd Maria weenende bij het lijk van den zaligmaker",
+        "Piëta" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1596" ;
+    sem:hasEndTimeStamp "1596" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.216> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11078.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11078_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.217> a edm:ProvidedCHO ;
+    rdfs:label "Johannes Zurenus (1517-1591)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11079" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.66011>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Johannes Zurenus (1517-1591)",
+        "Portret van Johannes Zurenus (Jan van Suren)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1588" ;
+    sem:hasEndTimeStamp "1590" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.217> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11079.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11079_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.218> a edm:ProvidedCHO ;
+    rdfs:label "Johannes Zurenus (1517-1591)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11080" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Johannes Zurenus (1517-1591)",
+        "Portret van Johannes Zurenus (Jan van Suren)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1588" ;
+    sem:hasEndTimeStamp "1590" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.218> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11080_001.jpg> .
+
+<http://hdl.handle.net/11259/collection.219> a edm:ProvidedCHO ;
+    rdfs:label "Johannes Zurenus (1517-1591)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.6110> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11081" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Johannes Zurenus (1517-1591)",
+        "Portret van Johannes Zurenus (Jan van Suren)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1588" ;
+    sem:hasEndTimeStamp "1590" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.219> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11081.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11081_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.220> a edm:ProvidedCHO ;
+    rdfs:label "Portret van Jacob Cornelisz." ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "tekenaar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29060> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11082" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.27444>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Portret van Jacob Cornelisz." ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1660" ;
+    sem:hasEndTimeStamp "1663" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.220> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11082_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.221> a edm:ProvidedCHO ;
+    rdfs:label "De twee ezels" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11083" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "dier",
+        "ezel" ;
+    dc:title "De twee ezels",
+        "De twee ezels voor het nommer" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.221> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11083_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.222> a edm:ProvidedCHO ;
+    rdfs:label "Dorp op een heuvel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11084" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Dorp op een heuvel",
+        "Landschap met versterkt dorp op heuvel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1658" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.222> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11084_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.223> a edm:ProvidedCHO ;
+    rdfs:label "Twee mannen bij een steen in het water" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11085" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met vooruitspringend rotsblok",
+        "Twee mannen bij een steen in het water" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1658" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.223> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11085_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.224> a edm:ProvidedCHO ;
+    rdfs:label "Vier geiten" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11086" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "dier",
+        "geit",
+        "landschap" ;
+    dc:title "Landschap met geiten",
+        "Vier geiten" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1656" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.224> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11086_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.225> a edm:ProvidedCHO ;
+    rdfs:label "Vier schapen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11087" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "dier",
+        "landschap",
+        "schaap" ;
+    dc:title "Landschap met schapen",
+        "Vier schapen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1658" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.225> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11087_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.226> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met man en twee ezels" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11088" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "dier",
+        "ezel",
+        "landschap" ;
+    dc:title "Landschap met ezels aan een rivier",
+        "Landschap met man en twee ezels" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1660" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.226> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11088_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.227> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met twee muilezeldrijvers" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4601> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11089" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met scheve boom",
+        "Landschap met twee muilezeldrijvers" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1656" ;
+    sem:hasEndTimeStamp "1656" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.227> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11089_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.228> a edm:ProvidedCHO ;
+    rdfs:label "Kluizenaar in een grot" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23448> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11090" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De heilige franciscus de kluizenaar",
+        "Kluizenaar in een grot" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1627" ;
+    sem:hasEndTimeStamp "1674" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.228> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11090_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.229> a edm:ProvidedCHO ;
+    rdfs:label "Ephraim Bonus (1599-1665)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23448> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11091" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.26669>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Ephraim Bonus (1599-1665)",
+        "Portret van Ephraim Bonus" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1640" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.229> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11091_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.230> a edm:ProvidedCHO ;
+    rdfs:label "Joost van den Vondel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23448> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11092" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.17902>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Joost van den Vondel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1644" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.230> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11092_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.231> a edm:ProvidedCHO ;
+    rdfs:label "Guillaume de Brisacier" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79844> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30175> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11093" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.26897>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Guillaume de Brisacier" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1664" ;
+    sem:hasEndTimeStamp "1664" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.231> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11093_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.232> a edm:ProvidedCHO ;
+    rdfs:label "Pierre Payend des Landes" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30597> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11094" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65697>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Pierre Payend des Landes",
+        "Portret van P. Payend-Deslandes" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1659" ;
+    sem:hasEndTimeStamp "1659" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.232> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11094_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.233> a edm:ProvidedCHO ;
+    rdfs:label "Boeren aan een maaltijd in een herberg" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23652> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11095" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Boeren aan een maaltijd in een herberg",
+        "Een binnenhuis met landlieden" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1647" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.233> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11095_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.234> a edm:ProvidedCHO ;
+    rdfs:label "De stier" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11096" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De stier",
+        "Stier naar rechts" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.234> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11096_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.235> a edm:ProvidedCHO ;
+    rdfs:label "Een staande en een liggende koe" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11097" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "dier",
+        "dierstuk",
+        "koe" ;
+    dc:title "Een staande en een liggende koe" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.235> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11097_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.236> a edm:ProvidedCHO ;
+    rdfs:label "Liggende koe bij een hek" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11098" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Herkauwende koe",
+        "Liggende koe bij een hek" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.236> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11098_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.237> a edm:ProvidedCHO ;
+    rdfs:label "Grazende koe" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11099" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Grazende koe" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.237> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11099_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.238> a edm:ProvidedCHO ;
+    rdfs:label "Koe met gedraaide hoorn" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11100" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Koe met gedraaide hoorn",
+        "Witte koe schuin van voren" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.238> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11100_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.239> a edm:ProvidedCHO ;
+    rdfs:label "Urinerende koe" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11101" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Urinerende koe" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.239> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11101_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.240> a edm:ProvidedCHO ;
+    rdfs:label "Twee vechtende ossen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11102" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Stoeiend vee",
+        "Twee vechtende ossen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.240> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11102_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.241> a edm:ProvidedCHO ;
+    rdfs:label "Twee koeien van achteren gezien" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11103" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Twee koeien van achteren gezien",
+        "Twee witte koeien bij hek" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.241> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11103_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.242> a edm:ProvidedCHO ;
+    rdfs:label "Het Friese paard" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11104" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Appelschimmel naar rechts",
+        "Het Friese paard" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.242> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11104_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.243> a edm:ProvidedCHO ;
+    rdfs:label "Hinnikend paard" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11105" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Donker en licht raspaard",
+        "Hinnikend paard" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.243> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11105_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.244> a edm:ProvidedCHO ;
+    rdfs:label "Het gecoupeerde paard" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11106" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Het gecoupeerde paard",
+        "Twee rijpaarden" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.244> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11106_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.245> a edm:ProvidedCHO ;
+    rdfs:label "Twee ploegpaarden" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11107" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Twee ploegpaarden",
+        "Twee werkpaarden" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.245> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11107_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.246> a edm:ProvidedCHO ;
+    rdfs:label "Afgeleefde paarden" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13538> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11108" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Afgeleefde paarden" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.246> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11108_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.247> a edm:ProvidedCHO ;
+    rdfs:label "Jozef vertelt zijn dromen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11109" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "bijbelse voorstelling",
+        "oude testament" ;
+    dc:title "Jozef vertelt zijn dromen",
+        "Jozef zijne droomen aan zijne broeders verhalende" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1638" ;
+    sem:hasEndTimeStamp "1638" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.247> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11109.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11109_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.248> a edm:ProvidedCHO ;
+    rdfs:label "Jozefs mantel wordt aan Jakob getoond" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11110" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "bijbelse voorstelling",
+        "oude testament" ;
+    dc:title "Jakob over Jozefs gewaanden dood weenende",
+        "Jozefs mantel wordt aan Jakob getoond" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1631" ;
+    sem:hasEndTimeStamp "1635" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.248> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11110.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11110_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.249> a edm:ProvidedCHO ;
+    rdfs:label "De predikende Christus ('La Petite Tombe')" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11111" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "Nieuwe Testament",
+        "bijbelse voorstelling" ;
+    dc:title "Christus Predikende (la petite tombe)",
+        "De predikende Christus ('La Petite Tombe')" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1654" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.249> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11111.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11111_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.250> a edm:ProvidedCHO ;
+    rdfs:label "De predikende Christus (De Honderdguldenprent)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11112" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Christus de zieken genezende bekend als de Honderdguldenprent",
+        "De Honderd Gulden prent",
+        "De predikende Christus (De Honderdguldenprent)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1649" ;
+    sem:hasEndTimeStamp "1649" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.250> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11112.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11112_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.251> a edm:ProvidedCHO ;
+    rdfs:label "Christus voor Pilatus: grote plaat" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32969> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11113" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Christus voor Pilatus: grote plaat",
+        "Ecce Homo" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1636" ;
+    sem:hasEndTimeStamp "1636" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.251> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11113.JPG> .
+
+<http://hdl.handle.net/11259/collection.252> a edm:ProvidedCHO ;
+    rdfs:label "De Kruisafname: tweede plaat" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.32969> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11114" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kruisafname" ;
+    dc:title "De Afneming van het kruis",
+        "De Kruisafname: tweede plaat" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1633" ;
+    sem:hasEndTimeStamp "1633" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.252> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11114.JPG> .
+
+<http://hdl.handle.net/11259/collection.253> a edm:ProvidedCHO ;
+    rdfs:label "Het sterfbed van Maria" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11115" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Het sterfbed van Maria" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1639" ;
+    sem:hasEndTimeStamp "1639" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.253> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11115.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11115_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.254> a edm:ProvidedCHO ;
+    rdfs:label "De Synagoge" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11116" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De Synagoge" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1648" ;
+    sem:hasEndTimeStamp "1648" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.254> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11116.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11116_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.255> a edm:ProvidedCHO ;
+    rdfs:label "Bedelende familie ontvangt een aalmoes aan de deur van een huis" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "ets" ] ;
+    dc:identifier "A 11117" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "bedelaar" ;
+    dc:title "Bedelaars aan een deur",
+        "Bedelende familie ontvangt een aalmoes aan de deur van een huis" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1648" ;
+    sem:hasEndTimeStamp "1648" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.255> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11117.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11117_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.256> a edm:ProvidedCHO ;
+    rdfs:label "De fluitspeler" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11118" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De fluitspeler",
+        "Uylenspiegel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1642" ;
+    sem:hasEndTimeStamp "1642" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.256> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11118_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.257> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op Amsterdam uit het noordwesten" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11119" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht" ;
+    dc:title "Gezicht op Amsterdam uit het noordwesten",
+        "Gezicht op de stad Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial "Rijzenhoofd" ;
+    sem:hasBeginTimeStamp "1638" ;
+    sem:hasEndTimeStamp "1642" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.257> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11119.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11119_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.258> a edm:ProvidedCHO ;
+    rdfs:label "De drie Bomen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11120" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De drie Bomen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1643" ;
+    sem:hasEndTimeStamp "1643" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.258> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11120.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11120_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.259> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met drie boerderijen langs een weg" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11121" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De drie boerenwoningen",
+        "Landschap met drie boerderijen langs een weg" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.259> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11121.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11121_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.260> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met vierkante toren" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11122" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De vierkante toren",
+        "Landschap met vierkante toren" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.260> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11122.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11122_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.261> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met bomen, boerderijen en een toren" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11123" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Het landschap met boerderij, ophaalbrug en toren",
+        "Landschap met bomen, boerderijen en een toren" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.261> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11123_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.262> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met een hooimijt en een kudde schapen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11124" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De hooischelf",
+        "Landschap met een hooimijt en een kudde schapen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.262> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11124_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.263> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met boerderij en hooimijt" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11125" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De hut en de hooischelf",
+        "Landschap met boerderij en hooimijt" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1641" ;
+    sem:hasEndTimeStamp "1641" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.263> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11125.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11125_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.264> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met een bornpaal" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11126" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap",
+        "stadsgezicht" ;
+    dc:title "De obelisk",
+        "Landschap met een bornpaal" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    dcterms:spatial <http://sws.geonames.org/2746986/>,
+        <http://sws.geonames.org/2750474/> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.264> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11126.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11126_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.265> a edm:ProvidedCHO ;
+    rdfs:label "De predikant Jan Cornelis Sylvius" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11127" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65813>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "De predikant Jan Cornelis Sylvius",
+        "Portret van Janus Silvius" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1633" ;
+    sem:hasEndTimeStamp "1633" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.265> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11127_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.266> a edm:ProvidedCHO ;
+    rdfs:label "De predikant Cornelis Claesz. Anslo" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11128" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.25865>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "De predikant Cornelis Claesz. Anslo",
+        "Portret van Cornelis Claesz Anslo" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1641" ;
+    sem:hasEndTimeStamp "1641" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.266> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11128.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11128_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.267> a edm:ProvidedCHO ;
+    rdfs:label "De prentverkoper Clement de Jonghe" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11129" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.8629>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "De prentverkoper Clement de Jonghe",
+        "Portret van Clement de Jonge" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1651" ;
+    sem:hasEndTimeStamp "1651" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.267> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11129.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11129_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.268> a edm:ProvidedCHO ;
+    rdfs:label "De apotheker Abraham Francen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11130" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.28215>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "De apotheker Abraham Francen",
+        "Portret van Abraham Francen" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1657" ;
+    sem:hasEndTimeStamp "1657" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.268> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11130_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.269> a edm:ProvidedCHO ;
+    rdfs:label "Pieter Haringh" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11131" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65335>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Pieter Haringh",
+        "Portret van den jongen Haaring" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1655" ;
+    sem:hasEndTimeStamp "1655" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.269> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11131_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.270> a edm:ProvidedCHO ;
+    rdfs:label "De goudsmid Jan Lutma (1584-1669)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11132" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.23478>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "De goudsmid Jan Lutma (1584-1669)",
+        "Portret van Jan Lutma" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial <http://sws.geonames.org/2755251/>,
+        "Nederland" ;
+    sem:hasBeginTimeStamp "1656" ;
+    sem:hasEndTimeStamp "1656" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.270> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11132.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11132_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.271> a edm:ProvidedCHO ;
+    rdfs:label "De Remonstrantse predikant Jan Uytenbogaert" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11133" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.33389>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "De Remonstrantse predikant Jan Uytenbogaert",
+        "Johannes Uytenbogaert (1557-1644)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1635" ;
+    sem:hasEndTimeStamp "1635" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.271> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11133.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11133_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.272> a edm:ProvidedCHO ;
+    rdfs:label "De predikant Jan Cornelis Sylvius" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11134" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65813>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "De predikant Jan Cornelis Sylvius",
+        "Portret van J.C. Sylvius" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1646" ;
+    sem:hasEndTimeStamp "1646" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.272> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11134.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11134_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.273> a edm:ProvidedCHO ;
+    rdfs:label "Jan Wtenbogaert, 'De Goudweger'" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11135" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "genre",
+        "goudweger",
+        "kleinhandel, horeca, kantooractiviteiten" ;
+    dc:title "De goudweger",
+        "Jan Wtenbogaert, 'De Goudweger'" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365>,
+        "droge naald" ;
+    sem:hasBeginTimeStamp "1639" ;
+    sem:hasEndTimeStamp "1639" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.273> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11135.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11135_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.274> a edm:ProvidedCHO ;
+    rdfs:label "Oude man met lange baard en witte hemdsmouw: buste" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11136" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Een grijsaard",
+        "Oude man met lange baard en witte hemdsmouw: buste" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1630" ;
+    sem:hasEndTimeStamp "1630" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.274> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11136.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11136_A.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11136_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.275> a edm:ProvidedCHO ;
+    rdfs:label "Kaalhoofdige oude man: profiel naar rechts; de vader van Rembrandt (?)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11137" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Kaalhoofdige oude man: profiel naar rechts; de vader van Rembrandt (?)",
+        "Man met eenen kalen schedel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1630" ;
+    sem:hasEndTimeStamp "1630" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.275> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11137.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11137_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.276> a edm:ProvidedCHO ;
+    rdfs:label "Gebaarde man met een fluwelen baret waarop een juwelen gesp" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11138" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bejaard man met eenen vierkanten baard",
+        "Gebaarde man met een fluwelen baret waarop een juwelen gesp" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1637" ;
+    sem:hasEndTimeStamp "1637" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.276> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11138_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.277> a edm:ProvidedCHO ;
+    rdfs:label "Rembrandt's moeder aan tafel: driekwart lengte, naar rechts" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11139" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65736>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Eene zittende oude vrouw (Rembrandt's moeder)",
+        "Rembrandt's moeder aan tafel: driekwart lengte, naar rechts" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1631" ;
+    sem:hasEndTimeStamp "1631" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.277> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11139_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.278> a edm:ProvidedCHO ;
+    rdfs:label "Lezende vrouw" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11140" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Eene lezende vrouw",
+        "Lezende vrouw" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1634" ;
+    sem:hasEndTimeStamp "1634" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.278> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11140_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.279> a edm:ProvidedCHO ;
+    rdfs:label "Kopstudies van Saskia en anderen" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11141" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Kopstudies van Saskia en anderen",
+        "Studieblad met hoofden waaronder Saskia" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1636" ;
+    sem:hasEndTimeStamp "1636" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.279> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11141.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11141_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.280> a edm:ProvidedCHO ;
+    rdfs:label "Drie vrouwenkoppen, één zeer licht geëtst" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11142" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Blad met drie vrouwenhoofden",
+        "Drie vrouwenkoppen, één zeer licht geëtst" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1637" ;
+    sem:hasEndTimeStamp "1637" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.280> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11142_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.281> a edm:ProvidedCHO ;
+    rdfs:label "Drie vrouwenhoofden waaronder een slapende" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11143" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Drie vrouwenhoofden waaronder een slapende" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1637" ;
+    sem:hasEndTimeStamp "1637" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.281> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11143.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11143_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.282> a edm:ProvidedCHO ;
+    rdfs:label "De heilige Catharina" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14618> ;
+            lido:attributionQualifierActor "toegeschreven aan" ] ;
+    dc:identifier "A 11144" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "heilige",
+        "heiligen",
+        "religie" ;
+    dc:title "De heilige Catharina",
+        "Verso: Twee studies van voeten" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1620" ;
+    sem:hasEndTimeStamp "1630" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.282> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11144_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.283> a edm:ProvidedCHO ;
+    rdfs:label "Eene oude vrouw en een jongen bij kaarslicht" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14618> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79075> ;
+            schema:roleName "etser" ;
+            lido:attributionQualifierActor "toegeschreven aan" ] ;
+    dc:identifier "A 11145" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Eene oude vrouw en een jongen bij kaarslicht" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1620" ;
+    sem:hasEndTimeStamp "1630" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.283> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11145_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.284> a edm:ProvidedCHO ;
+    rdfs:label "De kleine brug" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11146" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De kleine brug" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1650" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.284> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11146_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.285> a edm:ProvidedCHO ;
+    rdfs:label "De twee boeren en een hond" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11147" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "bomen",
+        "landschap" ;
+    dc:title "De twee boeren en een hond" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1655" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.285> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11147_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.286> a edm:ProvidedCHO ;
+    rdfs:label "Eene boerenwoning op eenen heuvel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11148" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Eene boerenwoning op eenen heuvel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1660" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.286> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11148_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.287> a edm:ProvidedCHO ;
+    rdfs:label "De reizigers" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11149" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De reizigers" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1660" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.287> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11149_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.288> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met bergbeek" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32340> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11150" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met bergbeek" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1655" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.288> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11150_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.289> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met schilders aan de voet van een boompartij" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32340> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11151" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met schilders aan de voet van een boompartij" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1655" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.289> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11151_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.290> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap met waterval" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32340> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11152" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap met boom links",
+        "Berglandschap met waterval" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1655" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.290> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11152_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.291> a edm:ProvidedCHO ;
+    rdfs:label "Twee koeien onder een boom" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.17340> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11153" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "dier",
+        "koe" ;
+    dc:title "Eene staande en eene liggende koe",
+        "Twee koeien onder een boom" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1670" ;
+    sem:hasEndTimeStamp "1670" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.291> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11153_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.292> a edm:ProvidedCHO ;
+    rdfs:label "De reizende muzikanten" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.23652> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11154" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De reizende muzikanten" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1629" ;
+    sem:hasEndTimeStamp "1662" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.292> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11154_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.293> a edm:ProvidedCHO ;
+    rdfs:label "De jagers" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29749> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11155" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "dier",
+        "hond",
+        "paard" ;
+    dc:title "De jager te paard",
+        "De jagers" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1638" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.293> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11155_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.294> a edm:ProvidedCHO ;
+    rdfs:label "Gellius de Bouma (1579-1658)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11156" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65308>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Gellius de Bouma (1579-1658)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1656" ;
+    sem:hasEndTimeStamp "1656" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.294> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11156_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.295> a edm:ProvidedCHO ;
+    rdfs:label "Joost van den Vondel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11157" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.17902>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Joost van den Vondel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1657" ;
+    sem:hasEndTimeStamp "1657" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.295> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11157_000.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11157_001.jpg> .
+
+<http://hdl.handle.net/11259/collection.296> a edm:ProvidedCHO ;
+    rdfs:label "Portret van Lieven van Coppenol" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "graveur" ] ;
+    dc:identifier "A 11158" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.48749>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Portret van Coppenol",
+        "Portret van Lieven van Coppenol" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1658" ;
+    sem:hasEndTimeStamp "1658" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.296> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11158_000.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11158_001.jpg> .
+
+<http://hdl.handle.net/11259/collection.297> a edm:ProvidedCHO ;
+    rdfs:label "De heilige Jeronimus" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32969> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11159" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De heilige Jeronimus" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1631" ;
+    sem:hasEndTimeStamp "1631" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.297> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11159_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.298> a edm:ProvidedCHO ;
+    rdfs:label "Portret van Wenceslaus Coeberger (Coebergher)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33022> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27925> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11160" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.48718>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Portret van Wenceslaus Coeberger (Coebergher)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041340> ;
+    sem:hasBeginTimeStamp "1634" ;
+    sem:hasEndTimeStamp "1634" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.298> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11160_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.299> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met tunnel" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33123> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11161" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met tunnel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.299> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11161_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.300> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met paadje" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33123> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11162" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met paadje" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.300> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11162_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.301> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met huis bij rotswand" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33123> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11163" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met huis bij rotswand" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.301> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11163_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.302> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met waterval" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33123> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11164" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met waterval" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1650" ;
+    sem:hasEndTimeStamp "1660" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.302> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11164_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.303> a edm:ProvidedCHO ;
+    rdfs:label "De predikant Jan Cornelis Sylvius" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27574> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 11165" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65813>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "De predikant Jan Cornelis Sylvius",
+        "Portret van Janus Silvius" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1633" ;
+    sem:hasEndTimeStamp "1656" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.303> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11165_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.304> a edm:ProvidedCHO ;
+    rdfs:label "Doctor Faust" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 11166" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Doctor Faust" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1652" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.304> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11166.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11166_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.305> a edm:ProvidedCHO ;
+    rdfs:label "Adagio con Espressione" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.8235> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.32246> ;
+            schema:roleName "drukker" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25784> ;
+            schema:roleName "lithograaf" ] ;
+    dc:identifier "A 11167" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Adagio con Espressione" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        "lithografie" ;
+    sem:hasBeginTimeStamp "1859" ;
+    sem:hasEndTimeStamp "1859" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.305> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11167.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11167_000.jpg> .
+
+<http://sws.geonames.org/2746986/> skos:altLabel "Spaarndam" .
+
+<http://sws.geonames.org/2750474/> skos:altLabel "Nederland" .
+
+<http://sws.geonames.org/2755251/> skos:altLabel "Groningen" .
+
+<http://vocab.getty.edu/aat/300041340> skos:altLabel "gravure" .
+
+<http://vocab.getty.edu/aat/300041365> skos:altLabel "ets" .
+
+<http://vocab.getty.edu/aat/300041273> skos:altLabel "prent" .
+

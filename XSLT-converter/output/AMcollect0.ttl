@@ -1,0 +1,1607 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lido: <http://www.lido-schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003187> skos:altLabel "Damrak" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003533> skos:altLabel "Herengracht" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003687> skos:altLabel "Geldersekade" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003827> skos:altLabel "Muntplein" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003977> skos:altLabel "Kattenburgerplein" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004153> skos:altLabel "Leidsegracht" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004156> skos:altLabel "Leidseplein" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004526> skos:altLabel "Singel" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0363100012168045> skos:altLabel "Munttoren" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/pand/0363100012182530> skos:altLabel "Schreierstoren" .
+
+<http://hdl.handle.net/11259/collection.1> a edm:ProvidedCHO ;
+    rdfs:label "Het stadhuis op de Dam te Amsterdam in 1641, naar Pieter Saenredam" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14736> ;
+            lido:attributionQualifierActor "naar" ],
+        <http://hdl.handle.net/11259/people.26717> ;
+    dc:identifier "A 8" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Het stadhuis op de Dam te Amsterdam in 1641, naar Pieter Saenredam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1783" ;
+    sem:hasEndTimeStamp "1838" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.1> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_8_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.100> a edm:ProvidedCHO ;
+    rdfs:label "Ruïne no 51" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10051" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Ruïne no 51" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.100> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10051_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.101> a edm:ProvidedCHO ;
+    rdfs:label "Riviergezicht no 52" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10052" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Riviergezicht no 52" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1800" ;
+    sem:hasEndTimeStamp "1800" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.101> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10052_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.102> a edm:ProvidedCHO ;
+    rdfs:label "Landschap no 53" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10053" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap no 53" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1800" ;
+    sem:hasEndTimeStamp "1800" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.102> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10053_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.103> a edm:ProvidedCHO ;
+    rdfs:label "Landschap no 54" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10054" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap no 54" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1799" ;
+    sem:hasEndTimeStamp "1799" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.103> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10054_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.104> a edm:ProvidedCHO ;
+    rdfs:label "Landschap no 55" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10055" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap no 55" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1793" ;
+    sem:hasEndTimeStamp "1793" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.104> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10055_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.11> a edm:ProvidedCHO ;
+    rdfs:label "Portret van Pieter Jelles Troelstra" ;
+    dc:creator <http://hdl.handle.net/11259/people.21755> ;
+    dc:identifier "A 331" ;
+    dc:rights "Alle rechten voorbehouden" ;
+    dc:subject <http://hdl.handle.net/11259/people.17030>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Portret van Pieter Jelles Troelstra" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1926" ;
+    sem:hasEndTimeStamp "1926" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.11> .
+
+<http://hdl.handle.net/11259/collection.12> a edm:ProvidedCHO ;
+    rdfs:label "De brand in het oude stadhuis (1652)" ;
+    dc:creator <http://hdl.handle.net/11259/people.7401> ;
+    dc:description """As a lad of fifteen, Jan van der Heyden had witnessed the fire that burned down the Old Town Hall on 7 July 1652. The event, as he describes it, led him to study ways of improving existing fire-fighting methods. The Slangbrandspuitenboek of 1690 opens with an impression of this famous fire.
+While dozens of people are busy passing buckets of water from one to another from the harbour in the foreground, others are risking their lives on ladders propped against the burning building. To the right things are more relaxed, because the new fire extinguisher is operating. It required less manpower and the results were greater. As in an ‘artist’s impression’, Van der Heyden has set his new invention in a historical panorama, because in reality 38 years had passed between the two events."""@en,
+        """Jan van der Heyden had als 15-jarige de brand van het Oude Stadhuis op 7 juli 1652 meegemaakt. Naar eigen zeggen is die gebeurtenis voor hem de aanleiding geweest om zich te verdiepen in de verbetering van de bestaande blusmethoden. Het Slangbrandspuitenboek uit 1690 opent dan ook met een impressie van de beroemde brand.
+Terwijl tientallen mensen in de weer zijn met het doorgeven van emmers water, geput uit de haven op de voorgrond, wagen anderen hun leven op ladders bij het brandende gebouw. Rechts is er meer rust, want daar wordt de nieuwe slangbrandspuit ingezet. Hierdoor zijn minder mensen nodig terwijl het rendement groter is. Als in een ‘artist’s impression’ heeft Van der Heyden zijn nieuwe vinding een plaats gegeven in de historische voorstelling. In werkelijkheid lag daar 38 jaar tussen.
+A 334 - schenking C.G. ’t Hooft, 1932
+
+
+The Fire in the Old Town Hall in 1652, 1690
+Jan van der Heyden (1637-1712)
+
+As a lad of fifteen, Jan van der Heyden had witnessed the fire that burned down the Old Town Hall on 7 July 1652. The event, as he describes it, led him to study ways of improving existing fire-fighting methods. The Slangbrandspuitenboek of 1690 opens with an impression of this famous fire.
+While dozens of people are busy passing buckets of water from one to another from the harbour in the foreground, others are risking their lives on ladders propped against the burning building. To the right things are more relaxed, because the new fire extinguisher is operating. It required less manpower and the results were greater. As in an ‘artist’s impression’, Van der Heyden has set his new invention in a historical panorama, because in reality 38 years had passed between the two events.
+Gift of C.G. ’t Hooft, 1932"""@nl,
+        "Jan van der Heyden had als 15-jarige de brand van het OudeStadhuis op 7 juli 1652 meegemaakt. Naar eigen zeggen is die gebeurtenis voor hem de aanleiding geweest om zich te verdiepen in de verbetering van de bestaande blusmethoden. Het Slangbrandspuitenboek uit 1690 opent dan ook met een impressie van de beroemde brand. Terwijl tientallen mensen in de weer zijn met het doorgeven van emmers water, geput uit de haven op de voorgrond, wagen anderen hun leven op ladders bij het brandende gebouw. Rechts is er meer rust, want daar wordt de nieuwe slangbrandspuit ingezet. Hierdoor zijn minder mensen nodig terwijl het rendement groter is. Als in een ‘artist’s impression’ heeft Van der Heyden zijn nieuwe vinding een plaats gegeven in de historische voorstelling. In werkelijkheid lag daar 38 jaar tussen."@nl ;
+    dc:identifier "A 334" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "De brand in het oude stadhuis (1652)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003186>,
+        <https://adamlink.nl/geo/building/waag-op-de-dam/662>,
+        <https://adamlink.nl/geo/street/dam/880>,
+        "Amsterdam - straten [TOPTERM]" ;
+    sem:hasBeginTimeStamp "1652" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.12> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_334.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_334_000.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=Buitencollectie%5CS_BC_00850_001.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=Buitencollectie%5CS_BC_00850_003.jpg> .
+
+<http://hdl.handle.net/11259/collection.13> a edm:ProvidedCHO ;
+    rdfs:label "Instructie van het gebruik der slangbrandspuiten" ;
+    dc:creator <http://hdl.handle.net/11259/people.7401> ;
+    dc:identifier "A 335" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Instructie van het gebruik der slangbrandspuiten" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1657" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.13> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_335_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.14> a edm:ProvidedCHO ;
+    rdfs:label "Oude brandspuiten en nieuwe slangbrandspuiten" ;
+    dc:creator <http://hdl.handle.net/11259/people.7401> ;
+    dc:description "In this print from the Slangbrandspuitenboek, Van der Heyden demonstrates the benefits of his invention. On the left is the usual, huge pump, with its limited flexibility and range. The tank moreover had to be refilled with buckets of water. Van der Heyden’s improved pump, (right), was smaller and easier to move around. A man is carrying a small intermadiary tank on a pole to the quayside where it will be refilled with buckets. This sets the pump in motion. Due to the long leather fire hoses the firemen could fight fires from some distance, as one of them demonstrates here. If necessary, the pumps were linked together (top left), guaranteeing a good water pressure for greater distances, up to 300 metres."@en,
+        """In deze prent uit het Slangbrandspuitenboek demonstreert Van der Heyden de voordelen van zijn uitvinding. Links staat de gebruikelijke, grote pomp, die weinig flexibel was en een beperkt bereik had. Bovendien moest het reservoir met behulp van emmers water worden bijgevuld. Van der Heydens verbeterde pomp, rechts, was kleiner en daardoor gemakkelijk te verplaatsen. Een man draagt een klein tussenreservoir op een standaard naar de waterkant, waar het met emmers water zal worden gevuld. Hiermee werd de pomp gevoed. Dankzij lange leren brandslangen waren spuitgasten in staat om ook verder weg gelegen brandhaarden te bereiken, zoals een van hen laat zien. Eventueel werden pompen geschakeld
+linksboven), zodat een goede waterdruk was gegarandeerd voor grotere afstanden, tot wel 300 meter."""@nl ;
+    dc:identifier "A 336" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "brandweer",
+        "dienstverlenende bedrijvigheid",
+        "genre",
+        "overheidsdiensten" ;
+    dc:title "Afbeelding v.d. werking der slangbrandspuiten",
+        "Oude brandspuiten en nieuwe slangbrandspuiten" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1690" ;
+    sem:hasEndTimeStamp "1790" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.14> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_336.JPG> .
+
+<http://hdl.handle.net/11259/collection.15> a edm:ProvidedCHO ;
+    rdfs:label "Brand in de Admiraliteitslijnbanen, 1673" ;
+    dc:creator <http://hdl.handle.net/11259/people.7401> ;
+    dc:identifier "A 337" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Brand in de Admiraliteitslijnbanen, 1673" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial "Admiraliteit van Amsterdam",
+        "Admiraliteitslijnbanen" ;
+    sem:hasBeginTimeStamp "1673" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.15> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_337_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.16> a edm:ProvidedCHO ;
+    rdfs:label "Brand op de Leidschegracht 1684" ;
+    dc:creator <http://hdl.handle.net/11259/people.7401> ;
+    dc:identifier "A 338" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht" ;
+    dc:title "Brand op de Leidschegracht 1684" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004153>,
+        <http://www.wikidata.org/entity/Q657507>,
+        <https://adamlink.nl/geo/street/leidsegracht/2658>,
+        "Amsterdam - straten [TOPTERM]" ;
+    sem:hasBeginTimeStamp "1684" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.16> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_338_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.17> a edm:ProvidedCHO ;
+    rdfs:label "De roker" ;
+    dc:creator <http://hdl.handle.net/11259/people.8235> ;
+    dc:identifier "A 381" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De roker" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.17> .
+
+<http://hdl.handle.net/11259/collection.18> a edm:ProvidedCHO ;
+    rdfs:label "De haard" ;
+    dc:creator <http://hdl.handle.net/11259/people.8235> ;
+    dc:identifier "A 382" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De haard" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.18> .
+
+<http://hdl.handle.net/11259/collection.19> a edm:ProvidedCHO ;
+    rdfs:label "Ruïne van Sloterdijk 1859" ;
+    dc:creator <http://hdl.handle.net/11259/people.25063> ;
+    dc:identifier "A 410" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "gebouw",
+        "landschap",
+        "stadsgezicht" ;
+    dc:title "Ruïne van Sloterdijk 1859" ;
+    dc:type <http://vocab.getty.edu/aat/300041379> ;
+    dcterms:spatial "Sloterdijk",
+        "Westpoort" ;
+    sem:hasBeginTimeStamp "1849" ;
+    sem:hasEndTimeStamp "1869" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.19> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_410.JPG> .
+
+<http://hdl.handle.net/11259/collection.2> a edm:ProvidedCHO ;
+    rdfs:label "Monument voor Amsterdam" ;
+    dc:creator <http://hdl.handle.net/11259/people.31674> ;
+    dc:description """The different scenes in this print commemorate the heyday of the Patriots in Amsterdam - meetings of the Patriot volunteer corps, the skirmishes of the Orangeist residents of Kattenburg, all under the watchful eye of burgomaster Hooft, the darling of the Patriots.
+He was removed from office after the surrender to the Prussian troops"""@en,
+        "In verschillende taferelen wordt in deze prent herinnerd aan de hoogtijdagen van de patriotten in Amsterdam. Bijeenkomsten van patriotse vrijcorpsen, de strijd van de Oranjegezinde bewoners van Kattenburg, dit alles onder het toeziend oog van burgemeester Hooft, de bewierookte gunsteling van de patriotten. Na de overgave aan de Pruisische troepen werd hij afgezet."@nl ;
+    dc:identifier "A 54" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Monument voor Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1787" ;
+    sem:hasEndTimeStamp "1787" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.2> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_54.JPG> .
+
+<http://hdl.handle.net/11259/collection.20> a edm:ProvidedCHO ;
+    rdfs:label "Toren van Ransdorp" ;
+    dc:creator <http://hdl.handle.net/11259/people.25184> ;
+    dc:identifier "A 426" ;
+    dc:rights "Alle rechten voorbehouden" ;
+    dc:subject "gebouw",
+        "kerk",
+        "landschap",
+        "stadsgezicht",
+        "toren" ;
+    dc:title "Toren van Ransdorp" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial <http://sws.geonames.org/2748327/>,
+        <http://sws.geonames.org/2750474/> ;
+    sem:hasBeginTimeStamp "1894" ;
+    sem:hasEndTimeStamp "1950" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.20> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_426.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_426_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.21> a edm:ProvidedCHO ;
+    rdfs:label "Polderhuisje aan de Boerenwetering" ;
+    dc:creator <http://hdl.handle.net/11259/people.24681> ;
+    dc:identifier "A 521" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht" ;
+    dc:title "Polderhuisje aan de Boerenwetering" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial <http://sws.geonames.org/2759794/>,
+        <https://adamlink.nl/geo/street/boerenwetering/6661>,
+        "Amsterdam",
+        "Polderhuis" ;
+    sem:hasBeginTimeStamp "1897" ;
+    sem:hasEndTimeStamp "1947" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.21> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_521.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_521_A.JPG> .
+
+<http://hdl.handle.net/11259/collection.22> a edm:ProvidedCHO ;
+    rdfs:label "De maagd van Saragossa" ;
+    dc:creator <http://hdl.handle.net/11259/people.27476> ;
+    dc:identifier "A 891" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De maagd van Saragossa" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1837" ;
+    sem:hasEndTimeStamp "1837" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.22> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_891.JPG> .
+
+<http://hdl.handle.net/11259/collection.23> a edm:ProvidedCHO ;
+    rdfs:label "Bolton abdij in de oude tijd" ;
+    dc:creator <http://hdl.handle.net/11259/people.27476> ;
+    dc:identifier "A 892" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bolton abdij in de oude tijd" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1837" ;
+    sem:hasEndTimeStamp "1837" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.23> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_892.JPG> .
+
+<http://hdl.handle.net/11259/collection.24> a edm:ProvidedCHO ;
+    rdfs:label "Plattegronden v/h Ouderzijds Huiszittenhuis e/h Huiszitten Weduwenhof" ;
+    dc:creator <http://hdl.handle.net/11259/people.24976> ;
+    dc:identifier "A 1282" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Plattegronden v/h Ouderzijds Huiszittenhuis e/h Huiszitten Weduwenhof" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial "Oudezijdshuiszittenhuis" ;
+    sem:hasBeginTimeStamp "1735" ;
+    sem:hasEndTimeStamp "1735" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.24> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_1282.JPG> .
+
+<http://hdl.handle.net/11259/collection.25> a edm:ProvidedCHO ;
+    rdfs:label "Koning Willem III (naar het portret door N. Pieneman)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
+            lido:attributionQualifierActor "naar" ],
+        <http://hdl.handle.net/11259/people.29343> ;
+    dc:identifier "A 1686" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.41708>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Koning Willem III (naar het portret door N. Pieneman)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1852" ;
+    sem:hasEndTimeStamp "1852" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.25> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_1686.JPG> .
+
+<http://hdl.handle.net/11259/collection.26> a edm:ProvidedCHO ;
+    rdfs:label "Profiel van Amsterdam voor de demping van het Waalserland, ca. 1635" ;
+    dc:creator <http://hdl.handle.net/11259/people.21732> ;
+    dc:identifier "A 2009" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Profiel van Amsterdam voor de demping van het Waalserland, ca. 1635" ;
+    dc:type "kopergravure" ;
+    dcterms:spatial "Amsterdam centrum",
+        "Montelbaanstoren",
+        "Oudekerkstoren",
+        "Zuiderkerkstoren" ;
+    sem:hasBeginTimeStamp "1625" ;
+    sem:hasEndTimeStamp "1645" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.26> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_2009_000.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_2009_001.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_2009_002.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_2009_003.jpg>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_2009_004.jpg> .
+
+<http://hdl.handle.net/11259/collection.27> a edm:ProvidedCHO ;
+    rdfs:label "Profiel van Amsterdam ca. 1730" ;
+    dc:creator <http://hdl.handle.net/11259/people.30864>,
+        <http://hdl.handle.net/11259/people.30865> ;
+    dc:identifier "A 2010" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Profiel van Amsterdam ca. 1730" ;
+    dc:type "kopergravure" ;
+    dcterms:spatial "Amsterdam centrum",
+        "IJ",
+        "Montelbaanstoren",
+        "Oudekerkstoren",
+        "Zuiderkerkstoren" ;
+    sem:hasBeginTimeStamp "1720" ;
+    sem:hasEndTimeStamp "1740" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.27> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_2010.JPG> .
+
+<http://hdl.handle.net/11259/collection.28> a edm:ProvidedCHO ;
+    rdfs:label "Naar huis" ;
+    dc:creator <http://hdl.handle.net/11259/people.8235> ;
+    dc:identifier "A 2455" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Naar huis" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.28> .
+
+<http://hdl.handle.net/11259/collection.3> a edm:ProvidedCHO ;
+    rdfs:label "Monument voor Amsterdam" ;
+    dc:creator <http://hdl.handle.net/11259/people.31674> ;
+    dc:description "In verschillende taferelen wordt in deze prent herinnerd aan de strijd tussen de patriotten en de Pruisische troepen. Amsterdam werd verdedigd vanuit een kring van vooruitgeschoven posten – de strijd bij enkele van deze schansen is afgebeeld. In het midden de Leidsepoort, waar een Pruisisch garnizoen gelegerd werd na de overgave op 10 oktober 1787."@nl ;
+    dc:identifier "A 55" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Monument voor Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004156>,
+        <https://adamlink.nl/geo/street/leidseplein/2661>,
+        "Amsterdam Binnenstad" ;
+    sem:hasBeginTimeStamp "1788" ;
+    sem:hasEndTimeStamp "1788" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.3> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_55.JPG> .
+
+<http://hdl.handle.net/11259/collection.31> a edm:ProvidedCHO ;
+    rdfs:label "Aanval bij Ouderkerk aan den Amstel" ;
+    dc:creator <http://hdl.handle.net/11259/people.24480>,
+        <http://hdl.handle.net/11259/people.25477> ;
+    dc:identifier "A 2942" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "krijgsbedrijf",
+        "landschap",
+        "stadsgezicht" ;
+    dc:title "Aanval bij Ouderkerk aan den Amstel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000002701>,
+        <http://sws.geonames.org/2759794/>,
+        <http://www.wikidata.org/entity/Q1947050>,
+        <https://adamlink.nl/geo/street/amstel/135>,
+        "Ouderkerk" ;
+    sem:hasBeginTimeStamp "1790" ;
+    sem:hasEndTimeStamp "1790" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.31> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_2942.JPG> .
+
+<http://hdl.handle.net/11259/collection.32> a edm:ProvidedCHO ;
+    rdfs:label "Het pachtersoproer op De Dam te Amsterdam 28 juni 1748" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.50951> ;
+            schema:roleName "graveur" ] ;
+    dc:description "Bij het Pachtersoproer in Amsterdam dat op 24 juni 1748 uitbrak, moest de schutterij in actie komen om de orde te herstellen. Op 28 juni werden de twee aanstichters op de Dam opgehangen. Het waren de tuinman Pieter van Dord en het beruchte ‘manwijf’ Matje Arends van de Nieuwendijk. Op deze prent van Jan Smit zijn de rellen voorgesteld die tijdens de openbare terechtstelling ontstonden en waarbij de schutterij opnieuw hard optrad." ;
+    dc:identifier "A 2943" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://www.wikidata.org/entity/Q2701022>,
+        <https://nl.wikipedia.org/wiki/Pachtersoproer>,
+        "landschap",
+        "preken",
+        "stadsgezicht" ;
+    dc:title "Het pachtersoproer op De Dam te Amsterdam 28 juni 1748" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003186>,
+        <https://adamlink.nl/geo/building/waag-op-de-dam/662>,
+        <https://adamlink.nl/geo/street/dam/880>,
+        "Amsterdam centrum",
+        "Nieuwe Kerk" ;
+    sem:hasBeginTimeStamp "1748" ;
+    sem:hasEndTimeStamp "1748" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.32> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_2943.JPG> .
+
+<http://hdl.handle.net/11259/collection.33> a edm:ProvidedCHO ;
+    rdfs:label "Wintergezicht op de Amstel" ;
+    dc:creator <http://hdl.handle.net/11259/people.23282> ;
+    dc:identifier "A 3015" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ijsvermaak",
+        "landschap",
+        "recreatie",
+        "schaatsen",
+        "sport en spel",
+        "stadsgezicht",
+        "winterlandschap" ;
+    dc:title "Wintergezicht op de Amstel" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000002701>,
+        <http://www.wikidata.org/entity/Q1947050>,
+        <https://adamlink.nl/geo/street/amstel/135>,
+        "Amstel 51" ;
+    sem:hasBeginTimeStamp "1725" ;
+    sem:hasEndTimeStamp "1749" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.33> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_3015_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.34> a edm:ProvidedCHO ;
+    rdfs:label "Portret van wethouder B.C. Franke (1889-1953)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25461> ;
+            schema:roleName "graficus" ] ;
+    dc:identifier "A 3698" ;
+    dc:rights "Alle rechten voorbehouden" ;
+    dc:subject <http://hdl.handle.net/11259/people.57962>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Portret van wethouder B.C. Franke (1889-1953)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003187>,
+        <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004577>,
+        <http://www.wikidata.org/entity/Q2122164>,
+        <http://www.wikidata.org/entity/Q901461>,
+        <https://adamlink.nl/geo/street/damrak/882>,
+        <https://adamlink.nl/geo/street/prins-hendrikkade/3680>,
+        "Amsterdam - straten [TOPTERM]",
+        "Oudekerkstoren",
+        "Sint Nicolaaskerk" ;
+    sem:hasBeginTimeStamp "1953" ;
+    sem:hasEndTimeStamp "1953" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.34> .
+
+<http://hdl.handle.net/11259/collection.35> a edm:ProvidedCHO ;
+    rdfs:label "Portret van mr. Cornelis Hop" ;
+    dc:creator <http://hdl.handle.net/11259/people.23283> ;
+    dc:description "Cornelis Hop (1685–1762) first became an alderman in 1713. In 1753 he was appointed burgomaster, a position he held three times. He was also in the diplomatic service for many years and a director of the Dutch East India Company (VOC). These prestigious appointments considerably enhanced his status and they are proudly listed below the portrait."@en,
+        "Cornelis Hop (1685–1762) was in 1713 voor de eerste keer schepen. In 1753 volgde zijn benoeming tot burgemeester, een waardigheid die hij daarna nog drie maal bekleedde. Daarnaast was hij een lange tijd diplomaat en bewindhebber bij de VOC. Die opeenstapeling van functies was statusverhogend en werd dan ook trots vermeld onder het portret."@nl ;
+    dc:identifier "A 3791" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.65419>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "mansportret",
+        "portret" ;
+    dc:title "Portret van mr. Cornelis Hop" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1758" ;
+    sem:hasEndTimeStamp "1758" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.35> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_3791_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.36> a edm:ProvidedCHO ;
+    rdfs:label " Le canal du Heerengracht * bij de Spiegelstraat" ;
+    dc:creator <http://hdl.handle.net/11259/people.21732> ;
+    dc:identifier "A 4357" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title " Le canal du Heerengracht * bij de Spiegelstraat" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003533>,
+        <http://www.wikidata.org/entity/Q2623129>,
+        <https://adamlink.nl/geo/street/herengracht/1768>,
+        "grachtengordel" ;
+    sem:hasBeginTimeStamp "1810" ;
+    sem:hasEndTimeStamp "1830" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.36> .
+
+<http://hdl.handle.net/11259/collection.37> a edm:ProvidedCHO ;
+    rdfs:label "Paleis op de Dam" ;
+    dc:creator <http://hdl.handle.net/11259/people.21732> ;
+    dc:identifier "A 4358" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Paleis op de Dam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1810" ;
+    sem:hasEndTimeStamp "1830" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.37> .
+
+<http://hdl.handle.net/11259/collection.38> a edm:ProvidedCHO ;
+    rdfs:label "Het kindje gaat school" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "auteur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "etser" ] ;
+    dc:description "Op deze prent met de titel ‘Het Kindje gaat school’ gaat het kind ook voor de eerste keer naar school, maar moeder gaat niet mee. Het kind verlaat schoorvoetend het huis en moeder wijst alleen maar waar het heen moet : naar de school, die om de hoek ligt. Aan de arm van het kind bengelt een abc-leesplankje om te leren lezen. Deze prent staat in het boek ‘s Menschen Begin, Midden en Einde uit 1712, dat Jan Luyken schreef en illustreerde voor zijn gelijknamige kleinzoon. In dit zgn. emblemataboek worden alle belangrijke episodes uit een mensenleven – van geboorte tot en met sterven – aan de hand van emblemen belicht. Een embleem is een prent met een daarboven geplaatst motto en een verklarend onderschrift, waarin een bepaalde levenswijsheid tot uitdrukking gebracht." ;
+    dc:identifier "A 18953" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "Luyken trefwoorden",
+        "allegorie",
+        "emblemata" ;
+    dc:title "Het kindje gaat school" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300250810> ;
+    sem:hasBeginTimeStamp "1712" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.38> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=LUYKEN%5CA_18953.JPG> .
+
+<http://hdl.handle.net/11259/collection.39> a edm:ProvidedCHO ;
+    rdfs:label "Het kind gaat op een ambacht" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "auteur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 18974" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "Luyken trefwoorden",
+        "allegorie",
+        "emblemata" ;
+    dc:title "Het kind gaat op een ambacht" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300250810> ;
+    sem:hasBeginTimeStamp "1712" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.39> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=LUYKEN%5CA_18974.JPG> .
+
+<http://hdl.handle.net/11259/collection.4> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de schapenmarkt" ;
+    dc:creator <http://hdl.handle.net/11259/people.25029> ;
+    dc:identifier "A 63" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht" ;
+    dc:title "Gezicht op de schapenmarkt" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000002701>,
+        <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003827>,
+        <http://bag.basisregistraties.overheid.nl/bag/id/pand/0363100012168045>,
+        <http://sws.geonames.org/2759794/>,
+        <http://verdwenengebouwen.nl/gebouw/5810>,
+        <http://www.wikidata.org/entity/Q1947050>,
+        <https://adamlink.nl/geo/building/engelse-huizen/856>,
+        <https://adamlink.nl/geo/building/munttoren/164>,
+        <https://adamlink.nl/geo/street/amstel/135>,
+        <https://adamlink.nl/geo/street/muntplein/3067>,
+        "Amsterdam centrum",
+        "gebouwen",
+        "grachtengordel" ;
+    sem:hasBeginTimeStamp "1723" ;
+    sem:hasEndTimeStamp "1766" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.4> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_63.JPG> .
+
+<http://hdl.handle.net/11259/collection.40> a edm:ProvidedCHO ;
+    rdfs:label "Het kind studeerd" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "etser" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.10974> ;
+            schema:roleName "auteur" ] ;
+    dc:identifier "A 18975" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "Luyken trefwoorden",
+        "allegorie",
+        "emblemata" ;
+    dc:title "Het kind studeerd" ;
+    dc:type <http://vocab.getty.edu/aat/300041273>,
+        <http://vocab.getty.edu/aat/300250810> ;
+    sem:hasBeginTimeStamp "1712" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.40> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=LUYKEN%5CA_18975.JPG> .
+
+<http://hdl.handle.net/11259/collection.41> a edm:ProvidedCHO ;
+    rdfs:label "Portret van de kunstenaar Adolphe Mouilleron (1820-1881) (naar A. Mniszech)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.21732> ;
+            schema:roleName "fotograaf" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25135> ;
+            lido:attributionQualifierActor "naar" ] ;
+    dc:identifier "A 4716" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.25153>,
+        <http://hdl.handle.net/11259/people.48678>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "portret" ;
+    dc:title "Portret van de kunstenaar Adolphe Mouilleron (1820-1881) (naar A. Mniszech)" ;
+    dc:type <http://vocab.getty.edu/aat/300054225> ;
+    sem:hasBeginTimeStamp "1875" ;
+    sem:hasEndTimeStamp "1895" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.41> .
+
+<http://hdl.handle.net/11259/collection.42> a edm:ProvidedCHO ;
+    rdfs:label "Krijgslieden voor Fujé" ;
+    dc:creator <http://hdl.handle.net/11259/people.23264> ;
+    dc:identifier "A 5682" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Krijgslieden voor Fujé" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.42> .
+
+<http://hdl.handle.net/11259/collection.43> a edm:ProvidedCHO ;
+    rdfs:label "St. Nicolaas en zwarte Piet" ;
+    dc:creator <http://hdl.handle.net/11259/people.22854> ;
+    dc:identifier "A 5901" ;
+    dc:rights "Alle rechten voorbehouden" ;
+    dc:subject <http://hdl.handle.net/11259/people.32187>,
+        "heiligen",
+        "religie" ;
+    dc:title "St. Nicolaas en zwarte Piet" ;
+    dc:type "linoleumsnede" ;
+    sem:hasBeginTimeStamp "1956" ;
+    sem:hasEndTimeStamp "1956" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.43> .
+
+<http://hdl.handle.net/11259/collection.44> a edm:ProvidedCHO ;
+    rdfs:label "Admiraliteitswerf te Amsterdam" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32435> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 6679" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "krijgsbedrijf",
+        "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Admiraliteitswerf te Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003977>,
+        <http://www.wikidata.org/entity/Q19292742>,
+        <https://adamlink.nl/geo/street/kattenburgerplein/2319>,
+        "Admiraliteit van Amsterdam",
+        "Admiraliteitswerf",
+        "Zeemagazijn" ;
+    sem:hasBeginTimeStamp "1668" ;
+    sem:hasEndTimeStamp "1712" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.44> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_6679.JPG> .
+
+<http://hdl.handle.net/11259/collection.45> a edm:ProvidedCHO ;
+    rdfs:label "Vaderlandsch loterijspel voor de Nederlandsche jeugd" ;
+    dc:creator <http://hdl.handle.net/11259/people.25567> ;
+    dc:identifier "A 7235" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "loterijspel",
+        "recreatie",
+        "sport en spel" ;
+    dc:title "Vaderlandsch loterijspel voor de Nederlandsche jeugd" ;
+    dc:type "spel" ;
+    sem:hasBeginTimeStamp "1794" ;
+    sem:hasEndTimeStamp "1794" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.45> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_7235.JPG> .
+
+<http://hdl.handle.net/11259/collection.46> a edm:ProvidedCHO ;
+    rdfs:label "Tafereel der omwending in Nederland, in 1787 (naar J. van Meurs)" ;
+    dc:creator <http://hdl.handle.net/11259/people.24390> ;
+    dc:identifier "A 8213" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject <http://hdl.handle.net/11259/people.27009>,
+        "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "iconografische indeling",
+        "krijgsbedrijf",
+        "portret" ;
+    dc:title "Tafereel der omwending in Nederland, in 1787 (naar J. van Meurs)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1789" ;
+    sem:hasEndTimeStamp "1789" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.46> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_8213_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.48> a edm:ProvidedCHO ;
+    rdfs:label "Oude kaart van Amsterdam" ;
+    dc:creator <http://hdl.handle.net/11259/people.22764> ;
+    dc:identifier "A 9199" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Oude kaart van Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300028094> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.48> .
+
+<http://hdl.handle.net/11259/collection.49> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op Amsterdam (naar F.B. Werner)" ;
+    dc:creator <http://hdl.handle.net/11259/people.31219> ;
+    dc:identifier "A 9839" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Gezicht op Amsterdam (naar F.B. Werner)" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    sem:hasBeginTimeStamp "1700" ;
+    sem:hasEndTimeStamp "1720" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.49> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_9839.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_9839_000.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_9839_001.JPG>,
+        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_9839_002.JPG> .
+
+<http://hdl.handle.net/11259/collection.5> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de Geldersekade vanaf de IJ-kant" ;
+    dc:creator <http://hdl.handle.net/11259/people.23443> ;
+    dc:identifier "A 64" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Gezicht op de Geldersekade vanaf de IJ-kant" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003687>,
+        <http://bag.basisregistraties.overheid.nl/bag/id/pand/0363100012182530>,
+        <http://www.wikidata.org/entity/Q4807145>,
+        <https://adamlink.nl/geo/building/schreierstoren/190>,
+        <https://adamlink.nl/geo/street/geldersekade/1459>,
+        "Amsterdam Binnenstad",
+        "Amsterdam centrum" ;
+    sem:hasBeginTimeStamp "1723" ;
+    sem:hasEndTimeStamp "1766" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.5> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_64.JPG> .
+
+<http://hdl.handle.net/11259/collection.50> a edm:ProvidedCHO ;
+    rdfs:label "Han met schilderstuk (no.1)" ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26623> ;
+            schema:roleName "etser" ] ;
+    dc:identifier "A 10001" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Han met schilderstuk (no.1)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1796" ;
+    sem:hasEndTimeStamp "1796" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.50> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10001_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.51> a edm:ProvidedCHO ;
+    rdfs:label "De Kloosterkapel (no. 2)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10002" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De Kloosterkapel (no. 2)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1794" ;
+    sem:hasEndTimeStamp "1794" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.51> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10002_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.52> a edm:ProvidedCHO ;
+    rdfs:label "Geestelijke ontvangt kinderen (no.3)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10003" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kind" ;
+    dc:title "Geestelijke ontvangt kinderen (no.3)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1805" ;
+    sem:hasEndTimeStamp "1805" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.52> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10003_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.53> a edm:ProvidedCHO ;
+    rdfs:label "Waterfeest (no.4)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10004" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "feest" ;
+    dc:title "Waterfeest (no.4)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.53> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10004_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.54> a edm:ProvidedCHO ;
+    rdfs:label "St. Jerome (no.5)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10005" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "St. Jerome (no.5)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1797" ;
+    sem:hasEndTimeStamp "1797" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.54> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10005_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.55> a edm:ProvidedCHO ;
+    rdfs:label "Twee Kluizenaars (no.6)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10006" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Twee Kluizenaars (no.6)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1797" ;
+    sem:hasEndTimeStamp "1797" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.55> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10006_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.56> a edm:ProvidedCHO ;
+    rdfs:label "De Kwakzalver (no.7)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10007" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "genre",
+        "kwakzalver",
+        "medici en apothekers" ;
+    dc:title "De Kwakzalver (no.7)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1773" ;
+    sem:hasEndTimeStamp "1773" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.56> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10007_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.57> a edm:ProvidedCHO ;
+    rdfs:label "Man met kind (no.8)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10008" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kind" ;
+    dc:title "Man met kind (no.8)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1770" ;
+    sem:hasEndTimeStamp "1770" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.57> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10008_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.58> a edm:ProvidedCHO ;
+    rdfs:label "Kinderen met hond (no.9)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10009" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "dier",
+        "genre",
+        "hond",
+        "kind" ;
+    dc:title "Kinderen met hond (no.9)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.58> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10009_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.59> a edm:ProvidedCHO ;
+    rdfs:label "Bedelares (no.10)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10010" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bedelares (no.10)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.59> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10010_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.6> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de Korenbeurs Amsterdam" ;
+    dc:creator <http://hdl.handle.net/11259/people.23844> ;
+    dc:identifier "A 65" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam",
+        "transport",
+        "transport per trek- en rijdier" ;
+    dc:title "Gezicht op de Korenbeurs Amsterdam" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://verdwenengebouwen.nl/gebouw/228>,
+        <https://adamlink.nl/geo/building/oude-brug/585>,
+        "Beursgebouw",
+        "Korenbeurs",
+        "Oude Kerk",
+        "Wallengebied" ;
+    sem:hasBeginTimeStamp "1718" ;
+    sem:hasEndTimeStamp "1752" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.6> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_65_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.60> a edm:ProvidedCHO ;
+    rdfs:label "Kuipers (no.11)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10011" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "fabrieks-en thuisnijverheid",
+        "genre" ;
+    dc:title "Kuipers (no.11)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1770" ;
+    sem:hasEndTimeStamp "1770" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.60> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10011_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.61> a edm:ProvidedCHO ;
+    rdfs:label "Rustpoos (no.12)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10012" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Rustpoos (no.12)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1803" ;
+    sem:hasEndTimeStamp "1803" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.61> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10012_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.62> a edm:ProvidedCHO ;
+    rdfs:label "Plantenstudie (no.13)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10013" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kind" ;
+    dc:title "Plantenstudie (no.13)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1804" ;
+    sem:hasEndTimeStamp "1804" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.62> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10013_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.63> a edm:ProvidedCHO ;
+    rdfs:label "Koeienstal (no.14)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10014" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Koeienstal (no.14)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1780" ;
+    sem:hasEndTimeStamp "1780" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.63> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10014_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.64> a edm:ProvidedCHO ;
+    rdfs:label "Inkijk in een opslagruimte (no.15)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10015" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Inkijk in een opslagruimte (no.15)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1793" ;
+    sem:hasEndTimeStamp "1793" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.64> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10015_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.65> a edm:ProvidedCHO ;
+    rdfs:label "Oude man met kinderen (no.16: de klas)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10016" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kind" ;
+    dc:title "Oude man met kinderen (no.16: de klas)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1780" ;
+    sem:hasEndTimeStamp "1780" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.65> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10016_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.66> a edm:ProvidedCHO ;
+    rdfs:label "Bij het haardvuur (no.17)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10017" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bij het haardvuur (no.17)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1800" ;
+    sem:hasEndTimeStamp "1800" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.66> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10017_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.67> a edm:ProvidedCHO ;
+    rdfs:label "Bazuin spelen (no.18)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10018" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bazuin spelen (no.18)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1782" ;
+    sem:hasEndTimeStamp "1782" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.67> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10018_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.68> a edm:ProvidedCHO ;
+    rdfs:label "De Kunstschilder (no.19)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10019" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "genre",
+        "kunst en kunstenaars",
+        "kunstschilder" ;
+    dc:title "De Kunstschilder (no.19)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1780" ;
+    sem:hasEndTimeStamp "1780" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.68> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10019_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.69> a edm:ProvidedCHO ;
+    rdfs:label "Ecrivain Public (no.20: briefschrijver voor het publiek)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10020" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Ecrivain Public (no.20: briefschrijver voor het publiek)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1790" ;
+    sem:hasEndTimeStamp "1790" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.69> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10020_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.7> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de Haringpakkerstoren" ;
+    dc:creator <http://hdl.handle.net/11259/people.23443> ;
+    dc:identifier "A 66" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "landschap",
+        "stadsgezicht",
+        "stadsgezicht Amsterdam" ;
+    dc:title "Gezicht op de Haringpakkerstoren" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    dcterms:spatial <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004526>,
+        <http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004577>,
+        <http://verdwenengebouwen.nl/gebouw/199>,
+        <http://www.wikidata.org/entity/Q2122164>,
+        <http://www.wikidata.org/entity/Q893046>,
+        <https://adamlink.nl/geo/building/haringpakkerstoren/564>,
+        <https://adamlink.nl/geo/street/prins-hendrikkade/3680>,
+        <https://adamlink.nl/geo/street/singel/4088>,
+        "Amsterdam - straten [TOPTERM]",
+        "Amsterdam centrum",
+        "grachtengordel" ;
+    sem:hasBeginTimeStamp "1723" ;
+    sem:hasEndTimeStamp "1766" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.7> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_66.JPG> .
+
+<http://hdl.handle.net/11259/collection.70> a edm:ProvidedCHO ;
+    rdfs:label "Kuiperswerkplaats (no.21)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10021" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "ambachten en beroepen",
+        "fabrieks-en thuisnijverheid",
+        "genre" ;
+    dc:title "Kuiperswerkplaats (no.21)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1790" ;
+    sem:hasEndTimeStamp "1790" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.70> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10021_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.71> a edm:ProvidedCHO ;
+    rdfs:label "Bellen blazen (no.22)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10022" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kinderspel",
+        "recreatie",
+        "sport en spel" ;
+    dc:title "Bellen blazen (no.22)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1799" ;
+    sem:hasEndTimeStamp "1799" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.71> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10022_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.72> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap (no.23)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10023" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap (no.23)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.72> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10023_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.73> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met ruïne (no.24)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10024" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met ruïne (no.24)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1796" ;
+    sem:hasEndTimeStamp "1796" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.73> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10024_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.74> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap met rivier en veerboot (no.25)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10025" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap met rivier en veerboot (no.25)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1793" ;
+    sem:hasEndTimeStamp "1793" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.74> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10025_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.75> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap met rivier en zeilboten (no.26)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10026" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap met rivier en zeilboten (no.26)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1773" ;
+    sem:hasEndTimeStamp "1773" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.75> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10026_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.76> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de tempel en ruïnes (no.27)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10027" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Gezicht op de tempel en ruïnes (no.27)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1773" ;
+    sem:hasEndTimeStamp "1773" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.76> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10027_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.77> a edm:ProvidedCHO ;
+    rdfs:label "De Ruïne (no.28)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10028" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De Ruïne (no.28)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1780" ;
+    sem:hasEndTimeStamp "1780" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.77> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10028_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.78> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap met rivier op de voorgrond (no.29)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10029" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap met rivier op de voorgrond (no.29)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1774" ;
+    sem:hasEndTimeStamp "1774" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.78> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10029_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.79> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de brug van Lucano (no.30)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10030" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Gezicht op de brug van Lucano (no.30)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.79> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10030_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.8> a edm:ProvidedCHO ;
+    rdfs:label "Oude man" ;
+    dc:creator <http://hdl.handle.net/11259/people.8235> ;
+    dc:identifier "A 117" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Oude man" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.8> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_117.JPG> .
+
+<http://hdl.handle.net/11259/collection.80> a edm:ProvidedCHO ;
+    rdfs:label "Berglandschap met links ruïne (no.31)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10031" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Berglandschap met links ruïne (no.31)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1797" ;
+    sem:hasEndTimeStamp "1797" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.80> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10031_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.81> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op St. Romain (no.32)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10032" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Gezicht op St. Romain (no.32)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial "Romain, St" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.81> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10032_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.82> a edm:ProvidedCHO ;
+    rdfs:label "Gezicht op de grote weg naar Fontainebleau (no.33)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10033" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Gezicht op de grote weg naar Fontainebleau (no.33)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    dcterms:spatial <http://sws.geonames.org/3017382/>,
+        <http://sws.geonames.org/3018074/> ;
+    sem:hasBeginTimeStamp "1764" ;
+    sem:hasEndTimeStamp "1764" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.82> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10033_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.83> a edm:ProvidedCHO ;
+    rdfs:label "Bosweg Fontainebleau (no.34)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10034" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bosweg Fontainebleau (no.34)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1764" ;
+    sem:hasEndTimeStamp "1764" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.83> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10034_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.84> a edm:ProvidedCHO ;
+    rdfs:label "Ruïne (no.35)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10035" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Ruïne (no.35)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1773" ;
+    sem:hasEndTimeStamp "1773" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.84> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10035_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.85> a edm:ProvidedCHO ;
+    rdfs:label "De burcht (no.36)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10036" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "De burcht (no.36)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1773" ;
+    sem:hasEndTimeStamp "1773" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.85> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10036_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.86> a edm:ProvidedCHO ;
+    rdfs:label "Huis op de rotsen (no.37)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10037" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Huis op de rotsen (no.37)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1764" ;
+    sem:hasEndTimeStamp "1764" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.86> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10037_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.87> a edm:ProvidedCHO ;
+    rdfs:label "Het Bergpad (no.38)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10038" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Het Bergpad (no.38)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1764" ;
+    sem:hasEndTimeStamp "1764" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.87> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10038_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.88> a edm:ProvidedCHO ;
+    rdfs:label "Huis boven op rots (no:39)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10039" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Huis boven op rots (no:39)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.88> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10039_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.89> a edm:ProvidedCHO ;
+    rdfs:label "Bomengroep (no:40)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10040" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Bomengroep (no:40)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.89> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10040_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.9> a edm:ProvidedCHO ;
+    rdfs:label "Oude man" ;
+    dc:creator <http://hdl.handle.net/11259/people.8235> ;
+    dc:identifier "A 118" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:title "Oude man" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.9> .
+
+<http://hdl.handle.net/11259/collection.90> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met rivier en vissers (41)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10041" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met rivier en vissers (41)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1774" ;
+    sem:hasEndTimeStamp "1774" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.90> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10041_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.91> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met wadend vee (no:42)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10042" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met wadend vee (no:42)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1803" ;
+    sem:hasEndTimeStamp "1803" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.91> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10042_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.92> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met hut (no:43)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10043" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met hut (no:43)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1803" ;
+    sem:hasEndTimeStamp "1803" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.92> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10043_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.93> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met vee (no:44)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10044" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met vee (no:44)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1794" ;
+    sem:hasEndTimeStamp "1794" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.93> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10044_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.94> a edm:ProvidedCHO ;
+    rdfs:label "Landschap (no.45)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10045" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap (no.45)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.94> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10045_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.95> a edm:ProvidedCHO ;
+    rdfs:label "Landschap met huis (no.46)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10046" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap met huis (no.46)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1804" ;
+    sem:hasEndTimeStamp "1804" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.95> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10046_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.96> a edm:ProvidedCHO ;
+    rdfs:label "Herstel van een boot (no.47)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10047" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "kind",
+        "scheepvaart",
+        "verkeer en vervoer" ;
+    dc:title "Herstel van een boot (no.47)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1803" ;
+    sem:hasEndTimeStamp "1803" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.96> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10047_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.97> a edm:ProvidedCHO ;
+    rdfs:label "Landschap (no.48)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10048" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap (no.48)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    sem:hasBeginTimeStamp "1793" ;
+    sem:hasEndTimeStamp "1793" ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.97> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10048_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.98> a edm:ProvidedCHO ;
+    rdfs:label "Landschap (no.49)" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10049" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap (no.49)" ;
+    dc:type <http://vocab.getty.edu/aat/300041365> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.98> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10049_000.jpg> .
+
+<http://hdl.handle.net/11259/collection.99> a edm:ProvidedCHO ;
+    rdfs:label "Landschap no 50" ;
+    dc:creator <http://hdl.handle.net/11259/people.26623> ;
+    dc:identifier "A 10050" ;
+    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
+    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
+        "landschap" ;
+    dc:title "Landschap no 50" ;
+    dc:type <http://vocab.getty.edu/aat/300041273> ;
+    edm:isShownAt <http://hdl.handle.net/11259/collection.99> ;
+    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_10050_000.jpg> .
+
+<http://sws.geonames.org/2748327/> skos:altLabel "Ransdorp" .
+
+<http://sws.geonames.org/2750474/> skos:altLabel "Nederland" .
+
+<http://sws.geonames.org/3017382/> skos:altLabel "Frankrijk" .
+
+<http://sws.geonames.org/3018074/> skos:altLabel "Fontainebleau" .
+
+<http://verdwenengebouwen.nl/gebouw/199> skos:altLabel "Haringpakkerstoren" .
+
+<http://verdwenengebouwen.nl/gebouw/228> skos:altLabel "Oude brug" .
+
+<http://verdwenengebouwen.nl/gebouw/5810> skos:altLabel "Engelse huizen" .
+
+<http://vocab.getty.edu/aat/300028094> skos:altLabel "kaart" .
+
+<http://vocab.getty.edu/aat/300041379> skos:altLabel "litho" .
+
+<http://vocab.getty.edu/aat/300054225> skos:altLabel "fotografie" .
+
+<http://www.wikidata.org/entity/Q19292742> skos:altLabel "Kattenburgerplein" .
+
+<http://www.wikidata.org/entity/Q2623129> skos:altLabel "Herengracht" .
+
+<http://www.wikidata.org/entity/Q2701022> skos:altLabel "Pachtersoproer" .
+
+<http://www.wikidata.org/entity/Q4807145> skos:altLabel "Geldersekade" .
+
+<http://www.wikidata.org/entity/Q657507> skos:altLabel "Leidsegracht" .
+
+<http://www.wikidata.org/entity/Q893046> skos:altLabel "Singel" .
+
+<http://www.wikidata.org/entity/Q901461> skos:altLabel "Damrak" .
+
+<https://adamlink.nl/geo/building/engelse-huizen/856> skos:altLabel "Engelse huizen" .
+
+<https://adamlink.nl/geo/building/haringpakkerstoren/564> skos:altLabel "Haringpakkerstoren" .
+
+<https://adamlink.nl/geo/building/munttoren/164> skos:altLabel "Munttoren" .
+
+<https://adamlink.nl/geo/building/oude-brug/585> skos:altLabel "Oude brug" .
+
+<https://adamlink.nl/geo/building/schreierstoren/190> skos:altLabel "Schreierstoren" .
+
+<https://adamlink.nl/geo/street/boerenwetering/6661> skos:altLabel "Boerenwetering" .
+
+<https://adamlink.nl/geo/street/damrak/882> skos:altLabel "Damrak" .
+
+<https://adamlink.nl/geo/street/geldersekade/1459> skos:altLabel "Geldersekade" .
+
+<https://adamlink.nl/geo/street/herengracht/1768> skos:altLabel "Herengracht" .
+
+<https://adamlink.nl/geo/street/kattenburgerplein/2319> skos:altLabel "Kattenburgerplein" .
+
+<https://adamlink.nl/geo/street/leidsegracht/2658> skos:altLabel "Leidsegracht" .
+
+<https://adamlink.nl/geo/street/leidseplein/2661> skos:altLabel "Leidseplein" .
+
+<https://adamlink.nl/geo/street/muntplein/3067> skos:altLabel "Muntplein" .
+
+<https://adamlink.nl/geo/street/singel/4088> skos:altLabel "Singel" .
+
+<https://nl.wikipedia.org/wiki/Pachtersoproer> skos:altLabel "Pachtersoproer" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003186> skos:altLabel "Dam" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004577> skos:altLabel "Prins Hendrikkade" .
+
+<http://www.wikidata.org/entity/Q2122164> skos:altLabel "Prins Hendrikkade" .
+
+<https://adamlink.nl/geo/building/waag-op-de-dam/662> skos:altLabel "Waag op de Dam" .
+
+<https://adamlink.nl/geo/street/dam/880> skos:altLabel "Dam" .
+
+<https://adamlink.nl/geo/street/prins-hendrikkade/3680> skos:altLabel "Prins Hendrikkade" .
+
+<http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000002701> skos:altLabel "Amstel" .
+
+<http://sws.geonames.org/2759794/> skos:altLabel "Amsterdam" .
+
+<http://vocab.getty.edu/aat/300250810> skos:altLabel "tekstfragment" .
+
+<http://www.wikidata.org/entity/Q1947050> skos:altLabel "Amstel" .
+
+<https://adamlink.nl/geo/street/amstel/135> skos:altLabel "Amstel" .
+
+<http://vocab.getty.edu/aat/300041273> skos:altLabel "prent" .
+
+<http://vocab.getty.edu/aat/300041365> skos:altLabel "ets" .
+
