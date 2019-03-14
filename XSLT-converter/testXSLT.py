@@ -43,7 +43,7 @@ while (numberFound > (page * numberShow)):
     result = urllib.request.urlopen(requestUrl)
     adlibXML = result.read()
 
-    # write adlibXML-file for debugging purposes
+    # write adlibXML-file
     filename = "output/" + database + str(page) + ".adlib.xml"
     f = open(filename,"wb")
     f.write(adlibXML)
@@ -52,30 +52,31 @@ while (numberFound > (page * numberShow)):
     # parse adlibXML
     dom = etree.fromstring(adlibXML)
 
-    # read numberFound
-    hits = dom.find(".//hits")
-#    numberFound = int(hits.text)
-    numberFound = 500 # maximum for testing
-
     # transform adlibXML into RDF/XML
     newdom = transform(dom)
-    rdfxml = etree.tostring(newdom, pretty_print=True)
+    rdfXML = etree.tostring(newdom, pretty_print=True)
 
-    # write rdfxml-file for debugging purposes
+    # write rdfxml-file
     filename = "output/" + database + str(page) + ".rdf.xml"
     f = open(filename,"wb")
-    f.write(rdfxml)
+    f.write(rdfXML)
     f.close()
 
     # read into rdf-graph object and serialize as turtle
     g = rdflib.Graph()
-    r = g.parse(data=rdfxml, format="xml")
-    s = g.serialize(format='turtle')
+    r = g.parse(data=rdfXML, format="xml")
+    rdfTTL = g.serialize(format='turtle')
 
     # write turtle-file
     filename = "output/" + database + str(page) + ".ttl"
     f = open(filename,"wb")
-    f.write(s)
+    f.write(rdfTTL)
     f.close()
+
+    # make loop end
+    ## read numberFound
+    hits = dom.find(".//hits")
+#    numberFound = int(hits.text)
+    numberFound = 500 # maximum for testing
 
     page = page + 1
