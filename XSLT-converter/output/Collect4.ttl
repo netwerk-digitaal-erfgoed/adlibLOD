@@ -1,110 +1,324 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<> a edm:ProvidedCHO ;
-    dc:identifier "00005",
-        "00126",
-        "00127",
-        "00485",
-        "00538",
-        "00539",
-        "01025",
-        "01296",
-        "01297",
-        "01300",
-        "09539",
-        "10002950",
-        "10004815",
-        "10011375",
-        "10011376",
-        "10019272",
-        "10039388",
-        "10039389",
-        "10042350",
-        "10043376",
-        "10044198",
-        "10047378",
-        "10047381",
-        "10047432",
-        "10048143",
-        "10048414",
-        "10048854",
-        "10049425",
-        "10049460",
-        "10049469",
-        "10049759",
-        "10053139",
-        "10064467",
-        "10064912",
-        "10065054",
-        "10065409",
-        "10066278",
-        "10067209",
-        "10067546",
-        "10071799",
-        "10073106",
-        "10075458",
-        "10092762",
-        "10095206",
-        "10105293",
-        "10106000",
-        "10106319",
-        "10108661",
-        "10108666",
-        "10108667",
-        "10118924",
-        "10119762",
-        "10119898",
-        "10119909",
-        "10131211",
-        "10131236",
-        "10131238",
-        "10131245",
-        "10131439",
-        "10131467",
-        "10131721",
-        "10131724",
-        "10131781",
-        "10131944",
-        "10131951",
-        "10132397",
-        "10132879",
-        "2907-10",
-        "2907-12",
-        "4060-74",
-        "GS Kunst 2962",
-        "GS Kunst 2996",
-        "GS Kunst 3137",
-        "GS Kunst 3256",
-        "IIIF1",
-        "IIIF1.1",
-        "IIIF10",
-        "IIIF4",
-        "IIIF5",
-        "IIIF7",
-        "IIIF8",
-        "IIIF9",
-        "LMO 12.566",
-        "LMO 14.996",
-        "LMO 15.548",
-        "LMO 15.579",
-        "LMO 15.597",
-        "LMO 15.612",
-        "LMO 15.628",
-        "LMO 15.644",
-        "LMO 15.714",
-        "LMO 3.191",
-        "LMO 3.652",
-        "LMO 5.004",
-        "LMO 5.083",
-        "LMO 7.412",
-        "LMO 9.514",
-        "LMO 9.761",
-        "OLM 324",
-        "Pl 147" ;
-    dc:subject "" .
+[] dc:format """Ebenholz
+Alabaster
+Messing
+Perlmutt
+Glas""" .
+
+[] dc:format "verre" ;
+    dc:title "Effigie du roi Albert 1er" .
+
+[] dc:format "Papier" ;
+    dc:title "VUË A DRESDE." .
+
+[] dc:format """papier à dessin
+gouache""" ;
+    dc:title "Défaite" .
+
+[] dc:format """Silver
+Schildpatt
+Glas""" .
+
+[] dc:format """papier à dessin
+bistre[peinture]""" ;
+    dc:title "Vénus et l'Amour" .
+
+[] dc:format """bois
+tissu""" ;
+    dc:title "d'un ancien chaland de Meuse dit \"Mignole\"" .
+
+[] dc:format "verre" .
+
+[] dc:format """papier à dessin
+encre""" ;
+    dc:title "Personnage armé d'une lance et d'un bouclier ..." .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Mars und Venus beim Schachspiel" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title "Bärtiger Herr mit Halskrause" .
+
+[] dc:title "Floral Still Life" .
+
+[] dc:format "Silver" ;
+    dc:title "coupe de Jean de juncis" .
+
+[] dc:format "Tin" .
+
+[] dc:format """toile à peindre
+peinture à l'huile""" ;
+    dc:title "Portrait du peintre Jacques d'Artois" .
+
+[] dc:format "verre" ;
+    dc:title "Décor avec Cupidon" .
+
+[] dc:title "The Art Gallery of Jan Gildemeester Jansz" .
+
+[] dc:format "Silver" ;
+    dc:title "Plateau en forme de miroir" .
+
+[] dc:format """papier à dessin
+encre brune""" ;
+    dc:title "Personnage masculin couronné à qui une main tend un objet" .
+
+[] dc:format "or" ;
+    dc:title "de Notre-Dame de la Porte d'Ogy" .
+
+[] dc:format """papier[f]
+encre noire""" ;
+    dc:title "Tête de jeune homme" .
+
+[] dc:format "Bronze" ;
+    dc:title "Amazone" .
+
+[] dc:title "Orpheus and the Animals" .
+
+[] dc:format "Tin" .
+
+[] dc:format "verre" .
+
+[] dc:format "Tin" ;
+    dc:title "Trenck-Becher" .
+
+[] dc:format """Holz
+Metal
+Glas""" .
+
+[] dc:format "Papier" .
+
+[] dc:format """toile à peindre
+peinture à l'huile""" ;
+    dc:title "Le château de Nordkirchen" .
+
+[] dc:format """vélin
+gouache
+encre de Chine
+encre rouge""" ;
+    dc:title """lettre du Cardinal Mercier: "Patriotisme et endurance",
+illustrée de scènes relatives à la guerre 1914""" .
+
+[] dc:format """papier à imprimer
+encre""" ;
+    dc:title "Pompes funèbres de l'archiduc Albert d'Autriche (Bruxelles)" .
+
+[] dc:format "Papier" ;
+    dc:title "Le dedans du Pantheon ou la Rotunde a Rome" .
+
+[] dc:title "Banquet Still Life" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Maria mit dem schlafenden Jesusknaben" .
+
+[] dc:format "verre" .
+
+[] dc:format "oil paint" ;
+    dc:title "Winter Landscape with Ice Skaters" .
+
+[] dc:format """papier à dessin
+sépia[peinture]""" ;
+    dc:title "Le géant Atlas" .
+
+[] dc:format "Papier" ;
+    dc:title "Vuë d´un combat naval" .
+
+[] dc:format "brique" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Sandstein" ;
+    dc:title "TITUS AEMILIUS VBBENA" .
+
+[] dc:format "Bronze" ;
+    dc:title "Buste de Joseph d'Andrimont, bourgmestre de Liège" .
+
+[] dc:format "marbré" ;
+    dc:title "En chasse (Cupidon)" .
+
+[] dc:format "Papier" ;
+    dc:title "VUË DU KNOLHAVEN A DORDRECHT." .
+
+[] dc:format """papier à imprimer
+encre""" ;
+    dc:title "Vénus" .
+
+[] dc:format """papier à dessin
+crayon""" ;
+    dc:title "L'Apollon du Belvédère (de face)" .
+
+[] dc:title "Still Life with Gilt Cup" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title "Kriechtiere und Insekten" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Anna von Ostfriesland (1501 - 1575)" .
+
+[] dc:format """toile à peindre
+peinture à l'huile""" ;
+    dc:title "Portrait de Julien d'Andrimont, bourgmestre de Liège" .
+
+[] dc:format """chêne
+peinture à l'huile""" ;
+    dc:title "Portrait d'Antoine, Grand Bâtard de Bourgogne" .
+
+[] dc:format "verre" .
+
+[] dc:format """Messing
+Elfenbein
+Glas""" .
+
+[] dc:format "Tin" .
+
+[] dc:format """satin
+soie
+or""" .
+
+[] dc:format "or" ;
+    dc:title "de Notre-Dame de la Porte d'Ogy" .
+
+[] dc:format "Silver" .
+
+[] dc:format """Tin
+Farbe""" .
+
+[] dc:format "faïence[f]" ;
+    dc:title "Bourdalou à une anse" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title "Flußlandschaft im Mondschein" .
+
+[] dc:format "porcelaine" ;
+    dc:title "Tasse-litron avec Amour" .
+
+[] dc:format "verre" .
+
+[] dc:format """papier à dessin
+encre""" ;
+    dc:title "Apollon et Marsyas" .
+
+[] dc:format "verre" .
+
+[] dc:format "verre" ;
+    dc:title "Effigie du roi Albert 1er" .
+
+[] dc:format "Silver" .
+
+[] dc:format """papier à dessin
+crayon""" ;
+    dc:title "L'Apollon du Belvédère (de trois quarts)" .
+
+[] dc:title "Italian Landscape with Umbrella Pines" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Einzug der Kosaken in Jever  im Jahr 1813" .
+
+[] dc:format """Zink
+Glas""" .
+
+[] dc:format "Tin" .
+
+[] dc:format """peinture
+toile à peindre""" ;
+    dc:title "Portrait d'Arthur Albrecht" .
+
+[] dc:format """papier à dessin
+encre de Chine""" ;
+    dc:title "Vénus et l'Amour" .
+
+[] dc:format "faïence[f]" .
+
+[] dc:format "Bronze" ;
+    dc:title "Albert Ier, roi des belges" .
+
+[] dc:format """Tin
+Messing
+Holz""" .
+
+[] dc:format """papier[f]
+encre de Chine""" ;
+    dc:title "plan terrier de l'abbaye bâtie entre 1891 et 1943" .
+
+[] dc:format """Papier
+Gelatine""" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Schäfergesellschaft im Park" .
+
+[] dc:format "cristal" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Die Heilige Anna Selbdritt" .
+
+[] dc:format "Silver" .
+
+[] dc:format """toile à peindre
+peinture""" ;
+    dc:title "Portrait d'Agnessen" .
+
+[] dc:format """papier à dessin
+encre""" ;
+    dc:title "Deux personnages (Hadrien)" .
+
+[] dc:format """Papier
+Gelatine""" .
+
+[] dc:format "porcelaine" ;
+    dc:title "Amour dans un paysage" .
+
+[] dc:format "Tin" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title "Die Welt huldigt Apollo" .
+
+[] dc:format """papier à imprimer
+encre""" ;
+    dc:title "Angélique et Médor" .
+
+[] dc:format """Messing
+Ölfarben""" ;
+    dc:title "Amor entflieht Psyche" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Silver" ;
+    dc:title "Pique-fleurs" .
+
+[] dc:title "A Pelican and other Birds near a Pool" .
+
+[] dc:format """satin
+soie
+or""" .
+
+[] dc:format """Messing
+Glas""" .
+
+[] dc:format """Tin
+Kork""" .
+
+[] dc:format "Tin" ;
+    dc:title "Teller" .
+
+[] dc:format "Tin" .
+
+[] dc:format "cristal" ;
+    dc:title "Portrait de Mademoiselle E. C." .
 

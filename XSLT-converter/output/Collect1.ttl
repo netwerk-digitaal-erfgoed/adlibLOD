@@ -1,109 +1,260 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<> a edm:ProvidedCHO ;
-    dc:identifier "1",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "1990/133/288/1",
-        "1990/133/288/10",
-        "1990/133/288/11",
-        "1990/133/288/12",
-        "1990/133/288/13",
-        "1990/133/288/14",
-        "1990/133/288/15",
-        "1990/133/288/16",
-        "1990/133/288/17",
-        "1990/133/288/18",
-        "1990/133/288/2",
-        "1990/133/288/20",
-        "1990/133/288/21",
-        "1990/133/288/22",
-        "1990/133/288/23",
-        "1990/133/288/24",
-        "1990/133/288/25",
-        "1990/133/288/26",
-        "1990/133/288/27",
-        "1990/133/288/28",
-        "1990/133/288/29",
-        "1990/133/288/3",
-        "1990/133/288/30",
-        "1990/133/288/32",
-        "1990/133/288/33a",
-        "1990/133/288/4",
-        "1990/133/288/41",
-        "1990/133/288/42",
-        "1990/133/288/43",
-        "1990/133/288/44",
-        "1990/133/288/5",
-        "1990/133/288/6",
-        "1990/133/288/7",
-        "1990/133/288/8",
-        "1990/133/288/9",
-        "1997/25/18/20",
-        "1997/25/18/5",
-        "2",
-        "20",
-        "2000/88",
-        "2000/89",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "A348",
-        "A350",
-        "B958",
-        "LB506",
-        "LB507",
-        "NMS204058",
-        "NMS215546",
-        "NMS218602",
-        "NMS218603",
-        "NMS218604",
-        "NMS218605",
-        "NMS218606",
-        "NMS218607",
-        "NMS218608",
-        "NMS218609",
-        "NMS218610",
-        "NMS218611",
-        "NMS218612",
-        "NMS218613",
-        "NMS218614",
-        "NMS218615",
-        "NMS218616",
-        "NMS218617",
-        "NMS218618",
-        "NMS218619",
-        "NMS218620",
-        "NMS218621",
-        "NMS218622",
-        "NMS218623",
-        "NMS218624",
-        "NMS218625",
-        "NMS218626",
-        "NMS218627",
-        "NMS218628",
-        "NMS218629",
-        "NMS218630",
-        "NMS218631",
-        "NMS218632",
-        "NMS418489",
-        "T22",
-        "YORCM : 2002.181.1-2" .
+[] dc:format "heavy wove paper" ;
+    dc:title "17: \"Then slip your mouth aside just as he is sure of it\"" .
+
+[] dc:format "paper" ;
+    dc:title "Figure and dog and horse and crutch" .
+
+[] dc:format "paper" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Delphinus, Sagitta, Aquila and Antinous" .
+
+[] dc:format "Cotton Denim" ;
+    dc:title "\"Jag\" Outfit" .
+
+[] dc:format "Photographic Paper" ;
+    dc:title "Script" .
+
+[] dc:format "cardboard" ;
+    dc:title "The Warren" .
+
+[] dc:format "Bronze" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Auriga" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "thick white wove paper" ;
+    dc:title "19. St Francis with a brother, preaching naked" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Leo Major and Leo Minor" .
+
+[] dc:format "cardboard" ;
+    dc:title "Windy Wold Bungalow Blockley" .
+
+[] dc:format "oolite" .
+
+[] dc:title "Costume for the Chief Eunuch" .
+
+[] dc:format "oolite" .
+
+[] dc:format "earthenware" ;
+    dc:title "A grotesque." .
+
+[] dc:format "paper" ;
+    dc:title "Poster for 'A Package Deal - Assembly Book'" .
+
+[] dc:format "cardboard" ;
+    dc:title "Blockley - The Manor" .
+
+[] dc:format "cardboard" ;
+    dc:title "Fish Cottage, Blockley." .
+
+[] dc:format "paper" .
+
+[] dc:format "paper" ;
+    dc:title "MItchell" .
+
+[] dc:format "oolite" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Ursa Major" .
+
+[] dc:format "paper" ;
+    dc:title "Imprisoned" .
+
+[] dc:format "cardboard" ;
+    dc:title "The Warren - Blockley" .
+
+[] dc:format "cardboard" ;
+    dc:title """Holcombe House, Painswick, Glos.
+The Pool, Blockley, Glos.""" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Sagittarius and Corona Australis, Microscopium and Telescopium" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Aries and Musca Borealis" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Cepheus" .
+
+[] dc:format "paper" ;
+    dc:title "Rowntree's Milk Chocolate" .
+
+[] dc:format "tesserae" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Psalterium Georgii, Fluvius Eridanus, Cetus, Officina Sculptoris, Fornax Chemica and Machina Electrica" .
+
+[] dc:format "Mahogany" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "cardboard" ;
+    dc:title "Fish Cottage, Blockley" .
+
+[] dc:format "Bronze" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Lynx and Telescopium Herschilii" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Cassiopeia" .
+
+[] dc:format "cardboard" ;
+    dc:title "The Warren Dovedale, Blockley" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Libra" .
+
+[] dc:title "Newspaper clipping" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Lacerta, Cygnus, Lyra, Vulpecula and Anser" .
+
+[] dc:format "cardboard" ;
+    dc:title "The Warren - Blockley" .
+
+[] dc:title "Floral dress worn by Barry Humphries" .
+
+[] dc:format "paper" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Orion" .
+
+[] dc:format "cardboard" ;
+    dc:title "Windy Wold Bungalow, Blockley." .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Gloria Frederici, Andromeda and Triangular" .
+
+[] dc:format "cream laid paper" ;
+    dc:title "The Soup Kitchen, Quay, Paris" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Aquarius, Piscis Australis and Ballon Aerostatique" .
+
+[] dc:format "cardboard" ;
+    dc:title "''The Warren''. Blockley." .
+
+[] dc:title "Throwing Stick (Jandamarra's Boomerang)" .
+
+[] dc:title "Basket" .
+
+[] dc:format "Tissue" ;
+    dc:title "the constellations Monoceros, Canis Minor and Atelier Typographique" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Capricornus" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Cancer" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Pisces" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Camelopardalis, Tarandus and Custos Messium" .
+
+[] dc:title "Mechanical horse for the production of \"Camelot\"" .
+
+[] dc:format "paper" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Scorpio" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Taurus" .
+
+[] dc:format "cardboard" ;
+    dc:title "The ''Old Fish'' tombstone. (Blockley)" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Perseus and Caput Medusae" .
+
+[] dc:format "cardboard" ;
+    dc:title "Blockley 79" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Gemini" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Noctua, Corvus, Crater, Sextans Uraniae, Hydra, Felis, Lupus, Centaurus, Antila Pneumatica, Argo Navis and Pyxis Nautica" .
+
+[] dc:format "paper" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Canis Major, Lepus, Columba Noachi and Cela Sculptoris" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Bootes Canes Venatici, Coma Berenicesm and Quadrans Muralis" .
+
+[] dc:format "cardboard" ;
+    dc:title "Blockley from the Church Tower" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Pegasus and Equuleus" .
+
+[] dc:format "cardboard" .
+
+[] dc:format "wove paper" ;
+    dc:title "Iffley Mill, Oxford" .
+
+[] dc:format "paper" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellations Taurus Poniatowski, Serpentarius, Scutum Sobiesky and Serpens" .
+
+[] dc:format "paper" .
+
+[] dc:format "Photographic Paper" ;
+    dc:title "Painting of Kenneth Laird" .
+
+[] dc:format """wool
+silk""" ;
+    dc:title "The \"Marsupial\" Dress" .
+
+[] dc:format "paper" .
+
+[] dc:format "paper" .
+
+[] dc:format "cardboard" ;
+    dc:title "Blockley" .
+
+[] dc:format "Tissue paper" ;
+    dc:title "The constellations Draco and Ursa Minor" .
+
+[] dc:format "paper" .
+
+[] dc:format "cardboard" ;
+    dc:title "Blockley" .
+
+[] dc:format "cardboard" .
+
+[] dc:title "Zelt, Opus XIV (Tent)" .
+
+[] dc:format "Tissue" ;
+    dc:title "The constellation Virgo" .
 

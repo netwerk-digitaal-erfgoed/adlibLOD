@@ -6,7 +6,7 @@ import rdflib
 
 # variables
 ## path/file for stylesheet to convert adlibXML into RDF/XML
-stylesheet = "../example-stylesheets/amsterdammuseum/adlibXML2rdf.xslt"
+stylesheet = "../stylesheets/dc.xslt"
 
 ## Adlib API-endpoint
 #endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx" # endpoint of Amsterdam Museum
@@ -39,18 +39,18 @@ while (numberFound > (page * numberShow)):
                     "&startfrom=" + str(start)
 
     print(requestUrl)
-
     result = urllib.request.urlopen(requestUrl)
     adlibXML = result.read()
+
+    # parse adlibXML
+    dom = etree.fromstring(adlibXML)
+    adlibXML = etree.tostring(dom, pretty_print=True)
 
     # write adlibXML-file
     filename = "output/" + database + str(page) + ".adlib.xml"
     f = open(filename,"wb")
     f.write(adlibXML)
     f.close()
-
-    # parse adlibXML
-    dom = etree.fromstring(adlibXML)
 
     # transform adlibXML into RDF/XML
     newdom = transform(dom)

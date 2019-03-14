@@ -1,110 +1,312 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<> a edm:ProvidedCHO ;
-    dc:identifier "00017",
-        "00486",
-        "00540",
-        "00587",
-        "00984",
-        "01311",
-        "01321",
-        "01326",
-        "02465",
-        "02729",
-        "06490",
-        "09540",
-        "09545",
-        "09559",
-        "09560",
-        "09591",
-        "09592",
-        "17709-5",
-        "17709-8",
-        "18233-4",
-        "18233-6",
-        "2000/002",
-        "2000/003",
-        "2000/015",
-        "2065",
-        "2067",
-        "2068",
-        "21",
-        "21688-13",
-        "21688-134",
-        "21688-149",
-        "22",
-        "22869-0",
-        "22870-1",
-        "22871-0",
-        "22871-1",
-        "22872-0",
-        "22873-0",
-        "22874-0",
-        "22884-0",
-        "23",
-        "24",
-        "25",
-        "26",
-        "27",
-        "28",
-        "29",
-        "30",
-        "31",
-        "32",
-        "33",
-        "34",
-        "35",
-        "36",
-        "37",
-        "38",
-        "39",
-        "40",
-        "4060-26",
-        "41",
-        "42",
-        "43",
-        "44",
-        "45",
-        "GS Kunst 2969",
-        "GS Kunst 3138",
-        "GS Kunst 3220",
-        "LMO 1.129",
-        "LMO 1.283a",
-        "LMO 1.287",
-        "LMO 1.407",
-        "LMO 10.483",
-        "LMO 12.604",
-        "LMO 15.557",
-        "LMO 16.981",
-        "LMO 16.983",
-        "LMO 19.868",
-        "LMO 24.649",
-        "LMO 25.178/17",
-        "LMO 3.695",
-        "LMO 4.040",
-        "LMO 4.041",
-        "LMO 5.787",
-        "LMO 7.343",
-        "LMO 7.885",
-        "LMO 7.890",
-        "LMO 9.350",
-        "LMO 9.420",
-        "OLM 1",
-        "OLM 171",
-        "OLM 6/8",
-        "Pl 001",
-        "Pl 007",
-        "Pl 010",
-        "Pl 011",
-        "Pl 027",
-        "Pl 060",
-        "Pl 061",
-        "SK 92",
-        "Video" ;
-    dc:subject "" .
+[] dc:format "Sandstein" .
+
+[] dc:title "La Traviata" .
+
+[] dc:format "Papier" ;
+    dc:title "Westfälischer Kreis II" .
+
+[] dc:format "Lame Silk" ;
+    dc:title "Dress for production of \"Romeo and Juliet\"" .
+
+[] dc:format "Silk Velvet" ;
+    dc:title "Dress for production of \"Lohengrin\"" .
+
+[] dc:title "Eucalyptus praecox (Maiden)" .
+
+[] dc:title "Box of weevils named by Francis Pascoe" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Schwein" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Shell-Lehrtafel: Sommerbetrieb" .
+
+[] dc:format "Tin" .
+
+[] dc:title "gold and silver chafers" .
+
+[] dc:title "Viper fish - Chauliodus sloani" .
+
+[] dc:title "Bokeler Mühle, Altzustand" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Wangerooge von der Seeseite" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Papier" ;
+    dc:title "Bela Bartok" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Passionszyklus - Die Kreuzigung" .
+
+[] dc:format """Alabaster
+Messing
+Glas""" ;
+    dc:title "Portaluhr" .
+
+[] dc:title "Bokeler Mühle, Demontage (4)" .
+
+[] dc:format """Papier
+Glas
+Holz""" ;
+    dc:title "Herz Jesu" .
+
+[] dc:format """Papier
+Glas
+Holz""" ;
+    dc:title "Heilige Familie" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Archivar Georg Sello" .
+
+[] dc:title "Tyrannosaurus Rex" .
+
+[] dc:format """Alabaster
+Messing
+Perlmutt
+Holz
+Glas""" .
+
+[] dc:title "Part of articulated skeleton of Blue Whale, Balaenoptera musculus" .
+
+[] dc:title "Bokeler Mühle, Neuzustand" .
+
+[] dc:format """Messing
+iron""" .
+
+[] dc:format """Gold
+Perle
+Rubin""" .
+
+[] dc:format "Papier" .
+
+[] dc:format "Bronze" .
+
+[] dc:format """cardboard
+gouache""" ;
+    dc:title "Dress design for \"Wine, Women and Song\" musical production" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format "Papier" ;
+    dc:title "LA MAISON DE LA VILLE À MIDDELBOURG." .
+
+[] dc:format "Keramik" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Neapel" .
+
+[] dc:format "Tin" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Die Königin von Saba" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Hering (und) Köhler" .
+
+[] dc:format """Papier
+Glas
+Holz""" ;
+    dc:title "Immerwährende Hilfe" .
+
+[] dc:title "Niedergelegtes Gebinde und Nebengebäude" .
+
+[] dc:format "Tin" ;
+    dc:title "Bismarck" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Fischer-Maskerade" .
+
+[] dc:title "Bokeler Mühle, Demontage (2)" .
+
+[] dc:format """cardboard
+Wood""" ;
+    dc:title "The Maestro's Company" .
+
+[] dc:format """Silver
+Glas""" .
+
+[] dc:format """Bronze
+Marmor
+Glas""" ;
+    dc:title "Tischuhr" .
+
+[] dc:format "Papier" ;
+    dc:title "Ulrich I von Ostfriesland" .
+
+[] dc:format "Sandstein" ;
+    dc:title "Hausstein Oliphant" .
+
+[] dc:format """Holz
+Messing
+lead
+Farbe""" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Jever von Süden" .
+
+[] dc:title "Captain Hook puppet" .
+
+[] dc:format "thick wove Velin Cuve Rives 300 gsm paper" ;
+    dc:title "Whipping tiny trees: Image 14" .
+
+[] dc:format """Holz
+Glas""" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Shell-Lehrtafel: Schäden durch ungeeignete Motorenöle" .
+
+[] dc:format """Tin
+Messing""" .
+
+[] dc:format "Papier" ;
+    dc:title "Vuë d´un combat naval" .
+
+[] dc:format "Papier" ;
+    dc:title "VUE DE SANTULIET DE HOLLANDE." .
+
+[] dc:format "Keramik" ;
+    dc:title "Teller mit plastisch geformten Oliven" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Dromedar" .
+
+[] dc:title "Alice In Wonderland puppet" .
+
+[] dc:title "Holothurian" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Hund" .
+
+[] dc:format "Keramik" ;
+    dc:title "Kuh" .
+
+[] dc:format """Tin
+Holz""" .
+
+[] dc:format "Silver" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Die heilige Katharina von Alexandrien" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Schaf" .
+
+[] dc:title "Bokeler Mühle, Demontage (3)" .
+
+[] dc:format """Bronze
+Glas""" .
+
+[] dc:title "La Traviata" .
+
+[] dc:format """Tin
+Holz""" .
+
+[] dc:format """Messing
+lead
+Holz""" .
+
+[] dc:format """Keramik
+Peddigrohr""" .
+
+[] dc:title "Set design for \"Summer of the Seventeenth Doll\"" .
+
+[] dc:format """cardboard
+gouache""" ;
+    dc:title "Dress design for \"Showgirls\" musical production - Finale" .
+
+[] dc:title "Demontage der Bokeler Kappenwindmühle" .
+
+[] dc:format "paper" ;
+    dc:title "Artworkers calendar, 1984: August" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Johanna Catharina Garlichs" .
+
+[] dc:format "Papier" ;
+    dc:title "Landkarte von Westfalen (Westfälischer Kreis)" .
+
+[] dc:format "digital" ;
+    dc:title "Other suns" .
+
+[] dc:format """Metal
+Felt""" ;
+    dc:title "Gussey Galah puppet" .
+
+[] dc:format "Crepe de chine silk" ;
+    dc:title "Dress for production of \"Otello\"" .
+
+[] dc:title "Demontage der Bokeler Kappenwindmühle" .
+
+[] dc:format "Photographic Paper" ;
+    dc:title "Photograph album" .
+
+[] dc:format "Keramik" ;
+    dc:title "Kohlkopfterrine" .
+
+[] dc:format "Papier" ;
+    dc:title "Westfälischer Kreis I" .
+
+[] dc:format "Messing" .
+
+[] dc:format "Keramik" ;
+    dc:title "Deckeldose Spargelbund" .
+
+[] dc:format "Tin" .
+
+[] dc:format """cardboard
+gouache""" ;
+    dc:title "Dress design for \"Showgirls\" musical production" .
+
+[] dc:format """Alabaster
+Messing""" .
+
+[] dc:format """Messing
+Holz
+Glas""" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Bronze" .
+
+[] dc:format """Holz
+Glas
+Metal""" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format "paper" ;
+    dc:title "Cover" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Hermann Gerhard Garlichs" .
+
+[] dc:title "Banksia spinulosa x ericifolia 'Giant Candles'" .
 

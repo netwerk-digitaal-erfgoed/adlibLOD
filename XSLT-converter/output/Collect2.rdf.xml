@@ -1,305 +1,407 @@
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">21</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">23</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">24</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">25</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">26</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">27</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">28</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">29</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">30</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">31</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">32</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">33</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">34</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">35</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">36</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">37</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">38</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">39</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">40</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">41</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">42</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">43</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">44</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">45</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Video</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09540</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 3.695</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">21688-149</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2067</dc:identifier>
-    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/"/>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 7.343</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">21688-134</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2000/015</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">SK 92</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 1.287</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">00540</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 16.981</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 061</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 9.350</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 24.649</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 7.885</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">GS Kunst 2969</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">GS Kunst 3220</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 060</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 10.483</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4060-26</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 1.283a</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22873-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 007</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 1.407</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 027</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 010</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22870-1</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 16.983</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">OLM 171</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 7.890</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">00486</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22871-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 4.041</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 5.787</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">02465</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">01311</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">00984</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">00587</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22871-1</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22884-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2068</dc:identifier>
-    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/"/>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09591</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 19.868</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">OLM 1</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09545</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 9.420</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">18233-6</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2000/003</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2000/002</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 001</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22872-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">01326</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 12.604</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2065</dc:identifier>
-    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/"/>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 4.040</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 25.178/17</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">21688-13</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22869-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">22874-0</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">OLM 6/8</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">17709-5</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 15.557</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09592</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09560</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">17709-8</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">09559</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">00017</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">02729</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LMO 1.129</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Pl 011</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">18233-4</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">GS Kunst 3138</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">06490</dc:identifier>
-  </edm:ProvidedCHO>
-  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">01321</dc:identifier>
-  </edm:ProvidedCHO>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description>
+    <dc:title>Photograph album</dc:title>
+    <dc:format>Photographic Paper</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress for production of "Romeo and Juliet"</dc:title>
+    <dc:format>Lame Silk</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress for production of "Otello"</dc:title>
+    <dc:format>Crepe de chine silk</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress for production of "Lohengrin"</dc:title>
+    <dc:format>Silk Velvet</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Captain Hook puppet</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Set design for "Summer of the Seventeenth Doll"</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>La Traviata</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress design for "Wine, Women and Song" musical production</dc:title>
+    <dc:format>cardboard
+gouache</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress design for "Showgirls" musical production</dc:title>
+    <dc:format>cardboard
+gouache</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dress design for "Showgirls" musical production - Finale</dc:title>
+    <dc:format>cardboard
+gouache</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Cover</dc:title>
+    <dc:format>paper</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Whipping tiny trees: Image 14</dc:title>
+    <dc:format>thick wove Velin Cuve Rives 300 gsm paper</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Alice In Wonderland puppet</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Artworkers calendar, 1984: August</dc:title>
+    <dc:format>paper</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>La Traviata</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>The Maestro's Company</dc:title>
+    <dc:format>cardboard
+Wood</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Gussey Galah puppet</dc:title>
+    <dc:format>Metal
+Felt</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Holothurian</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Part of articulated skeleton of Blue Whale, Balaenoptera musculus</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Viper fish - Chauliodus sloani</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Banksia spinulosa x ericifolia 'Giant Candles'</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Eucalyptus praecox (Maiden)</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Tyrannosaurus Rex</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Box of weevils named by Francis Pascoe</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>gold and silver chafers</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Other suns</dc:title>
+    <dc:format>digital</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Jever von S&#252;den</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Messing</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Schaf</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Heilige Familie</dc:title>
+    <dc:format>Papier
+Glas
+Holz</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Alabaster
+Messing</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Schwein</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Landkarte von Westfalen (Westf&#228;lischer Kreis)</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Silver</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Teller mit plastisch geformten Oliven</dc:title>
+    <dc:format>Keramik</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Gold
+Perle
+Rubin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Bronze</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Alabaster
+Messing
+Perlmutt
+Holz
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Silver
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Holz
+Glas
+Metal</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>VUE DE SANTULIET DE HOLLANDE.</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>LA MAISON DE LA VILLE &#192; MIDDELBOURG.</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Bronze</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Messing
+Holz
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Kuh</dc:title>
+    <dc:format>Keramik</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bokeler M&#252;hle, Demontage (4)</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Sandstein</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Holz
+Messing
+lead
+Farbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Hausstein Oliphant</dc:title>
+    <dc:format>Sandstein</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Sandstein</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Demontage der Bokeler Kappenwindm&#252;hle</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Holz
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Fischer-Maskerade</dc:title>
+    <dc:format>Holz
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Messing
+lead
+Holz</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bokeler M&#252;hle, Demontage (2)</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Deckeldose Spargelbund</dc:title>
+    <dc:format>Keramik</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Messing
+iron</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin
+Holz</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin
+Messing</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bismarck</dc:title>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Demontage der Bokeler Kappenwindm&#252;hle</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bokeler M&#252;hle, Neuzustand</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Herz Jesu</dc:title>
+    <dc:format>Papier
+Glas
+Holz</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Hermann Gerhard Garlichs</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Bronze
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Die K&#246;nigin von Saba</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Wangerooge von der Seeseite</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Tischuhr</dc:title>
+    <dc:format>Bronze
+Marmor
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Shell-Lehrtafel: Sommerbetrieb</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Westf&#228;lischer Kreis I</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Westf&#228;lischer Kreis II</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Sandstein</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bokeler M&#252;hle, Demontage (3)</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Portaluhr</dc:title>
+    <dc:format>Alabaster
+Messing
+Glas</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Immerw&#228;hrende Hilfe</dc:title>
+    <dc:format>Papier
+Glas
+Holz</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Kohlkopfterrine</dc:title>
+    <dc:format>Keramik</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bela Bartok</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Hering (und) K&#246;hler</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Bokeler M&#252;hle, Altzustand</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Niedergelegtes Gebinde und Nebengeb&#228;ude</dc:title>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Passionszyklus - Die Kreuzigung</dc:title>
+    <dc:format>Holz
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Neapel</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Die heilige Katharina von Alexandrien</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Johanna Catharina Garlichs</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Hund</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Dromedar</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Archivar Georg Sello</dc:title>
+    <dc:format>Leinwand
+&#214;lfarben</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Keramik
+Peddigrohr</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Keramik</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Sandstein</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Shell-Lehrtafel: Sch&#228;den durch ungeeignete Motoren&#246;le</dc:title>
+    <dc:format>Papier
+Druckfarbe</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Vu&#235; d&#180;un combat naval</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:title>Ulrich I von Ostfriesland</dc:title>
+    <dc:format>Papier</dc:format>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:format>Tin
+Holz</dc:format>
+  </rdf:Description>
 </rdf:RDF>

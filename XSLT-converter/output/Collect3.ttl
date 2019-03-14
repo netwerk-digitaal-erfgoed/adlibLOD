@@ -1,110 +1,325 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<> a edm:ProvidedCHO ;
-    dc:identifier "00023",
-        "00140",
-        "00484",
-        "00487",
-        "00489",
-        "00490",
-        "00568",
-        "00948",
-        "01026",
-        "01301",
-        "01325",
-        "01354",
-        "04940",
-        "09537",
-        "09538",
-        "09546",
-        "09561",
-        "09593",
-        "17709-9",
-        "2000/009",
-        "2000/025",
-        "2001/010",
-        "21688-131",
-        "22870-0",
-        "22875-2",
-        "22876-0",
-        "22877-0",
-        "22877-1",
-        "22879-0",
-        "2907-1",
-        "2907-11",
-        "2907-6",
-        "3295-5",
-        "3295-6",
-        "3972",
-        "4060-25",
-        "4060-69",
-        "GS Kunst 2956",
-        "GS Kunst 2963",
-        "GS Kunst 2964",
-        "GS Kunst 2978",
-        "GS Kunst 3255",
-        "LMO 1.018b",
-        "LMO 1.210",
-        "LMO 1.235",
-        "LMO 1.387",
-        "LMO 10.151",
-        "LMO 10.295",
-        "LMO 10.532",
-        "LMO 11.013",
-        "LMO 11.522",
-        "LMO 14.300",
-        "LMO 15.561",
-        "LMO 15.595",
-        "LMO 15.648",
-        "LMO 15.840",
-        "LMO 2.212",
-        "LMO 2.342",
-        "LMO 2.405",
-        "LMO 2.656",
-        "LMO 2.731",
-        "LMO 20.202a",
-        "LMO 224",
-        "LMO 23.171",
-        "LMO 23.889",
-        "LMO 24.650",
-        "LMO 24.652",
-        "LMO 24.653",
-        "LMO 25.178/10",
-        "LMO 25.178/12",
-        "LMO 25.178/14",
-        "LMO 25.179/1",
-        "LMO 25.179/2",
-        "LMO 3.690",
-        "LMO 3.700",
-        "LMO 3.724",
-        "LMO 307",
-        "LMO 6.552",
-        "LMO 6.882",
-        "LMO 7.974",
-        "LMO 8.009",
-        "OLM 100",
-        "OLM 147",
-        "OLM 286",
-        "OLM 325",
-        "OLM 37/0",
-        "OLM 40",
-        "OLM 48",
-        "OLM 528",
-        "OLM 6/1",
-        "OLM 6/3",
-        "OLM 6/4",
-        "Pl 002",
-        "Pl 029",
-        "Pl 142",
-        "Pl 146",
-        "Pl 151",
-        "SK 10",
-        "SK 11",
-        "SK 12" ;
-    dc:subject "" .
+[] dc:format """Holz
+tempera""" ;
+    dc:title "Segelschiffe vor einer Stadt" .
+
+[] dc:format "Papier" ;
+    dc:title "VUË DE DRESDEN." .
+
+[] dc:format "Tin" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Pastor Mecina Wübbena" .
+
+[] dc:format "Sandstein" ;
+    dc:title "WILHELM BENNICNCK" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Papier" .
+
+[] dc:format """Silver
+Rubin
+Glas""" .
+
+[] dc:format "Papier" ;
+    dc:title "La Fayette" .
+
+[] dc:format """Messing
+Glas""" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Weinkeller" .
+
+[] dc:title "Bokeler Mühle, Aufbau (1)" .
+
+[] dc:format """Holz
+Glas
+lead
+Messing""" .
+
+[] dc:format """Messing
+Glas""" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Selbstbildnis" .
+
+[] dc:format "Keramik" .
+
+[] dc:format """Keramik
+Fayence""" .
+
+[] dc:format "Papier" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format """Eiche
+Alabaster
+Messing
+Glas""" .
+
+[] dc:format "Papier" .
+
+[] dc:format "Papier" ;
+    dc:title "Befestigungsplan von Lingen" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Die büßende Magdalena" .
+
+[] dc:title "Bokeker Mühle, Demontage (1)" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Winterlandschaft" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format "Papier" ;
+    dc:title "Emil Schumacher" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Lustpartie" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Scyllium catulus/ Haifisch. ( Katzenhai )" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Mars und Venus" .
+
+[] dc:format """Tin
+Glas""" .
+
+[] dc:format "Tin" .
+
+[] dc:format """Tin
+Messing""" .
+
+[] dc:format """Papier
+Holz
+Glas""" ;
+    dc:title "Rosenmadonna" .
+
+[] dc:format """Perlmutt
+Glas""" .
+
+[] dc:format "Papier" ;
+    dc:title "Dante" .
+
+[] dc:format """Silver
+Rubin
+Glas""" .
+
+[] dc:format """Tin
+Copper""" .
+
+[] dc:format """Silver
+Glas""" .
+
+[] dc:format """Leinwand
+Ölfarben
+Pappe""" ;
+    dc:title "Kasperletheater auf dem Kirchplatz in Jever" .
+
+[] dc:title "Aufbau Museumsdorf Gebinde" .
+
+[] dc:format "Papier" ;
+    dc:title "VUË DESSUS DU PORT VERS L´EGLISE À GOUDE." .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Passionszyklus - Die Vorführung vor Herodes" .
+
+[] dc:format "Papier" ;
+    dc:title "Schutzengel" .
+
+[] dc:format """Metal
+Glas
+Nußbaum""" .
+
+[] dc:format """Silver
+Glas
+Rubin""" .
+
+[] dc:title "Bokeler Mühle, Aufbau (2)" .
+
+[] dc:format """Tin
+Farbe""" .
+
+[] dc:format "Keramik" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Stilleben mit Hering" .
+
+[] dc:title "Demontage der Bokeler Kappenwindmühle" .
+
+[] dc:format "Tin" .
+
+[] dc:format """Holz
+Alabaster
+Messing
+Glas""" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Papier" ;
+    dc:title "VUË APRES LA MELCKBRUGG SUR LA SPAARNE A HAARLEM." .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Passionszyklus - Die Vorführung vor Kaiphas" .
+
+[] dc:format """iron
+Holz""" .
+
+[] dc:format "Papier" ;
+    dc:title "Adam und Eva" .
+
+[] dc:format "Silver" .
+
+[] dc:format """Porzellan
+Messing
+Glas""" .
+
+[] dc:title "Bokeler Mühle, Aufbau (4)" .
+
+[] dc:format """Leder
+Holz""" .
+
+[] dc:format """Papier
+Druckfarbe""" ;
+    dc:title "Deutsch-Südwestafrika: Ochsenzug in der Grassteppe" .
+
+[] dc:format "Papier" ;
+    dc:title "Simone de Beauvoir" .
+
+[] dc:format """Messing
+Glas""" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title "Brustbild einer jungen Frau mit offenem Haar" .
+
+[] dc:format "Papier" .
+
+[] dc:format "Keramik" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Tin" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Die büßende Magdalena in der Felsgrotte" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Jagdgerät" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Oogenbedriegertje mit Radierung" .
+
+[] dc:format """Copper
+Ölfarben""" ;
+    dc:title "Allegorie der Vier Elemente" .
+
+[] dc:format """Messing
+Glas
+Holz""" .
+
+[] dc:format """Eichenholz
+Ölfarben""" ;
+    dc:title """Das Haupt Johannes des Täufers
+Johannesschüssel""" .
+
+[] dc:format "Papier" .
+
+[] dc:format "Papier" ;
+    dc:title "SECONDS VOYAGEURS ARIENS OÚ EXPERIENCE DE MM CHARLES ET ROBERT." .
+
+[] dc:format """Holz
+Farbe
+Messing
+Glas""" .
+
+[] dc:format "Papier" ;
+    dc:title "VUE DE LA MER DE HARLEM iIN HOLLANDE" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Auszug der Franzosen aus Jever im Jahr 1813" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Herzog Friedrich August v. Holstein-Gottorp,  Herzog v. Oldenburg, Fürstbischof von Lübeck" .
+
+[] dc:format """Leinwand
+Ölfarben""" ;
+    dc:title "Bauernhochzeit" .
+
+[] dc:format """Silver
+Messing
+Glas""" .
+
+[] dc:format "Sandstein" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Enno II. von Ostfriesland" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Schiffbruch bei stürmischer See" .
+
+[] dc:format """Silver
+Messing""" .
+
+[] dc:format """Gold
+Silver
+Messing
+Glas""" .
+
+[] dc:format """Holz
+Ölfarben""" ;
+    dc:title "Passionszyklus - Das letzte Abendmahl" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Silver" .
+
+[] dc:format "Papier" ;
+    dc:title "Denkmal für Philippe Pinel" .
+
+[] dc:format "Papier" ;
+    dc:title "The seven united provinces" .
+
+[] dc:format "Keramik" ;
+    dc:title "Frühstücksservice" .
+
+[] dc:format "Keramik" ;
+    dc:title "Vase mit chinesischer Landschaft" .
+
+[] dc:format "Papier" ;
+    dc:title "Planisphærium Coeleste" .
+
+[] dc:format "Tin" .
+
+[] dc:format "Keramik" ;
+    dc:title "Deckeldose in Form eines sitzenden Rebhuhns" .
+
+[] dc:format "Sandstein" .
 
