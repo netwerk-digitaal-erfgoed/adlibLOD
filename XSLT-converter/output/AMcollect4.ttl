@@ -30,10 +30,10 @@
 
 <http://hdl.handle.net/11259/collection.407> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11269" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -48,10 +48,10 @@
 
 <http://hdl.handle.net/11259/collection.408> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11270" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -66,10 +66,10 @@
 
 <http://hdl.handle.net/11259/collection.409> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11271" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -102,10 +102,10 @@
 
 <http://hdl.handle.net/11259/collection.411> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11273" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -138,10 +138,10 @@
 
 <http://hdl.handle.net/11259/collection.413> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11275" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -192,10 +192,10 @@
 
 <http://hdl.handle.net/11259/collection.416> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11278" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -228,10 +228,10 @@
 
 <http://hdl.handle.net/11259/collection.418> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11280" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -246,10 +246,10 @@
 
 <http://hdl.handle.net/11259/collection.419> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11281" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -264,10 +264,10 @@
 
 <http://hdl.handle.net/11259/collection.420> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11282" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",
@@ -488,14 +488,14 @@
 
 <http://hdl.handle.net/11259/collection.433> a edm:ProvidedCHO ;
     rdfs:label "Portret van Joost van den Vondel" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
-            schema:roleName "drukker" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28635> ;
+            schema:roleName "tekenaar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.23383> ;
             lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
             schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28635> ;
-            schema:roleName "tekenaar" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
+            schema:roleName "drukker" ] ;
     dc:identifier "A 11295" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.17902>,
@@ -513,12 +513,12 @@
 
 <http://hdl.handle.net/11259/collection.434> a edm:ProvidedCHO ;
     rdfs:label "Maurits Cornelis van Hall (1768-1858)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.28635> ;
-            lido:attributionQualifierActor "naar" ] ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
+            schema:roleName "uitgever" ] ;
     dc:identifier "A 11296" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.80460>,
@@ -536,10 +536,10 @@
 
 <http://hdl.handle.net/11259/collection.435> a edm:ProvidedCHO ;
     rdfs:label "Portret van Henricus Wilhelmus Couwenberg" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22846> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22846> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11297" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.27483>,
@@ -557,10 +557,10 @@
 
 <http://hdl.handle.net/11259/collection.436> a edm:ProvidedCHO ;
     rdfs:label "Portret van Henricus Wilhelmus Couwenberg" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22846> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22846> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11298" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.27483>,
@@ -578,10 +578,10 @@
 
 <http://hdl.handle.net/11259/collection.437> a edm:ProvidedCHO ;
     rdfs:label "Portret van Jan Hendrik van Kinsbergen" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.7507> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.7507> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24990> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11299" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65482>,
@@ -636,10 +636,10 @@
 
 <http://hdl.handle.net/11259/collection.440> a edm:ProvidedCHO ;
     rdfs:label "Le pot au lait" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24378> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.19123> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.19123> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24378> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11302" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Le pot au lait" ;
@@ -652,10 +652,10 @@
 
 <http://hdl.handle.net/11259/collection.441> a edm:ProvidedCHO ;
     rdfs:label "Portrait de la duchesse d'Orleans" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25013> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33324> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33324> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25013> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11303" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65667>,
@@ -673,12 +673,12 @@
 
 <http://hdl.handle.net/11259/collection.442> a edm:ProvidedCHO ;
     rdfs:label "L'annonciation" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79741> ;
-            schema:roleName "uitgever" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25013> ;
+            schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.30564> ;
             lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25013> ;
-            schema:roleName "graveur" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.79741> ;
+            schema:roleName "uitgever" ] ;
     dc:identifier "A 11304" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'annonciation" ;
@@ -707,11 +707,11 @@
 
 <http://hdl.handle.net/11259/collection.444> a edm:ProvidedCHO ;
     rdfs:label "Le jardin d'amour" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14618> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29879> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.14618> ;
             schema:roleName "schilder" ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29879> ;
-            schema:roleName "graveur" ] ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11306" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "liefde",
@@ -779,10 +779,10 @@
 
 <http://hdl.handle.net/11259/collection.448> a edm:ProvidedCHO ;
     rdfs:label "Protection" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11310" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Protection" ;
@@ -795,10 +795,10 @@
 
 <http://hdl.handle.net/11259/collection.449> a edm:ProvidedCHO ;
     rdfs:label "The Challenge" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11311" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The Challenge" ;
@@ -811,10 +811,10 @@
 
 <http://hdl.handle.net/11259/collection.450> a edm:ProvidedCHO ;
     rdfs:label "The Sanctuary" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25037> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11312" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The Sanctuary" ;
@@ -827,12 +827,12 @@
 
 <http://hdl.handle.net/11259/collection.451> a edm:ProvidedCHO ;
     rdfs:label "La Maddalena" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78984> ;
-            lido:attributionQualifierActor "naar" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29989> ;
+            schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79742> ;
             schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29989> ;
-            schema:roleName "graveur" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.78984> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11314" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La Maddalena" ;
@@ -845,10 +845,10 @@
 
 <http://hdl.handle.net/11259/collection.452> a edm:ProvidedCHO ;
     rdfs:label "De vlucht naar Egypte: It.titel: il ripose in Egitto" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31221> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29989> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29989> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31221> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11315" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De vlucht naar Egypte: It.titel: il ripose in Egitto" ;
@@ -957,10 +957,10 @@
 
 <http://hdl.handle.net/11259/collection.458> a edm:ProvidedCHO ;
     rdfs:label "Mignon aspirant au ciel" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30026> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30026> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11321" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Mignon aspirant au ciel" ;
@@ -973,10 +973,10 @@
 
 <http://hdl.handle.net/11259/collection.459> a edm:ProvidedCHO ;
     rdfs:label "L'Innocence" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28506> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30026> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30026> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28506> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11322" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'Innocence" ;
@@ -1064,10 +1064,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.464> a edm:ProvidedCHO ;
     rdfs:label "La vierge à la redemption" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11327" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "Nieuwe Testament",
@@ -1083,10 +1083,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.465> a edm:ProvidedCHO ;
     rdfs:label "La vierge au palmiers" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11328" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "Nieuwe Testament",
@@ -1119,10 +1119,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.467> a edm:ProvidedCHO ;
     rdfs:label "La femme adultère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31978> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31978> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11330" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "Nieuwe Testament",
@@ -1138,10 +1138,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.468> a edm:ProvidedCHO ;
     rdfs:label "De laatste eerbewijzen aan Egmond en Hoorne" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28281> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28281> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30161> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11331" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "historiestuk" ;
@@ -1155,10 +1155,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.469> a edm:ProvidedCHO ;
     rdfs:label "Sainte Cécile" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30171> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30171> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11332" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "heilige" ;
@@ -1222,12 +1222,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.473> a edm:ProvidedCHO ;
     rdfs:label "La Fornarina" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23700> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78716> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78716> ;
             schema:roleName "tekenaar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.25145> ;
-            schema:roleName "graveur" ] ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.23700> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11337" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La Fornarina" ;
@@ -1240,12 +1240,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.474> a edm:ProvidedCHO ;
     rdfs:label "De Transfiguratie" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25145> ;
+            schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.78598> ;
             schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25145> ;
-            schema:roleName "graveur" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11338" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De Transfiguratie",
@@ -1284,10 +1284,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
     rdfs:label "Het Laatste Avondmaal" ;
     dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78597> ;
             schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
-            lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.25145> ;
-            schema:roleName "graveur" ] ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11340" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Het Laatste Avondmaal" ;
@@ -1300,11 +1300,11 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.477> a edm:ProvidedCHO ;
     rdfs:label "Na het tweegevecht" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25153> ;
-            schema:roleName "lithograaf" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.23684> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23684> ;
             schema:roleName "ontwerper" ;
             lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25153> ;
+            schema:roleName "lithograaf" ],
         [ dc:creator <http://hdl.handle.net/11259/people.87200> ;
             schema:roleName "drukker" ] ;
     dc:identifier "A 11341" ;
@@ -1320,12 +1320,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.478> a edm:ProvidedCHO ;
     rdfs:label "Rembrandt in zijn atelier" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
             schema:roleName "uitgever" ],
         [ dc:creator <http://hdl.handle.net/11259/people.25153> ;
-            schema:roleName "lithograaf" ] ;
+            schema:roleName "lithograaf" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11342" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.13978>,
@@ -1345,12 +1345,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.479> a edm:ProvidedCHO ;
     rdfs:label "De Sixtijnse Madonna" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25158> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25158> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79800> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+            schema:roleName "tekenaar" ] ;
     dc:identifier "A 11343" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De Sixtijnse Madonna",
@@ -1382,10 +1382,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.481> a edm:ProvidedCHO ;
     rdfs:label "Grootvorstin Olga van Rusland (1822-1892)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33324> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30710> ;
-            schema:roleName "vervaardiger" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30710> ;
+            schema:roleName "vervaardiger" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.33324> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11345" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65659>,
@@ -1404,12 +1404,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.482> a edm:ProvidedCHO ;
     rdfs:label "Portret van Anthony van Dyck" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.70525> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25233> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25233> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.27925> ;
-            lido:attributionQualifierActor "naar" ] ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.70525> ;
+            schema:roleName "tekenaar" ] ;
     dc:identifier "A 11346" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.27925>,
@@ -1429,14 +1429,14 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.483> a edm:ProvidedCHO ;
     rdfs:label "The woman taken in adultery" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79868> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79821> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79821> ;
             schema:roleName "prentmaker" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79869> ;
+            schema:roleName "drukker" ],
         [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
             lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79869> ;
-            schema:roleName "drukker" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.79868> ;
+            schema:roleName "uitgever" ] ;
     dc:identifier "A 11347" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The woman taken in adultery" ;
@@ -1449,10 +1449,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.484> a edm:ProvidedCHO ;
     rdfs:label "Fishermen on the look out" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27384> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25254> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25254> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27384> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11348" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Fishermen on the look out" ;
@@ -1465,10 +1465,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.485> a edm:ProvidedCHO ;
     rdfs:label "Le départ des pêcheurs" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31465> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25292> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25292> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31465> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11349" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "ambachten en beroepen",
@@ -1484,10 +1484,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.486> a edm:ProvidedCHO ;
     rdfs:label "L'Improvisateur napolitain" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25292> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31465> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31465> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25292> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11350" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'Improvisateur napolitain",
@@ -1591,10 +1591,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.492> a edm:ProvidedCHO ;
     rdfs:label "Village politicians" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25301> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25301> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11356" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "AHM systematische catalogus [TOPTERM]",
@@ -1612,10 +1612,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.493> a edm:ProvidedCHO ;
     rdfs:label "The rent day" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25301> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25301> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11357" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The rent day" ;
@@ -1629,12 +1629,12 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.494> a edm:ProvidedCHO ;
     rdfs:label "The tempting present" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33370> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78587> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78587> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.70563> ;
-            schema:roleName "graveur" ] ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.33370> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11358" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The tempting present" ;
@@ -1666,10 +1666,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.496> a edm:ProvidedCHO ;
     rdfs:label "Horloge astronomique de la Cathédrale de Strasbourg" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78713> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78711> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78711> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.78713> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11360" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Horloge astronomique de la Cathédrale de Strasbourg" ;
@@ -1698,10 +1698,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.498> a edm:ProvidedCHO ;
     rdfs:label "My dog" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25358> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25358> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11362" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "dier",
@@ -1736,10 +1736,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.500> a edm:ProvidedCHO ;
     rdfs:label "King Charles II landing on the beach at Dover" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31968> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31968> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11364" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "King Charles II landing on the beach at Dover" ;
@@ -1808,10 +1808,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.504> a edm:ProvidedCHO ;
     rdfs:label "Maria Magdalena" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.32055> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32055> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11368" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Maria Magdalena" ;
@@ -1824,10 +1824,10 @@ Kobell nam actief deel aan het culturele leven. Net als de vader van Fodor was h
 
 <http://hdl.handle.net/11259/collection.505> a edm:ProvidedCHO ;
     rdfs:label "In de kerk" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32055> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.23342> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23342> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.32055> ;
+            schema:roleName "graveur" ] ;
     dc:description """Het schilderij 'In de kerk' van Herman ten Kate werd in 1857 door kunstverzamelaar C.J. Fodor uitgeleend voor de Tentoonstelling van Levende Meesters in Den Haag. In de catalogus staat het vermeld onder de titel 'Aristocratie en Democratie ook zelfs in de kerk'. 
 Ook in 1857 liet de Vereeniging tot Bevordering van Beeldende Kunsten een prent vervaardigen naar het schilderij. De leden van deze vereniging konden jaarlijks voo vijf gulden een aandeel kopen. Uit de opbrengst werden kunstwerken aangekocht die onder de leden werden verloot. Houders van loten waarop geen prijs viel kregen een prent die in opdracht van de vereniging was vervaardigd naar een kunstwerk van een levende meester. In 1857 werd Fodor om toestemming gevraagd voor de reproductie van zijn schilderij. Hij stemde toe en kocht zelf 21 loten.""" ;
     dc:identifier "A 11369" ;

@@ -1,0 +1,2342 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.104">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10055</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap no 55</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap no 55</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1793</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1793</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.104"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10055_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.105">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10056</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Zuil met kruit no 56</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Zuil met kruit no 56</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1774</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1774</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.105"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10056_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.106">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10057</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landelijk feest no 57</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landelijk feest no 57</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1773</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1773</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.106"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10057_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.107">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10058</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">In het woud no 58</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">In het woud no 58</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.107"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10058_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.108">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10059</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landelijk tafereel no 59</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landelijk tafereel no 59</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.108"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10059_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.109">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10060</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Balspel no 60</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Balspel no 60</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.109"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10060_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">sport en spel</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">recreatie</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">kinderspel</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.110">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10061</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De poort van lantilly no 61</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De poort van lantilly no 61</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1804</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1804</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.110"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10061_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/">Lantilly</dcterms:spatial>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.111">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10062</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met brug no 62</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met brug no 62</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1799</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1799</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.111"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10062_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.112">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10063</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De muzikant no 63</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De muzikant no 63</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.112"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10063_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.113">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10064</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De muzikant no 64</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De muzikant no 64</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.113"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10064_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.114">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10065</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Mansportret no 65</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mansportret no 65</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1773</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1773</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.114"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10065_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.115">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10066</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">G. paus pius VII no.66</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">G. paus pius VII no.66</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1805</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1805</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.115"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10066_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.65712"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.116">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10067</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vrouwenportret no.67</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vrouwenportret no.67</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.116"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10067_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.117">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10068</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van Dr. de Boissieu no.68</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van Dr. de Boissieu no.68</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.117"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10068_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.118">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10069</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vrouwenportret no.69</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vrouwenportret no.69</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.118"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10069_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.119">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10070</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Mansportret no.70</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mansportret no.70</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.119"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10070_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.120">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10071</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Mansportret (no.71)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mansportret (no.71)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.120"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10071_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.121">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10072</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Mansportret (no.72)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mansportret (no.72)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.121"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10072_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.122">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10073</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Zes mannen en twee vrouwenkoppen (no.73)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Zes mannen en twee vrouwenkoppen (no.73)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.122"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10073_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.123">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10074</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Zeven koppen (no.74)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Zeven koppen (no.74)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1793</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1793</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.123"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10074_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.124">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10075</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Twee mannen en twee vrouwenkoppen (no.75)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Twee mannen en twee vrouwenkoppen (no.75)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.124"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10075_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.125">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10076</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Schetsen van mannenkoppen (no.76)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Schetsen van mannenkoppen (no.76)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.125"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10076_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.126">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10077</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Schetsen, 7 stuks op een blad (no.77)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Schetsen, 7 stuks op een blad (no.77)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.126"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10077_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.127">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10078</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vijf studies (no.78)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vijf studies (no.78)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.127"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10078_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.128">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10079</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Man en vrouw (no.79)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Man en vrouw (no.79)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.128"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10079_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.129">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10080</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Koppen (no.80)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Koppen (no.80)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.129"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10080_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.130">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10081</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Schetsen van vijf mannenkoppen op een blad (no.81)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Schetsen van vijf mannenkoppen op een blad (no.81)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.130"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10081_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.131">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10082</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Twee ezels (no.82)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Twee ezels (no.82)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1794</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1794</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.131"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10082_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ezel</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.132">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10083</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Katten (no.83)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Katten (no.83)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.132"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10083_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">kat</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.133">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10084</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Herenportret (no.84)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Herenportret (no.84)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.133"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10084_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.134">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10085</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Herenportret (no.85)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Herenportret (no.85)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1770</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.134"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10085_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.135">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10086</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap (no.86)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap (no.86)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.135"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10086_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.136">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10087</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met koeien (no.87)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met koeien (no.87)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.136"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10087_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">koe</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.137">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10088</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap (no.88)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap (no.88)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.137"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10088_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.138">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10089</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Riviergezicht met ru&#239;ne (no.89)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Riviergezicht met ru&#239;ne (no.89)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.138"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10089_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">scheepvaart</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">verkeer en vervoer</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.139">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10090</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De kwakzalver (no.90)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De kwakzalver (no.90)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.139"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10090_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">kwakzalver</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">genre</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">medici en apothekers</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.140">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10091</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap (no.91)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap (no.91)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1772</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.140"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10091_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.141">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10092</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap (no.92)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap (no.92)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.141"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10092_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.142">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10093</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De Molen (no.93)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De Molen (no.93)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1774</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1774</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.142"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10093_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.143">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10094</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De Watermolen (no.94)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De Watermolen (no.94)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.143"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10094_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">genre</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">agrarische sector</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.144">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10095</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Hooitijd (no.95)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Hooitijd (no.95)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.144"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10095_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">genre</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">agrarische sector</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport per trek- en rijdier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.145">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10096</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Dijkdoorbraak (no.96)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Dijkdoorbraak (no.96)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1782</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1782</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.145"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_10096.JPG"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10096_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.146">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10097</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landelijk tafereel (no.97)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landelijk tafereel (no.97)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1804</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1804</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.146"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10097_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.147">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10098</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap (no.98)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap (no.98)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.147"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10098_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.148">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10099</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Groepje met twee koeien (no.99)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Groepje met twee koeien (no.99)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1790</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1790</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.148"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10099_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">koe</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.149">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10100</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Bomenrooien no.100</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bomenrooien no.100</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26623"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1798</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1798</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.149"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=pictura2009%5CS_A_10100_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">genre</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">agrarische sector</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.150">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10695</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (titelblad)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (titelblad)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.55373"/>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.25126"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">album</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300026030">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">documentair object</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">titelpagina</dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.150"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.151">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10696</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (tekstblad)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (tekstblad)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.55373"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">album</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300026030">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">documentair object</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">pagina</dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.151"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.152">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10697</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (tekstblad)</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (tekstblad)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.55373"/>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">drukker</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.25314"/>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.25268"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1857</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">album</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300026030">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">documentair object</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">pagina</dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.152"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.155">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">TA 10970</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Francesca da Rimini e Paolo</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Francesca da Rimini e Paolo</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.29149"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1820</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1820</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300033973">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">tekening</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.155"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_TA_10970_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=TA_10970_b.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.65750"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.156">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10991</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met hertenjacht</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met hertenjacht</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een hertenjacht op heuvelachtig terrein</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.24480"/>
+        <schema:roleName xmlns:schema="http://schema.org/">prentmaker</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.31079"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1751</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1803</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">prenttekening</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.156"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10991_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">sport en spel</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">recreatie</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">jacht</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">recreatie</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.157">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10992</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Een tijgerkop</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een tijgerkop</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.24819"/>
+        <schema:roleName xmlns:schema="http://schema.org/">lithograaf</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.30629"/>
+        <schema:roleName xmlns:schema="http://schema.org/">tekenaar</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.31664"/>
+      </rdf:Description>
+    </dc:creator>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">lithografie</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.157"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10992_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_10992.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">tijger</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.158">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10993</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Een dansend boerenpaar</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een dansend boerenpaar</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een boer en een boerin</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.21732"/>
+        <schema:roleName xmlns:schema="http://schema.org/">prentmaker</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27917"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1680</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1800</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">prenttekening</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.158"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10993_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.159">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10994</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Magdalena Moons bij Valdez</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Magdalena Moons bij Valdez</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Don Francisco Baldes ontvangt in zijne tent een bezoek van Magdalena Moens, gedurende het beleg van Leijden</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.32055"/>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.65708"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1835</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1860</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.159"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10994_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.160">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10995</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Charlotte de Bourbon, gemalin van Prins Willem I, hem verzorgende na zijne verwonding door Jean Jauregui te Antwerpen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Charlotte de Bourbon, gemalin van Prins Willem I, hem verzorgende na zijne verwonding door Jean Jauregui te Antwerpen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.30124"/>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.65708"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1840</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1860</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.160"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10995_001.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10995_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">tachtigjarige oorlog</skos:altLabel>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.161">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10996</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Ruiter naast pissend paard</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Ruiter naast pissend paard</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een ruiter zijn paard bij den teugel houdende, naast hem een liggende man en een hond (Het pissende paard)</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.24422"/>
+        <schema:roleName xmlns:schema="http://schema.org/">prentmaker</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.19123"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1776</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1776</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">prenttekening</dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.161"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10996_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">paard</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.162">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10997</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Voorbereiding op Pesach</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Voorbereiding op Pesach</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het verwijderen van het gezuurde brood. Franse titel: L'Examen du levain</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.13200"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1725</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1725</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.162"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10997_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.163">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10998</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De viering van de Pesachmaaltijd</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De viering van de Pesachmaaltijd</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het Pascha der Portugeesche Joden. Fr. titel: le repas de paques chez les juifs Portugais</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.13200"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1725</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1725</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.163"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10998_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.164">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 10999</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Titelprent voor Ovidius' Metamorfosen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Titelprent voor Ovidius' Metamorfosen</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Titel voor de werken van Ovidius</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.13200"/>
+        <schema:roleName xmlns:schema="http://schema.org/">vervaardiger</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.13200"/>
+        <schema:roleName xmlns:schema="http://schema.org/">tekenaar</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1731</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1731</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.164"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_10999_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.165">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11027</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De drie rustende koeijen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De drie rustende koeijen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26342"/>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.31071"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1650</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1700</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.165"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11027_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">koe</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.166">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11028</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De wilde zwijnenjagt</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De wilde zwijnenjagt</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26594"/>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">uitgever</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.24378"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1650</sem:hasBeginTimeStamp>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1727</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1674</sem:hasEndTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1783</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.166"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11028_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11028.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">hond</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">wild zwijn</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">sport en spel</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">recreatie</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">jacht</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">recreatie</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.167">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11029</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van een officier</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van een officier</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.22870"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1642</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1645</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.167"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11029_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11029.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.168">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11030</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van een man met een hoge hoed</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van een man met een hoge hoed</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een mansportret</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.22870"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1640</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1650</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.168"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11030_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11030.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.169">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11031</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vrouw met de peer</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vrouw met de peer</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Eene vrouw met eene peer in de hand</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.22870"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1651</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1651</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.169"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11031_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11031.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.170">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11032</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Jonge vrouw met hoed</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Jonge vrouw met hoed</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Een vrouweportret</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.22870"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.170"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11032_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11032.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.171">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11033</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met vrouw rijdend op een muilezel langs de Aqua Negro tussen Bologna en Florence</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met vrouw rijdend op een muilezel langs de Aqua Negro tussen Bologna en Florence</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap waarin vrouwtje op ezel</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.171"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11033_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11033.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.172">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11034</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met een ossewagen, gezicht tussen Ancona en Senigallia</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met een ossewagen, gezicht tussen Ancona en Senigallia</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landlopers en ossewagen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.172"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11034_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11034.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport per trek- en rijdier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.173">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11035</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met een grote boom</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met een grote boom</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met boom in het midden</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.173"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11035_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11035.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.174">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11036</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Mannen en een muilezel bij de Via Appia</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Mannen en een muilezel bij de Via Appia</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap, waarin huis met rokende schoorsteen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.174"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11036_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11036.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.175">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11037</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met brug, de Ponte Molle</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met brug, de Ponte Molle</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met vervallen brug</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.175"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11037_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11037.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.176">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11038</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vissers bij de Tiber</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vissers bij de Tiber</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met vissers</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.176"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11038_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11038.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">visser</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">ambachten en beroepen</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">genre</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">visserij en jacht</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.177">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11039</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met houten brug bij Sulmona nabij Tivoli</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met houten brug bij Sulmona nabij Tivoli</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met houten voetbrug</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.177"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11039_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11039.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.178">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11040</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Landschap met wachtende reizigers en veerpont bij de oever van de Tiber</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met wachtende reizigers en veerpont bij de oever van de Tiber</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met ponteveer</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.178"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11040_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11040.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">transport te water</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.179">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11041</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Twee koeien bij het water bij Tivoli</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Twee koeien bij het water bij Tivoli</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Landschap met ru&#239;ne op de achtergrond</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.26745"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1644</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1652</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.179"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11041_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11041.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">landschap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.180">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11042</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Les mis&#232;res et les malheurs de la guerre</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Les mis&#232;res et les malheurs de la guerre</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.180"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11042_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11042.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.181">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11043</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Vendels voor de stadsmuren</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Vendels voor de stadsmuren</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.181"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11043_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11043.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.182">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11044</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De veldslag</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De veldslag</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.182"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11044_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.183">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11045</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Gevecht voor een huis</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Gevecht voor een huis</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.183"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11045_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11045.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.184">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11046</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De plundering</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De plundering</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.184"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11046_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11046.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">migratie</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">sociale geschiedenis</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.185">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11047</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De roof van de kerkschatten</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De roof van de kerkschatten</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.185"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11047_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11047.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.186">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11048</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Het wegvoeren van de buit</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het wegvoeren van de buit</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.186"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11048_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11048.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.187">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11049</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Aanval op een reiswagen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Aanval op een reiswagen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.187"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11049_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11049.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.188">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11050</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Het opbrengen van de gevangenen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het opbrengen van de gevangenen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.188"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11050_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11050.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.189">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11051</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De foltering aan de wipgalg</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De foltering aan de wipgalg</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.189"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11051_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11051.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.190">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11052</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Het ophangen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het ophangen</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.190"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11052_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11052.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.191">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11053</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De fusillade</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De fusillade</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.191"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11053_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11053.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.192">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11054</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De brandstapel</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De brandstapel</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.192"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11054_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11054.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.193">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11055</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Het radbraken</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het radbraken</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.193"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11055_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11055.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.194">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11056</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Oorlogsgewonden</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Oorlogsgewonden</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.194"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11056_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11056.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.195">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11057</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Het absolveren van een stervende</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Het absolveren van een stervende</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.195"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11057_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11057.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.196">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11058</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De vergelding van de boeren</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De vergelding van de boeren</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.196"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11058_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11058.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.197">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11059</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De koning deelt onderscheidingen uit</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De koning deelt onderscheidingen uit</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27114"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1633</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.197"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11059_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11059.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">krijgsbedrijf</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.198">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11060</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Maria met kind gekroond door twee engelen</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Maria met kind gekroond door twee engelen</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De maagd Maria door twee engelen gekroond</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.4566"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1518</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1518</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.198"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11060_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11060.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.199">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11061</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Maria met kind en een aap</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Maria met kind en een aap</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De maagd Maria met de aap</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.4566"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1496</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1500</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.199"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11061_000.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11061.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">aap</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.200">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11062</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Heilige Eustachius</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Heilige Eustachius</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De heilige Hubertus</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.4566"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1499</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1503</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.200"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11062_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">hond</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">paard</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.201">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11063</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">De heilige Jeronimus in zijn cel</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">De heilige Jeronimus in zijn cel</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.4566"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1514</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1514</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.201"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11063.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">hond</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">leeuw</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">dier</dc:subject>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.202">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11064</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Melancolia</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Melancolia</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.4566"/>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1514</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1514</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.202"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=A_11064.JPG"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.203">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11065</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van Johannes Snellincx</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van Johannes Snellincx</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27925"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1630</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1640</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.203"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11065_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.65821"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.204">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11066</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van Jan Brueghel de Oude</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van Jan Brueghel de Oude</dc:title>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van Johannes Breughel</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <schema:roleName xmlns:schema="http://schema.org/">etser</schema:roleName>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27925"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1630</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1640</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041365">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">ets</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.204"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11066_001.jpg"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11066_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26864"/>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="http://hdl.handle.net/11259/collection.205">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A 11067</dc:identifier>
+    <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Portret van Martinus van den Baugart</rdfs:label>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Portret van Martinus van den Baugart</dc:title>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.27938"/>
+        <schema:roleName xmlns:schema="http://schema.org/">graveur</schema:roleName>
+      </rdf:Description>
+    </dc:creator>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <lido:attributionQualifierActor xmlns:lido="http://www.lido-schema.org/">naar</lido:attributionQualifierActor>
+        <dc:creator rdf:resource="http://hdl.handle.net/11259/people.31439"/>
+      </rdf:Description>
+    </dc:creator>
+    <sem:hasBeginTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1698</sem:hasBeginTimeStamp>
+    <sem:hasEndTimeStamp xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/">1698</sem:hasEndTimeStamp>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041340">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">gravure</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://vocab.getty.edu/aat/300041273">
+        <skos:altLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#">prent</skos:altLabel>
+      </rdf:Description>
+    </dc:type>
+    <edm:isShownAt rdf:resource="http://hdl.handle.net/11259/collection.205"/>
+    <foaf:depiction xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:resource="http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&amp;server=images&amp;value=S_A_11067_000.jpg"/>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0/"/>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">AM algemene voorstellingstrefwoorden [TOPTERM]</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">iconografische indeling</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">mansportret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">portret</dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://hdl.handle.net/11259/people.26217"/>
+  </edm:ProvidedCHO>
+</rdf:RDF>

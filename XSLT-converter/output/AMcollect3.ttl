@@ -115,10 +115,10 @@
 
 <http://hdl.handle.net/11259/collection.312> a edm:ProvidedCHO ;
     rdfs:label "Een Arabier" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26334> ;
-            schema:roleName "lithograaf" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.26334> ;
+            schema:roleName "lithograaf" ] ;
     dc:identifier "A 11174" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Een Arabier" ;
@@ -131,10 +131,10 @@
 
 <http://hdl.handle.net/11259/collection.313> a edm:ProvidedCHO ;
     rdfs:label "L'éducation d'Achille" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26415> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31360> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31360> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.26415> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11175" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'éducation d'Achille" ;
@@ -163,10 +163,10 @@
 
 <http://hdl.handle.net/11259/collection.315> a edm:ProvidedCHO ;
     rdfs:label "Koningin Sophie (1818-1877)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26492> ;
-            schema:roleName "lithograaf" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.26492> ;
+            schema:roleName "lithograaf" ] ;
     dc:identifier "A 11177" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.29612>,
@@ -210,10 +210,10 @@
 
 <http://hdl.handle.net/11259/collection.317> a edm:ProvidedCHO ;
     rdfs:label "Portret van de schilder Murillo" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79750> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30564> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30564> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79750> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11179" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
@@ -230,16 +230,16 @@
 
 <http://hdl.handle.net/11259/collection.318> a edm:ProvidedCHO ;
     rdfs:label "Christus Remunerator" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.75915> ;
-            schema:roleName "drukker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78666> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
             lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79819> ;
             schema:roleName "uitgever" ],
         [ dc:creator <http://hdl.handle.net/11259/people.75915> ;
-            schema:roleName "uitgever" ] ;
+            schema:roleName "drukker" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.75915> ;
+            schema:roleName "uitgever" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.78666> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11180" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Christus Remunerator" ;
@@ -308,10 +308,10 @@
 
 <http://hdl.handle.net/11259/collection.322> a edm:ProvidedCHO ;
     rdfs:label "The grand attack on Valenciennes" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26918> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26918> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11184" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "krijgsbedrijf" ;
@@ -343,14 +343,14 @@
 
 <http://hdl.handle.net/11259/collection.324> a edm:ProvidedCHO ;
     rdfs:label "Françoise de Rimini" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.79153> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
             lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.27100> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79820> ;
-            schema:roleName "drukker" ] ;
+            schema:roleName "drukker" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79153> ;
+            schema:roleName "uitgever" ] ;
     dc:identifier "A 11186" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Françoise de Rimini" ;
@@ -379,10 +379,10 @@
 
 <http://hdl.handle.net/11259/collection.326> a edm:ProvidedCHO ;
     rdfs:label "Marguerite sortant de l'église" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24506> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24506> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11188" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Faust apercevant Marguerite pour la première fois",
@@ -429,10 +429,10 @@
 
 <http://hdl.handle.net/11259/collection.329> a edm:ProvidedCHO ;
     rdfs:label "La femme hydropique" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27313> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.4456> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4456> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27313> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11191" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La femme hydropique" ;
@@ -445,10 +445,10 @@
 
 <http://hdl.handle.net/11259/collection.330> a edm:ProvidedCHO ;
     rdfs:label "Death of General Montgomery" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32543> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27322> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27322> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.32543> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11192" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "krijgsbedrijf" ;
@@ -540,10 +540,10 @@
 
 <http://hdl.handle.net/11259/collection.335> a edm:ProvidedCHO ;
     rdfs:label "The Sentry Box" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78977> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27580> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27580> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.78977> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11197" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The Sentry Box" ;
@@ -556,10 +556,10 @@
 
 <http://hdl.handle.net/11259/collection.336> a edm:ProvidedCHO ;
     rdfs:label "Be it ever so humble, there's no place like home" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11198" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Be it ever so humble, there's no place like home" ;
@@ -629,10 +629,10 @@
 
 <http://hdl.handle.net/11259/collection.340> a edm:ProvidedCHO ;
     rdfs:label "L'atelier d'un peintre" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24595> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30258> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30258> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24595> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11202" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "ambachten en beroepen",
@@ -650,10 +650,10 @@
 
 <http://hdl.handle.net/11259/collection.341> a edm:ProvidedCHO ;
     rdfs:label "La Vierge dite la belle jardinière" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11203" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "kind" ;
@@ -735,10 +735,10 @@
 
 <http://hdl.handle.net/11259/collection.346> a edm:ProvidedCHO ;
     rdfs:label "The Present" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33477> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
+            schema:roleName "prentmaker" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.33477> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11208" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "The Present" ;
@@ -770,10 +770,10 @@
 
 <http://hdl.handle.net/11259/collection.348> a edm:ProvidedCHO ;
     rdfs:label "A flower piece" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11210" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "A flower piece" ;
@@ -787,10 +787,10 @@
 
 <http://hdl.handle.net/11259/collection.349> a edm:ProvidedCHO ;
     rdfs:label "A fruit piece" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11211" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "bloemstilleven",
@@ -807,10 +807,10 @@
 
 <http://hdl.handle.net/11259/collection.350> a edm:ProvidedCHO ;
     rdfs:label "Birds" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11212" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Birds" ;
@@ -857,9 +857,9 @@
     rdfs:label "Fruits" ;
     dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
             schema:roleName "prentmaker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78670> ;
-            lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.78670> ;
             lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11215" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
@@ -889,10 +889,10 @@
 
 <http://hdl.handle.net/11259/collection.355> a edm:ProvidedCHO ;
     rdfs:label "La madonna del trono" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24693> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31705> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31705> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24693> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11217" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La madonna del trono" ;
@@ -938,10 +938,10 @@
 
 <http://hdl.handle.net/11259/collection.358> a edm:ProvidedCHO ;
     rdfs:label "The victory obtained over the Dutch fleet by the British squadron of the North Sea under the command of admiral Duncan in the action of the 11th of October 1797" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11220" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "krijgsbedrijf" ;
@@ -955,10 +955,10 @@
 
 <http://hdl.handle.net/11259/collection.359> a edm:ProvidedCHO ;
     rdfs:label "Battle of the Nile" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11221" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "krijgsbedrijf" ;
@@ -972,12 +972,12 @@
 
 <http://hdl.handle.net/11259/collection.360> a edm:ProvidedCHO ;
     rdfs:label "Portret van de kunstenaar Rafaël" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
-            schema:roleName "tekenaar" ] ;
+            schema:roleName "tekenaar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11222" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.58316>,
@@ -995,10 +995,10 @@
 
 <http://hdl.handle.net/11259/collection.361> a edm:ProvidedCHO ;
     rdfs:label "Les trois grâces" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11223" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Les trois grâces" ;
@@ -1011,10 +1011,10 @@
 
 <http://hdl.handle.net/11259/collection.362> a edm:ProvidedCHO ;
     rdfs:label "La vierge au bas-relief" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11224" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La vierge au bas-relief" ;
@@ -1043,10 +1043,10 @@
 
 <http://hdl.handle.net/11259/collection.364> a edm:ProvidedCHO ;
     rdfs:label "Portret van de schilder Titiaan" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.41838> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.41838> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11226" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.41838>,
@@ -1064,10 +1064,10 @@
 
 <http://hdl.handle.net/11259/collection.365> a edm:ProvidedCHO ;
     rdfs:label "Mignon et son père" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
             schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
             schema:roleName "graveur" ] ;
     dc:identifier "A 11227" ;
@@ -1082,10 +1082,10 @@
 
 <http://hdl.handle.net/11259/collection.366> a edm:ProvidedCHO ;
     rdfs:label "Pic de la Mirandole" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11228" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "kind" ;
@@ -1099,10 +1099,10 @@
 
 <http://hdl.handle.net/11259/collection.367> a edm:ProvidedCHO ;
     rdfs:label "La tentation du Christ" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11229" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La tentation du Christ" ;
@@ -1131,10 +1131,10 @@
 
 <http://hdl.handle.net/11259/collection.369> a edm:ProvidedCHO ;
     rdfs:label "Les joies d'une mère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11231" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "kind" ;
@@ -1164,10 +1164,10 @@
 
 <http://hdl.handle.net/11259/collection.371> a edm:ProvidedCHO ;
     rdfs:label "Les joies d'une mère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11233" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Les joies d'une mère" ;
@@ -1200,10 +1200,10 @@
 
 <http://hdl.handle.net/11259/collection.373> a edm:ProvidedCHO ;
     rdfs:label "The two dogs" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11235" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "dier",
@@ -1250,10 +1250,10 @@
 
 <http://hdl.handle.net/11259/collection.376> a edm:ProvidedCHO ;
     rdfs:label "Jack in office" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11238" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Jack in office" ;
@@ -1308,10 +1308,10 @@
 
 <http://hdl.handle.net/11259/collection.380> a edm:ProvidedCHO ;
     rdfs:label "Waterval" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11242" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Waterval" ;
@@ -1325,12 +1325,12 @@
 
 <http://hdl.handle.net/11259/collection.381> a edm:ProvidedCHO ;
     rdfs:label "Waterval" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
             schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.78665> ;
-            schema:roleName "graveur" ] ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11243" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Waterval" ;
@@ -1344,10 +1344,10 @@
 
 <http://hdl.handle.net/11259/collection.382> a edm:ProvidedCHO ;
     rdfs:label "Oliver Cromwell desolving the long Parliament" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24798> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24798> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11244" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "AHM systematische catalogus [TOPTERM]",
@@ -1383,10 +1383,10 @@
 
 <http://hdl.handle.net/11259/collection.384> a edm:ProvidedCHO ;
     rdfs:label "Portret van Bertin" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29149> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29149> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11246" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.26411>,
@@ -1404,10 +1404,10 @@
 
 <http://hdl.handle.net/11259/collection.385> a edm:ProvidedCHO ;
     rdfs:label "Gustave Wasa" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28815> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28815> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11247" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65948>,
@@ -1446,10 +1446,10 @@
 
 <http://hdl.handle.net/11259/collection.387> a edm:ProvidedCHO ;
     rdfs:label "L'Hémicycle de l'École des Beaux-Arts" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11249.1" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'Hemicycle du Palais des Beaux-arts",
@@ -1489,10 +1489,10 @@
 
 <http://hdl.handle.net/11259/collection.390> a edm:ProvidedCHO ;
     rdfs:label "L'Ensevelissement du Christ" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11252" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "L'Ensevelissement du Christ" ;
@@ -1558,10 +1558,10 @@
 
 <http://hdl.handle.net/11259/collection.394> a edm:ProvidedCHO ;
     rdfs:label "La Sancta Famiglia" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28816> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.28816> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11256" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "La Sancta Famiglia" ;
@@ -1574,10 +1574,10 @@
 
 <http://hdl.handle.net/11259/collection.395> a edm:ProvidedCHO ;
     rdfs:label "Die Hussiten - predigt" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29898> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78983> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78983> ;
             schema:roleName "tekenaar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29898> ;
+            lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.78982> ;
             schema:roleName "graveur" ] ;
     dc:identifier "A 11257" ;
@@ -1592,10 +1592,10 @@
 
 <http://hdl.handle.net/11259/collection.396> a edm:ProvidedCHO ;
     rdfs:label "Les Orphelins" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29277> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.29277> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11258" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "Bij vaders graf",
@@ -1609,12 +1609,12 @@
 
 <http://hdl.handle.net/11259/collection.397> a edm:ProvidedCHO ;
     rdfs:label "De schuttersmaaltijd" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.7188> ;
+            lido:attributionQualifierActor "naar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
             schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.7188> ;
-            lido:attributionQualifierActor "naar" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 11259" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De schuttersmaaltijd" ;
@@ -1628,12 +1628,12 @@
 
 <http://hdl.handle.net/11259/collection.398> a edm:ProvidedCHO ;
     rdfs:label "De weduwe van Van Oldenbarneveld voor prins Maurits" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31848> ;
-            lido:attributionQualifierActor "naar" ],
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
         [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
             schema:roleName "drukker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+        [ dc:creator <http://hdl.handle.net/11259/people.31848> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11260" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.30197>,
@@ -1656,10 +1656,10 @@
     rdfs:label "De aanslag op het leven van Prins Willem I te Antwerpen 18 maart 1582" ;
     dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
             schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
-            schema:roleName "drukker" ],
         [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ] ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
+            schema:roleName "drukker" ] ;
     dc:identifier "A 11261" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject [ a sem:Event ;
@@ -1680,10 +1680,10 @@
 
 <http://hdl.handle.net/11259/collection.400> a edm:ProvidedCHO ;
     rdfs:label "Jan Willem Pieneman (1779-1853)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11262" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.23694>,
@@ -1702,10 +1702,10 @@
 
 <http://hdl.handle.net/11259/collection.401> a edm:ProvidedCHO ;
     rdfs:label "Jan Six (1618-1700)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11263" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.32012>,
@@ -1723,10 +1723,10 @@
 
 <http://hdl.handle.net/11259/collection.402> a edm:ProvidedCHO ;
     rdfs:label "De staalmeesters" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11264" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De staalmeesters" ;
@@ -1762,10 +1762,10 @@
 
 <http://hdl.handle.net/11259/collection.404> a edm:ProvidedCHO ;
     rdfs:label "Sophie Mathilde Koningin der Nederlanden (1818-1877)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30710> ;
-            schema:roleName "lithograaf" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30710> ;
+            schema:roleName "lithograaf" ] ;
     dc:identifier "A 11266" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65141>,
@@ -1783,10 +1783,10 @@
 
 <http://hdl.handle.net/11259/collection.405> a edm:ProvidedCHO ;
     rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11267" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "criminaliteit",

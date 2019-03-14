@@ -101,15 +101,15 @@
     dc:identifier "A 11073" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject [ a sem:Event ;
-            skos:altLabel "Nieuwe Testament" ],
+            skos:altLabel "Kerstmis" ],
         [ a sem:Event ;
             skos:altLabel "Nieuwe Testament" ],
+        [ a sem:Event ;
+            skos:altLabel "aanbidding der herders" ],
         [ a sem:Event ;
             skos:altLabel "geboorte van Christus" ],
         [ a sem:Event ;
-            skos:altLabel "Kerstmis" ],
-        [ a sem:Event ;
-            skos:altLabel "aanbidding der herders" ],
+            skos:altLabel "Nieuwe Testament" ],
         "AM algemene voorstellingstrefwoorden [TOPTERM]",
         "Luyken trefwoorden",
         "bijbelse voorstelling",
@@ -175,15 +175,15 @@
     dc:identifier "A 11077" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject [ a sem:Event ;
-            skos:altLabel "geboorte van Christus" ],
+            skos:altLabel "Kerstmis" ],
+        [ a sem:Event ;
+            skos:altLabel "Nieuwe Testament" ],
         [ a sem:Event ;
             skos:altLabel "aanbidding der herders" ],
         [ a sem:Event ;
             skos:altLabel "Nieuwe Testament" ],
         [ a sem:Event ;
-            skos:altLabel "Kerstmis" ],
-        [ a sem:Event ;
-            skos:altLabel "Nieuwe Testament" ],
+            skos:altLabel "geboorte van Christus" ],
         "AM algemene voorstellingstrefwoorden [TOPTERM]",
         "Luyken trefwoorden",
         "bijbelse voorstelling",
@@ -815,9 +815,9 @@
 
 <http://hdl.handle.net/11259/collection.252> a edm:ProvidedCHO ;
     rdfs:label "De Kruisafname: tweede plaat" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32969> ;
             schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.32969> ;
+        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
             schema:roleName "etser" ] ;
     dc:identifier "A 11114" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
@@ -1503,10 +1503,10 @@
 
 <http://hdl.handle.net/11259/collection.292> a edm:ProvidedCHO ;
     rdfs:label "De reizende muzikanten" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
-            schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.23652> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23652> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.25555> ;
+            schema:roleName "etser" ] ;
     dc:identifier "A 11154" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:title "De reizende muzikanten" ;
@@ -1700,10 +1700,10 @@
 
 <http://hdl.handle.net/11259/collection.303> a edm:ProvidedCHO ;
     rdfs:label "De predikant Jan Cornelis Sylvius" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27574> ;
-            schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.27574> ;
+            schema:roleName "etser" ] ;
     dc:identifier "A 11165" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.65813>,

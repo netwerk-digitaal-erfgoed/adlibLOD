@@ -673,10 +673,10 @@
 
 <http://hdl.handle.net/11259/collection.157> a edm:ProvidedCHO ;
     rdfs:label "Een tijgerkop" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30629> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24819> ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24819> ;
             schema:roleName "lithograaf" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30629> ;
+            schema:roleName "tekenaar" ],
         [ dc:creator <http://hdl.handle.net/11259/people.31664> ;
             lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 10992" ;
@@ -727,10 +727,10 @@
 
 <http://hdl.handle.net/11259/collection.160> a edm:ProvidedCHO ;
     rdfs:label "Charlotte de Bourbon, gemalin van Prins Willem I, hem verzorgende na zijne verwonding door Jean Jauregui te Antwerpen" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30124> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.30124> ;
+            schema:roleName "graveur" ] ;
     dc:identifier "A 10995" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject [ a sem:Event ;
@@ -749,10 +749,10 @@
 
 <http://hdl.handle.net/11259/collection.161> a edm:ProvidedCHO ;
     rdfs:label "Ruiter naast pissend paard" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24422> ;
-            schema:roleName "prentmaker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.19123> ;
-            lido:attributionQualifierActor "naar" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.19123> ;
+            lido:attributionQualifierActor "naar" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.24422> ;
+            schema:roleName "prentmaker" ] ;
     dc:identifier "A 10996" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "dier",
@@ -834,10 +834,10 @@
 
 <http://hdl.handle.net/11259/collection.166> a edm:ProvidedCHO ;
     rdfs:label "De wilde zwijnenjagt" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26594> ;
-            schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24378> ;
-            schema:roleName "uitgever" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24378> ;
+            schema:roleName "uitgever" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.26594> ;
+            schema:roleName "etser" ] ;
     dc:identifier "A 11028" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject "dier",
@@ -1505,10 +1505,10 @@
 
 <http://hdl.handle.net/11259/collection.205> a edm:ProvidedCHO ;
     rdfs:label "Portret van Martinus van den Baugart" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31439> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27938> ;
-            schema:roleName "graveur" ] ;
+    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27938> ;
+            schema:roleName "graveur" ],
+        [ dc:creator <http://hdl.handle.net/11259/people.31439> ;
+            lido:attributionQualifierActor "naar" ] ;
     dc:identifier "A 11067" ;
     dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
     dc:subject <http://hdl.handle.net/11259/people.26217>,

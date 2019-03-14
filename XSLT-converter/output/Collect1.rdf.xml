@@ -1,0 +1,302 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">YORCM : 2002.181.1-2</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A348</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">B958</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">A350</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">T22</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1997/25/18/5</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1997/25/18/20</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LB506</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">LB507</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2000/89</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2000/88</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/1</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/2</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/3</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/4</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/5</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/6</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/7</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/8</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/9</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/10</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/15</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/12</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/16</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/11</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/13</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/14</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/17</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/18</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/22</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/21</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/20</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/23</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/24</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/25</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/26</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/27</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/28</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/29</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/30</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/42</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/32</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/33a</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/41</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/43</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1990/133/288/44</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218602</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218603</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218604</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218605</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218606</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218607</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218608</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218609</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218610</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218611</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218612</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218613</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218614</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218615</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218616</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218617</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218618</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218619</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218620</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218621</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218622</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218623</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218624</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218625</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218626</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218627</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218628</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218629</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218630</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218631</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS218632</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS204058</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS418489</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">NMS215546</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">2</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">5</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">7</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">8</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">9</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">10</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">11</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">12</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">13</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">14</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">15</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">16</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">17</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">18</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">19</dc:identifier>
+  </edm:ProvidedCHO>
+  <edm:ProvidedCHO xmlns:edm="http://www.europeana.eu/schemas/edm/" rdf:about="">
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">20</dc:identifier>
+  </edm:ProvidedCHO>
+</rdf:RDF>

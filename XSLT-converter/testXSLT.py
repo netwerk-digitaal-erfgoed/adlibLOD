@@ -1,18 +1,20 @@
 #! /usr/bin/env python3
 
 import lxml.etree as etree
-from urllib.parse import urlencode
+import urllib.request
 import rdflib
 
 # variables
-## path/file
+## path/file for stylesheet to convert adlibXML into RDF/XML
 stylesheet = "../example-stylesheets/amsterdammuseum/adlibXML2rdf.xslt"
 
 ## Adlib API-endpoint
-endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx"
+#endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx" # endpoint of Amsterdam Museum
+endpoint = "https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx"
 
 ## Adlib API variables
-database = "AMcollect"
+#database = "AMcollect" # database by Amsterdam Museum
+database = "Collect"
 search = "all"
 
 # initialization
@@ -37,22 +39,33 @@ while (numberFound > (page * numberShow)):
                     "&startfrom=" + str(start)
 
     print(requestUrl)
-    dom = etree.parse(requestUrl)
+
+    result = urllib.request.urlopen(requestUrl)
+    adlibXML = result.read()
+
+    # write adlibXML-file for debugging purposes
+    filename = "output/" + database + str(page) + ".adlib.xml"
+    f = open(filename,"wb")
+    f.write(adlibXML)
+    f.close()
+
+    # parse adlibXML
+    dom = etree.fromstring(adlibXML)
 
     # read numberFound
     hits = dom.find(".//hits")
 #    numberFound = int(hits.text)
     numberFound = 500 # maximum for testing
 
-    # transform into RDF/XML
+    # transform adlibXML into RDF/XML
     newdom = transform(dom)
     rdfxml = etree.tostring(newdom, pretty_print=True)
 
     # write rdfxml-file for debugging purposes
-#    filename = "output/" + database + str(page) + ".rdf.xml"
-#    f = open(filename,"wb")
-#    f.write(rdfxml)
-#    f.close()
+    filename = "output/" + database + str(page) + ".rdf.xml"
+    f = open(filename,"wb")
+    f.write(rdfxml)
+    f.close()
 
     # read into rdf-graph object and serialize as turtle
     g = rdflib.Graph()
