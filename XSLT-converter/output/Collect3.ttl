@@ -5,321 +5,817 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-[] dc:format """Holz
-tempera""" ;
-    dc:title "Segelschiffe vor einer Stadt" .
+[] dc:identifier "Pl 151" ;
+    dc:title "WILHELM BENNICNCK" ;
+    dc:type """Plastik
+Tod und Begräbnis""" ;
+    dct:created " 1640  --   1640" ;
+    dct:medium "Sandstein" .
 
-[] dc:format "Papier" ;
-    dc:title "VUË DE DRESDEN." .
+[] dc:creator "Coninxloo, Hans II. van ()" ;
+    dc:identifier "OLM 6/3" ;
+    dc:title "Passionszyklus - Die Vorführung vor Kaiphas" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1598  --   1604" ;
+    dct:medium """Holz
+Ölfarben""" .
 
-[] dc:format "Tin" .
+[] dc:creator "Masson, Sophie ()" ;
+    dc:identifier "LMO 25.178/14" ;
+    dc:title "Dante" ;
+    dc:type """Fotografie
+Plastik""" ;
+    dct:created " 1995  --   1995" ;
+    dct:medium "Papier" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Pastor Mecina Wübbena" .
+[] dc:creator "Tenneberg ()" ;
+    dc:identifier "LMO 1.210" ;
+    dc:type """Essen und Trinken
+Behälter/Gefäß""" ;
+    dct:created " 1800  --   1900" ;
+    dct:medium "Keramik" .
 
-[] dc:format "Sandstein" ;
-    dc:title "WILHELM BENNICNCK" .
+[] dc:creator """Wächtersbach
+Fesca, Ursula ()""" ;
+    dc:identifier "04940" ;
+    dc:title "Frühstücksservice" ;
+    dc:type """Kaffee- und Teegeschirr
+Behälter/Gefäß""" ;
+    dct:created " 1930  --   1939" ;
+    dct:medium "Keramik" .
 
-[] dc:format "Tin" .
+[] dc:creator "Blaeu, Willem Janszoon ()" ;
+    dc:identifier "2000/025" ;
+    dc:title "Befestigungsplan von Lingen" ;
+    dc:type """Kartographische Karten und Pläne
+Militaria
+Karte/Plan""" ;
+    dct:created " 1649  --   1649" ;
+    dct:medium "Papier" .
 
-[] dc:format "Papier" .
+[] dc:identifier "LMO 2.342" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1800  --   1815" ;
+    dct:medium """Silver
+Glas
+Rubin""" .
 
-[] dc:format """Silver
-Rubin
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22877-0" ;
+    dc:title "Bokeler Mühle, Aufbau (2)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1940" .
+
+[] dc:identifier "2000/009" ;
+    dc:title "The seven united provinces" ;
+    dc:type "Kartographische Karten und Pläne" ;
+    dct:created " 1797  --   1797" ;
+    dct:medium "Papier" .
+
+[] dc:creator """Probst, Georg Balthasar (Künstler
+)""" ;
+    dc:identifier "GS Kunst 2964" ;
+    dc:title "VUË DESSUS DU PORT VERS L´EGLISE À GOUDE." ;
+    dc:type "Grafik" ;
+    dct:created " 1766  --   1790" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Seutter, Georg Matthäus (Zeichner)" ;
+    dc:identifier "2001/010" ;
+    dc:title "Planisphærium Coeleste" ;
+    dc:type "Kartographische Karten und Pläne" ;
+    dct:created " 1730  --   1750" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "01325" ;
+    dc:type """Kaffee- und Teegeschirr
+Behälter/Gefäß
+Genussmittel""" ;
+    dct:created " 1850  --   1899" ;
+    dct:medium "Tin" .
+
+[] dc:creator "Schedoni, Bartolomeo ()" ;
+    dc:identifier "LMO 15.840" ;
+    dc:title "Die büßende Magdalena" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1600  --   1610" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Leys, Hendrik de ()" ;
+    dc:identifier "OLM 286" ;
+    dc:title "Lustpartie" ;
+    dc:type "Malerei" ;
+    dct:created " 1835  --   1845" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:identifier "3972" ;
+    dc:title "Rosenmadonna" ;
+    dc:type """Volksfrömmigkeit
+Grafik""" ;
+    dct:created " 1880  --   1920" ;
+    dct:medium """Papier
+Holz
 Glas""" .
 
-[] dc:format "Papier" ;
-    dc:title "La Fayette" .
+[] dc:identifier "LMO 24.650" ;
+    dc:type """Uhrenzubehör
+Wohnen""" ;
+    dct:created " 1840  --   1860" ;
+    dct:medium """Leder
+Holz""" .
 
-[] dc:format """Messing
-Glas""" .
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22879-0" ;
+    dc:title "Bokeler Mühle, Aufbau (4)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1940" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Weinkeller" .
+[] dc:identifier "LMO 11.522" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1850  --   1899" ;
+    dct:medium """Messing
+Glas
+Holz""" .
 
-[] dc:title "Bokeler Mühle, Aufbau (1)" .
+[] dc:identifier "Pl 146" ;
+    dc:type """Plastik
+Heraldik
+Tod und Begräbnis""" ;
+    dct:created " 1600  --   1699" ;
+    dct:medium "Sandstein" .
 
-[] dc:format """Holz
+[] dc:creator """Langwagen, Christian Gottlieb
+Riedel, Gottlieb Friedrich
+ (Zeichner
+Stecher
+Verlag)""" ;
+    dc:identifier "GS Kunst 3255" ;
+    dc:title "VUË DE DRESDEN." ;
+    dc:type "Grafik" ;
+    dct:created " 1777  --   1795" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Sonnekes, Caspar Heinrich ()" ;
+    dc:identifier "09593" ;
+    dc:title "Weinkeller" ;
+    dc:type """Malerei
+Genussmittel""" ;
+    dct:created " 1850  --   1899" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Bouts, Aelbert ()" ;
+    dc:identifier "LMO 15.561" ;
+    dc:title """Das Haupt Johannes des Täufers
+Johannesschüssel""" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1500  --   1510" ;
+    dct:medium """Eichenholz
+Ölfarben""" .
+
+[] dc:creator "Tiarks, Johann Hinrich ()" ;
+    dc:identifier "00140" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß
+Genussmittel""" ;
+    dct:created " 1766  --   1766" ;
+    dct:medium "Tin" .
+
+[] dc:creator """Kuhnert, Wilhelm
+Eschner, Max
+Leipziger Schulbilderverlag F. E. Wachsmuth (Künstler
+Herausgeber
+Verlag)""" ;
+    dc:identifier "17709-9" ;
+    dc:title "Deutsch-Südwestafrika: Ochsenzug in der Grassteppe" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Pflege (Tierhaltung)
+Unterrichtsmittel""" ;
+    dct:created " 1902  --   1905" ;
+    dct:medium """Papier
+Druckfarbe""" .
+
+[] dc:creator "Tiarks, Johann Hinrich ()" ;
+    dc:identifier "00487" ;
+    dc:type "Ess- und Serviergeschirr" ;
+    dct:created " 1775  --   1799" ;
+    dct:medium "Tin" .
+
+[] dc:creator "Masson, Sophie (Fotografin)" ;
+    dc:identifier "LMO 25.178/10" ;
+    dc:title "Denkmal für Philippe Pinel" ;
+    dc:type """Fotografie
+Plastik
+Medizin""" ;
+    dct:created " 1995  --   1995" ;
+    dct:medium "Papier" .
+
+[] dc:creator " ()" ;
+    dc:identifier "OLM 48" ;
+    dc:title "Oogenbedriegertje mit Radierung" ;
+    dc:type """Malerei
+Grafik
+Bildnis""" ;
+    dct:created " 1740  --   1760" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 6.552" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1700  --   1799" ;
+    dct:medium """Holz
 Glas
 lead
 Messing""" .
 
-[] dc:format """Messing
-Glas""" .
+[] dc:creator "Coninxloo, Hans II. van ()" ;
+    dc:identifier "OLM 6/1" ;
+    dc:title "Passionszyklus - Das letzte Abendmahl" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1598  --   1604" ;
+    dct:medium """Holz
+Ölfarben""" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Selbstbildnis" .
-
-[] dc:format "Keramik" .
-
-[] dc:format """Keramik
+[] dc:creator " ()" ;
+    dc:identifier "LMO 20.202a" ;
+    dc:type """Ess- und Serviergeschirr
+Behälter/Gefäß""" ;
+    dct:created " 1760  --   1776" ;
+    dct:medium """Keramik
 Fayence""" .
 
-[] dc:format "Papier" .
+[] dc:creator " (Verlag)" ;
+    dc:identifier "GS Kunst 2963" ;
+    dc:title "VUË APRES LA MELCKBRUGG SUR LA SPAARNE A HAARLEM." ;
+    dc:type "Grafik" ;
+    dct:created " 1770  --   1795" ;
+    dct:medium "Papier" .
 
-[] dc:format "Sandstein" .
+[] dc:creator "Reints, Campe ()" ;
+    dc:identifier "SK 12" ;
+    dc:type """Behälter/Gefäß
+Erinnerungskultur""" ;
+    dct:created " 1630  --   1648" ;
+    dct:medium "Silver" .
 
-[] dc:format """Eiche
-Alabaster
-Messing
+[] dc:identifier "01354" ;
+    dc:type """Ess- und Serviergeschirr
+Behälter/Gefäß""" ;
+    dct:created " 1740  --   1760" ;
+    dct:medium "Keramik" .
+
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22876-0" ;
+    dc:title "Bokeler Mühle, Aufbau (1)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
+
+[] dc:creator "Lievens, Jan ()" ;
+    dc:identifier "LMO 15.648" ;
+    dc:title "Brustbild einer jungen Frau mit offenem Haar" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1635  --   1645" ;
+    dct:medium """Eichenholz
+Ölfarben""" .
+
+[] dc:identifier "LMO 2.656" ;
+    dc:title "Deckeldose in Form eines sitzenden Rebhuhns" ;
+    dc:type """Tafelschmuck
+Behälter/Gefäß""" ;
+    dct:created " 1765  --   1815" ;
+    dct:medium "Keramik" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 1.018b" ;
+    dc:title "Vase mit chinesischer Landschaft" ;
+    dc:type """Wohnen
+Zierobjekte""" ;
+    dct:created " 1725  --   1775" ;
+    dct:medium "Keramik" .
+
+[] dc:creator """PH Mouret
+MP & Rölken ()""" ;
+    dc:identifier "LMO 23.889" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1870  --   1890" ;
+    dct:medium """Tin
 Glas""" .
 
-[] dc:format "Papier" .
+[] dc:creator "Klemm, Barbara (Fotografin)" ;
+    dc:identifier "LMO 25.179/2" ;
+    dc:title "Emil Schumacher" ;
+    dc:type "Fotografie" ;
+    dct:created " 1984  --   1984" ;
+    dct:medium "Papier" .
 
-[] dc:format "Papier" ;
-    dc:title "Befestigungsplan von Lingen" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Die büßende Magdalena" .
-
-[] dc:title "Bokeker Mühle, Demontage (1)" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Winterlandschaft" .
-
-[] dc:format "Sandstein" .
-
-[] dc:format "Papier" ;
-    dc:title "Emil Schumacher" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Lustpartie" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Scyllium catulus/ Haifisch. ( Katzenhai )" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Mars und Venus" .
-
-[] dc:format """Tin
+[] dc:creator "Garnier, Paul ()" ;
+    dc:identifier "LMO 24.653" ;
+    dc:type """Großuhren
+Reisen""" ;
+    dct:created " 1875  --   1899" ;
+    dct:medium """Messing
 Glas""" .
 
-[] dc:format "Tin" .
-
-[] dc:format """Tin
-Messing""" .
-
-[] dc:format """Papier
-Holz
-Glas""" ;
-    dc:title "Rosenmadonna" .
-
-[] dc:format """Perlmutt
-Glas""" .
-
-[] dc:format "Papier" ;
-    dc:title "Dante" .
-
-[] dc:format """Silver
-Rubin
-Glas""" .
-
-[] dc:format """Tin
-Copper""" .
-
-[] dc:format """Silver
-Glas""" .
-
-[] dc:format """Leinwand
-Ölfarben
-Pappe""" ;
-    dc:title "Kasperletheater auf dem Kirchplatz in Jever" .
-
-[] dc:title "Aufbau Museumsdorf Gebinde" .
-
-[] dc:format "Papier" ;
-    dc:title "VUË DESSUS DU PORT VERS L´EGLISE À GOUDE." .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Passionszyklus - Die Vorführung vor Herodes" .
-
-[] dc:format "Papier" ;
-    dc:title "Schutzengel" .
-
-[] dc:format """Metal
-Glas
-Nußbaum""" .
-
-[] dc:format """Silver
-Glas
-Rubin""" .
-
-[] dc:title "Bokeler Mühle, Aufbau (2)" .
-
-[] dc:format """Tin
-Farbe""" .
-
-[] dc:format "Keramik" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Stilleben mit Hering" .
-
-[] dc:title "Demontage der Bokeler Kappenwindmühle" .
-
-[] dc:format "Tin" .
-
-[] dc:format """Holz
-Alabaster
-Messing
-Glas""" .
-
-[] dc:format "Tin" .
-
-[] dc:format "Papier" ;
-    dc:title "VUË APRES LA MELCKBRUGG SUR LA SPAARNE A HAARLEM." .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Passionszyklus - Die Vorführung vor Kaiphas" .
-
-[] dc:format """iron
-Holz""" .
-
-[] dc:format "Papier" ;
-    dc:title "Adam und Eva" .
-
-[] dc:format "Silver" .
-
-[] dc:format """Porzellan
-Messing
-Glas""" .
-
-[] dc:title "Bokeler Mühle, Aufbau (4)" .
-
-[] dc:format """Leder
-Holz""" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Deutsch-Südwestafrika: Ochsenzug in der Grassteppe" .
-
-[] dc:format "Papier" ;
-    dc:title "Simone de Beauvoir" .
-
-[] dc:format """Messing
-Glas""" .
-
-[] dc:format """Eichenholz
-Ölfarben""" ;
-    dc:title "Brustbild einer jungen Frau mit offenem Haar" .
-
-[] dc:format "Papier" .
-
-[] dc:format "Keramik" .
-
-[] dc:format "Tin" .
-
-[] dc:format "Tin" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Die büßende Magdalena in der Felsgrotte" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Jagdgerät" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Oogenbedriegertje mit Radierung" .
-
-[] dc:format """Copper
-Ölfarben""" ;
-    dc:title "Allegorie der Vier Elemente" .
-
-[] dc:format """Messing
-Glas
-Holz""" .
-
-[] dc:format """Eichenholz
-Ölfarben""" ;
-    dc:title """Das Haupt Johannes des Täufers
-Johannesschüssel""" .
-
-[] dc:format "Papier" .
-
-[] dc:format "Papier" ;
-    dc:title "SECONDS VOYAGEURS ARIENS OÚ EXPERIENCE DE MM CHARLES ET ROBERT." .
-
-[] dc:format """Holz
-Farbe
-Messing
-Glas""" .
-
-[] dc:format "Papier" ;
-    dc:title "VUE DE LA MER DE HARLEM iIN HOLLANDE" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Auszug der Franzosen aus Jever im Jahr 1813" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Herzog Friedrich August v. Holstein-Gottorp,  Herzog v. Oldenburg, Fürstbischof von Lübeck" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Bauernhochzeit" .
-
-[] dc:format """Silver
-Messing
-Glas""" .
-
-[] dc:format "Sandstein" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Enno II. von Ostfriesland" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Schiffbruch bei stürmischer See" .
-
-[] dc:format """Silver
-Messing""" .
-
-[] dc:format """Gold
+[] dc:identifier "LMO 307" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1750  --   1799" ;
+    dct:medium """Gold
 Silver
 Messing
 Glas""" .
 
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Passionszyklus - Das letzte Abendmahl" .
+[] dc:creator " ()" ;
+    dc:identifier "Pl 002" ;
+    dc:type """Plastik
+Taufgerät
+Architektur
+Geburt und Taufe""" ;
+    dct:created " 1200  --   1249" ;
+    dct:medium "Sandstein" .
 
-[] dc:format "Silver" .
+[] dc:creator "Coninxloo, Hans II. van ()" ;
+    dc:identifier "SK 10" ;
+    dc:type """Behälter/Gefäß
+Erinnerungskultur
+Lebenslauf""" ;
+    dct:created " 1654  --   1655" ;
+    dct:medium "Silver" .
 
-[] dc:format "Silver" .
+[] dc:creator "Leemans, Johannes (Maler)" ;
+    dc:identifier "LMO 10.532" ;
+    dc:title "Jagdgerät" ;
+    dc:type """Malerei
+Jagd""" ;
+    dct:created " 1660  --   1670" ;
+    dct:medium """Leinwand
+Ölfarben""" .
 
-[] dc:format "Papier" ;
-    dc:title "Denkmal für Philippe Pinel" .
+[] dc:identifier "Pl 142" ;
+    dc:type """Plastik
+Wappen
+Tod und Begräbnis""" ;
+    dct:created " 1637  --   1637" ;
+    dct:medium "Sandstein" .
 
-[] dc:format "Papier" ;
-    dc:title "The seven united provinces" .
+[] dc:creator "Tiarks, Caspar Heinrich ()" ;
+    dc:identifier "00489" ;
+    dc:type "Ess- und Serviergeschirr" ;
+    dct:created " 1780  --   1820" ;
+    dct:medium "Tin" .
 
-[] dc:format "Keramik" ;
-    dc:title "Frühstücksservice" .
+[] dc:creator "Pyman, Hinderk ()" ;
+    dc:identifier "OLM 37/0" ;
+    dc:title "Allegorie der Vier Elemente" ;
+    dc:type "Malerei" ;
+    dct:created " 1600  --   1649" ;
+    dct:medium """Copper
+Ölfarben""" .
 
-[] dc:format "Keramik" ;
-    dc:title "Vase mit chinesischer Landschaft" .
+[] dc:creator "Preti, Mattia ()" ;
+    dc:identifier "LMO 15.595" ;
+    dc:title "Die büßende Magdalena in der Felsgrotte" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1635  --   1645" ;
+    dct:medium """Leinwand
+Ölfarben""" .
 
-[] dc:format "Papier" ;
-    dc:title "Planisphærium Coeleste" .
+[] dc:creator "Leipziger Schulbilderverlag F. E. Wachsmuth ()" ;
+    dc:identifier "21688-131" ;
+    dc:title "Scyllium catulus/ Haifisch. ( Katzenhai )" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Unterrichtsmittel""" ;
+    dct:created " 1885  --   1905" ;
+    dct:medium """Papier
+Druckfarbe""" .
 
-[] dc:format "Tin" .
+[] dc:creator "Tiarks, Johann Hinrich II ()" ;
+    dc:identifier "00490" ;
+    dc:type "Ess- und Serviergeschirr" ;
+    dct:created " 1807  --   1807" ;
+    dct:medium "Tin" .
 
-[] dc:format "Keramik" ;
-    dc:title "Deckeldose in Form eines sitzenden Rebhuhns" .
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "09537" ;
+    dc:title "Kasperletheater auf dem Kirchplatz in Jever" ;
+    dc:type """Malerei
+Spiel/Spielzeug""" ;
+    dct:created " 1845  --   1845" ;
+    dct:medium """Leinwand
+Ölfarben
+Pappe""" .
 
-[] dc:format "Sandstein" .
+[] dc:creator "Culie, Katharina ()" ;
+    dc:identifier "2907-1" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Tiarks, Johann Hinrich ()" ;
+    dc:identifier "00484" ;
+    dc:type "Ess- und Serviergeschirr" ;
+    dct:created " 1736  --   1736" ;
+    dct:medium "Tin" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 3.700" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1810  --   1810" ;
+    dct:medium """Silver
+Rubin
+Glas""" .
+
+[] dc:creator "Poppinga, Leffertus Thelenius ()" ;
+    dc:identifier "OLM 100" ;
+    dc:title "Selbstbildnis" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1843  --   1843" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Winter, Bernhard ()" ;
+    dc:identifier "09561" ;
+    dc:title "Pastor Mecina Wübbena" ;
+    dc:type """Malerei
+Bildnis
+Religion""" ;
+    dct:created " 1906  --   1906" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:identifier "LMO 1.387" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1790  --   1810" ;
+    dct:medium """Holz
+Farbe
+Messing
+Glas""" .
+
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "09538" ;
+    dc:title "Auszug der Franzosen aus Jever im Jahr 1813" ;
+    dc:type "Malerei" ;
+    dct:created " 1844  --   1844" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:identifier "00568" ;
+    dc:type "Behälter/Gefäß" ;
+    dct:created " 1750  --   1799" ;
+    dct:medium """Tin
+Copper""" .
+
+[] dc:creator "Liss, Johann (Maler)" ;
+    dc:identifier "LMO 10.151" ;
+    dc:title "Bauernhochzeit" ;
+    dc:type """Malerei
+Lebenslauf""" ;
+    dct:created " 1617  --   1618" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:identifier "3295-6" ;
+    dc:title "Schutzengel" ;
+    dc:type """Volksfrömmigkeit
+Grafik""" ;
+    dct:created " 1880  --   1920" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Abke, Christoffel ()" ;
+    dc:identifier "LMO 10.295" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1730  --   1770" ;
+    dct:medium """Metal
+Glas
+Nußbaum""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 2.405" ;
+    dc:type "Monumentaluhren" ;
+    dct:created " 1680  --   1720" ;
+    dct:medium """iron
+Holz""" .
+
+[] dc:creator "Elbel ()" ;
+    dc:identifier "LMO 3.724" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1750  --   1799" ;
+    dct:medium """Silver
+Rubin
+Glas""" .
+
+[] dc:creator "Coninxloo, Hans II. van ()" ;
+    dc:identifier "OLM 6/4" ;
+    dc:title "Passionszyklus - Die Vorführung vor Herodes" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1598  --   1604" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Ottenjann, Heinrich ()" ;
+    dc:identifier "22875-2" ;
+    dc:title "Demontage der Bokeler Kappenwindmühle" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
+
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "09546" ;
+    dc:title "Winterlandschaft" ;
+    dc:type """Malerei
+Jahreslauf""" ;
+    dct:created " 1845  --   1855" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Wou, Claes Claesz. ()" ;
+    dc:identifier "OLM 528" ;
+    dc:title "Segelschiffe vor einer Stadt" ;
+    dc:type """Malerei
+Schifffahrt""" ;
+    dct:created " 1600  --   1649" ;
+    dct:medium """Holz
+tempera""" .
+
+[] dc:creator "Verwer, Justus ()" ;
+    dc:identifier "OLM 147" ;
+    dc:title "Schiffbruch bei stürmischer See" ;
+    dc:type """Malerei
+Schifffahrt
+Religion""" ;
+    dct:created " 1650  --   1674" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Tenneberg ()" ;
+    dc:identifier "LMO 1.235" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß""" ;
+    dct:created " 1755  --   1805" ;
+    dct:medium "Keramik" .
+
+[] dc:identifier "LMO 11.013" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1800  --   1820" ;
+    dct:medium """Holz
+Alabaster
+Messing
+Glas""" .
+
+[] dc:identifier "GS Kunst 2978" ;
+    dc:title "SECONDS VOYAGEURS ARIENS OÚ EXPERIENCE DE MM CHARLES ET ROBERT." ;
+    dc:type """Grafik
+Historisches Ereignis""" ;
+    dct:created " 1770  --   1795" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Murgatroid ()" ;
+    dc:identifier "LMO 3.690" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1800  --   1824" ;
+    dct:medium """Silver
+Messing
+Glas""" .
+
+[] dc:creator "Kühlberg, Georg ()" ;
+    dc:identifier "3295-5" ;
+    dc:title "Adam und Eva" ;
+    dc:type """Grafik
+Religiöse Darstellungen""" ;
+    dct:created " 1880  --   1920" ;
+    dct:medium "Papier" .
+
+[] dc:creator """Boelema de Stomme, Maerten (Künstler
+)""" ;
+    dc:identifier "OLM 40" ;
+    dc:title "Stilleben mit Hering" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1640  --   1660" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Eulenstein ()" ;
+    dc:identifier "4060-69" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Hüsig, Fritz ()" ;
+    dc:identifier "2907-6" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "LMO 23.171" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1830  --   1850" ;
+    dct:medium """Porzellan
+Messing
+Glas""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 2.212" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1800  --   1820" ;
+    dct:medium """Perlmutt
+Glas""" .
+
+[] dc:creator "Roeleffs, Derick ()" ;
+    dc:identifier "SK 11" ;
+    dc:type """Behälter/Gefäß
+Erinnerungskultur
+Lebenslauf""" ;
+    dct:created " 1673  --   1674" ;
+    dct:medium "Silver" .
+
+[] dc:creator "Klemm, Barbara (Fotografin)" ;
+    dc:identifier "LMO 25.179/1" ;
+    dc:title "Simone de Beauvoir" ;
+    dc:type "Fotografie" ;
+    dct:created " 1980  --   1980" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22877-1" ;
+    dc:title "Aufbau Museumsdorf Gebinde" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1940" .
+
+[] dc:creator " ()" ;
+    dc:identifier "Pl 029" ;
+    dc:type """Plastik
+Architektur
+Fassaden""" ;
+    dct:created " 1600  --   1649" ;
+    dct:medium "Sandstein" .
+
+[] dc:creator "Tischbein, Johann Heinrich d.Ä. ()" ;
+    dc:identifier "LMO 8.009" ;
+    dc:title "Herzog Friedrich August v. Holstein-Gottorp,  Herzog v. Oldenburg, Fürstbischof von Lübeck" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1770  --   1780" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Houben, Jos. ()" ;
+    dc:identifier "4060-25" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "OLM 325" ;
+    dc:title "Enno II. von Ostfriesland" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1709  --   1709" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Tiarks, Caspar Heinrich ()" ;
+    dc:identifier "01301" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß""" ;
+    dct:created " 1843  --   1843" ;
+    dct:medium """Tin
+Messing""" .
+
+[] dc:identifier "LMO 7.974" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium """Eiche
+Alabaster
+Messing
+Glas""" .
+
+[] dc:creator "Carre, Louis David ()" ;
+    dc:identifier "LMO 224" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1750  --   1779" ;
+    dct:medium """Messing
+Glas""" .
+
+[] dc:creator "Tiarks, Caspar Heinrich ()" ;
+    dc:identifier "00023" ;
+    dc:type """Kerzenleuchter
+Wohnen""" ;
+    dct:created " 1780  --   1800" ;
+    dct:medium "Tin" .
+
+[] dc:creator """Basset, André (Künstler
+Stecher)""" ;
+    dc:identifier "GS Kunst 2956" ;
+    dc:title "VUE DE LA MER DE HARLEM iIN HOLLANDE" ;
+    dc:type "Grafik" ;
+    dct:created " 1749  --   1763" ;
+    dct:medium "Papier" .
+
+[] dc:creator "HeizAG ()" ;
+    dc:identifier "01026" ;
+    dc:type """Medizin
+Behälter/Gefäß""" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium "Tin" .
+
+[] dc:creator "Butterfield, Michael ()" ;
+    dc:identifier "LMO 6.882" ;
+    dc:type "Elementaruhren" ;
+    dct:created " 1690  --   1710" ;
+    dct:medium """Silver
+Messing""" .
+
+[] dc:creator "Hüsig, Fritz ()" ;
+    dc:identifier "2907-11" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Masson, Sophie (Fotografin)" ;
+    dc:identifier "LMO 25.178/12" ;
+    dc:title "La Fayette" ;
+    dc:type """Fotografie
+Plastik""" ;
+    dct:created " 1995  --   1995" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22870-0" ;
+    dc:title "Bokeker Mühle, Demontage (1)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
+
+[] dc:creator "Angoille ()" ;
+    dc:identifier "LMO 24.652" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1790  --   1810" ;
+    dct:medium """Messing
+Glas""" .
+
+[] dc:identifier "00948" ;
+    dc:type """Schreiben
+Behälter/Gefäß""" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium """Tin
+Farbe""" .
+
+[] dc:creator "Wilter, John ()" ;
+    dc:identifier "LMO 2.731" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1750  --   1799" ;
+    dct:medium """Silver
+Glas""" .
+
+[] dc:creator "Matteis, Paolo de ()" ;
+    dc:identifier "LMO 14.300" ;
+    dc:title "Mars und Venus" ;
+    dc:type "Malerei" ;
+    dct:created " 1685  --   1695" ;
+    dct:medium """Leinwand
+Ölfarben""" .
 

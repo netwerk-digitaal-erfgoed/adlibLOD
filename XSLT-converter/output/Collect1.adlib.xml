@@ -16252,8 +16252,8 @@ Reason for Valuation - possible purchase</valuation.notes>
     <cgistring>
       <param name="database">Collect</param>
     </cgistring>
-    <link_resolve_time unit="mS" culture="en-US">93.8563</link_resolve_time>
-    <xml_creation_time unit="mS" culture="en-US">14</xml_creation_time>
-    <response_time unit="mS" culture="en-US">5597</response_time>
+    <link_resolve_time unit="mS" culture="en-US">157.0625</link_resolve_time>
+    <xml_creation_time unit="mS" culture="en-US">17</xml_creation_time>
+    <response_time unit="mS" culture="en-US">10453</response_time>
   </diagnostic>
 </adlibXML>

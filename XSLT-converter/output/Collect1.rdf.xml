@@ -1,355 +1,244 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
   <rdf:Description>
+    <dc:identifier>YORCM : 2002.181.1-2</dc:identifier>
+    <dc:type>Working life</dc:type>
     <dc:title>Rowntree's Milk Chocolate</dc:title>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>oolite</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>oolite</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>oolite</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>tesserae</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Bronze</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Bronze</dc:format>
-  </rdf:Description>
-  <rdf:Description/>
-  <rdf:Description/>
-  <rdf:Description/>
-  <rdf:Description/>
-  <rdf:Description>
-    <dc:title>The Warren - Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The Warren - Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>''The Warren''. Blockley.</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The Warren Dovedale, Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The Warren</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The ''Old Fish'' tombstone. (Blockley)</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Fish Cottage, Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Fish Cottage, Blockley.</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Blockley - The Manor</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Windy Wold Bungalow Blockley</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Blockley 79</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Holcombe House, Painswick, Glos.
-The Pool, Blockley, Glos.</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Windy Wold Bungalow, Blockley.</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Blockley from the Church Tower</dc:title>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>cardboard</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Draco and Ursa Minor</dc:title>
-    <dc:format>Tissue paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Camelopardalis, Tarandus and Custos Messium</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Cassiopeia</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Cepheus</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Gloria Frederici, Andromeda and Triangular</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Perseus and Caput Medusae</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Auriga</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Lynx and Telescopium Herschilii</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Ursa Major</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Bootes Canes Venatici, Coma Berenicesm and Quadrans Muralis</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Taurus Poniatowski, Serpentarius, Scutum Sobiesky and Serpens</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Delphinus, Sagitta, Aquila and Antinous</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Lacerta, Cygnus, Lyra, Vulpecula and Anser</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Pegasus and Equuleus</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Aries and Musca Borealis</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Taurus</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Gemini</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Cancer</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Leo Major and Leo Minor</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Virgo</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Libra</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Scorpio</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Sagittarius and Corona Australis, Microscopium and Telescopium</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Capricornus</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Aquarius, Piscis Australis and Ballon Aerostatique</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Pisces</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Psalterium Georgii, Fluvius Eridanus, Cetus, Officina Sculptoris, Fornax Chemica and Machina Electrica</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellation Orion</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Canis Major, Lepus, Columba Noachi and Cela Sculptoris</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>the constellations Monoceros, Canis Minor and Atelier Typographique</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The constellations Noctua, Corvus, Crater, Sextans Uraniae, Hydra, Felis, Lupus, Centaurus, Antila Pneumatica, Argo Navis and Pyxis Nautica</dc:title>
-    <dc:format>Tissue</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver</dc:format>
-  </rdf:Description>
-  <rdf:Description/>
-  <rdf:Description>
-    <dc:format>Mahogany</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Throwing Stick (Jandamarra's Boomerang)</dc:title>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:creator>Rowntree (manufacturer)</dc:creator>
+    <dct:created> 1919  --   1930</dct:created>
+    <dct:medium>paper</dct:medium>
+  </rdf:Description>
+  <rdf:Description><dc:identifier>A348</dc:identifier><dct:created> 150  --   250</dct:created><dct:medium>oolite</dct:medium>lowerh3071mm14661060</rdf:Description>
+  <rdf:Description><dc:identifier>B958</dc:identifier><dct:medium>oolite</dct:medium>h3071mm1466310</rdf:Description>
+  <rdf:Description><dc:identifier>A350</dc:identifier><dct:medium>oolite</dct:medium>h3071mm1466280</rdf:Description>
+  <rdf:Description><dc:identifier>T22</dc:identifier><dc:creator>Corinian School (mosaicist)</dc:creator><dct:medium>tesserae</dct:medium>Panel Cw3079mm14663350</rdf:Description>
+  <rdf:Description><dc:identifier>1997/25/18/5</dc:identifier><dct:created> 450  --   500</dct:created><dct:medium>Bronze</dct:medium>w3079mm146670</rdf:Description>
+  <rdf:Description><dc:identifier>1997/25/18/20</dc:identifier><dct:created> 450  --   500</dct:created><dct:medium>Bronze</dct:medium>ringdia.3086mm146621.5</rdf:Description>
+  <rdf:Description><dc:identifier>LB506</dc:identifier>h3071mm14661650</rdf:Description>
+  <rdf:Description><dc:identifier>LB507</dc:identifier><dc:creator>Smith, E and Sons ()</dc:creator>with laddersh3071m30892.6</rdf:Description>
+  <rdf:Description>
+    <dc:identifier>2000/89</dc:identifier>
+  </rdf:Description>
+  <rdf:Description>
+    <dc:identifier>2000/88</dc:identifier>
+  </rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/1</dc:identifier><dc:title>The Warren - Blockley</dc:title><dc:creator>Packer, Frank (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/2</dc:identifier><dc:title>The Warren - Blockley</dc:title><dc:creator>Packer, Frank (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/3</dc:identifier><dc:title>''The Warren''. Blockley.</dc:title><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/4</dc:identifier><dc:title>The Warren Dovedale, Blockley</dc:title><dc:creator>Packers Studio (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/5</dc:identifier><dc:title>The Warren</dc:title><dct:created> 1900  --   1900</dct:created><dct:medium>cardboard</dct:medium>w3079mm146688</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/6</dc:identifier><dc:title>The ''Old Fish'' tombstone. (Blockley)</dc:title><dc:creator>Chapman (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146687</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/7</dc:identifier><dc:title>Fish Cottage, Blockley</dc:title><dc:creator>Chapman &amp; Co. ()</dc:creator><dct:medium>cardboard</dct:medium>l3096mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/8</dc:identifier><dct:medium>cardboard</dct:medium>l3096mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/9</dc:identifier><dct:medium>cardboard</dct:medium>l3096mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/10</dc:identifier><dc:title>Fish Cottage, Blockley.</dc:title><dc:creator>Sirett, C ()</dc:creator><dct:medium>cardboard</dct:medium>l3096mm1466136</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/15</dc:identifier><dct:created> 1978  --   1978</dct:created><dct:medium>paper</dct:medium>l3096mm1466164</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/12</dc:identifier><dc:creator>Chettleburgh, J (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm1466151</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/16</dc:identifier><dct:medium>paper</dct:medium>l3096mm1466165</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/11</dc:identifier><dc:title>Blockley</dc:title><dct:created> 1930  --   1930</dct:created><dct:medium>cardboard</dct:medium>l309689</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/13</dc:identifier><dct:medium>paper</dct:medium>l3096mm146688</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/14</dc:identifier><dc:title>Blockley</dc:title><dc:creator>Chapman (photographer)</dc:creator><dct:medium>cardboard</dct:medium>l3096mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/17</dc:identifier><dc:title>Blockley - The Manor</dc:title><dc:creator>Packer, Frank (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146689</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/18</dc:identifier><dct:medium>paper</dct:medium>w3079mm146671</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/22</dc:identifier><dc:title>Windy Wold Bungalow Blockley</dc:title><dc:creator>Packer, Frank (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146688</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/21</dc:identifier><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/20</dc:identifier><dc:title>Blockley 79</dc:title><dc:creator>Simms, Percy, Mr (photographer)</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146684</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/23</dc:identifier><dc:title>Holcombe House, Painswick, Glos.
+The Pool, Blockley, Glos.</dc:title><dct:medium>cardboard</dct:medium>w3079mm1466105</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/24</dc:identifier><dc:title>Windy Wold Bungalow, Blockley.</dc:title><dct:medium>cardboard</dct:medium>w3079mm146689</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/25</dc:identifier><dc:title>Blockley from the Church Tower</dc:title><dct:medium>cardboard</dct:medium>w3079mm146690</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/26</dc:identifier><dc:creator>Chapman &amp; Co. ()</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146686</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/27</dc:identifier><dc:creator>Lucking, J ()</dc:creator><dct:medium>cardboard</dct:medium>w3079mm146688</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/28</dc:identifier><dct:medium>cardboard</dct:medium>w3079mm146681</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/29</dc:identifier><dct:created> 1952  --   1990</dct:created><dct:medium>paper</dct:medium>w3079mm146665</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/30</dc:identifier><dct:medium>paper</dct:medium>w3079mm146689</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/42</dc:identifier><dct:medium>paper</dct:medium>w3079mm1466221</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/32</dc:identifier><dct:medium>cardboard</dct:medium>w3079mm146687</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/33a</dc:identifier><dct:created> 1973  --   1973</dct:created><dct:medium>paper</dct:medium>w3079mm1466165</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/41</dc:identifier><dct:medium>cardboard</dct:medium>w3079mm1466163</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/43</dc:identifier><dct:medium>paper</dct:medium>w3079mm1466165</rdf:Description>
+  <rdf:Description><dc:identifier>1990/133/288/44</dc:identifier><dc:creator>Bawden, W R (photographer)</dc:creator><dct:created> 1974  --   1990</dct:created><dct:medium>paper</dct:medium>w3079mm1466151</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218602</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Draco and Ursa Minor</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue paper</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218603</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Camelopardalis, Tarandus and Custos Messium</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218604</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Cassiopeia</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218605</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Cepheus</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218606</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Gloria Frederici, Andromeda and Triangular</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218607</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Perseus and Caput Medusae</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218608</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Auriga</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218609</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Lynx and Telescopium Herschilii</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218610</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Ursa Major</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218611</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Bootes Canes Venatici, Coma Berenicesm and Quadrans Muralis</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218612</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Taurus Poniatowski, Serpentarius, Scutum Sobiesky and Serpens</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218613</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Delphinus, Sagitta, Aquila and Antinous</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218614</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Lacerta, Cygnus, Lyra, Vulpecula and Anser</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218615</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Pegasus and Equuleus</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218616</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Aries and Musca Borealis</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218617</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Taurus</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218618</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Gemini</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218619</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Cancer</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218620</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Leo Major and Leo Minor</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218621</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Virgo</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218622</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Libra</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218623</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Scorpio</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218624</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Sagittarius and Corona Australis, Microscopium and Telescopium</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218625</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Capricornus</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218626</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Aquarius, Piscis Australis and Ballon Aerostatique</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218627</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Pisces</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218628</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Psalterium Georgii, Fluvius Eridanus, Cetus, Officina Sculptoris, Fornax Chemica and Machina Electrica</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218629</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellation Orion</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466139</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218630</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Canis Major, Lepus, Columba Noachi and Cela Sculptoris</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218631</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>the constellations Monoceros, Canis Minor and Atelier Typographique</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS218632</dc:identifier><dc:type>3. ASTRONOMY, Sundries</dc:type><dc:title>The constellations Noctua, Corvus, Crater, Sextans Uraniae, Hydra, Felis, Lupus, Centaurus, Antila Pneumatica, Argo Navis and Pyxis Nautica</dc:title><dc:creator>Leigh, Samuel, 1820 - 1825 (fl.) (Publisher)</dc:creator><dct:created> 1820  --   1825</dct:created><dct:medium>Tissue</dct:medium>Overallwidth1457mm1466200</rdf:Description>
+  <rdf:Description><dc:identifier>NMS204058</dc:identifier><dc:type>3. ASTRONOMY, Celestial globes</dc:type><dc:creator>Diya' ad-din Muhammad ()</dc:creator><dct:created> 1663  --   1663</dct:created><dct:medium>Silver</dct:medium>Overalldepth3010mm1466170</rdf:Description>
+  <rdf:Description><dc:identifier>NMS418489</dc:identifier><dc:type>3. ASTRONOMY, Space</dc:type><dc:creator>Miller, John, 1746 - 1815 (Instrument maker)</dc:creator><dct:created> 1770  --   1790</dct:created>Overallheight3035mm14661800</rdf:Description>
+  <rdf:Description>
+    <dc:identifier>NMS215546</dc:identifier>
+    <dc:type>3. ASTRONOMY, Models</dc:type>
+    <dc:creator>G. Adams (Orrery maker)</dc:creator>
+    <dct:created> 1770  --   1790</dct:created>
+    <dct:medium>Mahogany</dct:medium>
+  </rdf:Description>
+  <rdf:Description><dc:identifier>1</dc:identifier><dc:title>Throwing Stick (Jandamarra's Boomerang)</dc:title><dc:creator> ()</dc:creator><dct:created>circa 1880  --  circa 1900</dct:created>height
+width
+depth3130mm
+mm
+mm313110</rdf:Description>
+  <rdf:Description>
+    <dc:identifier>2</dc:identifier>
     <dc:title>Zelt, Opus XIV (Tent)</dc:title>
+    <dc:creator>Klinger, Max ()</dc:creator>
+    <dct:created> 1911  --   1915</dct:created>
   </rdf:Description>
+  <rdf:Description><dc:identifier>3</dc:identifier><dc:title>"Jag" Outfit</dc:title><dc:creator>Humphries, Barry (Entertainer)</dc:creator><dct:created> 1972  --   1976</dct:created><dct:medium>Cotton Denim</dct:medium>width1457mm1466380</rdf:Description>
+  <rdf:Description><dc:identifier>4</dc:identifier><dc:title>Mechanical horse for the production of "Camelot"</dc:title><dc:creator>Truscott, John (Designer)</dc:creator><dct:created> 1964  --   1964</dct:created>height
+width3144mm
+mm31451540</rdf:Description>
+  <rdf:Description><dc:identifier>5</dc:identifier><dc:title>A grotesque.</dc:title><dc:creator>Murray, Alexander ()</dc:creator><dct:created> 1925  --   1925</dct:created><dct:medium>earthenware</dct:medium>height
+width
+depth3130cm
+cm
+cm314815.4</rdf:Description>
   <rdf:Description>
-    <dc:title>"Jag" Outfit</dc:title>
-    <dc:format>Cotton Denim</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Mechanical horse for the production of "Camelot"</dc:title>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>A grotesque.</dc:title>
-    <dc:format>earthenware</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>6</dc:identifier>
     <dc:title>Poster for 'A Package Deal - Assembly Book'</dc:title>
-    <dc:format>paper</dc:format>
+    <dc:creator>Little, Colin ()</dc:creator>
+    <dct:medium>paper</dct:medium>
   </rdf:Description>
+  <rdf:Description><dc:identifier>7</dc:identifier><dc:title>The Soup Kitchen, Quay, Paris</dc:title><dc:creator>Traill, Jessie ()</dc:creator><dct:created> 1930  --   1930</dct:created><dct:medium>cream laid paper</dct:medium>plate-mark
+plate-mark
+sheet
+sheetheight
+width
+height
+width3157cm
+cm
+cm
+cm315817.9</rdf:Description>
   <rdf:Description>
-    <dc:title>The Soup Kitchen, Quay, Paris</dc:title>
-    <dc:format>cream laid paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>8</dc:identifier>
     <dc:title>Costume for the Chief Eunuch</dc:title>
+    <dc:creator>Bakst, Leon (Designer)</dc:creator>
+    <dct:created> 1910  --   1910</dct:created>
   </rdf:Description>
+  <rdf:Description><dc:identifier>9</dc:identifier><dc:title>MItchell</dc:title><dc:creator>Lindsay, Lionel ()</dc:creator><dct:medium>paper</dct:medium>printed image
+printed image
+sheet
+sheetheight
+width
+height
+width3157cm
+cm
+cm
+cm315815.6</rdf:Description>
   <rdf:Description>
-    <dc:title>MItchell</dc:title>
-    <dc:format>paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>10</dc:identifier>
     <dc:title>Imprisoned</dc:title>
-    <dc:format>paper</dc:format>
+    <dc:creator>Buckley, Sue ()</dc:creator>
+    <dct:created> 1960  --   1960</dct:created>
+    <dct:medium>paper</dct:medium>
   </rdf:Description>
+  <rdf:Description><dc:identifier>11</dc:identifier><dc:title>Iffley Mill, Oxford</dc:title><dc:creator>Long, Sydney ()</dc:creator><dct:created> 1917  --   1917</dct:created><dct:medium>wove paper</dct:medium>plate-mark
+plate-markheight
+width3144cm
+cm316815.8</rdf:Description>
+  <rdf:Description><dc:identifier>12</dc:identifier><dc:title>Basket</dc:title><dc:creator>Djorlam, Leonie ()</dc:creator><dct:created> 2002  --   2002</dct:created>Without Handle
+Without Handle
+Without Handle
+Without Handle
+Without Handle
+Without Handleheight
+width
+depth
+height
+width
+depth3173cm
+cm
+cm
+cm
+cm
+cm317427.4</rdf:Description>
   <rdf:Description>
-    <dc:title>Iffley Mill, Oxford</dc:title>
-    <dc:format>wove paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Basket</dc:title>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>13</dc:identifier>
     <dc:title>Figure and dog and horse and crutch</dc:title>
-    <dc:format>paper</dc:format>
+    <dc:creator>Boyd, Arthur ()</dc:creator>
+    <dct:created> 1960  --   1970</dct:created>
+    <dct:medium>paper</dct:medium>
   </rdf:Description>
+  <rdf:Description><dc:identifier>14</dc:identifier><dc:title>17: "Then slip your mouth aside just as he is sure of it"</dc:title><dc:creator>Boyd, Arthur
+Durack, Elizabeth (artist
+contributing artist)</dc:creator><dct:created> 1970  --   1970</dct:created><dct:medium>heavy wove paper</dct:medium>plate mark
+plate mark
+sheet
+sheetheight
+width
+height
+width3157cm
+cm
+cm
+cm315834.8</rdf:Description>
+  <rdf:Description><dc:identifier>15</dc:identifier><dc:title>19. St Francis with a brother, preaching naked</dc:title><dc:creator>Boyd, Arthur
+Watson, John ()</dc:creator><dct:created> 1965  --   1965</dct:created><dct:medium>thick white wove paper</dct:medium>printed image
+printed image
+plate mark
+plate mark
+sheet (irregular)
+sheet (irregular)height
+width
+height
+width
+height
+width3181cm
+cm
+cm
+cm
+cm
+cm317448</rdf:Description>
+  <rdf:Description><dc:identifier>16</dc:identifier><dc:title>The "Marsupial" Dress</dc:title><dc:creator>Humphries, Barry
+Goodwin, Bill (Entertainer
+Costumier)</dc:creator><dct:created> 1981  --   1981</dct:created><dct:medium>wool
+silk</dct:medium>width
+depth3188mm
+mm3145480</rdf:Description>
+  <rdf:Description><dc:identifier>17</dc:identifier><dc:title>Floral dress worn by Barry Humphries</dc:title><dc:creator>Humphries, Barry
+Goodwin, Bill (Entertainer
+Costumier)</dc:creator><dct:created>circa 1983  --  circa 1987</dct:created>width1457cm14581040</rdf:Description>
   <rdf:Description>
-    <dc:title>17: "Then slip your mouth aside just as he is sure of it"</dc:title>
-    <dc:format>heavy wove paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>19. St Francis with a brother, preaching naked</dc:title>
-    <dc:format>thick white wove paper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The "Marsupial" Dress</dc:title>
-    <dc:format>wool
-silk</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Floral dress worn by Barry Humphries</dc:title>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>18</dc:identifier>
     <dc:title>Newspaper clipping</dc:title>
+    <dc:creator>Laird, Kenneth (actor)</dc:creator>
+    <dct:created> 1963  --   1963</dct:created>
   </rdf:Description>
   <rdf:Description>
+    <dc:identifier>19</dc:identifier>
     <dc:title>Painting of Kenneth Laird</dc:title>
-    <dc:format>Photographic Paper</dc:format>
+    <dc:creator>Laird, Kenneth (actor)</dc:creator>
+    <dct:created> 1963  --   1963</dct:created>
+    <dct:medium>Photographic Paper</dct:medium>
   </rdf:Description>
   <rdf:Description>
+    <dc:identifier>20</dc:identifier>
     <dc:title>Script</dc:title>
-    <dc:format>Photographic Paper</dc:format>
+    <dc:creator>Laird, Kenneth (actor)</dc:creator>
+    <dct:created> 1963  --   1963</dct:created>
+    <dct:medium>Photographic Paper</dct:medium>
   </rdf:Description>
 </rdf:RDF>

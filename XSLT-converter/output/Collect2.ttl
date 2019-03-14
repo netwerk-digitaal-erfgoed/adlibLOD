@@ -5,308 +5,788 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-[] dc:format "Sandstein" .
+[] dc:creator "Faber, Martin ()" ;
+    dc:identifier "OLM 1" ;
+    dc:title "Die Königin von Saba" ;
+    dc:type """Malerei
+Religion
+Justiz""" ;
+    dct:created " 1617  --   1617" ;
+    dct:medium """Leinwand
+Ölfarben""" .
 
-[] dc:title "La Traviata" .
+[] dc:creator "Shell Technischer Dienst ()" ;
+    dc:identifier "18233-6" ;
+    dc:title "Shell-Lehrtafel: Sommerbetrieb" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Fahrzeug
+Schulwandbild""" ;
+    dct:created " 1930  --   1940" ;
+    dct:medium """Papier
+Druckfarbe""" .
 
-[] dc:format "Papier" ;
-    dc:title "Westfälischer Kreis II" .
+[] dc:creator "Burwinkel, Hubert ()" ;
+    dc:identifier "22884-0" ;
+    dc:title "Bokeler Mühle, Neuzustand" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1941  --   1941" .
 
-[] dc:format "Lame Silk" ;
-    dc:title "Dress for production of \"Romeo and Juliet\"" .
-
-[] dc:format "Silk Velvet" ;
-    dc:title "Dress for production of \"Lohengrin\"" .
-
-[] dc:title "Eucalyptus praecox (Maiden)" .
-
-[] dc:title "Box of weevils named by Francis Pascoe" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Schwein" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Shell-Lehrtafel: Sommerbetrieb" .
-
-[] dc:format "Tin" .
-
-[] dc:title "gold and silver chafers" .
-
-[] dc:title "Viper fish - Chauliodus sloani" .
-
-[] dc:title "Bokeler Mühle, Altzustand" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Wangerooge von der Seeseite" .
-
-[] dc:format "Tin" .
-
-[] dc:format "Papier" ;
-    dc:title "Bela Bartok" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Passionszyklus - Die Kreuzigung" .
-
-[] dc:format """Alabaster
-Messing
-Glas""" ;
-    dc:title "Portaluhr" .
-
-[] dc:title "Bokeler Mühle, Demontage (4)" .
-
-[] dc:format """Papier
+[] dc:identifier "2065" ;
+    dc:title "Immerwährende Hilfe" ;
+    dc:type """Grafik
+Religion""" ;
+    dct:created " 1920  --   1940" ;
+    dct:medium """Papier
 Glas
-Holz""" ;
-    dc:title "Herz Jesu" .
+Holz""" .
 
-[] dc:format """Papier
-Glas
-Holz""" ;
-    dc:title "Heilige Familie" .
+[] dc:creator "Leipziger Schulbilderverlag F. E. Wachsmuth (Verlag)" ;
+    dc:identifier "17709-8" ;
+    dc:title "Dromedar" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Unterrichtsmittel""" ;
+    dct:created " 1885  --   1905" ;
+    dct:medium """Papier
+Druckfarbe""" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Archivar Georg Sello" .
+[] dc:creator "Ottenjann, Heinrich ()" ;
+    dc:identifier "22872-0" ;
+    dc:title "Bokeler Mühle, Demontage (3)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
 
-[] dc:title "Tyrannosaurus Rex" .
+[] dc:identifier "Pl 007" ;
+    dc:type """Plastik
+Religion
+Lebenslauf
+Tod und Begräbnis""" ;
+    dct:created " 1200  --   1214" ;
+    dct:medium "Sandstein" .
 
-[] dc:format """Alabaster
+[] dc:identifier "LMO 4.040" ;
+    dc:title "Kohlkopfterrine" ;
+    dc:type """Tafelschmuck
+Behälter/Gefäß""" ;
+    dct:created " 1764  --   1799" ;
+    dct:medium "Keramik" .
+
+[] dc:creator "Russell, Colin ()" ;
+    dc:identifier "34" ;
+    dc:title "Artworkers calendar, 1984: August" ;
+    dct:medium "paper" .
+
+[] dc:creator " ()" ;
+    dc:identifier "Pl 061" ;
+    dc:type """Plastik
+Arbeitsgeräte (Apotheke)""" ;
+    dct:created " 1644  --   1644" ;
+    dct:medium "Bronze" .
+
+[] dc:identifier "LMO 9.350" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1820  --   1840" ;
+    dct:medium """Alabaster
 Messing
 Perlmutt
 Holz
 Glas""" .
 
-[] dc:title "Part of articulated skeleton of Blue Whale, Balaenoptera musculus" .
+[] dc:identifier "41" ;
+    dc:title "Banksia spinulosa x ericifolia 'Giant Candles'" .
 
-[] dc:title "Bokeler Mühle, Neuzustand" .
+[] dc:creator """Melba, Nellie
+Helen Porter Armstrong nee Mitchell (Singer, Opera
+)""" ;
+    dc:identifier "22" ;
+    dc:title "Dress for production of \"Romeo and Juliet\"" ;
+    dct:created " 1886  --   1928" ;
+    dct:medium "Lame Silk" .
 
-[] dc:format """Messing
-iron""" .
+[] dc:creator " ()" ;
+    dc:identifier "Pl 001" ;
+    dc:type """Plastik
+Taufgerät
+Architektur
+Geburt und Taufe""" ;
+    dct:created " 1200  --   1300" ;
+    dct:medium "Sandstein" .
 
-[] dc:format """Gold
-Perle
-Rubin""" .
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22871-1" ;
+    dc:title "Demontage der Bokeler Kappenwindmühle" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
 
-[] dc:format "Papier" .
-
-[] dc:format "Bronze" .
-
-[] dc:format """cardboard
-gouache""" ;
-    dc:title "Dress design for \"Wine, Women and Song\" musical production" .
-
-[] dc:format "Sandstein" .
-
-[] dc:format "Papier" ;
-    dc:title "LA MAISON DE LA VILLE À MIDDELBOURG." .
-
-[] dc:format "Keramik" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Neapel" .
-
-[] dc:format "Tin" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Die Königin von Saba" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Hering (und) Köhler" .
-
-[] dc:format """Papier
-Glas
-Holz""" ;
-    dc:title "Immerwährende Hilfe" .
-
-[] dc:title "Niedergelegtes Gebinde und Nebengebäude" .
-
-[] dc:format "Tin" ;
-    dc:title "Bismarck" .
-
-[] dc:format """Holz
-Ölfarben""" ;
-    dc:title "Fischer-Maskerade" .
-
-[] dc:title "Bokeler Mühle, Demontage (2)" .
-
-[] dc:format """cardboard
-Wood""" ;
-    dc:title "The Maestro's Company" .
-
-[] dc:format """Silver
+[] dc:creator "Balthazar, Charles ()" ;
+    dc:identifier "LMO 12.604" ;
+    dc:title "Portaluhr" ;
+    dc:type """Messgerät
+Wohnen""" ;
+    dct:created " 1820  --   1840" ;
+    dct:medium """Alabaster
+Messing
 Glas""" .
 
-[] dc:format """Bronze
-Marmor
-Glas""" ;
-    dc:title "Tischuhr" .
+[] dc:creator "Tiarks, Wilhelm Albrecht ()" ;
+    dc:identifier "00587" ;
+    dc:type """Essen und Trinken
+Behälter/Gefäß""" ;
+    dct:created " 1775  --   1799" ;
+    dct:medium "Tin" .
 
-[] dc:format "Papier" ;
-    dc:title "Ulrich I von Ostfriesland" .
+[] dc:creator "Joan Sutherland Williamson Opera (Production company)" ;
+    dc:identifier "35" ;
+    dc:title "La Traviata" ;
+    dct:created " 1994  --   1994" .
 
-[] dc:format "Sandstein" ;
-    dc:title "Hausstein Oliphant" .
+[] dc:creator """Smith, Jennet
+Brown, John (choreographer
+recording)""" ;
+    dc:identifier "Video" ;
+    dc:title "Other suns" ;
+    dc:type "video art" ;
+    dct:created " 2015-02-23  --   2015-02-23" ;
+    dct:medium "digital" .
 
-[] dc:format """Holz
+[] dc:creator "Houben, Jos. ()" ;
+    dc:identifier "4060-26" ;
+    dc:type """Fotografie
+Lebenslauf""" ;
+    dct:created " 1890  --   1910" ;
+    dct:medium "Papier" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 1.407" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1790  --   1810" ;
+    dct:medium """Holz
 Messing
 lead
 Farbe""" .
 
-[] dc:format "Sandstein" .
+[] dc:identifier "40" ;
+    dc:title "Viper fish - Chauliodus sloani" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Jever von Süden" .
+[] dc:creator """Leizelt, F.
+Pronk, C. (Zeichner
+Stecher)""" ;
+    dc:identifier "GS Kunst 3220" ;
+    dc:title "LA MAISON DE LA VILLE À MIDDELBOURG." ;
+    dc:type """Grafik
+Architektur""" ;
+    dct:created " 1770  --   1795" ;
+    dct:medium "Papier" .
 
-[] dc:title "Captain Hook puppet" .
-
-[] dc:format "thick wove Velin Cuve Rives 300 gsm paper" ;
-    dc:title "Whipping tiny trees: Image 14" .
-
-[] dc:format """Holz
-Glas""" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Shell-Lehrtafel: Schäden durch ungeeignete Motorenöle" .
-
-[] dc:format """Tin
-Messing""" .
-
-[] dc:format "Papier" ;
-    dc:title "Vuë d´un combat naval" .
-
-[] dc:format "Papier" ;
-    dc:title "VUE DE SANTULIET DE HOLLANDE." .
-
-[] dc:format "Keramik" ;
-    dc:title "Teller mit plastisch geformten Oliven" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Dromedar" .
-
-[] dc:title "Alice In Wonderland puppet" .
-
-[] dc:title "Holothurian" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Hund" .
-
-[] dc:format "Keramik" ;
-    dc:title "Kuh" .
-
-[] dc:format """Tin
-Holz""" .
-
-[] dc:format "Silver" .
-
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Die heilige Katharina von Alexandrien" .
-
-[] dc:format """Papier
-Druckfarbe""" ;
-    dc:title "Schaf" .
-
-[] dc:title "Bokeler Mühle, Demontage (3)" .
-
-[] dc:format """Bronze
-Glas""" .
-
-[] dc:title "La Traviata" .
-
-[] dc:format """Tin
-Holz""" .
-
-[] dc:format """Messing
-lead
-Holz""" .
-
-[] dc:format """Keramik
+[] dc:creator """Wächtersbach
+Fesca, Ursula (Designerin)""" ;
+    dc:identifier "02729" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß""" ;
+    dct:created " 1933  --   1950" ;
+    dct:medium """Keramik
 Peddigrohr""" .
 
-[] dc:title "Set design for \"Summer of the Seventeenth Doll\"" .
+[] dc:creator "Ottenjann, Heinrich ()" ;
+    dc:identifier "22874-0" ;
+    dc:title "Niedergelegtes Gebinde und Nebengebäude" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
 
-[] dc:format """cardboard
-gouache""" ;
-    dc:title "Dress design for \"Showgirls\" musical production - Finale" .
+[] dc:creator """Tiren, Nils
+Georg Westermann Verlag (Künstler
+)""" ;
+    dc:identifier "21688-13" ;
+    dc:title "Hering (und) Köhler" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Unterrichtsmittel""" ;
+    dct:created " 1959  --   1961" ;
+    dct:medium """Papier
+Druckfarbe""" .
 
-[] dc:title "Demontage der Bokeler Kappenwindmühle" .
+[] dc:creator "Shell Technischer Dienst ()" ;
+    dc:identifier "18233-4" ;
+    dc:title "Shell-Lehrtafel: Schäden durch ungeeignete Motorenöle" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Fahrzeug
+Unterrichtsmittel""" ;
+    dct:created " 1930  --   1940" ;
+    dct:medium """Papier
+Druckfarbe""" .
 
-[] dc:format "paper" ;
-    dc:title "Artworkers calendar, 1984: August" .
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22871-0" ;
+    dc:title "Bokeler Mühle, Demontage (2)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Johanna Catharina Garlichs" .
+[] dc:creator "Laird, Kenneth (actor)" ;
+    dc:identifier "21" ;
+    dc:title "Photograph album" ;
+    dct:medium "Photographic Paper" .
 
-[] dc:format "Papier" ;
-    dc:title "Landkarte von Westfalen (Westfälischer Kreis)" .
+[] dc:creator """Tripp, Tony
+Lawler, Ray
+Nevin, Robin (Designer
+Dramatist
+Director)""" ;
+    dc:identifier "26" ;
+    dc:title "Set design for \"Summer of the Seventeenth Doll\"" ;
+    dct:created " 1995  --   1995" .
 
-[] dc:format "digital" ;
-    dc:title "Other suns" .
-
-[] dc:format """Metal
-Felt""" ;
-    dc:title "Gussey Galah puppet" .
-
-[] dc:format "Crepe de chine silk" ;
-    dc:title "Dress for production of \"Otello\"" .
-
-[] dc:title "Demontage der Bokeler Kappenwindmühle" .
-
-[] dc:format "Photographic Paper" ;
-    dc:title "Photograph album" .
-
-[] dc:format "Keramik" ;
-    dc:title "Kohlkopfterrine" .
-
-[] dc:format "Papier" ;
-    dc:title "Westfälischer Kreis I" .
-
-[] dc:format "Messing" .
-
-[] dc:format "Keramik" ;
-    dc:title "Deckeldose Spargelbund" .
-
-[] dc:format "Tin" .
-
-[] dc:format """cardboard
-gouache""" ;
-    dc:title "Dress design for \"Showgirls\" musical production" .
-
-[] dc:format """Alabaster
-Messing""" .
-
-[] dc:format """Messing
-Holz
+[] dc:creator "Roque, Jean Joseph ()" ;
+    dc:identifier "LMO 9.420" ;
+    dc:title "Tischuhr" ;
+    dc:type """Messgerät
+Wohnen""" ;
+    dct:created " 1750  --   1789" ;
+    dct:medium """Bronze
+Marmor
 Glas""" .
 
-[] dc:format "Tin" .
+[] dc:creator "Tiarks, Wilhelm Albrecht ()" ;
+    dc:identifier "00017" ;
+    dc:type """Kerzenleuchter
+Wohnen""" ;
+    dct:created " 1777  --   1777" ;
+    dct:medium "Tin" .
 
-[] dc:format "Bronze" .
+[] dc:creator "Winter, Bernhard ()" ;
+    dc:identifier "09560" ;
+    dc:title "Hund" ;
+    dc:type """Malerei
+Haustier""" ;
+    dct:created " 1945  --   1945" ;
+    dct:medium """Leinwand
+Ölfarben""" .
 
-[] dc:format """Holz
+[] dc:identifier "Pl 010" ;
+    dc:type """Plastik
+Tod und Begräbnis
+Lebenslauf
+Religion""" ;
+    dct:created " 1150  --   1199" ;
+    dct:medium "Sandstein" .
+
+[] dc:identifier "2000/002" ;
+    dc:title "Westfälischer Kreis II" ;
+    dc:type """Karte/Plan
+Kartographische Karten und Pläne""" ;
+    dct:created " 1619  --   1619" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "2067" ;
+    dc:title "Heilige Familie" ;
+    dc:type """Grafik
+Volksfrömmigkeit""" ;
+    dct:created " 1927  --   1927" ;
+    dct:medium """Papier
+Glas
+Holz""" .
+
+[] dc:identifier "LMO 7.885" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1860  --   1880" ;
+    dct:medium """Holz
 Glas
 Metal""" .
 
-[] dc:format "Sandstein" .
+[] dc:creator "Beauvais ()" ;
+    dc:identifier "GS Kunst 2969" ;
+    dc:title "VUE DE SANTULIET DE HOLLANDE." ;
+    dc:type "Grafik" ;
+    dct:created " 1780  --   1792" ;
+    dct:medium "Papier" .
 
-[] dc:format "paper" ;
-    dc:title "Cover" .
+[] dc:identifier "00984" ;
+    dc:title "Bismarck" ;
+    dc:type """Wandschmuck
+Bildnis""" ;
+    dct:created " 1866  --   1899" ;
+    dct:medium "Tin" .
 
-[] dc:format """Leinwand
-Ölfarben""" ;
-    dc:title "Hermann Gerhard Garlichs" .
+[] dc:identifier "00540" ;
+    dc:type "Kaffee- und Teegeschirr" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium "Tin" .
 
-[] dc:title "Banksia spinulosa x ericifolia 'Giant Candles'" .
+[] dc:identifier "45" ;
+    dc:title "gold and silver chafers" .
+
+[] dc:creator "Tiarks, Johann Hinrich ()" ;
+    dc:identifier "00486" ;
+    dc:type "Ess- und Serviergeschirr" ;
+    dct:created " 1773  --   1773" ;
+    dct:medium "Tin" .
+
+[] dc:creator "Le Noir ()" ;
+    dc:identifier "LMO 16.981" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1750  --   1799" ;
+    dct:medium """Gold
+Perle
+Rubin""" .
+
+[] dc:creator "Breguet ()" ;
+    dc:identifier "LMO 24.649" ;
+    dc:type """Kleinuhren
+Accessoire""" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium """Silver
+Glas""" .
+
+[] dc:creator """Nedelkopoulos, Nicholas
+Young, Bill
+Bill Young Print Workshop (printer
+printer
+print workshop)""" ;
+    dc:identifier "32" ;
+    dc:title "Whipping tiny trees: Image 14" ;
+    dct:created " 1982  --   1982" ;
+    dct:medium "thick wove Velin Cuve Rives 300 gsm paper" .
+
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "06490" ;
+    dc:title "Ulrich I von Ostfriesland" ;
+    dc:type """Grafik
+Bildnis
+Militaria""" ;
+    dct:created " 1837  --   1837" ;
+    dct:medium "Papier" .
+
+[] dc:creator "Winneke, Angus (Designer)" ;
+    dc:identifier "28" ;
+    dc:title "Dress design for \"Wine, Women and Song\" musical production" ;
+    dct:created "circa 1949  --  circa 1953" ;
+    dct:medium """cardboard
+gouache""" .
+
+[] dc:creator "Leipziger Schulbilderverlag F. E. Wachsmuth ()" ;
+    dc:identifier "21688-134" ;
+    dc:title "Schwein" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Haustier
+Unterrichtsmittel""" ;
+    dct:created " 1880  --   1900" ;
+    dct:medium """Papier
+Druckfarbe""" .
+
+[] dc:creator "Kannen GmbH & Co KG ()" ;
+    dc:identifier "01311" ;
+    dc:type """Essen und Trinken
+Behälter/Gefäß""" ;
+    dct:created " 1725  --   1749" ;
+    dct:medium """Tin
+Messing""" .
+
+[] dc:creator "Baré et Berger ()" ;
+    dc:identifier "LMO 10.483" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1800  --   1824" ;
+    dct:medium """Messing
+Holz
+Glas""" .
+
+[] dc:creator """Melba, Nellie
+Helen Porter Armstrong nee Mitchell (Singer, Opera
+)""" ;
+    dc:identifier "23" ;
+    dc:title "Dress for production of \"Otello\"" ;
+    dct:created " 1886  --   1928" ;
+    dct:medium "Crepe de chine silk" .
+
+[] dc:identifier "LMO 5.787" ;
+    dc:type "Großuhren" ;
+    dct:created " 1650  --   1750" ;
+    dct:medium """Messing
+iron""" .
+
+[] dc:identifier "LMO 16.983" ;
+    dc:type "Elementaruhren" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium """Holz
+Glas""" .
+
+[] dc:identifier "LMO 7.343" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1830  --   1850" ;
+    dct:medium """Alabaster
+Messing""" .
+
+[] dc:identifier "Pl 027" ;
+    dc:title "Hausstein Oliphant" ;
+    dc:type """Plastik
+Bau- und Konstruktionsteile (Architektur)""" ;
+    dct:created " 1600  --   1699" ;
+    dct:medium "Sandstein" .
+
+[] dc:creator "Masson, Sophie (Fotografin)" ;
+    dc:identifier "LMO 25.178/17" ;
+    dc:title "Bela Bartok" ;
+    dc:type """Fotografie
+Musik
+Plastik""" ;
+    dct:created " 1995  --   1995" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "38" ;
+    dc:title "Holothurian" .
+
+[] dc:creator "Coninxloo, Hans II. van ()" ;
+    dc:identifier "OLM 6/8" ;
+    dc:title "Passionszyklus - Die Kreuzigung" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1598  --   1604" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator "Lindemann, Rudolf ()" ;
+    dc:identifier "22870-1" ;
+    dc:title "Demontage der Bokeler Kappenwindmühle" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Gewerbe""" ;
+    dct:created " 1938  --   1938" .
+
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "09545" ;
+    dc:title "Wangerooge von der Seeseite" ;
+    dc:type "Malerei" ;
+    dct:created " 1834  --   1854" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:identifier "42" ;
+    dc:title "Eucalyptus praecox (Maiden)" .
+
+[] dc:creator "Rahsskopf, Ludwig Johann ()" ;
+    dc:identifier "LMO 19.868" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1800  --   1824" ;
+    dct:medium """Bronze
+Glas""" .
+
+[] dc:creator """Ronalds, Nancy
+Atkins, Nancy
+Bertuch, Carol (Puppet Maker
+
+Designer)""" ;
+    dc:identifier "25" ;
+    dc:title "Captain Hook puppet" ;
+    dct:created " 1979  --   1979" .
+
+[] dc:creator "Tenneberg ()" ;
+    dc:identifier "LMO 1.129" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß""" ;
+    dct:created " 1755  --   1805" ;
+    dct:medium "Keramik" .
+
+[] dc:creator """Fiveash, Rosa
+Barratt, H.
+Leader, H. (lithographer
+printer
+)""" ;
+    dc:identifier "31" ;
+    dc:title "Cover" ;
+    dct:created " 1882  --   1882" ;
+    dct:medium "paper" .
+
+[] dc:creator """Melba, Nellie
+Helen Porter Armstrong nee Mitchell (Singer, Opera
+)""" ;
+    dc:identifier "24" ;
+    dc:title "Dress for production of \"Lohengrin\"" ;
+    dct:created "circa 1889  --  circa 1893" ;
+    dct:medium "Silk Velvet" .
+
+[] dc:creator "Ottenjann, Heinrich ()" ;
+    dc:identifier "22873-0" ;
+    dc:title "Bokeler Mühle, Demontage (4)" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1938  --   1938" .
+
+[] dc:identifier "44" ;
+    dc:title "Box of weevils named by Francis Pascoe" .
+
+[] dc:creator "Santvoort, Boelinius Beekmann ()" ;
+    dc:identifier "SK 92" ;
+    dc:type """Hauswirtschaft
+Tafel-Hilfsgerät""" ;
+    dct:created " 1804  --   1812" ;
+    dct:medium "Silver" .
+
+[] dc:identifier "Pl 011" ;
+    dc:type """Plastik
+Lebenslauf
+Tod und Begräbnis
+Religion""" ;
+    dct:created " 1100  --   1199" ;
+    dct:medium "Sandstein" .
+
+[] dc:identifier "2068" ;
+    dc:title "Herz Jesu" ;
+    dc:type """Grafik
+Volksfrömmigkeit""" ;
+    dct:created " 1927  --   1927" ;
+    dct:medium """Papier
+Glas
+Holz""" .
+
+[] dc:creator "Barnutz, Friedrich Adam Wilhelm ()" ;
+    dc:identifier "09540" ;
+    dc:title "Jever von Süden" ;
+    dc:type "Malerei" ;
+    dct:created " 1838  --   1838" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Sonnekes, Caspar Heinrich ()" ;
+    dc:identifier "09592" ;
+    dc:title "Johanna Catharina Garlichs" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1883  --   1883" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:identifier "21688-149" ;
+    dc:title "Schaf" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Haustier
+Unterrichtsmittel""" ;
+    dct:created " 1880  --   1900" ;
+    dct:medium """Papier
+Druckfarbe""" .
+
+[] dc:identifier "43" ;
+    dc:title "Tyrannosaurus Rex" .
+
+[] dc:creator "Engels, Rudolf ()" ;
+    dc:identifier "22869-0" ;
+    dc:title "Bokeler Mühle, Altzustand" ;
+    dc:type """Fotografie
+Architektur
+Handwerk/Industrie/Handel""" ;
+    dct:created " 1925  --   1935" .
+
+[] dc:creator "Tisi, Benvenuto ()" ;
+    dc:identifier "LMO 15.557" ;
+    dc:title "Die heilige Katharina von Alexandrien" ;
+    dc:type """Malerei
+Religion""" ;
+    dct:created " 1529  --   1529" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator """Bukacz, Franz
+Lehmann, Adolf
+Leipziger Schulbilderverlag F. E. Wachsmuth (Künstler
+Herausgeber
+Verlag)""" ;
+    dc:identifier "17709-5" ;
+    dc:title "Neapel" ;
+    dc:type """Bildungswesen
+Gebrauchsgrafik
+Unterrichtsmittel""" ;
+    dct:created " 1885  --   1905" ;
+    dct:medium """Papier
+Druckfarbe""" .
+
+[] dc:creator "Sonnekes, Caspar Heinrich ()" ;
+    dc:identifier "09591" ;
+    dc:title "Hermann Gerhard Garlichs" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1883  --   1883" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 1.287" ;
+    dc:title "Teller mit plastisch geformten Oliven" ;
+    dc:type """Hauswirtschaft
+Wohnen
+Zierobjekte
+Tafelschmuck""" ;
+    dct:created " 1745  --   1795" ;
+    dct:medium "Keramik" .
+
+[] dc:identifier "02465" ;
+    dc:type "Behandlungsinstrumente" ;
+    dct:created " 1800  --   1899" ;
+    dct:medium """Tin
+Holz""" .
+
+[] dc:identifier "LMO 3.695" ;
+    dc:type "Elementaruhren" ;
+    dct:created " 1700  --   1799" ;
+    dct:medium "Messing" .
+
+[] dc:identifier "01326" ;
+    dc:type """Kaffee- und Teegeschirr
+Behälter/Gefäß
+Genussmittel""" ;
+    dct:created " 1850  --   1899" ;
+    dct:medium "Tin" .
+
+[] dc:creator "Winneke, Angus (Designer)" ;
+    dc:identifier "29" ;
+    dc:title "Dress design for \"Showgirls\" musical production" ;
+    dct:created "circa 1949  --  circa 1953" ;
+    dct:medium """cardboard
+gouache""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 7.890" ;
+    dc:type """Großuhren
+Wohnen""" ;
+    dct:created " 1790  --   1810" ;
+    dct:medium """Messing
+lead
+Holz""" .
+
+[] dc:creator """Axelrad, Axel
+Doolan, Syvanna (Puppet Maker
+artist)""" ;
+    dc:identifier "37" ;
+    dc:title "Gussey Galah puppet" ;
+    dct:created " 1967  --   1973" ;
+    dct:medium """Metal
+Felt""" .
+
+[] dc:identifier "01321" ;
+    dc:type """Kaffee- und Teegeschirr
+Behälter/Gefäß
+Genussmittel""" ;
+    dct:created " 1850  --   1899" ;
+    dct:medium """Tin
+Holz""" .
+
+[] dc:creator "Venne, Adriaen Pietersz. van de ()" ;
+    dc:identifier "OLM 171" ;
+    dc:title "Fischer-Maskerade" ;
+    dc:type """Malerei
+Kleidung""" ;
+    dct:created " 1632  --   1632" ;
+    dct:medium """Holz
+Ölfarben""" .
+
+[] dc:creator " ()" ;
+    dc:identifier "LMO 1.283a" ;
+    dc:title "Kuh" ;
+    dc:type """Wohnen
+Zierobjekte""" ;
+    dct:created " 1700  --   1799" ;
+    dct:medium "Keramik" .
+
+[] dc:creator "Winneke, Angus (Designer)" ;
+    dc:identifier "30" ;
+    dc:title "Dress design for \"Showgirls\" musical production - Finale" ;
+    dct:created "circa 1949  --  circa 1953" ;
+    dct:medium """cardboard
+gouache""" .
+
+[] dc:identifier "2000/003" ;
+    dc:title "Westfälischer Kreis I" ;
+    dc:type """Karte/Plan
+Kartographische Karten und Pläne""" ;
+    dct:created " 1619  --   1619" ;
+    dct:medium "Papier" .
+
+[] dc:creator " ()" ;
+    dc:identifier "36" ;
+    dc:title "The Maestro's Company" ;
+    dct:created " 1984  --   1984" ;
+    dct:medium """cardboard
+Wood""" .
+
+[] dc:creator """Pilgrim Puppet Theatre
+Ronalds, Nancy
+Fifer, Michelle
+ (Puppet Company
+Pupeteer
+
+Pupeteer)""" ;
+    dc:identifier "33" ;
+    dc:title "Alice In Wonderland puppet" .
+
+[] dc:creator "Winter, Bernhard (Maler)" ;
+    dc:identifier "09559" ;
+    dc:title "Archivar Georg Sello" ;
+    dc:type """Malerei
+Bildnis""" ;
+    dct:created " 1926  --   1926" ;
+    dct:medium """Leinwand
+Ölfarben""" .
+
+[] dc:creator "Probst, Georg Balthasar ()" ;
+    dc:identifier "GS Kunst 3138" ;
+    dc:title "Vuë d´un combat naval" ;
+    dc:type """Grafik
+Militaria
+Schifffahrt""" ;
+    dct:created " 1766  --   1790" ;
+    dct:medium "Papier" .
+
+[] dc:creator """Pavarotti, Luciano
+Weibel, William
+Verdi, Guiseppe
+Sutherland, Joan (Singer, Opera
+Conductor
+Composer
+Singer, Opera)""" ;
+    dc:identifier "27" ;
+    dc:title "La Traviata" ;
+    dct:created "1965-06-24 1965-06-10  --   1965-06-10" .
+
+[] dc:identifier "39" ;
+    dc:title "Part of articulated skeleton of Blue Whale, Balaenoptera musculus" .
+
+[] dc:creator "Mercator, Gerhard ()" ;
+    dc:identifier "2000/015" ;
+    dc:title "Landkarte von Westfalen (Westfälischer Kreis)" ;
+    dc:type "Kartographische Karten und Pläne" ;
+    dct:created " 1651  --   1651" ;
+    dct:medium "Papier" .
+
+[] dc:identifier "LMO 4.041" ;
+    dc:title "Deckeldose Spargelbund" ;
+    dc:type """Hauswirtschaft
+Behälter/Gefäß
+Tafelschmuck""" ;
+    dct:created " 1750  --   1800" ;
+    dct:medium "Keramik" .
+
+[] dc:creator "Strvfin, Borgert ()" ;
+    dc:identifier "Pl 060" ;
+    dc:type """Plastik
+Arbeitsgeräte (Apotheke)""" ;
+    dct:created " 1613  --   1613" ;
+    dct:medium "Bronze" .
 

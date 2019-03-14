@@ -14045,8 +14045,8 @@ collect&gt;intern</edit.source>
     <cgistring>
       <param name="database">Collect</param>
     </cgistring>
-    <link_resolve_time unit="mS" culture="en-US">31.2475</link_resolve_time>
-    <xml_creation_time unit="mS" culture="en-US">12</xml_creation_time>
-    <response_time unit="mS" culture="en-US">6003</response_time>
+    <link_resolve_time unit="mS" culture="en-US">78.7843</link_resolve_time>
+    <xml_creation_time unit="mS" culture="en-US">14</xml_creation_time>
+    <response_time unit="mS" culture="en-US">10218</response_time>
   </diagnostic>
 </adlibXML>

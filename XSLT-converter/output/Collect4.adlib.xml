@@ -13118,8 +13118,8 @@ polychrom&#233;</technique>
     <cgistring>
       <param name="database">Collect</param>
     </cgistring>
-    <link_resolve_time unit="mS" culture="en-US">62.3405</link_resolve_time>
-    <xml_creation_time unit="mS" culture="en-US">11</xml_creation_time>
-    <response_time unit="mS" culture="en-US">5348</response_time>
+    <link_resolve_time unit="mS" culture="en-US">72.0677</link_resolve_time>
+    <xml_creation_time unit="mS" culture="en-US">13</xml_creation_time>
+    <response_time unit="mS" culture="en-US">8496</response_time>
   </diagnostic>
 </adlibXML>

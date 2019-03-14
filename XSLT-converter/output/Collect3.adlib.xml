@@ -14489,8 +14489,8 @@ Beh&#228;lter/Gef&#228;&#223;</object_category>
     <cgistring>
       <param name="database">Collect</param>
     </cgistring>
-    <link_resolve_time unit="mS" culture="en-US">63.9778</link_resolve_time>
-    <xml_creation_time unit="mS" culture="en-US">11</xml_creation_time>
-    <response_time unit="mS" culture="en-US">5189</response_time>
+    <link_resolve_time unit="mS" culture="en-US">170.65</link_resolve_time>
+    <xml_creation_time unit="mS" culture="en-US">14</xml_creation_time>
+    <response_time unit="mS" culture="en-US">9319</response_time>
   </diagnostic>
 </adlibXML>

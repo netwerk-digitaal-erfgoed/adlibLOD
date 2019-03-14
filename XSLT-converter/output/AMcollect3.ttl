@@ -1,1819 +1,307 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix edm: <http://www.europeana.eu/schemas/edm/> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix lido: <http://www.lido-schema.org/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix schema: <http://schema.org/> .
-@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://hdl.handle.net/11259/collection.306> a edm:ProvidedCHO ;
-    rdfs:label "Un militaire offrant de l'or à une jeune femme" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25964> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78976> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26691> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11168" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Un militaire offrant de l'or à une jeune femme" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1797" ;
-    sem:hasEndTimeStamp "1797" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.306> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11168_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.307> a edm:ProvidedCHO ;
-    rdfs:label "Officier assis auprès d'une jeune femme" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26691> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.25964> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11169" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Officier assis auprès d'une jeune femme" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1807" ;
-    sem:hasEndTimeStamp "1807" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.307> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11169_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.308> a edm:ProvidedCHO ;
-    rdfs:label "Militaire faisant servir des rafraîchissements à une jeune femme" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.25964> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.23534> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11170" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Militaire faisant servir des rafraîchissements à une jeune femme" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1807" ;
-    sem:hasEndTimeStamp "1807" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.308> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11170_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.309> a edm:ProvidedCHO ;
-    rdfs:label "Jeanne la folle" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28281> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26113> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11171" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Jeanne la folle",
-        "Johanna de Waanzinnige bij het lijk van Filips de Schone" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1840" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.309> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11171_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.310> a edm:ProvidedCHO ;
-    rdfs:label "Jeanne la folle" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28281> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26113> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11172" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Jeanne la folle",
-        "Johanna de Waanzinnige bij het lijk van Filips de Schone" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1840" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.310> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11172_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.311> a edm:ProvidedCHO ;
-    rdfs:label "Portret van Louis Messemaeckers" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26218> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11173" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65595>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Portret van Louis Messemaeckers" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "lithografie" ;
-    sem:hasBeginTimeStamp "1837" ;
-    sem:hasEndTimeStamp "1837" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.311> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11173_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.312> a edm:ProvidedCHO ;
-    rdfs:label "Een Arabier" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26334> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11174" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Een Arabier" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "lithografie" ;
-    sem:hasBeginTimeStamp "1847" ;
-    sem:hasEndTimeStamp "1847" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.312> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11174_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.313> a edm:ProvidedCHO ;
-    rdfs:label "L'éducation d'Achille" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31360> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26415> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11175" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'éducation d'Achille" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1798" ;
-    sem:hasEndTimeStamp "1798" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.313> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11175_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.314> a edm:ProvidedCHO ;
-    rdfs:label "L'enlèvement de Déjanire" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26415> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31392> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11176" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'enlèvement de Déjanire" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1802" ;
-    sem:hasEndTimeStamp "1802" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.314> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11176_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.315> a edm:ProvidedCHO ;
-    rdfs:label "Koningin Sophie (1818-1877)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26492> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11177" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.29612>,
-        <http://hdl.handle.net/11259/people.65141>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "Koninklijk Huis",
-        "iconografische indeling",
-        "portret",
-        "vrouwenportret" ;
-    dc:title "Koningin Sophie (1818-1877)",
-        "Portret van H.M. Sophia, Koningin der Nederlanden" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041379> ;
-    sem:hasBeginTimeStamp "1849" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.315> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11177.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11177_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.316> a edm:ProvidedCHO ;
-    rdfs:label "Koningin Sophie (1818-1877)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26492> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11178" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65141>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret",
-        "vrouwenportret" ;
-    dc:title "Koningin Sophie (1818-1877)",
-        "Sophie, Reine des Pays-Bas" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041379> ;
-    sem:hasBeginTimeStamp "1849" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.316> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11178_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.317> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de schilder Murillo" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30564> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79750> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11179" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Portret van de schilder Murillo",
-        "Portret van den schilder (Murillo) (1618-1682)" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1842" ;
-    sem:hasEndTimeStamp "1843" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.317> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11179_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.318> a edm:ProvidedCHO ;
-    rdfs:label "Christus Remunerator" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79819> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.75915> ;
-            schema:roleName "drukker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.75915> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78666> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11180" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Christus Remunerator" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1851" ;
-    sem:hasEndTimeStamp "1851" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.318> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11180_000.jpg>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11180_001.jpg> .
-
-<http://hdl.handle.net/11259/collection.319> a edm:ProvidedCHO ;
-    rdfs:label "Faust et Marguérite au jardin" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78666> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11181" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Faust et Marguérite au jardin" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1853" ;
-    sem:hasEndTimeStamp "1853" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.319> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11181_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.320> a edm:ProvidedCHO ;
-    rdfs:label "Een bergachtig landschap" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26623> ;
-            schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33252> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11182" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "landschap" ;
-    dc:title "Een bergachtig landschap" ;
-    dc:type <http://vocab.getty.edu/aat/300041365>,
-        "droge naald" ;
-    sem:hasBeginTimeStamp "1806" ;
-    sem:hasEndTimeStamp "1806" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.320> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11182_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.321> a edm:ProvidedCHO ;
-    rdfs:label "Landschap" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.26623> ;
-            schema:roleName "etser" ] ;
-    dc:identifier "A 11183" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "landschap" ;
-    dc:title "Landschap" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041365>,
-        "droge naald" ;
-    sem:hasBeginTimeStamp "1806" ;
-    sem:hasEndTimeStamp "1806" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.321> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11183_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.322> a edm:ProvidedCHO ;
-    rdfs:label "The grand attack on Valenciennes" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.26918> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11184" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "The grand attack on Valenciennes" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1801" ;
-    sem:hasEndTimeStamp "1801" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.322> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11184_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.323> a edm:ProvidedCHO ;
-    rdfs:label "Chelsea pensioners reading the gazette of the battle of Waterloo" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27061> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11185" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "Chelsea pensioners reading the gazette of the battle of Waterloo" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1831" ;
-    sem:hasEndTimeStamp "1831" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.323> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11185_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.324> a edm:ProvidedCHO ;
-    rdfs:label "Françoise de Rimini" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27100> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79820> ;
-            schema:roleName "drukker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79153> ;
-            schema:roleName "uitgever" ] ;
-    dc:identifier "A 11186" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Françoise de Rimini" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1843" ;
-    sem:hasEndTimeStamp "1843" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.324> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11186_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.325> a edm:ProvidedCHO ;
-    rdfs:label "Joconde" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27100> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11187" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Joconde" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1858" ;
-    sem:hasEndTimeStamp "1858" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.325> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11187_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.326> a edm:ProvidedCHO ;
-    rdfs:label "Marguerite sortant de l'église" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24506> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11188" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Faust apercevant Marguerite pour la première fois",
-        "Marguerite sortant de l'église" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1845" ;
-    sem:hasEndTimeStamp "1845" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.326> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11188.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11188_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.327> a edm:ProvidedCHO ;
-    rdfs:label "Le Christ au Jardin des oliviers" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24506> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11189" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Le Christ au Jardin des oliviers" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1855" ;
-    sem:hasEndTimeStamp "1855" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.327> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11189_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.328> a edm:ProvidedCHO ;
-    rdfs:label "De Nachtwacht" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27313> ;
-            schema:roleName "etser" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11190" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "De Nachtwacht" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1797" ;
-    sem:hasEndTimeStamp "1797" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.328> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11190_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.329> a edm:ProvidedCHO ;
-    rdfs:label "La femme hydropique" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.4456> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27313> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11191" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La femme hydropique" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1823" ;
-    sem:hasEndTimeStamp "1823" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.329> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11191_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.330> a edm:ProvidedCHO ;
-    rdfs:label "Death of General Montgomery" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27322> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.32543> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11192" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "Death of General Montgomery" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1798" ;
-    sem:hasEndTimeStamp "1798" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.330> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11192_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.331> a edm:ProvidedCHO ;
-    rdfs:label "Portret van H.M. Wilhelmina Koningin der Nederlanden" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11193" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.33269>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "Koninklijk Huis",
-        "iconografische indeling",
-        "portret",
-        "vrouwenportret" ;
-    dc:title "Portret van H.M. Wilhelmina Koningin der Nederlanden" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1834" ;
-    sem:hasEndTimeStamp "1845" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.331> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11193_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.332> a edm:ProvidedCHO ;
-    rdfs:label "De staalmeesters" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11194" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "De staalmeesters" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041363> ;
-    sem:hasBeginTimeStamp "1845" ;
-    sem:hasEndTimeStamp "1845" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.332> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11194.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11194_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.333> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de dichter Willem de Clerq" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11195" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.27328>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Portret van Willem de Clerq, Nederlands dichter",
-        "Portret van de dichter Willem de Clerq" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1829" ;
-    sem:hasEndTimeStamp "1845" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.333> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11195_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.334> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de arts Herman Haakman" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11196" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65334>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Portret van Dr. Haakman",
-        "Portret van de arts Herman Haakman" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1829" ;
-    sem:hasEndTimeStamp "1840" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.334> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11196.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11196_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.335> a edm:ProvidedCHO ;
-    rdfs:label "The Sentry Box" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27580> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78977> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11197" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "The Sentry Box" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1833" ;
-    sem:hasEndTimeStamp "1833" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.335> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11197_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.336> a edm:ProvidedCHO ;
-    rdfs:label "Be it ever so humble, there's no place like home" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11198" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Be it ever so humble, there's no place like home" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1851" ;
-    sem:hasEndTimeStamp "1851" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.336> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11198_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.337> a edm:ProvidedCHO ;
-    rdfs:label "The Lion Dog from Malta" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11199" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "dier",
-        "hond" ;
-    dc:title "The Lion Dog from Malta" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1851" ;
-    sem:hasEndTimeStamp "1851" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.337> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11199_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.338> a edm:ProvidedCHO ;
-    rdfs:label "Dignity and Impudence" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11200" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "onbekend" ;
-    dc:title "Dignity and Impudence" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041365>,
-        "mezzotint",
-        "stippelgravure" ;
-    sem:hasBeginTimeStamp "1851" ;
-    sem:hasEndTimeStamp "1851" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.338> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11200_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.339> a edm:ProvidedCHO ;
-    rdfs:label "Islay" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24581> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11201" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "dier",
-        "hond",
-        "vogel" ;
-    dc:title "Islay" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint",
-        "stippelgravure" ;
-    sem:hasBeginTimeStamp "1851" ;
-    sem:hasEndTimeStamp "1851" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.339> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11201_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.340> a edm:ProvidedCHO ;
-    rdfs:label "L'atelier d'un peintre" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30258> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24595> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11202" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "ambachten en beroepen",
-        "genre",
-        "kunst en kunstenaars",
-        "kunstschilder" ;
-    dc:title "L'atelier d'un peintre" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1858" ;
-    sem:hasEndTimeStamp "1858" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.340> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11202.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11202_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.341> a edm:ProvidedCHO ;
-    rdfs:label "La Vierge dite la belle jardinière" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11203" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "kind" ;
-    dc:title "La Vierge dite la belle jardinière" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1804" ;
-    sem:hasEndTimeStamp "1814" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.341> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11203_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.342> a edm:ProvidedCHO ;
-    rdfs:label "La Vierge au donataire, dite de Foligno" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11204" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La Vierge au donataire, dite de Foligno" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1810" ;
-    sem:hasEndTimeStamp "1810" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.342> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11204_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.343> a edm:ProvidedCHO ;
-    rdfs:label "The Earl of Eldon" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78979> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29828> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11205" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65263>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "The Earl of Eldon" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1828" ;
-    sem:hasEndTimeStamp "1828" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.343> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11205_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.344> a edm:ProvidedCHO ;
-    rdfs:label "Een zittende oude man" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.23023> ;
-            schema:roleName "etser" ] ;
-    dc:identifier "A 11206" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Een zittende oude man" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1845" ;
-    sem:hasEndTimeStamp "1845" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.344> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11206_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.345> a edm:ProvidedCHO ;
-    rdfs:label "Bathsheba bringing Abisag to David" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24144> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11207" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Abigail bringing Badseba to David",
-        "Bathsheba bringing Abisag to David" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1779" ;
-    sem:hasEndTimeStamp "1779" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.345> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11207_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.346> a edm:ProvidedCHO ;
-    rdfs:label "The Present" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33477> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11208" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "The Present" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1774" ;
-    sem:hasEndTimeStamp "1774" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.346> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11208_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.347> a edm:ProvidedCHO ;
-    rdfs:label "The Blacksmith's Shop" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78669> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ] ;
-    dc:identifier "A 11209" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "ambachten en beroepen",
-        "fabrieks-en thuisnijverheid",
-        "genre" ;
-    dc:title "The Blacksmith's Shop" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1771" ;
-    sem:hasEndTimeStamp "1771" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.347> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11209_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.348> a edm:ProvidedCHO ;
-    rdfs:label "A flower piece" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11210" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "A flower piece" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint",
-        "stippelets" ;
-    sem:hasBeginTimeStamp "1778" ;
-    sem:hasEndTimeStamp "1778" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.348> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11210_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.349> a edm:ProvidedCHO ;
-    rdfs:label "A fruit piece" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.8131> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11211" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "bloemstilleven",
-        "fruitstilleven",
-        "stilleven" ;
-    dc:title "A fruit piece" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint",
-        "stippelets" ;
-    sem:hasBeginTimeStamp "1781" ;
-    sem:hasEndTimeStamp "1781" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.349> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11211_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.350> a edm:ProvidedCHO ;
-    rdfs:label "Birds" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11212" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Birds" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1783" ;
-    sem:hasEndTimeStamp "1783" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.350> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11212_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.351> a edm:ProvidedCHO ;
-    rdfs:label "Fishes" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ] ;
-    dc:identifier "A 11213" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Fishes" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1782" ;
-    sem:hasEndTimeStamp "1782" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.351> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11213_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.352> a edm:ProvidedCHO ;
-    rdfs:label "Vegetables" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11214" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Vegetables" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1779" ;
-    sem:hasEndTimeStamp "1779" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.352> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11214_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.353> a edm:ProvidedCHO ;
-    rdfs:label "Fruits" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27933> ;
-            schema:roleName "prentmaker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.32082> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78670> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11215" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Fruits" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1775" ;
-    sem:hasEndTimeStamp "1775" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.353> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11215_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.354> a edm:ProvidedCHO ;
-    rdfs:label "Duncan Gray" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78671> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33272> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11216" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Duncan Gray" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1828" ;
-    sem:hasEndTimeStamp "1828" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.354> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11216_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.355> a edm:ProvidedCHO ;
-    rdfs:label "La madonna del trono" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31705> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24693> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11217" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La madonna del trono" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1834" ;
-    sem:hasEndTimeStamp "1838" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.355> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11217_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.356> a edm:ProvidedCHO ;
-    rdfs:label "\"Naughty boy\"" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28145> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11218" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "\"Naughty boy\"" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1843" ;
-    sem:hasEndTimeStamp "1843" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.356> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11218_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.357> a edm:ProvidedCHO ;
-    rdfs:label "The glorious victory, obtained over the French fleet by the British fleet under the command of Earl Howe, on the first of June 1794" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11219" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "The glorious victory, obtained over the French fleet by the British fleet under the command of Earl Howe, on the first of June 1794" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1799" ;
-    sem:hasEndTimeStamp "1799" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.357> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11219_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.358> a edm:ProvidedCHO ;
-    rdfs:label "The victory obtained over the Dutch fleet by the British squadron of the North Sea under the command of admiral Duncan in the action of the 11th of October 1797" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11220" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "The victory obtained over the Dutch fleet by the British squadron of the North Sea under the command of admiral Duncan in the action of the 11th of October 1797" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1801" ;
-    sem:hasEndTimeStamp "1801" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.358> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11220_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.359> a edm:ProvidedCHO ;
-    rdfs:label "Battle of the Nile" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.30030> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28149> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11221" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "Battle of the Nile" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1803" ;
-    sem:hasEndTimeStamp "1803" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.359> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11221_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.360> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de kunstenaar Rafaël" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78981> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11222" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.58316>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Het portret van de schilder (Raphaël) 1482-1520",
-        "Portret van de kunstenaar Rafaël" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1836" ;
-    sem:hasEndTimeStamp "1836" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.360> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11222_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.361> a edm:ProvidedCHO ;
-    rdfs:label "Les trois grâces" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11223" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Les trois grâces" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1841" ;
-    sem:hasEndTimeStamp "1841" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.361> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11223_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.362> a edm:ProvidedCHO ;
-    rdfs:label "La vierge au bas-relief" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.10456> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11224" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La vierge au bas-relief" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1835" ;
-    sem:hasEndTimeStamp "1835" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.362> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11224_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.363> a edm:ProvidedCHO ;
-    rdfs:label "St. Cécile" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24699> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11225" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "St. Cécile" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1830" ;
-    sem:hasEndTimeStamp "1840" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.363> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11225_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.364> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de schilder Titiaan" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.41838> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11226" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.41838>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Portret van de schilder Titiaan" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1842" ;
-    sem:hasEndTimeStamp "1842" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.364> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11226_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.365> a edm:ProvidedCHO ;
-    rdfs:label "Mignon et son père" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27480> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11227" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Mignon et son père" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1849" ;
-    sem:hasEndTimeStamp "1849" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.365> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11227_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.366> a edm:ProvidedCHO ;
-    rdfs:label "Pic de la Mirandole" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11228" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "kind" ;
-    dc:title "Pic de la Mirandole" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1834" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.366> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11228_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.367> a edm:ProvidedCHO ;
-    rdfs:label "La tentation du Christ" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24702> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11229" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La tentation du Christ" ;
-    dc:type <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1860" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.367> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11229.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11229_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.368> a edm:ProvidedCHO ;
-    rdfs:label "Dante et Béatrice" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79793> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11230" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Dante et Béatrice" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1855" ;
-    sem:hasEndTimeStamp "1855" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.368> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11230_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.369> a edm:ProvidedCHO ;
-    rdfs:label "Les joies d'une mère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11231" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "kind" ;
-    dc:title "Les joies d'une mère" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1854" ;
-    sem:hasEndTimeStamp "1854" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.369> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11231_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.370> a edm:ProvidedCHO ;
-    rdfs:label "Les joies d'une mère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11232" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Les joies d'une mère" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1854" ;
-    sem:hasEndTimeStamp "1854" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.370> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11232_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.371> a edm:ProvidedCHO ;
-    rdfs:label "Les joies d'une mère" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24703> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11233" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Les joies d'une mère" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1854" ;
-    sem:hasEndTimeStamp "1854" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.371> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11233_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.372> a edm:ProvidedCHO ;
-    rdfs:label "Portret van de schilder Nicaise De Keyser" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28378> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11234" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.22989>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Portret van N. De Keyser. (1813-1887)",
-        "Portret van de schilder Nicaise De Keyser" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "lithografie" ;
-    sem:hasBeginTimeStamp "1854" ;
-    sem:hasEndTimeStamp "1854" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.372> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11234_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.373> a edm:ProvidedCHO ;
-    rdfs:label "The two dogs" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11235" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "dier",
-        "hond" ;
-    dc:title "The two dogs" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1827" ;
-    sem:hasEndTimeStamp "1827" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.373> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11235_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.374> a edm:ProvidedCHO ;
-    rdfs:label "The shepherds chief mourner" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11236" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "The shepherds chief mourner" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1838" ;
-    sem:hasEndTimeStamp "1838" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.374> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11236_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.375> a edm:ProvidedCHO ;
-    rdfs:label "The shepherds grave" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11237" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "The shepherds grave" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1838" ;
-    sem:hasEndTimeStamp "1838" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.375> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11237_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.376> a edm:ProvidedCHO ;
-    rdfs:label "Jack in office" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28387> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29779> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11238" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Jack in office" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1834" ;
-    sem:hasEndTimeStamp "1834" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.376> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11238_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.377> a edm:ProvidedCHO ;
-    rdfs:label "La famille du marin" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24734> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11239" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La famille du marin" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1822" ;
-    sem:hasEndTimeStamp "1824" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.377> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11239_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.378> a edm:ProvidedCHO ;
-    rdfs:label "Les trois Maries" ;
-    dc:creator <http://hdl.handle.net/11259/people.24734> ;
-    dc:identifier "A 11240" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Les trois Maries" ;
-    dc:type <http://vocab.getty.edu/aat/300041273> ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.378> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11240_001.jpg> .
-
-<http://hdl.handle.net/11259/collection.379> a edm:ProvidedCHO ;
-    rdfs:label "L'Ecole Hollandaise" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.16134> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28494> ;
-            schema:roleName "vervaardiger" ] ;
-    dc:identifier "A 11241" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'Ecole Hollandaise" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1772" ;
-    sem:hasEndTimeStamp "1772" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.379> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11241_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.380> a edm:ProvidedCHO ;
-    rdfs:label "Waterval" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11242" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Waterval" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1829" ;
-    sem:hasEndTimeStamp "1829" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.380> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11242_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.381> a edm:ProvidedCHO ;
-    rdfs:label "Waterval" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24797> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78665> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31615> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11243" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Waterval" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1829" ;
-    sem:hasEndTimeStamp "1834" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.381> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11243_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.382> a edm:ProvidedCHO ;
-    rdfs:label "Oliver Cromwell desolving the long Parliament" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.24798> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11244" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "AHM systematische catalogus [TOPTERM]",
-        "ambachten en beroepen",
-        "genre",
-        "onderwijs" ;
-    dc:title "Oliver Cromwell desolving the long Parliament" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1788" ;
-    sem:hasEndTimeStamp "1788" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.382> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11244_000.jpg>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11244_002.jpg> .
-
-<http://hdl.handle.net/11259/collection.383> a edm:ProvidedCHO ;
-    rdfs:label "The battle of the Boyne" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.24798> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.33186> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11245" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "krijgsbedrijf" ;
-    dc:title "The battle of the Boyne" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1781" ;
-    sem:hasEndTimeStamp "1781" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.383> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11245_000.jpg>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11245_002.jpg> .
-
-<http://hdl.handle.net/11259/collection.384> a edm:ProvidedCHO ;
-    rdfs:label "Portret van Bertin" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29149> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11246" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.26411>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Portret van Bertin" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1844" ;
-    sem:hasEndTimeStamp "1844" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.384> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11246_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.385> a edm:ProvidedCHO ;
-    rdfs:label "Gustave Wasa" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28815> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11247" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65948>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Gustave Wasa" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1831" ;
-    sem:hasEndTimeStamp "1831" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.385> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11247_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.386> a edm:ProvidedCHO ;
-    rdfs:label "Olivier Cromwell bij het lijk van Karel I, 30 jan. 1649" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11248" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.48764>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "krijgsbedrijf",
-        "portret" ;
-    dc:title "Olivier Cromwell bij het lijk van Karel I, 30 jan. 1649" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300053242>,
-        <http://vocab.getty.edu/aat/300179099> ;
-    sem:hasBeginTimeStamp "1831" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.386> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11248_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.387> a edm:ProvidedCHO ;
-    rdfs:label "L'Hémicycle de l'École des Beaux-Arts" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11249.1" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'Hemicycle du Palais des Beaux-arts",
-        "L'Hémicycle de l'École des Beaux-Arts" ;
-    dc:type <http://vocab.getty.edu/aat/300041340> ;
-    dcterms:spatial <http://sws.geonames.org/2988507/>,
-        <http://sws.geonames.org/3017382/> ;
-    sem:hasBeginTimeStamp "1853" ;
-    sem:hasEndTimeStamp "1853" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.387> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11249_001.jpg> .
-
-<http://hdl.handle.net/11259/collection.388> a edm:ProvidedCHO ;
-    rdfs:label "L'Hémicycle de l'École des Beaux-Arts" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11250.1" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'Hémicycle de l'École des Beaux-Arts" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1853" ;
-    sem:hasEndTimeStamp "1853" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.388> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11250_001.jpg> .
-
-<http://hdl.handle.net/11259/collection.389> a edm:ProvidedCHO ;
-    rdfs:label "L'Hemicycle de L'ecole des Beaux-arts" ;
-    dc:creator <http://hdl.handle.net/11259/people.28791> ;
-    dc:identifier "A 11251.1/2" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'Hemicycle de L'ecole des Beaux-arts" ;
-    dc:type <http://vocab.getty.edu/aat/300041273> ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.389> .
-
-<http://hdl.handle.net/11259/collection.390> a edm:ProvidedCHO ;
-    rdfs:label "L'Ensevelissement du Christ" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11252" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "L'Ensevelissement du Christ" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1855" ;
-    sem:hasEndTimeStamp "1855" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.390> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11252_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.391> a edm:ProvidedCHO ;
-    rdfs:label "Lord Strafford" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.27663> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11253" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65842>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret" ;
-    dc:title "Lord Strafford" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1840" ;
-    sem:hasEndTimeStamp "1840" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.391> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11253_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.392> a edm:ProvidedCHO ;
-    rdfs:label "Christus Consolator" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28791> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11254" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Christus Consolator" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1842" ;
-    sem:hasEndTimeStamp "1842" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.392> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11254_000.jpg>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11254_001.jpg> .
-
-<http://hdl.handle.net/11259/collection.393> a edm:ProvidedCHO ;
-    rdfs:label "La Sancta Famiglia" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.28816> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11255" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La Sancta Famiglia" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1804" ;
-    sem:hasEndTimeStamp "1804" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.393> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11255_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.394> a edm:ProvidedCHO ;
-    rdfs:label "La Sancta Famiglia" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.58316> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.28816> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11256" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "La Sancta Famiglia" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1804" ;
-    sem:hasEndTimeStamp "1804" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.394> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11256_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.395> a edm:ProvidedCHO ;
-    rdfs:label "Die Hussiten - predigt" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.78983> ;
-            schema:roleName "tekenaar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29898> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.78982> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11257" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Die Hussiten - predigt" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1840" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.395> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11257_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.396> a edm:ProvidedCHO ;
-    rdfs:label "Les Orphelins" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.14967> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29277> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11258" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "Bij vaders graf",
-        "Les Orphelins" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1826" ;
-    sem:hasEndTimeStamp "1826" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.396> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11258_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.397> a edm:ProvidedCHO ;
-    rdfs:label "De schuttersmaaltijd" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.7188> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79740> ;
-            schema:roleName "uitgever" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ] ;
-    dc:identifier "A 11259" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "De schuttersmaaltijd" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340>,
-        <http://vocab.getty.edu/aat/300041365> ;
-    sem:hasBeginTimeStamp "1849" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.397> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11259_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.398> a edm:ProvidedCHO ;
-    rdfs:label "De weduwe van Van Oldenbarneveld voor prins Maurits" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
-            schema:roleName "drukker" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.31848> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11260" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.30197>,
-        <http://hdl.handle.net/11259/people.30788>,
-        <http://hdl.handle.net/11259/people.65656>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "kind",
-        "portret",
-        "tachtigjarige oorlog" ;
-    dc:title "De weduwe van Van Oldenbarneveld voor prins Maurits" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041363> ;
-    sem:hasBeginTimeStamp "1855" ;
-    sem:hasEndTimeStamp "1856" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.398> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11260_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.399> a edm:ProvidedCHO ;
-    rdfs:label "De aanslag op het leven van Prins Willem I te Antwerpen 18 maart 1582" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.79739> ;
-            schema:roleName "drukker" ] ;
-    dc:identifier "A 11261" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject [ a sem:Event ;
-            skos:altLabel "tachtigjarige oorlog" ],
-        <http://hdl.handle.net/11259/people.65979>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "krijgsbedrijf",
-        "portret" ;
-    dc:title "De aanslag op het leven van Prins Willem I te Antwerpen 18 maart 1582",
-        "Prins Willem I de Eerste. Antwerpen 18 Maart 1582" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041363> ;
-    sem:hasBeginTimeStamp "1853" ;
-    sem:hasEndTimeStamp "1854" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.399> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11261_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.400> a edm:ProvidedCHO ;
-    rdfs:label "Jan Willem Pieneman (1779-1853)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11262" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.23694>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Jan Willem Pieneman (1779-1853)",
-        "Portret van J.W. Pieneman (1779-1853)" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1846" ;
-    sem:hasEndTimeStamp "1846" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.400> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11262_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.401> a edm:ProvidedCHO ;
-    rdfs:label "Jan Six (1618-1700)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11263" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.32012>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Jan Six (1618-1700)" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041363> ;
-    sem:hasBeginTimeStamp "1833" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.401> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11263_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.402> a edm:ProvidedCHO ;
-    rdfs:label "De staalmeesters" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.13978> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11264" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:title "De staalmeesters" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1846" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.402> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=A_11264.JPG>,
-        <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=S_A_11264_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.403> a edm:ProvidedCHO ;
-    rdfs:label "Z.K.H. De Prins van Oranje" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.65708> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "vervaardiger" ] ;
-    dc:identifier "A 11265" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65665>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "Koninklijk Huis",
-        "iconografische indeling",
-        "mansportret",
-        "portret" ;
-    dc:title "Z.K.H. De Prins van Oranje" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "mezzotint" ;
-    sem:hasBeginTimeStamp "1858" ;
-    sem:hasEndTimeStamp "1858" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.403> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11265_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.404> a edm:ProvidedCHO ;
-    rdfs:label "Sophie Mathilde Koningin der Nederlanden (1818-1877)" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.30710> ;
-            schema:roleName "lithograaf" ] ;
-    dc:identifier "A 11266" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject <http://hdl.handle.net/11259/people.65141>,
-        "AM algemene voorstellingstrefwoorden [TOPTERM]",
-        "iconografische indeling",
-        "portret",
-        "vrouwenportret" ;
-    dc:title "Sophie Mathilde Koningin der Nederlanden (1818-1877)" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        "lithografie" ;
-    sem:hasBeginTimeStamp "1845" ;
-    sem:hasEndTimeStamp "1860" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.404> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_11266_000.jpg> .
-
-<http://hdl.handle.net/11259/collection.405> a edm:ProvidedCHO ;
-    rdfs:label "Een vrouw met een kind bij een gevangenis" ;
-    dc:creator [ dc:creator <http://hdl.handle.net/11259/people.29343> ;
-            schema:roleName "graveur" ],
-        [ dc:creator <http://hdl.handle.net/11259/people.22989> ;
-            lido:attributionQualifierActor "naar" ] ;
-    dc:identifier "A 11267" ;
-    dc:rights <http://creativecommons.org/publicdomain/mark/1.0/> ;
-    dc:subject "criminaliteit",
-        "justitie, politie, criminaliteit, gevangenissen" ;
-    dc:title "Een vrouw met een kind bij een gevangenis" ;
-    dc:type <http://vocab.getty.edu/aat/300041273>,
-        <http://vocab.getty.edu/aat/300041340> ;
-    sem:hasBeginTimeStamp "1856" ;
-    sem:hasEndTimeStamp "1856" ;
-    edm:isShownAt <http://hdl.handle.net/11259/collection.405> ;
-    foaf:depiction <http://amasp.adlibhosting.com/wwwopacx_images/wwwopac.ashx?command=getcontent&server=images&value=pictura2009%5CS_A_1267_000.jpg> .
-
-<http://sws.geonames.org/2988507/> skos:altLabel "Parijs" .
-
-<http://sws.geonames.org/3017382/> skos:altLabel "Frankrijk" .
-
-<http://vocab.getty.edu/aat/300053242> skos:altLabel "aquatint" .
-
-<http://vocab.getty.edu/aat/300179099> skos:altLabel "gemengde techniek" .
-
-<http://vocab.getty.edu/aat/300041379> skos:altLabel "litho" .
-
-<http://vocab.getty.edu/aat/300041363> skos:altLabel "staalgravure" .
-
-<http://vocab.getty.edu/aat/300041365> skos:altLabel "ets" .
-
-<http://vocab.getty.edu/aat/300041340> skos:altLabel "gravure" .
-
-<http://vocab.getty.edu/aat/300041273> skos:altLabel "prent" .
+[] dc:identifier "A 11219" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11204" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11201" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11193" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11259" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11178" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11256" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11248" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11232" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11246" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11212" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11241" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11188" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11176" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11190" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11205" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11263" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11238" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11255" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11244" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11216" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11223" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11251.1/2" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11236" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11266" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11184" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11265" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11213" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11195" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11250.1" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11174" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11215" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11242" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11227" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11183" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11197" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11200" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11221" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11198" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11260" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11196" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11262" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11180" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11252" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11179" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11218" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11168" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11230" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11186" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11234" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11237" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11206" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11249.1" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11171" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11224" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11182" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11191" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11185" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11235" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11258" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11214" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11177" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11175" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11264" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11247" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11192" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11267" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11225" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11217" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11173" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11207" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11239" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11245" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11220" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11203" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11228" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11243" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11169" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11253" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11199" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11233" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11257" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11208" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11261" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11222" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11172" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11170" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11189" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11209" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11187" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11210" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11240" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11194" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11202" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11226" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11229" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11181" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11254" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11231" ;
+    dc:type "prentencollectie" .
+
+[] dc:identifier "A 11211" ;
+    dc:type "prentencollectie" .
 

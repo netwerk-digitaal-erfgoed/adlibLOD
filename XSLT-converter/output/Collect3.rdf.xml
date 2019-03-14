@@ -1,420 +1,605 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
-  <rdf:Description>
-    <dc:format>Tin
-Farbe</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin
-Copper</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver
+  <rdf:Description><dc:identifier>00948</dc:identifier><dc:type>Schreiben
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dct:created> 1800  --   1899</dct:created><dct:medium>Tin
+Farbe</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31685</rdf:Description>
+  <rdf:Description><dc:identifier>00568</dc:identifier><dc:type>Beh&#228;lter/Gef&#228;&#223;</dc:type><dct:created> 1750  --   1799</dct:created><dct:medium>Tin
+Copper</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316810.5</rdf:Description>
+  <rdf:Description><dc:identifier>00490</dc:identifier><dc:type>Ess- und Serviergeschirr</dc:type><dc:creator>Tiarks, Johann Hinrich II ()</dc:creator><dct:created> 1807  --   1807</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31682</rdf:Description>
+  <rdf:Description><dc:identifier>00489</dc:identifier><dc:type>Ess- und Serviergeschirr</dc:type><dc:creator>Tiarks, Caspar Heinrich ()</dc:creator><dct:created> 1780  --   1820</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31682.5</rdf:Description>
+  <rdf:Description><dc:identifier>00487</dc:identifier><dc:type>Ess- und Serviergeschirr</dc:type><dc:creator>Tiarks, Johann Hinrich ()</dc:creator><dct:created> 1775  --   1799</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31684</rdf:Description>
+  <rdf:Description><dc:identifier>01026</dc:identifier><dc:type>Medizin
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:creator>HeizAG ()</dc:creator><dct:created> 1800  --   1899</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314813</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 2.342</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dct:created> 1800  --   1815</dct:created><dct:medium>Silver
 Glas
-Rubin</dc:format>
-  </rdf:Description>
+Rubin</dct:medium>Tiefe
+Durchmesser3319cm
+cm31681.6</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 1.235</dc:identifier><dc:type>Hauswirtschaft
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:creator>Tenneberg ()</dc:creator><dct:created> 1755  --   1805</dct:created><dct:medium>Keramik</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316822.2</rdf:Description>
+  <rdf:Description><dc:identifier>GS Kunst 2956</dc:identifier><dc:type>Grafik</dc:type><dc:title>VUE DE LA MER DE HARLEM iIN HOLLANDE</dc:title><dc:creator>Basset, Andr&#233; (K&#252;nstler
+Stecher)</dc:creator><dct:created> 1749  --   1763</dct:created><dct:medium>Papier</dct:medium>Bild
+Bild
+Platte
+Platte
+Blatt
+BlattH&#246;he
+Breite
+H&#246;he
+Breite
+H&#246;he
+Breite3337cm
+cm
+cm
+cm
+cm
+cm317426.1</rdf:Description>
+  <rdf:Description><dc:identifier>3295-6</dc:identifier><dc:type>Volksfr&#246;mmigkeit
+Grafik</dc:type><dc:title>Schutzengel</dc:title><dct:created> 1880  --   1920</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316842.5</rdf:Description>
+  <rdf:Description><dc:identifier>3295-5</dc:identifier><dc:type>Grafik
+Religi&#246;se Darstellungen</dc:type><dc:title>Adam und Eva</dc:title><dc:creator>K&#252;hlberg, Georg ()</dc:creator><dct:created> 1880  --   1920</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316842.5</rdf:Description>
   <rdf:Description>
-    <dc:format>Keramik</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>VUE DE LA MER DE HARLEM iIN HOLLANDE</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Schutzengel</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Adam und Eva</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>22877-1</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Aufbau Museumsdorf Gebinde</dc:title>
+    <dc:creator>Lindemann, Rudolf ()</dc:creator>
+    <dct:created> 1938  --   1940</dct:created>
   </rdf:Description>
   <rdf:Description>
+    <dc:identifier>22877-0</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Bokeler M&#252;hle, Aufbau (2)</dc:title>
+    <dc:creator>Lindemann, Rudolf ()</dc:creator>
+    <dct:created> 1938  --   1940</dct:created>
   </rdf:Description>
+  <rdf:Description><dc:identifier>LMO 2.731</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dc:creator>Wilter, John ()</dc:creator><dct:created> 1750  --   1799</dct:created><dct:medium>Silver
+Glas</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31681.8</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 15.840</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Die b&#252;&#223;ende Magdalena</dc:title><dc:creator>Schedoni, Bartolomeo ()</dc:creator><dct:created> 1600  --   1610</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316835.5</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 1.210</dc:identifier><dc:type>Essen und Trinken
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:creator>Tenneberg ()</dc:creator><dct:created> 1800  --   1900</dct:created><dct:medium>Keramik</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316822</rdf:Description>
+  <rdf:Description><dc:identifier>00140</dc:identifier><dc:type>Hauswirtschaft
+Beh&#228;lter/Gef&#228;&#223;
+Genussmittel</dc:type><dc:creator>Tiarks, Johann Hinrich ()</dc:creator><dct:created> 1766  --   1766</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Breite
+Durchmesser3536cm
+cm
+cm314826</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 2.212</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator> ()</dc:creator><dct:created> 1800  --   1820</dct:created><dct:medium>Perlmutt
+Glas</dct:medium>H&#246;he3349cm1458252</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 15.648</dc:identifier><dc:type>Malerei
+Bildnis</dc:type><dc:title>Brustbild einer jungen Frau mit offenem Haar</dc:title><dc:creator>Lievens, Jan ()</dc:creator><dct:created> 1635  --   1645</dct:created><dct:medium>Eichenholz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316829.5</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 2.656</dc:identifier><dc:type>Tafelschmuck
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:title>Deckeldose in Form eines sitzenden Rebhuhns</dc:title><dct:created> 1765  --   1815</dct:created><dct:medium>Keramik</dct:medium>H&#246;he
+Breite
+L&#228;nge3333cm
+cm
+cm31489.5</rdf:Description>
   <rdf:Description>
-    <dc:format>Silver
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Die b&#252;&#223;ende Magdalena</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Keramik</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Perlmutt
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Brustbild einer jungen Frau mit offenem Haar</dc:title>
-    <dc:format>Eichenholz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Deckeldose in Form eines sitzenden Rebhuhns</dc:title>
-    <dc:format>Keramik</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>22875-2</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Demontage der Bokeler Kappenwindm&#252;hle</dc:title>
+    <dc:creator>Ottenjann, Heinrich ()</dc:creator>
+    <dct:created> 1938  --   1938</dct:created>
   </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver
+  <rdf:Description><dc:identifier>LMO 3.724</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dc:creator>Elbel ()</dc:creator><dct:created> 1750  --   1799</dct:created><dct:medium>Silver
 Rubin
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Schiffbruch bei st&#252;rmischer See</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Messing
+Glas</dct:medium>Tiefe
+Durchmesser3319cm
+cm31682</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 147</dc:identifier><dc:type>Malerei
+Schifffahrt
+Religion</dc:type><dc:title>Schiffbruch bei st&#252;rmischer See</dc:title><dc:creator>Verwer, Justus ()</dc:creator><dct:created> 1650  --   1674</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316848</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 11.522</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dct:created> 1850  --   1899</dct:created><dct:medium>Messing
 Glas
-Holz</dc:format>
-  </rdf:Description>
+Holz</dct:medium>H&#246;he
+Breite3259cm
+cm316840</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 100</dc:identifier><dc:type>Malerei
+Bildnis</dc:type><dc:title>Selbstbildnis</dc:title><dc:creator>Poppinga, Leffertus Thelenius ()</dc:creator><dct:created> 1843  --   1843</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316873.5</rdf:Description>
+  <rdf:Description><dc:identifier>00023</dc:identifier><dc:type>Kerzenleuchter
+Wohnen</dc:type><dc:creator>Tiarks, Caspar Heinrich ()</dc:creator><dct:created> 1780  --   1800</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316819</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 2.405</dc:identifier><dc:type>Monumentaluhren</dc:type><dc:creator> ()</dc:creator><dct:created> 1680  --   1720</dct:created><dct:medium>iron
+Holz</dct:medium>H&#246;he
+Breite
+L&#228;nge3333cm
+cm
+cm314887</rdf:Description>
   <rdf:Description>
-    <dc:title>Selbstbildnis</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>iron
-Holz</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>22876-0</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Bokeler M&#252;hle, Aufbau (1)</dc:title>
+    <dc:creator>Lindemann, Rudolf ()</dc:creator>
+    <dct:created> 1938  --   1938</dct:created>
   </rdf:Description>
-  <rdf:Description>
-    <dc:title>Segelschiffe vor einer Stadt</dc:title>
-    <dc:format>Holz
-tempera</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Leder
-Holz</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Metal
+  <rdf:Description><dc:identifier>OLM 528</dc:identifier><dc:type>Malerei
+Schifffahrt</dc:type><dc:title>Segelschiffe vor einer Stadt</dc:title><dc:creator>Wou, Claes Claesz. ()</dc:creator><dct:created> 1600  --   1649</dct:created><dct:medium>Holz
+tempera</dct:medium>H&#246;he
+Breite3259cm
+cm316867</rdf:Description>
+  <rdf:Description><dc:identifier>SK 11</dc:identifier><dc:type>Beh&#228;lter/Gef&#228;&#223;
+Erinnerungskultur
+Lebenslauf</dc:type><dc:creator>Roeleffs, Derick ()</dc:creator><dct:created> 1673  --   1674</dct:created><dct:medium>Silver</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316815.7</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 24.650</dc:identifier><dc:type>Uhrenzubeh&#246;r
+Wohnen</dc:type><dct:created> 1840  --   1860</dct:created><dct:medium>Leder
+Holz</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314823.5</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 10.295</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator>Abke, Christoffel ()</dc:creator><dct:created> 1730  --   1770</dct:created><dct:medium>Metal
 Glas
-Nu&#223;baum</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Porzellan
+Nu&#223;baum</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm3148250</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 23.171</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dct:created> 1830  --   1850</dct:created><dct:medium>Porzellan
 Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Eiche
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314819</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 7.974</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dct:created> 1800  --   1899</dct:created><dct:medium>Eiche
 Alabaster
 Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>WILHELM BENNICNCK</dc:title>
-    <dc:format>Sandstein</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver
-Messing</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Gold
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314845</rdf:Description>
+  <rdf:Description><dc:identifier>Pl 151</dc:identifier><dc:type>Plastik
+Tod und Begr&#228;bnis</dc:type><dc:title>WILHELM BENNICNCK</dc:title><dct:created> 1640  --   1640</dct:created><dct:medium>Sandstein</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314897</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 6.882</dc:identifier><dc:type>Elementaruhren</dc:type><dc:creator>Butterfield, Michael ()</dc:creator><dct:created> 1690  --   1710</dct:created><dct:medium>Silver
+Messing</dct:medium>Breite
+L&#228;nge3268cm
+cm31686.7</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 307</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dct:created> 1750  --   1799</dct:created><dct:medium>Gold
 Silver
 Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver
+Glas</dct:medium>Durchmesser3307cm14584.6</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 3.690</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dc:creator>Murgatroid ()</dc:creator><dct:created> 1800  --   1824</dct:created><dct:medium>Silver
 Messing
-Glas</dc:format>
-  </rdf:Description>
+Glas</dct:medium>Durchmesser3307cm14585.4</rdf:Description>
+  <rdf:Description><dc:identifier>Pl 002</dc:identifier><dc:type>Plastik
+Taufger&#228;t
+Architektur
+Geburt und Taufe</dc:type><dc:creator> ()</dc:creator><dct:created> 1200  --   1249</dct:created><dct:medium>Sandstein</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316894</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 23.889</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator>PH Mouret
+MP &amp; R&#246;lken ()</dc:creator><dct:created> 1870  --   1890</dct:created><dct:medium>Tin
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314830</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 25.179/2</dc:identifier><dc:type>Fotografie</dc:type><dc:title>Emil Schumacher</dc:title><dc:creator>Klemm, Barbara (Fotografin)</dc:creator><dct:created> 1984  --   1984</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316840.05</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 25.179/1</dc:identifier><dc:type>Fotografie</dc:type><dc:title>Simone de Beauvoir</dc:title><dc:creator>Klemm, Barbara (Fotografin)</dc:creator><dct:created> 1980  --   1980</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316840.05</rdf:Description>
   <rdf:Description>
-    <dc:format>Sandstein</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Emil Schumacher</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Simone de Beauvoir</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>22879-0</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Bokeler M&#252;hle, Aufbau (4)</dc:title>
+    <dc:creator>Lindemann, Rudolf ()</dc:creator>
+    <dct:created> 1938  --   1940</dct:created>
   </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Enno II. von Ostfriesland</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Die b&#252;&#223;ende Magdalena in der Felsgrotte</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Mars und Venus</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Rosenmadonna</dc:title>
-    <dc:format>Papier
+  <rdf:Description><dc:identifier>SK 12</dc:identifier><dc:type>Beh&#228;lter/Gef&#228;&#223;
+Erinnerungskultur</dc:type><dc:creator>Reints, Campe ()</dc:creator><dct:created> 1630  --   1648</dct:created><dct:medium>Silver</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316813.6</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 325</dc:identifier><dc:type>Malerei
+Bildnis</dc:type><dc:title>Enno II. von Ostfriesland</dc:title><dct:created> 1709  --   1709</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316884.2</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 15.595</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Die b&#252;&#223;ende Magdalena in der Felsgrotte</dc:title><dc:creator>Preti, Mattia ()</dc:creator><dct:created> 1635  --   1645</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm3168148</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 14.300</dc:identifier><dc:type>Malerei</dc:type><dc:title>Mars und Venus</dc:title><dc:creator>Matteis, Paolo de ()</dc:creator><dct:created> 1685  --   1695</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm3168119</rdf:Description>
+  <rdf:Description><dc:identifier>3972</dc:identifier><dc:type>Volksfr&#246;mmigkeit
+Grafik</dc:type><dc:title>Rosenmadonna</dc:title><dct:created> 1880  --   1920</dct:created><dct:medium>Papier
 Holz
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Holz
+Glas</dct:medium>H&#246;he
+Breite3259cm
+cm316850</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 11.013</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dct:created> 1800  --   1820</dct:created><dct:medium>Holz
 Alabaster
 Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Holz
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314847</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 1.387</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dct:created> 1790  --   1810</dct:created><dct:medium>Holz
 Farbe
 Messing
-Glas</dc:format>
-  </rdf:Description>
+Glas</dct:medium>H&#246;he
+Breite3259cm
+cm316849.5</rdf:Description>
+  <rdf:Description><dc:identifier>09561</dc:identifier><dc:type>Malerei
+Bildnis
+Religion</dc:type><dc:title>Pastor Mecina W&#252;bbena</dc:title><dc:creator>Winter, Bernhard ()</dc:creator><dct:created> 1906  --   1906</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316820</rdf:Description>
+  <rdf:Description><dc:identifier>2907-1</dc:identifier><dc:type>Fotografie
+Lebenslauf</dc:type><dc:creator>Culie, Katharina ()</dc:creator><dct:created> 1890  --   1910</dct:created><dct:medium>Papier</dct:medium>Breite
+L&#228;nge3268cm
+cm31686.2</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 15.561</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Das Haupt Johannes des T&#228;ufers
+Johannessch&#252;ssel</dc:title><dc:creator>Bouts, Aelbert ()</dc:creator><dct:created> 1500  --   1510</dct:created><dct:medium>Eichenholz
+&#214;lfarben</dct:medium>Durchmesser3307cm145830.5</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 6/4</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Passionszyklus - Die Vorf&#252;hrung vor Herodes</dc:title><dc:creator>Coninxloo, Hans II. van ()</dc:creator><dct:created> 1598  --   1604</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316862</rdf:Description>
   <rdf:Description>
-    <dc:title>Pastor Mecina W&#252;bbena</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Das Haupt Johannes des T&#228;ufers
-Johannessch&#252;ssel</dc:title>
-    <dc:format>Eichenholz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Passionszyklus - Die Vorf&#252;hrung vor Herodes</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>22870-0</dc:identifier>
+    <dc:type>Fotografie
+Architektur
+Handwerk/Industrie/Handel</dc:type>
     <dc:title>Bokeker M&#252;hle, Demontage (1)</dc:title>
+    <dc:creator>Lindemann, Rudolf ()</dc:creator>
+    <dct:created> 1938  --   1938</dct:created>
   </rdf:Description>
+  <rdf:Description><dc:identifier>LMO 20.202a</dc:identifier><dc:type>Ess- und Serviergeschirr
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:creator> ()</dc:creator><dct:created> 1760  --   1776</dct:created><dct:medium>Keramik
+Fayence</dct:medium>H&#246;he
+L&#228;nge3613cm
+cm316816</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 286</dc:identifier><dc:type>Malerei</dc:type><dc:title>Lustpartie</dc:title><dc:creator>Leys, Hendrik de ()</dc:creator><dct:created> 1835  --   1845</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316840</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 25.178/14</dc:identifier><dc:type>Fotografie
+Plastik</dc:type><dc:title>Dante</dc:title><dc:creator>Masson, Sophie ()</dc:creator><dct:created> 1995  --   1995</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316855</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 48</dc:identifier><dc:type>Malerei
+Grafik
+Bildnis</dc:type><dc:title>Oogenbedriegertje mit Radierung</dc:title><dc:creator> ()</dc:creator><dct:created> 1740  --   1760</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316848</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 25.178/10</dc:identifier><dc:type>Fotografie
+Plastik
+Medizin</dc:type><dc:title>Denkmal f&#252;r Philippe Pinel</dc:title><dc:creator>Masson, Sophie (Fotografin)</dc:creator><dct:created> 1995  --   1995</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316855</rdf:Description>
+  <rdf:Description><dc:identifier>Pl 029</dc:identifier><dc:type>Plastik
+Architektur
+Fassaden</dc:type><dc:creator> ()</dc:creator><dct:created> 1600  --   1649</dct:created><dct:medium>Sandstein</dct:medium>H&#246;he
+Breite3259cm
+cm316840</rdf:Description>
+  <rdf:Description><dc:identifier>SK 10</dc:identifier><dc:type>Beh&#228;lter/Gef&#228;&#223;
+Erinnerungskultur
+Lebenslauf</dc:type><dc:creator>Coninxloo, Hans II. van ()</dc:creator><dct:created> 1654  --   1655</dct:created><dct:medium>Silver</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316815.2</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 40</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Stilleben mit Hering</dc:title><dc:creator>Boelema de Stomme, Maerten (K&#252;nstler
+)</dc:creator><dct:created> 1640  --   1660</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316847</rdf:Description>
+  <rdf:Description><dc:identifier>00484</dc:identifier><dc:type>Ess- und Serviergeschirr</dc:type><dc:creator>Tiarks, Johann Hinrich ()</dc:creator><dct:created> 1736  --   1736</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Durchmesser3324cm
+cm31682.2</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 6/1</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Passionszyklus - Das letzte Abendmahl</dc:title><dc:creator>Coninxloo, Hans II. van ()</dc:creator><dct:created> 1598  --   1604</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316862</rdf:Description>
   <rdf:Description>
-    <dc:format>Keramik
-Fayence</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Lustpartie</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Dante</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Oogenbedriegertje mit Radierung</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Denkmal f&#252;r Philippe Pinel</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Sandstein</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Stilleben mit Hering</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Passionszyklus - Das letzte Abendmahl</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
+    <dc:identifier>OLM 37/0</dc:identifier>
+    <dc:type>Malerei</dc:type>
     <dc:title>Allegorie der Vier Elemente</dc:title>
-    <dc:format>Copper
-&#214;lfarben</dc:format>
+    <dc:creator>Pyman, Hinderk ()</dc:creator>
+    <dct:created> 1600  --   1649</dct:created>
+    <dct:medium>Copper
+&#214;lfarben</dct:medium>
   </rdf:Description>
   <rdf:Description>
+    <dc:identifier>21688-131</dc:identifier>
+    <dc:type>Bildungswesen
+Gebrauchsgrafik
+Unterrichtsmittel</dc:type>
     <dc:title>Scyllium catulus/ Haifisch. ( Katzenhai )</dc:title>
-    <dc:format>Papier
-Druckfarbe</dc:format>
+    <dc:creator>Leipziger Schulbilderverlag F. E. Wachsmuth ()</dc:creator>
+    <dct:created> 1885  --   1905</dct:created>
+    <dct:medium>Papier
+Druckfarbe</dct:medium>
   </rdf:Description>
-  <rdf:Description>
-    <dc:title>Deutsch-S&#252;dwestafrika: Ochsenzug in der Grassteppe</dc:title>
-    <dc:format>Papier
-Druckfarbe</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Sandstein</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Winterlandschaft</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Weinkeller</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Passionszyklus - Die Vorf&#252;hrung vor Kaiphas</dc:title>
-    <dc:format>Holz
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>The seven united provinces</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Sandstein</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Herzog Friedrich August v. Holstein-Gottorp,  Herzog v. Oldenburg, F&#252;rstbischof von L&#252;beck</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Vase mit chinesischer Landschaft</dc:title>
-    <dc:format>Keramik</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Silver
+  <rdf:Description><dc:identifier>17709-9</dc:identifier><dc:type>Bildungswesen
+Gebrauchsgrafik
+Pflege (Tierhaltung)
+Unterrichtsmittel</dc:type><dc:title>Deutsch-S&#252;dwestafrika: Ochsenzug in der Grassteppe</dc:title><dc:creator>Kuhnert, Wilhelm
+Eschner, Max
+Leipziger Schulbilderverlag F. E. Wachsmuth (K&#252;nstler
+Herausgeber
+Verlag)</dc:creator><dct:created> 1902  --   1905</dct:created><dct:medium>Papier
+Druckfarbe</dct:medium>H&#246;he
+Breite3259cm
+cm316867</rdf:Description>
+  <rdf:Description><dc:identifier>01325</dc:identifier><dc:type>Kaffee- und Teegeschirr
+Beh&#228;lter/Gef&#228;&#223;
+Genussmittel</dc:type><dct:created> 1850  --   1899</dct:created><dct:medium>Tin</dct:medium>H&#246;he
+Tiefe
+Durchmesser3450cm
+cm
+cm314812</rdf:Description>
+  <rdf:Description><dc:identifier>Pl 142</dc:identifier><dc:type>Plastik
+Wappen
+Tod und Begr&#228;bnis</dc:type><dct:created> 1637  --   1637</dct:created><dct:medium>Sandstein</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm3148182</rdf:Description>
+  <rdf:Description><dc:identifier>09546</dc:identifier><dc:type>Malerei
+Jahreslauf</dc:type><dc:title>Winterlandschaft</dc:title><dc:creator>Barnutz, Friedrich Adam Wilhelm ()</dc:creator><dct:created> 1845  --   1855</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316824</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 24.652</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator>Angoille ()</dc:creator><dct:created> 1790  --   1810</dct:created><dct:medium>Messing
+Glas</dct:medium>H&#246;he
+Breite
+L&#228;nge3333cm
+cm
+cm314825.6</rdf:Description>
+  <rdf:Description><dc:identifier>09593</dc:identifier><dc:type>Malerei
+Genussmittel</dc:type><dc:title>Weinkeller</dc:title><dc:creator>Sonnekes, Caspar Heinrich ()</dc:creator><dct:created> 1850  --   1899</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316839.5</rdf:Description>
+  <rdf:Description><dc:identifier>OLM 6/3</dc:identifier><dc:type>Malerei
+Religion</dc:type><dc:title>Passionszyklus - Die Vorf&#252;hrung vor Kaiphas</dc:title><dc:creator>Coninxloo, Hans II. van ()</dc:creator><dct:created> 1598  --   1604</dct:created><dct:medium>Holz
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316862</rdf:Description>
+  <rdf:Description><dc:identifier>2000/009</dc:identifier><dc:type>Kartographische Karten und Pl&#228;ne</dc:type><dc:title>The seven united provinces</dc:title><dct:created> 1797  --   1797</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316818.2</rdf:Description>
+  <rdf:Description><dc:identifier>Pl 146</dc:identifier><dc:type>Plastik
+Heraldik
+Tod und Begr&#228;bnis</dc:type><dct:created> 1600  --   1699</dct:created><dct:medium>Sandstein</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm3148199</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 24.653</dc:identifier><dc:type>Gro&#223;uhren
+Reisen</dc:type><dc:creator>Garnier, Paul ()</dc:creator><dct:created> 1875  --   1899</dct:created><dct:medium>Messing
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314815</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 8.009</dc:identifier><dc:type>Malerei
+Bildnis</dc:type><dc:title>Herzog Friedrich August v. Holstein-Gottorp,  Herzog v. Oldenburg, F&#252;rstbischof von L&#252;beck</dc:title><dc:creator>Tischbein, Johann Heinrich d.&#196;. ()</dc:creator><dct:created> 1770  --   1780</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm3168107</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 1.018b</dc:identifier><dc:type>Wohnen
+Zierobjekte</dc:type><dc:title>Vase mit chinesischer Landschaft</dc:title><dc:creator> ()</dc:creator><dct:created> 1725  --   1775</dct:created><dct:medium>Keramik</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316820</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 3.700</dc:identifier><dc:type>Kleinuhren
+Accessoire</dc:type><dc:creator> ()</dc:creator><dct:created> 1810  --   1810</dct:created><dct:medium>Silver
 Rubin
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Holz
+Glas</dct:medium>Tiefe
+Durchmesser3319cm
+cm31681.5</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 6.552</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator> ()</dc:creator><dct:created> 1700  --   1799</dct:created><dct:medium>Holz
 Glas
 lead
-Messing</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>La Fayette</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Messing
-Glas</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Jagdger&#228;t</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Bauernhochzeit</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>VU&#203; DE DRESDEN.</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>SECONDS VOYAGEURS ARIENS O&#218; EXPERIENCE DE MM CHARLES ET ROBERT.</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>VU&#203; DESSUS DU PORT VERS L&#180;EGLISE &#192; GOUDE.</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>VU&#203; APRES LA MELCKBRUGG SUR LA SPAARNE A HAARLEM.</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Befestigungsplan von Lingen</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Auszug der Franzosen aus Jever im Jahr 1813</dc:title>
-    <dc:format>Leinwand
-&#214;lfarben</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:title>Kasperletheater auf dem Kirchplatz in Jever</dc:title>
-    <dc:format>Leinwand
+Messing</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314859</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 25.178/12</dc:identifier><dc:type>Fotografie
+Plastik</dc:type><dc:title>La Fayette</dc:title><dc:creator>Masson, Sophie (Fotografin)</dc:creator><dct:created> 1995  --   1995</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316855</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 224</dc:identifier><dc:type>Gro&#223;uhren
+Wohnen</dc:type><dc:creator>Carre, Louis David ()</dc:creator><dct:created> 1750  --   1779</dct:created><dct:medium>Messing
+Glas</dct:medium>H&#246;he
+Breite
+Tiefe3288cm
+cm
+cm314817</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 10.532</dc:identifier><dc:type>Malerei
+Jagd</dc:type><dc:title>Jagdger&#228;t</dc:title><dc:creator>Leemans, Johannes (Maler)</dc:creator><dct:created> 1660  --   1670</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316880.5</rdf:Description>
+  <rdf:Description><dc:identifier>LMO 10.151</dc:identifier><dc:type>Malerei
+Lebenslauf</dc:type><dc:title>Bauernhochzeit</dc:title><dc:creator>Liss, Johann (Maler)</dc:creator><dct:created> 1617  --   1618</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316868</rdf:Description>
+  <rdf:Description><dc:identifier>GS Kunst 3255</dc:identifier><dc:type>Grafik</dc:type><dc:title>VU&#203; DE DRESDEN.</dc:title><dc:creator>Langwagen, Christian Gottlieb
+Riedel, Gottlieb Friedrich
+ (Zeichner
+Stecher
+Verlag)</dc:creator><dct:created> 1777  --   1795</dct:created><dct:medium>Papier</dct:medium>Bild
+Bild
+Platte
+Platte
+Blatt
+BlattH&#246;he
+Breite
+H&#246;he
+Breite
+H&#246;he
+Breite3337cm
+cm
+cm
+cm
+cm
+cm317426.6</rdf:Description>
+  <rdf:Description><dc:identifier>GS Kunst 2978</dc:identifier><dc:type>Grafik
+Historisches Ereignis</dc:type><dc:title>SECONDS VOYAGEURS ARIENS O&#218; EXPERIENCE DE MM CHARLES ET ROBERT.</dc:title><dct:created> 1770  --   1795</dct:created><dct:medium>Papier</dct:medium>Bild
+Bild
+Blatt
+BlattH&#246;he
+Breite
+H&#246;he
+Breite3504cm
+cm
+cm
+cm315824.9</rdf:Description>
+  <rdf:Description><dc:identifier>GS Kunst 2964</dc:identifier><dc:type>Grafik</dc:type><dc:title>VU&#203; DESSUS DU PORT VERS L&#180;EGLISE &#192; GOUDE.</dc:title><dc:creator>Probst, Georg Balthasar (K&#252;nstler
+)</dc:creator><dct:created> 1766  --   1790</dct:created><dct:medium>Papier</dct:medium>Bild
+Bild
+Blatt
+BlattH&#246;he
+Breite
+H&#246;he
+Breite3504cm
+cm
+cm
+cm315828</rdf:Description>
+  <rdf:Description><dc:identifier>GS Kunst 2963</dc:identifier><dc:type>Grafik</dc:type><dc:title>VU&#203; APRES LA MELCKBRUGG SUR LA SPAARNE A HAARLEM.</dc:title><dc:creator> (Verlag)</dc:creator><dct:created> 1770  --   1795</dct:created><dct:medium>Papier</dct:medium>Bild
+Bild
+Blatt
+BlattH&#246;he
+Breite
+H&#246;he
+Breite3504cm
+cm
+cm
+cm315826</rdf:Description>
+  <rdf:Description><dc:identifier>4060-25</dc:identifier><dc:type>Fotografie
+Lebenslauf</dc:type><dc:creator>Houben, Jos. ()</dc:creator><dct:created> 1890  --   1910</dct:created><dct:medium>Papier</dct:medium>Breite
+L&#228;nge3268cm
+cm31686</rdf:Description>
+  <rdf:Description><dc:identifier>4060-69</dc:identifier><dc:type>Fotografie
+Lebenslauf</dc:type><dc:creator>Eulenstein ()</dc:creator><dct:created> 1890  --   1910</dct:created><dct:medium>Papier</dct:medium>Breite
+L&#228;nge3268cm
+cm31686.2</rdf:Description>
+  <rdf:Description><dc:identifier>2907-6</dc:identifier><dc:type>Fotografie
+Lebenslauf</dc:type><dc:creator>H&#252;sig, Fritz ()</dc:creator><dct:created> 1890  --   1910</dct:created><dct:medium>Papier</dct:medium>Breite
+L&#228;nge3268cm
+cm31686.4</rdf:Description>
+  <rdf:Description><dc:identifier>2907-11</dc:identifier><dc:type>Fotografie
+Lebenslauf</dc:type><dc:creator>H&#252;sig, Fritz ()</dc:creator><dct:created> 1890  --   1910</dct:created><dct:medium>Papier</dct:medium>Breite
+L&#228;nge3268cm
+cm31686.3</rdf:Description>
+  <rdf:Description><dc:identifier>2000/025</dc:identifier><dc:type>Kartographische Karten und Pl&#228;ne
+Militaria
+Karte/Plan</dc:type><dc:title>Befestigungsplan von Lingen</dc:title><dc:creator>Blaeu, Willem Janszoon ()</dc:creator><dct:created> 1649  --   1649</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316837</rdf:Description>
+  <rdf:Description><dc:identifier>09538</dc:identifier><dc:type>Malerei</dc:type><dc:title>Auszug der Franzosen aus Jever im Jahr 1813</dc:title><dc:creator>Barnutz, Friedrich Adam Wilhelm ()</dc:creator><dct:created> 1844  --   1844</dct:created><dct:medium>Leinwand
+&#214;lfarben</dct:medium>H&#246;he
+Breite3259cm
+cm316875</rdf:Description>
+  <rdf:Description><dc:identifier>09537</dc:identifier><dc:type>Malerei
+Spiel/Spielzeug</dc:type><dc:title>Kasperletheater auf dem Kirchplatz in Jever</dc:title><dc:creator>Barnutz, Friedrich Adam Wilhelm ()</dc:creator><dct:created> 1845  --   1845</dct:created><dct:medium>Leinwand
 &#214;lfarben
-Pappe</dc:format>
-  </rdf:Description>
+Pappe</dct:medium>H&#246;he
+Breite3259cm
+cm316835</rdf:Description>
   <rdf:Description>
+    <dc:identifier>04940</dc:identifier>
+    <dc:type>Kaffee- und Teegeschirr
+Beh&#228;lter/Gef&#228;&#223;</dc:type>
     <dc:title>Fr&#252;hst&#252;cksservice</dc:title>
-    <dc:format>Keramik</dc:format>
+    <dc:creator>W&#228;chtersbach
+Fesca, Ursula ()</dc:creator>
+    <dct:created> 1930  --   1939</dct:created>
+    <dct:medium>Keramik</dct:medium>
   </rdf:Description>
-  <rdf:Description>
-    <dc:title>Planisph&#230;rium Coeleste</dc:title>
-    <dc:format>Papier</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Keramik</dc:format>
-  </rdf:Description>
-  <rdf:Description>
-    <dc:format>Tin
-Messing</dc:format>
-  </rdf:Description>
+  <rdf:Description><dc:identifier>2001/010</dc:identifier><dc:type>Kartographische Karten und Pl&#228;ne</dc:type><dc:title>Planisph&#230;rium Coeleste</dc:title><dc:creator>Seutter, Georg Matth&#228;us (Zeichner)</dc:creator><dct:created> 1730  --   1750</dct:created><dct:medium>Papier</dct:medium>H&#246;he
+Breite3259cm
+cm316853.5</rdf:Description>
+  <rdf:Description><dc:identifier>01354</dc:identifier><dc:type>Ess- und Serviergeschirr
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dct:created> 1740  --   1760</dct:created><dct:medium>Keramik</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316823</rdf:Description>
+  <rdf:Description><dc:identifier>01301</dc:identifier><dc:type>Hauswirtschaft
+Beh&#228;lter/Gef&#228;&#223;</dc:type><dc:creator>Tiarks, Caspar Heinrich ()</dc:creator><dct:created> 1843  --   1843</dct:created><dct:medium>Tin
+Messing</dct:medium>H&#246;he
+Durchmesser3324cm
+cm316834</rdf:Description>
 </rdf:RDF>

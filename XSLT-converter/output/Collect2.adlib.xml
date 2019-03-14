@@ -15469,8 +15469,8 @@ Genussmittel</object_category>
     <cgistring>
       <param name="database">Collect</param>
     </cgistring>
-    <link_resolve_time unit="mS" culture="en-US">110.1124</link_resolve_time>
-    <xml_creation_time unit="mS" culture="en-US">13</xml_creation_time>
-    <response_time unit="mS" culture="en-US">5720</response_time>
+    <link_resolve_time unit="mS" culture="en-US">363.2611</link_resolve_time>
+    <xml_creation_time unit="mS" culture="en-US">15</xml_creation_time>
+    <response_time unit="mS" culture="en-US">9454</response_time>
   </diagnostic>
 </adlibXML>
