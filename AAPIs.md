@@ -29,7 +29,7 @@ levert:
 Commando's
 
     command=getversion
-    command=listdatabase
+    command=listdatabases
     database=[]&getmetadata
     database=[]&search=all&limit=X&startpriref=Y
     
