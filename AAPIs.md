@@ -30,6 +30,6 @@ Commando's
 
     command=getversion
     command=listdatabases
-    database=[]&getmetadata
+    database=[]&command=getmetadata
     database=[]&search=all&limit=X&startpriref=Y
     
