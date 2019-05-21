@@ -11,3 +11,10 @@ Aanpak:
 - testen aan serverside bij Axiell
 - idem voor edm
 - cidoc-crm
+
+## Dublin Core Metadata Initiative (DC)
+Conversion of the tist file (selection of objects) to [Dublin Core](http://dublincore.org/):
+
+```
+saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.xml
+```
