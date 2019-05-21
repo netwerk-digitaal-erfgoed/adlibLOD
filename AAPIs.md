@@ -1,14 +1,13 @@
 ## Adlib API's
 
-Google query: 
+    https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx
+    database = "Collect"
 
-    https://www.google.nl/search?as_q=wwwopac.ashx
-    
-levert: 
 
     https://opac.geologie.ac.at/wwwopacx/wwwopac.ashx?  | Geologische Bundesanstalt Oostenrijk
 
     http://amdata.adlibsoft.com/wwwopac.ashx? | Amsterdam Museum
+    database = "AMcollect"
 
     http://adlib.imf.org/digital_assets/wwwopac.ashx? | IMF
 
@@ -26,10 +25,11 @@ levert:
 
     http://collectie.groningermuseum.nl/webapi/wwwopac.ashx | Groninger Museum 
 
-Commando's
+
+Enkele relevante API Commando's
 
     command=getversion
-    command=listdatabase
-    database=[]&getmetadata
+    command=listdatabases
+    database=[]&command=getmetadata
     database=[]&search=all&limit=X&startpriref=Y
     
