@@ -18,3 +18,7 @@ Conversion of the tist file (selection of objects) to [Dublin Core](http://dubli
 ```
 saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.xml
 ```
+
+```
+xsltproc stylesheets/dc.xslt testdata/testset.xml > out/test_dc.xml
+```
