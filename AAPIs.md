@@ -3,7 +3,6 @@
     https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx
     database = "Collect"
 
-
     https://opac.geologie.ac.at/wwwopacx/wwwopac.ashx?  | Geologische Bundesanstalt Oostenrijk
 
     http://amdata.adlibsoft.com/wwwopac.ashx? | Amsterdam Museum
@@ -25,6 +24,8 @@
 
     http://collectie.groningermuseum.nl/webapi/wwwopac.ashx | Groninger Museum 
 
+Documentatie:
+http://api.adlibsoft.com/documentation/the-adlibweb-xml-file
 
 Enkele relevante API Commando's
 

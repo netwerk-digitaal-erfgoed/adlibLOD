@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:dcterms="http://purl.org/dc/terms/">
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
 
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
@@ -17,7 +16,7 @@
 <xsl:template match="diagnostic"/>
 
 <xsl:template match="record">
-    <rdf:Description>
+    <crm:E22_Man-Made_Object>
         <xsl:attribute name="rdf:about">
             <xsl:text>http://lodp-web.adlibhosting.com/priref/</xsl:text>
             <xsl:value-of select="@priref"/>
@@ -26,21 +25,21 @@
         <xsl:apply-templates select="object_number"/>
         <!-- DC title -->
         <xsl:apply-templates select="Title/title"/>
-    </rdf:Description>
+    </crm:E22_Man-Made_Object>
 </xsl:template>
 
 <!-- DC identifier -->
 <xsl:template match="object_number">
-    <dc:identifier>
+    <crm:P1_is_identified_by>
         <xsl:value-of select="."/>
-    </dc:identifier>
+    </crm:P1_is_identified_by>
 </xsl:template>
 
 <!-- DC title -->
 <xsl:template match="Title/title">
-    <dc:title>
+    <crm:P102_has_title>
         <xsl:value-of select="."/>
-    </dc:title>
+    </crm:P102_has_title>
 </xsl:template>
 
 </xsl:stylesheet>
