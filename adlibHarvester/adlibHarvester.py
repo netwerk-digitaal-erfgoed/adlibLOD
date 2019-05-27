@@ -2,12 +2,8 @@
 
 import lxml.etree as etree
 import urllib.request
-import rdflib
 
 # variables
-
-## path/file for stylesheet to convert adlibXML into RDF/XML
-stylesheet = "../stylesheets/dc.xslt"
 
 ## Adlib API-endpoint and variables
 #endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx?database=AMcollect&search=all&limit=100" # endpoint of Amsterdam Museum
