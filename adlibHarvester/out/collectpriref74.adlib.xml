@@ -104,7 +104,7 @@ Dateert dit werk uit de 17e eeuw of is het een 19e eeuwse kopie? In 1990 is dit 
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">15.6239</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2482</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6244</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2487</response_time>
   </diagnostic>
 </adlibXML>

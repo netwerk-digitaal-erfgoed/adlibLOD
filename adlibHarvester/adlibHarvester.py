@@ -68,27 +68,6 @@ while (numberFound > (page * limit)):
         f.write(adlibXML)
         f.close()
 
-        # transform adlibXML into RDF/XML
-        newdom = transform(dom2)
-        rdfXML = etree.tostring(newdom, pretty_print=True)
-
-        # write rdfxml-file
-        filename = "out/" + database + "priref" + str(priref) + ".rdf.xml"
-        f = open(filename,"wb")
-        f.write(rdfXML)
-        f.close()
-
-        # read into rdf-graph object and serialize as turtle
-        g = rdflib.Graph()
-        r = g.parse(data=rdfXML, format="xml")
-        rdfTTL = g.serialize(format='turtle')
-
-        # write turtle-file
-        filename = "out/" + database + "priref" + str(priref) + ".ttl"
-        f = open(filename,"wb")
-        f.write(rdfTTL)
-        f.close()
-
     # make loop end
     ## read numberFound
     hits = dom.find(".//hits")

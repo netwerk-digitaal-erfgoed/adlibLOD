@@ -143,7 +143,7 @@ Als uitgangspunt nam Kushner een foto uit de jaren twintig van een dansgroep uit
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.251</xml_creation_time>
-    <response_time unit="mS" culture="en-US">46.874</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2501</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8742</response_time>
   </diagnostic>
 </adlibXML>

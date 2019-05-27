@@ -117,7 +117,7 @@ Combas's selfportrait, painted on an old cardboard box, is all but a good likene
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">15.6232</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2481</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6252</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.248</response_time>
   </diagnostic>
 </adlibXML>

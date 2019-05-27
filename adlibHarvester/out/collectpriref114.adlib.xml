@@ -102,7 +102,7 @@ Zie ook de foto van Henri Cartier-Bresson waarop deze sits (of een andere versie
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.2495</xml_creation_time>
-    <response_time unit="mS" culture="en-US">46.8746</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2476</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8743</response_time>
   </diagnostic>
 </adlibXML>

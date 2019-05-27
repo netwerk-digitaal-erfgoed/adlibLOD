@@ -113,7 +113,7 @@ Op het deksel een kussen met smalle gebeeldhouwde rand, waarbinnen het gesneden,
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.2459</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2459</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6254</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2486</response_time>
   </diagnostic>
 </adlibXML>

@@ -1,8 +1,0 @@
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
-  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/295">
-    <dc:identifier>1987.0691</dc:identifier>
-    <dc:type>foto's</dc:type>
-    <dc:creator>onbekend</dc:creator>
-    <dc:description>= XXXX.0414</dc:description>
-  </rdf:Description>
-</rdf:RDF>

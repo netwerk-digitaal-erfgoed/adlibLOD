@@ -99,7 +99,7 @@ Vlg. 1982.0280.</description>
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">15.6242</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2486</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6245</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2492</response_time>
   </diagnostic>
 </adlibXML>

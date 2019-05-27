@@ -51,6 +51,6 @@ De random-techniek probeert de resultaten zo veel mogelijk te objectiveren. De V
       <param name="database">collect</param>
     </cgistring>
     <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
-    <response_time unit="mS" culture="en-US">15.6237</response_time>
+    <response_time unit="mS" culture="en-US">15.6248</response_time>
   </diagnostic>
 </adlibXML>

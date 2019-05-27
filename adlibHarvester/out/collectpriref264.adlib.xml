@@ -113,7 +113,7 @@ The theme' Maler ohne Idee' depicted in this painting not only represents the sp
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.2487</xml_creation_time>
-    <response_time unit="mS" culture="en-US">46.8735</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6248</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2487</response_time>
   </diagnostic>
 </adlibXML>

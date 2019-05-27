@@ -81,7 +81,7 @@ Belangrijker dan het principe is het visuele effect van het totaal, waar lijn en
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
-    <response_time unit="mS" culture="en-US">15.799</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6256</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2492</response_time>
   </diagnostic>
 </adlibXML>

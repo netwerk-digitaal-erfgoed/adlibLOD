@@ -102,7 +102,7 @@ MacConnel uses various media, varying from paintings and paper to existing fabri
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">15.6248</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2495</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2502</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2502</response_time>
   </diagnostic>
 </adlibXML>

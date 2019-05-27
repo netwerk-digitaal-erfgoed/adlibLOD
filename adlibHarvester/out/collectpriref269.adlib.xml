@@ -79,7 +79,7 @@ In 1984 exposeerden de twee meest interessante kunstenaars van de groep, naast D
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">15.6252</xml_creation_time>
-    <response_time unit="mS" culture="en-US">31.2468</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6247</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6247</response_time>
   </diagnostic>
 </adlibXML>

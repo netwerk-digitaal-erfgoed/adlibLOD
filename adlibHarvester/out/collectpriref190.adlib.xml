@@ -128,7 +128,7 @@
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.2485</xml_creation_time>
-    <response_time unit="mS" culture="en-US">46.8674</response_time>
+    <xml_creation_time unit="mS" culture="en-US">30.8096</xml_creation_time>
+    <response_time unit="mS" culture="en-US">47.3932</response_time>
   </diagnostic>
 </adlibXML>

@@ -138,7 +138,7 @@ In VOC documents from 1653 mention is made of the lacquer worker 'Kisibe'. As fa
     <cgistring>
       <param name="database">collect</param>
     </cgistring>
-    <xml_creation_time unit="mS" culture="en-US">31.249</xml_creation_time>
-    <response_time unit="mS" culture="en-US">46.8729</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2501</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8734</response_time>
   </diagnostic>
 </adlibXML>
