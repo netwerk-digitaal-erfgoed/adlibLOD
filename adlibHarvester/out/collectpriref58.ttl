@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/58> dc:creator "onbekend" ;
+    dc:date "1755-1766" ;
+    dc:description "Hij is getrouwd met Johanna Busch de Marees (# 1931.0039) op 13 juli 1755 te Groningen, Nieuwe Kerk." ;
+    dc:format "breedte: 62 cm",
+        "breedte: 77.5 cm",
+        "dikte: 8 cm",
+        "hoogte: 90 cm",
+        "hoogte: 93 cm" ;
+    dc:identifier "1931.0040" ;
+    dc:title "Albert Hendrik van Swinderen (1732-1802)" ;
+    dc:type "portretten",
+        "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

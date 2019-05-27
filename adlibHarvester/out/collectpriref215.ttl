@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/215> dc:creator "Bonies" ;
+    dc:date "1967" ;
+    dc:description "Relief van kunststof, geverfd aluminium en spaanplaat" ;
+    dc:format "breedte: 44 cm",
+        "diepte: 18 cm",
+        "hoogte: 76 cm" ;
+    dc:identifier "1978.0379" ;
+    dc:title "Zonder titel" ;
+    dc:type "reliëfs (objecten)" ;
+    dct:medium "aluminium",
+        "kunststof",
+        "lakverf",
+        "spaanplaat" .
+

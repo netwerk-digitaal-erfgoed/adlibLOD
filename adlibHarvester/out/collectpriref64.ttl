@@ -1,0 +1,16 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/64> dc:creator "Blanca, Paul" ;
+    dc:date "1989" ;
+    dc:format "breedte: 97 cm",
+        "hoogte: 95 cm" ;
+    dc:identifier "1990.0108" ;
+    dc:title "Koos Dalstra" ;
+    dc:type "foto's" ;
+    dct:medium "fotopapier" .
+

@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/113> dc:creator "Kichibei, Saji" ;
+    dc:date "1650" ;
+    dc:description "De koffer heeft een gewelfd deksel en twee laden, een ongebruikelijke combinatie. Op het deksel is een figuur in een landschap afgebeeld, met een bloemkorf aan een stok over zijn schouder en een hak in de hand. Op de wanden zijn vogels en bloeiende planten in rood en goud geschilderd. Binnen op het deksel heeft de maker zijn werkstuk gesigneerd met 'Saji Kichibei fuda', gemaakt door Saji Kichibei. In VOC-documenten uit 1653 wordt melding gemaakt van de lakwerker 'Kisibe'. Voor zover bekend is dit het enige gesigneerde stuk Japans export lak uit de 17e eeuw.",
+        """The chest has a domed lid and two drawers: an unusual combination. The lid and sides present cartouches in a silver lacquer border on a black lacquer background with a wood grain pattern. The decoration on the lid shows a male figure in a landscape carrying a flower basket on a stick over his shoulder and holding a hoe. The sides are painted with birds and flowering plants in red and gold. The inside of the lid bears the inscription 'Saji Kichibei fuda': made by Saji Kichibei.
+In VOC documents from 1653 mention is made of the lacquer worker 'Kisibe'. As far as known, this is the only signed piece of 17th century Japanese export lacquer.""" ;
+    dc:format "breedte: 97.5 cm",
+        "diepte: 41.5 cm",
+        "hoogte: 49 cm" ;
+    dc:identifier "1988.0024" ;
+    dc:title "Lakkoffer" ;
+    dc:type "koffers" ;
+    dct:medium "hout",
+        "lak (hars)" .
+

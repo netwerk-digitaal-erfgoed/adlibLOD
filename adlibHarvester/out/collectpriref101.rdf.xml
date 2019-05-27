@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/101">
+    <dc:identifier>1989.0220</dc:identifier>
+    <dc:type>reli&#235;fs (objecten)</dc:type>
+    <dc:title>Levitando</dc:title>
+    <dc:creator>Plumcake</dc:creator>
+    <dc:creator>Pallotta, Romolo</dc:creator>
+    <dc:creator>Ragni, Claudio</dc:creator>
+    <dc:creator>Cella, Gianni</dc:creator>
+    <dc:date>1987</dc:date>
+    <dct:medium>glasfiber</dct:medium>
+    <dc:format>hoogte: 143 cm</dc:format>
+    <dc:format>breedte: 137 cm</dc:format>
+    <dc:format>diepte: 23 cm</dc:format>
+    <dc:description>Door Plumcake is het hart gebruikt als basisvorm voor een serie werken. Het hart dat een afgezaagd symbool is voor de liefde, wordt in rooms-katholieke land en ook geassocieerd met het heilig hart van Jezus of met de 7 smarten van Maria. In dit hart zit nog een religieuze verwijzing: de heilige Franciscus van Assisi praat met de vogels terwijl hij de dreigende aap rechts niet opmerkt, die met zijn armen het hart omsluit.</dc:description>
+    <dc:description>Plumcake used the heart as the hasic form for a series of works. The heart, a time-worn symbol of love, is in Roman Catholic countries also associated with tbe Sacred Heart of Jesus or with tbe Seven Sorrows of Mary. This heart also contains a religious reference: St Francis of Assisi talks to the birds, while he fails to notice the threatening monkey on the right, that encloses the heart with its arms.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

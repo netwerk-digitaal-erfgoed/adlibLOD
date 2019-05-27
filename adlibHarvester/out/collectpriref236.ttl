@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/236> dc:creator "Nanninga, Jaap" ;
+    dc:date "1959" ;
+    dc:description "Mon abri (mijn schuilplaats) is de lyrisch abstracte verbeelding van een tuinmanshuisje op het landgoed Clingendaal te Wassenaar. In deze schuilplaats trok Nanninga zich terug om te schilderen." ;
+    dc:format "breedte: 90 cm",
+        "hoogte: 80 cm" ;
+    dc:identifier "1960.0175" ;
+    dc:title "Mon Abri" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

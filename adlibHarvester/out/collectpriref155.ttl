@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/155> dc:creator "Appel, Karel" ;
+    dc:date "1951" ;
+    dc:description "In the years 1950 and 1951 Appel made a series of paintings with man and animals as subject. Large, compact colour planes with an occasional strong line dominate Appel's work in this period. A conspicious feature in the 'Vogel' painting is the difference in treatment in the left and right part. On the left large coloiur planes have been painted with a few prominent black lines. On the right the colours are more subtly applied with short brush strokes.",
+        "Opmerkelijk in dit schilderij is het verschil in behandeling van de rechter en de linker helft. Links zien we grote vlakken kleur, rood, geel, blauw en wit en daaroverheen enkele forse zwarte lijnen die ogen en snavel markeren. Het rechter deel is meer spontaan geschilderd. Het schilderij is typerend voor het werk dat Appel juist in de Cobra-tijd maakte." ;
+    dc:format "breedte: 116 cm",
+        "hoogte: 81 cm" ;
+    dc:identifier "1976.0363" ;
+    dc:title "Vogel" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

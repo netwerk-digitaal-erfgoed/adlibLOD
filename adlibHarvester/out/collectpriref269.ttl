@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/269> dc:creator "Dahn, Walter" ;
+    dc:date "1982" ;
+    dc:description """Op het dit schilderij 'Einen Staubsauger fressen' zien we een man die bezig is een stofzuiger op te eten. Het werk lijkt op het eerste gezicht een grote striptekening of karikatuur. Het is met woeste verfstreken geschilderd. De kleuren zijn moddergrijs, bruin en zwart, ze lopen door elkaar in een bruinige brij en er zijn geen heldere vlakken of afbakeningen. De sfeer van dit zelfportret sluit aan bij de bewuste lelijkheid, agressie en uitzichtloosheid van de punkbeweging uit deze tijd. Misschien is het wel een zelfportret van de maker
+Hij doet het hier voorkomen alsof hij geen concept heeft, maar in werkelijkheid is juist dat standpunt zijn idee: hij wilde zich afzetten tegen de conceptuele kunst uit de jaren zeventig, waarin alles om ideeën draaide en het persoonlijke, het ‘handschrift’, er niet toe deed.
+
+Dahn was één van de smaakmakers van de Mülheimer Freiheit, een groep van zes jonge Duitse schilders genoemd naar de Keulse straat waarin hun atelier zich bevond. In 1981 werd hun werk voor het eerst museaal getoond in het Groninger Museum, als voorbeeld van het nieuwe ‘wilde schilderen’ in Duitsland. Om geen onderscheid te maken tussen de afzonderlijke leden, maar de mentaliteit van het geheel te tonen, werd uit de tentoonstelling van elke kunstenaar één werk verworven. Met galeriehouder Paul Maenz had directeur Frans Haks afgesproken dat het museum een aantal werken kon krijgen, in ruil voor het op spieramen laten zetten van alle doeken, die opgerold waren aangeleverd voor de tentoonstelling.
+
+In 1984 exposeerden de twee meest interessante kunstenaars van de groep, naast Dahn was dat Georg Jiri Dokoupil, opnieuw in het Groninger Museum. Ze toonden er enkele reeksen humoristische schilderijen die ze samen hadden gemaakt, telkens uitgaande van een ander idee. Eén van die series was ‘Tierbilder’. Hierin kijken de kunstenaars, vergezeld van een aantal dieren, op elk schilderij over een hoge muur. Deze muur werd in de loop van de serie steeds hoger. Toen deze het beeldvlak bijna geheel vulde, stapten de kunstenaars over op een ander thema. Het laatste schilderij uit de reeks werd later aangekocht. (zie nr 1993.0270)""" ;
+    dc:format "breedte: 150 cm",
+        "hoogte: 200 cm" ;
+    dc:identifier "1982.0046" ;
+    dc:title "Einen Staubsauger fressen" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "emulgerende verf" .
+

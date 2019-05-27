@@ -1,0 +1,17 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/188">
+    <dc:identifier>1983.0046</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:type>stillevens</dc:type>
+    <dc:title>Offiziers stilleben</dc:title>
+    <dc:creator>Kunc, Milan</dc:creator>
+    <dc:date>1975</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 100 cm</dc:format>
+    <dc:format>breedte: 99.5 cm</dc:format>
+    <dc:format>hoogte: 101.1 cm</dc:format>
+    <dc:format>breedte: 101.3 cm</dc:format>
+    <dc:format>diepte: 3 cm</dc:format>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/114> dc:creator "onbekend" ;
+    dc:date "1750" ;
+    dc:description """Deze sits is versierd met een Chinoiserie, voorstellend musicerende Chinese figuren in een landschap, omgeven door een band met geschakelde bloemen. Figurale voorstellingen als centraal motief komen maar zelden voor op sitsen en mogelijk maakte dit stuk deel uit van een serie van vier doeken die de vier werelddelen verbeeldden door middel van musicerende gezelschappen van verschillende volkeren. Dat deze sits in de breedte is beschilderd duidt op het gebruik als wandbespanning, wellicht in een muziekkamer.
+Zie ook de foto van Henri Cartier-Bresson waarop deze sits (of een andere versie van hetzelfde patroon?) aan de wand hangt in het atelier van de kunstenaar Henri Matisse.""",
+        "This chintz is decorated with chinoiserie showing Chinese figures making music in a landscape, surrounded by a border of interlined flowers. Figural representations as a central motif are rare on chintzes, and possibly this piece belonged to a series of four that depicted the four continents in the form of music-making groups of different races. The widthwise decoration indicates that the chintz was intended for use on a wall, perhaps in a music room.",
+        "Vanaf het midden van de zeventiende eeuw was textiel uit India een belangrijk handelsartikel voor de VOC, vooral sitsen, geschilderde of gedrukte katoenen stoffen. Deze sits, met een fantasievoorstelling van een landschap met Chinese figuren, een zogenaamde chinoiserie, valt buiten de gewone kaders. Mogelijk heeft de particuliere opdrachtgever een tekening of prent verstrekt. Het kan een wandbespanning van een muziekkamer geweest zijn." ;
+    dc:format "breedte: 237 cm",
+        "hoogte: 170 cm" ;
+    dc:identifier "1989.0328" ;
+    dc:title "Sits" ;
+    dc:type "sits" ;
+    dct:medium "katoen" .
+

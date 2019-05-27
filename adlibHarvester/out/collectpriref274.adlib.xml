@@ -1,0 +1,89 @@
+<adlibXML>
+  <recordList>
+    <record priref="274" created="2018-01-04T09:53:13" modification="2018-11-12T03:47:55" selected="false">
+      <Description>
+        <description>In 1984 exposeerden Walter Dahn en Jiri Georg Dokoupil in het Groninger Museum. Ze toonden er enkele reeksen humoristische schilderijen die ze samen hadden gemaakt, telkens uitgaande van een ander idee. E&#233;n van die series was &#8216;Tierbilder&#8217;. Hierin kijken de kunstenaars, vergezeld van een aantal dieren, op elk schilderij over een hoge muur. Deze muur (de Berlijnse Muur?) werd in de loop van de serie steeds hoger. Toen deze het beeldvlak bijna geheel vulde, stapten de kunstenaars over op een ander thema.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>doekmaat</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>200</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>300.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijstmaat</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>202</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>302</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Na de muur. Beeldessay Muren</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1993.0270</object_number>
+      <priref>274</priref>
+      <Production>
+        <creator>Dahn, Walter</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Dokoupil, Jiri Georg</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1984</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1993.0270.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Wall painting with animals and selfportraits</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6236</response_time>
+  </diagnostic>
+</adlibXML>

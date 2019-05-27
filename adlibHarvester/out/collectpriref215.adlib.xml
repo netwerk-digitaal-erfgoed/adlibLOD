@@ -1,0 +1,78 @@
+<adlibXML>
+  <recordList>
+    <record priref="215" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:45" selected="false">
+      <Description>
+        <description>Relief van kunststof, geverfd aluminium en spaanplaat</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>76</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>44</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>18</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kunst nu - Kunst unserer Zeit</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>lakverf</material>
+      </Material>
+      <Material>
+        <material>aluminium</material>
+      </Material>
+      <Material>
+        <material>spaanplaat</material>
+      </Material>
+      <Material>
+        <material>kunststof</material>
+      </Material>
+      <Object_name>
+        <object_name>reli&#235;fs (objecten)</object_name>
+      </Object_name>
+      <object_number>1978.0379</object_number>
+      <priref>215</priref>
+      <Production>
+        <creator>Bonies</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1967</production.date.start>
+      </Production_date>
+      <Title>
+        <title>Zonder titel</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6213</response_time>
+  </diagnostic>
+</adlibXML>

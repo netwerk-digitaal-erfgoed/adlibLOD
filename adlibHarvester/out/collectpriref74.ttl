@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/74> dc:creator "Claesz., Pieter (richting)",
+        "onbekend" ;
+    dc:date "1600-1661" ;
+    dc:description """Stilleven met grote roemer bij tinnen bord, waarop brood en mes, verder een omgevallen zilveren beker, vuurtest, pijp, tabak enz.
+Dateert dit werk uit de 17e eeuw of is het een 19e eeuwse kopie? In 1990 is dit schilderij bestudeerd en gerestaureerd. De bevindingen zijn: "het leidt tot de veronderstelling dat het gaat om een samengesteld werk of een 19e eeuwse kopie. Dit vanwege de combinatie van tabak en ontbjit (een ongebruikelijke combinatie). De liggende tazza werd later met een liggende beker overgeschilderd, terwijl de pijp en het komfoor later toegevoegd lijken. Tafel en roemer zijn bijgewerkt of eveneens latere toevoegingen".""" ;
+    dc:format "breedte: 55.5 cm",
+        "breedte: 75 cm",
+        "diepte: 7 cm",
+        "hoogte: 67.0 cm",
+        "hoogte: 87 cm" ;
+    dc:identifier "1919.0242" ;
+    dc:title "Stilleven met groot noppenglas, half gevuld met witte wijn",
+        "Stilleven met roemer, bord en mes" ;
+    dc:type "schilderijen",
+        "stillevens" ;
+    dct:medium "olieverf",
+        "paneel (hout)" .
+

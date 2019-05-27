@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/181">
+    <dc:identifier>1991.0372</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Sam I am</dc:title>
+    <dc:creator>Kostabi, Mark</dc:creator>
+    <dc:date>1990</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 61 cm</dc:format>
+    <dc:format>breedte: 92 cm</dc:format>
+    <dc:description>Tegen een blauwe lucht met witte wolken zien we de Amerikaanse adelaar Uncle Sam naast een figuur zonder gezicht met een hoed gemaakt van de Amerikaanse vlag. Het symbool van de Verenigde Staten is hier een karikatuur geworden.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

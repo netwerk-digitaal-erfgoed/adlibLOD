@@ -1,24 +1,48 @@
 # adlibLOD
+In this repository we develop XSLT stylesheets for converting basic AdlibXML into Linked Open Data. For your own use it might necessary to adjust the stylesheet to your own specific usages of Adlib fields and XML-elements.
 
-In this repository we develop XSLT stylesheets for converting AdlibXML into Linked Open Data.
+## XSLT conversion
+We will test our product with four XSLT-conversion tools.
 
-Aanpak:
-- testset maken
-- iedereen toegang geven tot git en afspraken maken, hoe we codeveranderingen toevoegen
-- uitgangspunt: we maken het voor de API
-- uitgangspunt: dc.xslt van Chris
-- aanpassen van de dc.xslt totdat het werkt
-- testen aan serverside bij Axiell
-- idem voor edm
-- cidoc-crm
+### Saxon
+Install saxon
+[See this website](todo)
 
-## Dublin Core Metadata Initiative (DC)
-Conversion of the tist file (selection of objects) to [Dublin Core](http://dublincore.org/):
-
+Usage example:
 ```
-saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.xml
+saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.rdf.xml
 ```
 
+### Xmllint
+Install xmllint
+[See this website](todo)
+
+Usage examples:
 ```
-xsltproc stylesheets/dc.xslt testdata/testset.xml > out/test_dc.xml
+xsltproc stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
+```
+
+```
+xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
+```
+
+### Microsoft thing
+Is part of the Adlib intrastructure
+
+### Home-brewed harvesting-tool in Python3
+see directory "AdlibLODHarvester".
+
+## Various schemas
+We developed the stylesheets top-to-bottom implementing all basicfields of a description into the schema at hand, and bottom-up by searching for all available data in the fields from the schema.
+
+### Dublin Core Metadata Initiative (DC)
+Conversion (selection of objects) to [Dublin Core](http://dublincore.org/) can be done with the stylesheet *stylesheets/dc.xslt*.
+
+## Test RDF-syntax
+We test the resulting XML/RDF by parsing it with raptor.
+[See this website](todo)
+
+Usage example
+```
+rapper -o turtle out/test_dc.rdf.xml > out/test_dc.ttl
 ```

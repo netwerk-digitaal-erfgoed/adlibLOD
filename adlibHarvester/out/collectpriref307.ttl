@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/307> dc:creator "Vries, Herman de" ;
+    dc:date "1976" ;
+    dc:description """In dit werk zijn de afmetingen en richting van het element gegeven. De plaats is willekeurig bepaald. Het toeval, en de manieren waarop dat zich manifesteert, is het alles overheersende thema. Voor elke ‘random objectivation’ worden enkele spelregels opgesteld, waarbinnen een door het toeval bepaalde groepering van elementen optreedt. De plaats, maat en richting ten opzichte van een eventueel aanwezig grondvlak worden bepaald door een willekeurige reeks getallen, genomen uit de toevalstabel van Fisher en Yates’ handboek ‘Statistical tables for biological, agricultural and medical research’.
+De random-techniek probeert de resultaten zo veel mogelijk te objectiveren. De Vries aanvaard de reeks getallen, die uit een tabel voortkomt, als bindend. De interpretatie van het werk wordt zo voor een deel aan de kijker overgelaten.""" ;
+    dc:format "diameter: 160 cm" ;
+    dc:identifier "1976.0381" ;
+    dc:title "Random Objectivation no. 1" ;
+    dc:type "schilderijen" ;
+    dct:medium "hout" .
+

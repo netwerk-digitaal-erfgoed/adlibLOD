@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/271> dc:creator "Quik" ;
+    dc:date "1982" ;
+    dc:description "Dit werk lijkt een beetje op het werk van Blade. Quik gebruikt ook vaak combinaties van grote letters in duidelijk omlijnde vormen met veel kleuren en cartooneske figuren. Hier maakt het figuurtje de lettercombinatie af: de opgestoken vinger moet je als een 'i' lezen en de pupil in het ook als een 'k'. Deze combinatie werd ook al op treinen toegepast, omdat het stripfiguurtje de herkenbaarheid en aantrekkingskracht van het geheel vergrootte. In dit werk heeft Quik de oorspronkelijke treinstijl gebruikt. Het langwerpige formaat van het doek correspondeert met de vorm van een treinwagon." ;
+    dc:format "breedte: 298 cm",
+        "hoogte: 128 cm" ;
+    dc:identifier "1983.0062" ;
+    dc:title "Thanx Toddo" ;
+    dc:type "schilderijen" ;
+    dct:medium "acrylverf",
+        "doek" .
+

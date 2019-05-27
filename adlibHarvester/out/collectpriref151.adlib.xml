@@ -1,0 +1,97 @@
+<adlibXML>
+  <recordList>
+    <record priref="151" created="2018-01-04T09:53:13" modification="2018-01-04T12:46:15" selected="false">
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>154</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>221</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>154</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>105</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>154</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>103</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>c</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>154</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>c</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>13</dimension.value>
+      </Dimension>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1981.1557</object_number>
+      <priref>151</priref>
+      <Production>
+        <creator>Kever, Gerhard</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1980</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1981.1557.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Triptychon</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6232</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6232</response_time>
+  </diagnostic>
+</adlibXML>

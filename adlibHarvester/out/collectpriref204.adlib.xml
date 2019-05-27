@@ -1,0 +1,105 @@
+<adlibXML>
+  <recordList>
+    <record priref="204" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:45" selected="false">
+      <Description>
+        <description>a: vliegtuig/trein
+
+b: water/vuur
+
+c: motorrijder/speedboot
+
+Vlg. 1982.0280.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>elk deel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>103.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>340</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>310.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>340</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3.8</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Blanchard, Boisrond, Combas, Di Rosa</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>aquarelverf</material>
+      </Material>
+      <Material>
+        <material>pakpapier</material>
+      </Material>
+      <Object_name>
+        <object_name>tekeningen, aquarellen, gouaches</object_name>
+      </Object_name>
+      <object_number>1982.0279</object_number>
+      <priref>204</priref>
+      <Production>
+        <creator>Boisrond, Fran&#231;ois</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1982</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0279zw.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0279.a.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0279.b.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0279.c.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>aquarelleren</technique>
+      </Technique>
+      <Title>
+        <title>Zonder titel</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6242</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2486</response_time>
+  </diagnostic>
+</adlibXML>

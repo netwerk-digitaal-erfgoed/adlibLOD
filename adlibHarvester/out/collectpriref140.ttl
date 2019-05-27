@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/140> dc:creator "Alkema, Wobbe" ;
+    dc:date "1958" ;
+    dc:description """Wobbe Alkema was de belangrijkste representant van de abstract-constructivistische richting binnen De Ploeg. In 1924 kwam hij tot een schilderkunst waarin een abstract-geometrische vormentaal centraal stond.
+Na de Tweede Wereldoorlog begon Alkema na een onderbreking weer met schilderen. Hij werd in 1950 lid van Het Narrenschip. Alkema’s naoorlogse werk is minder streng constructivistisch van aard, kent een diversiteit aan stijlinvloeden en laat ondermeer invloeden van het surrealisme zien""" ;
+    dc:format "breedte: 54 cm",
+        "breedte: 65.4 cm",
+        "dikte: 3.5 cm",
+        "hoogte: 61 cm",
+        "hoogte: 71.2 cm" ;
+    dc:identifier "1981.1544" ;
+    dc:title "Compositie no. 12" ;
+    dc:type "schilderijen" ;
+    dct:medium "hardboard",
+        "olieverf" .
+

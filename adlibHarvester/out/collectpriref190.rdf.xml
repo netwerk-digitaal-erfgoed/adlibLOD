@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/190">
+    <dc:identifier>1956.0138</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Bomen</dc:title>
+    <dc:creator>Benner, Gerrit</dc:creator>
+    <dc:date>1955</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 101.5 cm</dc:format>
+    <dc:format>breedte: 82 cm</dc:format>
+    <dc:format>dikte: 2 cm</dc:format>
+    <dc:description>Zwaar ge&#235;mpateerd schilderij, fel van kleur, dat het midden houd tussen een 'Noordelijk' expressionisme en een decoratieve abstractie.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

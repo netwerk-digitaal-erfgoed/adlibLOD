@@ -1,0 +1,17 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/319">
+    <dc:identifier>1980.0484</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>De zoon van de kolenboer</dc:title>
+    <dc:creator>Chia, Sandro</dc:creator>
+    <dc:date>1978-1979</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 90 cm</dc:format>
+    <dc:format>breedte: 120 cm</dc:format>
+    <dc:format>hoogte: 91.2 cm</dc:format>
+    <dc:format>breedte: 121.2 cm</dc:format>
+    <dc:format>dikte: 3 cm</dc:format>
+    <dc:description>Een putto-achtig jongetje ligt te slapen. Zijn lichaam is zwart van het roet van de kolen, maar op zijn buik licht een gezicht op, een kindertekening van een lachend gezicht. Met de Jonge Italianen richtte Chia zich op het verbeelden van dromen en schilderen van visioenen.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

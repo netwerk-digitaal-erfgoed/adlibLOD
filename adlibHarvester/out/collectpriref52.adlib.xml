@@ -1,0 +1,72 @@
+<adlibXML>
+  <recordList>
+    <record priref="52" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:13" selected="false">
+      <Description>
+        <description>Deze serie ge&#235;nsceneerde foto's is zo gecomponeerd dat alle elementen - de modellen, de accessoires, het licht etc. - bijdragen aan de sfeer van zijn sprookjesachtige droomwereld. Door een lichtbron te plaatsen achter de transparante foto, wordt dit effect versterkt.</description>
+      </Description>
+      <Description>
+        <description>This series of staged photographs is composed in such a manner that all the elements - models. accessories, light. etc. - contribute to the atmosphere of its fairy-like dream world. This effect is intensified by a source of light being placed behind the transparent photographs.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>100</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>100</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Minder kan het niet : exuberantie nu = less is a bore : exuberance now</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material/>
+      </Material>
+      <Object_name>
+        <object_name>foto's</object_name>
+      </Object_name>
+      <object_number>1990.0105</object_number>
+      <priref>52</priref>
+      <Production>
+        <creator>Olaf, Erwin</creator>
+        <creator.role>fotograaf</creator.role>
+        <production.place>Amsterdam</production.place>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1989</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1990.0105.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+      <Title>
+        <title>Tinkerbell's Friends  I</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6247</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6247</response_time>
+  </diagnostic>
+</adlibXML>

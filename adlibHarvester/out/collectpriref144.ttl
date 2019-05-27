@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/144> dc:creator "Lamsweerde, Inez van",
+        "Leger, Hervé",
+        "Matadin, Vinoodh",
+        "Spijker, Karin" ;
+    dc:date "1995" ;
+    dc:description "Gemanipuleerde kleurenfoto van de prachtige 'tweeling' Joanna op een Italiaans terras. Hun klaterende lach verstijfd ineens tot een onpersoonlijke grimas" ;
+    dc:format "breedte: 140 cm",
+        "hoogte: 185 cm" ;
+    dc:identifier "1996.0215" ;
+    dc:title "Joanna" ;
+    dc:type "modefoto's" ;
+    dct:medium "fotopapier" .
+

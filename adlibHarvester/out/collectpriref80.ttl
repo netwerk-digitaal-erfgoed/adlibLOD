@@ -1,0 +1,23 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/80> dc:creator "Toorop, Charley" ;
+    dc:date "1929" ;
+    dc:description "Charley Toorop was één van de meest opvallende verschijningen in de Nederlandse kunstwereld van de jaren twintig en dertig van de vorige eeuw. Zij was de dochter van de internationaal bekende symbolist Jan Toorop en staat vooral bekend als schilder van figuurstukken en portretten. Toen Toorop 38 jaar oud was schilderde ze dit werk. Van links naar rechts zijn haar dochter Charlie Annie Toorop (13 jaar), Charley zelf met penseel en palet in de hand, haar zoon John Fernhout (16 jaar) en haar oudste zoon Edgar Fernhout (17 jaar) vanaf borsthoogte weergegeven." ;
+    dc:format "breedte: 101 cm",
+        "breedte: 81 cm",
+        "dikte: 5.5 cm",
+        "hoogte: 101 cm",
+        "hoogte: 121 cm" ;
+    dc:identifier "1958.0153" ;
+    dc:title "Zelfportret met drie kinderen" ;
+    dc:type "groepsportretten",
+        "portretten",
+        "zelfportretten" ;
+    dct:medium "doek",
+        "olieverf" .
+

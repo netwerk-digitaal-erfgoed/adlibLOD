@@ -1,0 +1,122 @@
+<adlibXML>
+  <recordList>
+    <record priref="101" created="2018-01-04T09:53:13" modification="2019-04-08T02:49:43" selected="false">
+      <Description>
+        <description>Door Plumcake is het hart gebruikt als basisvorm voor een serie werken. Het hart dat een afgezaagd symbool is voor de liefde, wordt in rooms-katholieke land en ook geassocieerd met het heilig hart van Jezus of met de 7 smarten van Maria. In dit hart zit nog een religieuze verwijzing: de heilige Franciscus van Assisi praat met de vogels terwijl hij de dreigende aap rechts niet opmerkt, die met zijn armen het hart omsluit.</description>
+      </Description>
+      <Description>
+        <description>Plumcake used the heart as the hasic form for a series of works. The heart, a time-worn symbol of love, is in Roman Catholic countries also associated with tbe Sacred Heart of Jesus or with tbe Seven Sorrows of Mary. This heart also contains a religious reference: St Francis of Assisi talks to the birds, while he fails to notice the threatening monkey on the right, that encloses the heart with its arms.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>143</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>137</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>23</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Frans Haks: Een rebel met een zendingsdrang</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Anniottanta</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Nuovo futurismo : Gianantonio  Abate, ..., Umberto Postal</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Plumcake : Cella - Pallotta - Ragni</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>glasfiber</material>
+      </Material>
+      <Object_name>
+        <object_name>reli&#235;fs (objecten)</object_name>
+      </Object_name>
+      <object_number>1989.0220</object_number>
+      <priref>101</priref>
+      <Production>
+        <creator>Plumcake</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Pallotta, Romolo</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Ragni, Claudio</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Cella, Gianni</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1987</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1989.0220.01.jpg</reproduction.reference>
+      </Reproduction>
+      <Title>
+        <title>Levitando</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">31.2493</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8738</response_time>
+  </diagnostic>
+</adlibXML>

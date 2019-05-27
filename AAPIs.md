@@ -1,36 +1,36 @@
-## Adlib API's
+# Open Adlib API's in The Netherlands and Belgium
 
-    https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx
+## Our testdatabase provided by Axiell
+    endpoint = "https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx"
     database = "Collect"
+    baseUri = "https://lodp-web.adlibhosting.com/priref/"
 
-    https://opac.geologie.ac.at/wwwopacx/wwwopac.ashx?  | Geologische Bundesanstalt Oostenrijk
-
-    http://amdata.adlibsoft.com/wwwopac.ashx? | Amsterdam Museum
+## Amsterdam Museum
+    endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx"
     database = "AMcollect"
+    baseUri = "iets met handle"
 
-    http://adlib.imf.org/digital_assets/wwwopac.ashx? | IMF
+## Groninger Museum
+    endpoint = "http://collectie.groningermuseum.nl/webapi/wwwopac.ashx"
+    database = "collect"
+    baseUri = "http://collectie.groningermuseum.nl/Details/collect/"
 
-    http://search.museumplantinmoretus.be/Adlib.Internetserver.MPM.Webservice/wwwopac.ashx? | Plantin Moretus, zit nu achter wachtwoord
+## Zuiderzeemuseum
+    endpoint = "http://adlib.zuiderzeemuseum.nl/api2/wwwopac.ashx"
 
-    http://igem.adlibsoft.com/wwwopacx/wwwopac.ashx? | IGEM
-
-    http://adlib.zuiderzeemuseum.nl/api2/wwwopac.ashx? | Zuiderzeemuseum
-
-    http://service.aat-ned.nl/api/wwwopac.ashx  | AAT service RKD
-
-    http://fabrique.adlib.legermuseum.nl/api/wwwopac.ashx | Legermuseum
+## Legermuseum
+    endpoint = "http://fabrique.adlib.legermuseum.nl/api/wwwopac.ashx"
      
-    http://mmr.adlibhosting.com/madigopacx/wwwopac.ashx | Maritiem Digitaal 
+## Maritiem Digitaal
+    endpoint = "http://mmr.adlibhosting.com/madigopacx/wwwopac.ashx"
 
-    http://collectie.groningermuseum.nl/webapi/wwwopac.ashx | Groninger Museum 
 
-Documentatie:
+# Documentation
 http://api.adlibsoft.com/documentation/the-adlibweb-xml-file
 
-Enkele relevante API Commando's
-
+## Quick start
     command=getversion
     command=listdatabases
     database=[]&command=getmetadata
-    database=[]&search=all&limit=X&startpriref=Y
+    database=[]&search=all&limit=[]&startfrom=[]
     

@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/229">
+    <dc:identifier>1991.0103</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Cheval rouge</dc:title>
+    <dc:creator>Mbengue, Gora</dc:creator>
+    <dc:date>1988</dc:date>
+    <dct:medium>lakverf</dct:medium>
+    <dct:medium>vlakglas</dct:medium>
+    <dc:format>hoogte: 33.2 cm</dc:format>
+    <dc:format>breedte: 48.1 cm</dc:format>
+    <dc:description>Dit schilderij is gemaakt door een kunstenaar uit Senegal. Een eigen traditie hier schrijft voor dat er een dunne plaat glas overheen gelegd wordt, zodat lijkt alsof het schilderij op het glas is geschilderd. Het paard is niet helemaal realistisch weergegeven, maar ook niet abstract. Blijkbaar was het niet de bedoeling het dier zo echt mogelijk te schilderen, maar zijn kracht en voorname voorkomen uit te beelden.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

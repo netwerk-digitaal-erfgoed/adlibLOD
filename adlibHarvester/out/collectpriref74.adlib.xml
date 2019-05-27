@@ -1,0 +1,110 @@
+<adlibXML>
+  <recordList>
+    <record priref="74" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:14" selected="false">
+      <Description>
+        <description>Stilleven met grote roemer bij tinnen bord, waarop brood en mes, verder een omgevallen zilveren beker, vuurtest, pijp, tabak enz.
+Dateert dit werk uit de 17e eeuw of is het een 19e eeuwse kopie? In 1990 is dit schilderij bestudeerd en gerestaureerd. De bevindingen zijn: "het leidt tot de veronderstelling dat het gaat om een samengesteld werk of een 19e eeuwse kopie. Dit vanwege de combinatie van tabak en ontbjit (een ongebruikelijke combinatie). De liggende tazza werd later met een liggende beker overgeschilderd, terwijl de pijp en het komfoor later toegevoegd lijken. Tafel en roemer zijn bijgewerkt of eveneens latere toevoegingen".</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>67.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>55.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>87</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>75</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>7</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Oude meesters, nieuwe aanwinsten in het Museum van Oudheden voor de Provincie en stad Groningen</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Stil even, gouden eeuw tot nu</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>paneel (hout)</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>stillevens</object_name>
+      </Object_name>
+      <object_number>1919.0242</object_number>
+      <priref>74</priref>
+      <Production>
+        <creator>onbekend</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Claesz., Pieter (richting)</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>17e eeuw</production.period>
+      <Production_date>
+        <production.date.end>1661</production.date.end>
+        <production.date.start>1600</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1900_1930\1919.0242.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Stilleven met roemer, bord en mes</title>
+      </Title>
+      <Title>
+        <title>Stilleven met groot noppenglas, half gevuld met witte wijn</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6239</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2482</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,19 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/214">
+    <dc:identifier>1987.0492</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Jazz</dc:title>
+    <dc:creator>MacConnel, Kim</dc:creator>
+    <dc:date>1980</dc:date>
+    <dct:medium>acrylverf</dct:medium>
+    <dct:medium>katoen</dct:medium>
+    <dc:format>hoogte: 240 cm</dc:format>
+    <dc:format>breedte: 241 cm</dc:format>
+    <dc:description>Het werk bestaat uit zes verschillende lappen, die beschilderd zijn en daarna aan elkaar vastgezet. Ze hebben niet dezelfde lengte en breedte. Elk stuk bevat een ander patroon. Alleen het derde van links laat herkenbare, geabstraheerde voorwerpen zien, die refereren aan de titel.</dc:description>
+    <dc:description>Kim MacConnel behoort tot de zgn. Pattern and Decoration beweging, een groep Amerikaanse kunstenaars die in het begin van de jaren zeventig decoratie tot hoofdthema van hun werk maakten.
+MacConnel maakt gebruik van diverse media, varierend van schilderijen en papier tot bestaande stoffen en meubels. Allerlei decoratieve motieven van geometrische en architectonische tot bloemen en dieren, zijn in zijn werk terug te vinden. Zijn inspiratie vindt hij overal: van het Oosten tot het Westen, in de Islam, de Pop Art en de naieve schilderkunst. Zijn doeken droeg hij soms ook in performances.
+MacConnel tekent meestal direct naar modellen op het doek, in vergrote vorm. Daarbij is hij ge&#239;nspireerd door de stijl van Henri Matisse, die ook met sierpatronen en textiel gewerkt heeft. Matisse wist met eenvoudige lijnen toch een enorme, eigen ruimte te suggeren.</dc:description>
+    <dc:description>Kim MacConnel belongs to the so-called Pattern and Decoration movement, a group of American artists who in the early seventies made decoration the main theme of their work.
+MacConnel uses various media, varying from paintings and paper to existing fabrics and furniture. All kinds of decorative motifs, from geometric and architectural to flowers and animals, can be recognized in his work. He finds his inspiration all over the world: from East to West, in the Islam, Pop Art and naive painting.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

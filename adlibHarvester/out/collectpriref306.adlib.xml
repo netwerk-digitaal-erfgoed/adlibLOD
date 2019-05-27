@@ -1,0 +1,99 @@
+<adlibXML>
+  <recordList>
+    <record priref="306" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:47" selected="false">
+      <Description>
+        <description>De meeste reli&#235;fs die Ad Dekkers maakte zijn wit, maar ondanks de strenge uitgangspunten die hij hanteerde, was dit voor hem geen dogma. Sommige reli&#235;fs waren ook in een andere kleur gespoten. Het belangrijkste was dat zo min mogelijk mocht afleiden van het subtiele spel van het licht. En subtiel is de ingreep die Dekkers hier gedaan heeft zeker: niet meer dan enkele smalle, met een freesmachine gemaakte zaagsneden, die geleidelijk in diepte verlopen. Hij had een voorkeur voor &#8216;zuivere&#8217;  geometrische vormen als het vierkant, de cirkel en de driehoek. Behalve hun heldere beeldende kracht hadden ze voor Dekkers, die vrijmetselaar was, ook een spirituele waarde.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>120</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>120</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Ad Dekkers</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Ad Dekkers</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Gesignaleerd : Neue Kunst aus den Niederlanden</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Groninger Museum in Heerlen</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>hout</material>
+      </Material>
+      <Object_name>
+        <object_name>reli&#235;fs (objecten)</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>wandsculpturen</object_name>
+      </Object_name>
+      <object_number>1975.0359</object_number>
+      <priref>306</priref>
+      <Production>
+        <creator>Dekkers, Ad</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1973</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1971_1980\1975.0359.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Vier begrensde vierkanten in vierkant</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6259</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6259</response_time>
+  </diagnostic>
+</adlibXML>

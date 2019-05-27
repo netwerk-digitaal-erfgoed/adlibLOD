@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/52> dc:creator "Olaf, Erwin" ;
+    dc:date "1989" ;
+    dc:description "Deze serie geënsceneerde foto's is zo gecomponeerd dat alle elementen - de modellen, de accessoires, het licht etc. - bijdragen aan de sfeer van zijn sprookjesachtige droomwereld. Door een lichtbron te plaatsen achter de transparante foto, wordt dit effect versterkt.",
+        "This series of staged photographs is composed in such a manner that all the elements - models. accessories, light. etc. - contribute to the atmosphere of its fairy-like dream world. This effect is intensified by a source of light being placed behind the transparent photographs." ;
+    dc:format "breedte: 100 cm",
+        "hoogte: 100 cm" ;
+    dc:identifier "1990.0105" ;
+    dc:title "Tinkerbell's Friends  I" ;
+    dc:type "foto's" .
+

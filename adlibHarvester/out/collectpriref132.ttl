@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/132> dc:creator "Hollenbach, Hans" ;
+    dc:date "1967" ;
+    dc:format "breedte: 149 cm",
+        "breedte: 152.8 cm",
+        "dikte: 5 cm",
+        "hoogte: 149 cm",
+        "hoogte: 153 cm" ;
+    dc:identifier "1968.0106" ;
+    dc:title "Schilderij" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "lakverf" .
+

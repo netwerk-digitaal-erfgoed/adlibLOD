@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/205> dc:creator "Bömmels, Peter" ;
+    dc:date "1980-1980",
+        "1981-1981" ;
+    dc:format "breedte: 230 cm",
+        "hoogte: 175 cm",
+        "hoogte: 37 cm" ;
+    dc:identifier "1981.1550" ;
+    dc:title "Der Bumerang",
+        "Musik im Blut" ;
+    dc:type "gemengde media",
+        "schilderijen" ;
+    dct:medium "doek",
+        "gips",
+        "olieverf" .
+

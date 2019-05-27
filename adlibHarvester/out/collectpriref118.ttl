@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/118> dc:creator "Verwey, Kees" ;
+    dc:date "1947-1948" ;
+    dc:description "portret van vrouw van de kunstenaar, met sigaret tussen de wijs- en middenvinger van de rechter hand. Gevoelig geschilderd in laat-impressionistische trant" ;
+    dc:format "breedte: 53 cm",
+        "hoogte: 69 cm" ;
+    dc:identifier "1956.0196" ;
+    dc:title "Dame met sigaret",
+        "Het sigaretje",
+        "Mevrouw Verwey" ;
+    dc:type "portretten",
+        "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

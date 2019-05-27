@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/205">
+    <dc:identifier>1981.1550</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:type>gemengde media</dc:type>
+    <dc:title>Musik im Blut</dc:title>
+    <dc:title>Der Bumerang</dc:title>
+    <dc:creator>B&#246;mmels, Peter</dc:creator>
+    <dc:date>1981-1981</dc:date>
+    <dc:date>1980-1980</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dct:medium>gips</dct:medium>
+    <dc:format>hoogte: 175 cm</dc:format>
+    <dc:format>breedte: 230 cm</dc:format>
+    <dc:format>hoogte: 37 cm</dc:format>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,64 @@
+<adlibXML>
+  <recordList>
+    <record priref="270" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:27" selected="false">
+      <Description>
+        <description>De titel verwijst naar de eerste zinnen van het het gedicht &#8220;The Song of the Smoke&#8221; uit 1905 van W.E.B Dubois. Du Bois was de eerste Afro Amerikaan die in 1895 zijn Ph.D. ontving aan de universiteit van Harvard en voorvechter voor de burgerrechten van de Afro Amrikanen. Het gedicht wordt gezien als een betuiging van de 'Black Pride'.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>75</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>101</dimension.value>
+      </Dimension>
+      <Material>
+        <material>lakverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1982.0277</object_number>
+      <priref>270</priref>
+      <Production>
+        <creator>Quik</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1982</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0277.JPG</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>I am  "the smoke king, I am black"</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6244</response_time>
+  </diagnostic>
+</adlibXML>

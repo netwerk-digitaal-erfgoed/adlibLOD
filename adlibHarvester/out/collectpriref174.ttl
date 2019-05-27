@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/174> dc:creator "Banca di Oklahoma" ;
+    dc:date "1990" ;
+    dc:description "zeefdruk op kunststof plaat bestaande uit twee delen" ;
+    dc:format "breedte: 99.9 cm",
+        "hoogte: 150.2 cm" ;
+    dc:identifier "1993.0305" ;
+    dc:title "Inschrijving kamer van koophandel" ;
+    dc:type "zeefdrukken" ;
+    dct:medium "kunststof" .
+

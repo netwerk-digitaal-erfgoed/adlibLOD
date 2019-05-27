@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/65">
+    <dc:identifier>1993.0203</dc:identifier>
+    <dc:type>modefoto's</dc:type>
+    <dc:creator>Man, Edland</dc:creator>
+    <dc:creator>Vogue Espa&#241;a.</dc:creator>
+    <dc:date>1987</dc:date>
+    <dct:medium>fotopapier</dct:medium>
+    <dc:format>hoogte: 60.5 cm</dc:format>
+    <dc:format>breedte: 40.5 cm</dc:format>
+    <dc:description>Vrouw en profiel</dc:description>
+  </rdf:Description>
+</rdf:RDF>

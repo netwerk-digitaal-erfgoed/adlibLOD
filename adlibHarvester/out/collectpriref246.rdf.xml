@@ -1,0 +1,24 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/246">
+    <dc:identifier>1989.0141</dc:identifier>
+    <dc:type>serviezen</dc:type>
+    <dc:title>The Village</dc:title>
+    <dc:creator>Venturi, Robert</dc:creator>
+    <dc:creator>Swid Powell</dc:creator>
+    <dc:date>1986</dc:date>
+    <dct:medium>porselein</dct:medium>
+    <dc:format>hoogte: 25 cm</dc:format>
+    <dc:format>diameter: 13 cm</dc:format>
+    <dc:format>hoogte: 13 cm</dc:format>
+    <dc:format>breedte: 25 cm</dc:format>
+    <dc:format>diameter: 14 cm</dc:format>
+    <dc:format>hoogte: 8 cm</dc:format>
+    <dc:format>breedte: 18.5 cm</dc:format>
+    <dc:format>diameter: 11 cm</dc:format>
+    <dc:format>hoogte: 11.5 cm</dc:format>
+    <dc:format>breedte: 11.5 cm</dc:format>
+    <dc:format>diameter: 9.5 cm</dc:format>
+    <dc:description>koffie/theeservies van porselein. Het melkkannetrje is een klein plalazzo uit Florence of Veneti&#235;. De suikerpot is een eenvoudig landhuisje. De koffiepot is een Toscaanse torre, zoals nog te zien in San Gimignano. Het meest opmerkelijk is de theepot met rond deksel en een groot gat bovenin.
+Deze vorm doet inmiddelijk denken aan het Pantheon, gebouwd in Rome in de 1e eeuw na Christus. De decoratie laat geen enkele twijfel meer bestaan: zij toont het tempelfront wat voor het romeinse gebouw staat.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

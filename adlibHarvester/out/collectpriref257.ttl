@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/257> dc:creator "Cucchi, Enzo" ;
+    dc:date "1981" ;
+    dc:description "In 1981 huurde Cucchi in de omgeving van zijn geboorteplaats Morro d’Alba een leegstaand kerkje, dat hij inrichtte als woning en atelier. Op de grote houtskooltekening zijn niet alleen wonderbaarlijke bergen te zien, maar ook een donkere wolk en handen die de stigmata van Christus ontvangen. Hier gebruikt Cucchi een citaat uit een fresco van Giotto in Assisië, de stigmatisatie van Franciscus van Assisië, die zich helemaal vereenzelvigde met de natuur en de dieren. Franciscus is bij Cucchi gereduceerd tot twee handen, de engel in de lucht is vervangen door een donkere wolk. De wolk symboliseert het schemergebied tussen hemel en aarde, waarin het mysterie werkelijkheid kan worden",
+        "In the early eighties the Italian artist Enzo Cucchi made very large charcoal drawings showing mysterious phenomena. In this drawing he has depicted, among high mountains, two hands which are being stigmatized. Above the mountains floats a peculiar, dark cloud. With this kind of images Cucchi refers to the legends of his native region, Le Marche." ;
+    dc:format "breedte: 406 cm",
+        "hoogte: 278 cm" ;
+    dc:identifier "1982.0045" ;
+    dc:title "Montagne miracolate" ;
+    dc:type "tekeningen" ;
+    dct:medium "doek",
+        "houtskool (1)",
+        "papier" .
+

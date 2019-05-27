@@ -1,0 +1,96 @@
+<adlibXML>
+  <recordList>
+    <record priref="150" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:44" selected="false">
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>100</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>100</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Art Kitchen Gallery presents Hugo Kaagman catalogue 1999 [CD-rom]</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Nederlandse kunst : Rijksaankopen</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title/>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kaagman 40 jaar</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Tim Benjamin, Nour-Eddine Jarram, Hugo Kaagman, George Korsmit, Aldert Mantje, Ton van Summeren</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>canvas</material>
+      </Material>
+      <Material>
+        <material>verf</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1989.0078</object_number>
+      <priref>150</priref>
+      <Production>
+        <creator>Kaagman, Hugo</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1987</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1989.0078.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>spuitlakken</technique>
+      </Technique>
+      <Title>
+        <title>Reincarnations</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6237</response_time>
+  </diagnostic>
+</adlibXML>

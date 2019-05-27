@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/62> dc:creator "onbekend" ;
+    dc:date "1685" ;
+    dc:description "Portret van Petronella Elisabeth Schade, tweede echtgenote van Carel Victor Ripperda (circa 1686)" ;
+    dc:format "breedte: 59.4 cm",
+        "breedte: 77.3 cm",
+        "diepte: 5.5 cm",
+        "hoogte: 73.5 cm",
+        "hoogte: 91.4 cm" ;
+    dc:identifier "0000.1078" ;
+    dc:title "Petronella Elisabeth Schade" ;
+    dc:type "portretten",
+        "schilderijen" ;
+    dct:medium "olieverf",
+        "paneel (hout)" .
+

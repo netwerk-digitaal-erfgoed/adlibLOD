@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/277> dc:creator "Samba, Cheri" ;
+    dc:date "1989" ;
+    dc:description "De blanke zeemeermin Mama Wati op Amour fou is van oorsprong een Europees symbool. Ze is daarom tot een symbool van de fatale (mannen)verslindende westerse samenleving geworden. Bij Samba, die  uithangborden op straat had geschilderd en ook stripverhalen had getekend, speelt de satire een grote rol." ;
+    dc:format "breedte: 59 cm",
+        "hoogte: 74.5 cm" ;
+    dc:identifier "1991.0374" ;
+    dc:title "Amour fou" ;
+    dc:type "schilderijen" ;
+    dct:medium "acrylverf",
+        "doek" .
+

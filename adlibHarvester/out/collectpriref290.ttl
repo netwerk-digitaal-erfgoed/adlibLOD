@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/290> dc:creator "Daniëls, Rene" ;
+    dc:date "1982" ;
+    dc:description """Het werk van René Daniëls zit stampvol kunsthistorische verwijzingen, dubbelzinnigheden, ironisch commentaar en woordspelletjes.
+Hoewel Daniëls werk een conceptueel karakter heeft, onderscheidt hij zich van die conceptuele en minimale traditie door met kleur en vorm te experimenteren. Daarnaast brengt hij de wereld van muziek (punk en new wave) en schilderkunst bij elkaar. Deze manier van werken is weer gelijk aan dat van zijn tijdgenoten: de Nieuwe Wilden. Zijn schilderijen kunnen geplaatst worden in de context van de undergroundcultuur van de jaren zeventig en tachtig, maar Daniëls vond eerder aansluiting bij een Frans-Belgische traditie waarin de nadruk ligt op de relatie tussen taal, beeld en betekenis.
+Daniëls zocht naar een legitimatie voor de schilderkunst, een medium dat in een tijd waarin fotografie en film de kunstwereld domineerden vaak dood werd verklaard. Hij karakteriseerde zijn manier van werken zelf als ‘beeldend dichten’. Door beeldelementen te herhalen, spiegelen en in perspectief te plaatsen door transparante lagen over elkaar heen te schilderen ontstaat een geschilderd, figuratief beeld dat meerduidig is.
+Op kerstavond in 1987 werd Daniëls op 37 jarige leeftijd getroffen door een hersenbloeding. Hij is daarna niet meer de oude geworden. Ondanks zijn handicap communiceert hij nu via zijn recente schilderwerk.""" ;
+    dc:format "breedte: 200 cm",
+        "hoogte: 150 cm" ;
+    dc:identifier "1982.0039" ;
+    dc:title "Eindelijk alleen" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

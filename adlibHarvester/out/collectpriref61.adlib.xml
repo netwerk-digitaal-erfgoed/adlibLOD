@@ -1,0 +1,126 @@
+<adlibXML>
+  <recordList>
+    <record priref="61" created="2018-01-04T09:53:13" modification="2019-02-22T02:04:28" selected="false">
+      <Description>
+        <description>Schilderij met een afbeelding van Anna Elema, dochter van Reneke Elema en Anna Allersma, met wapens van Elema van Allersma links boven.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>paneel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>104.4</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>75.7</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>mm</dimension.unit>
+        <dimension.value>7</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>117.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>90</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>De portretkunst in Friesland in de zeventiende eeuw</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>geldschieter met ruime visie</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Allersma</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zestiende-eeuwse en vroeg-zeventiende-eeuwse portretten uit het Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>paneel (hout)</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>portretten</object_name>
+      </Object_name>
+      <object_number>0000.2376</object_number>
+      <priref>61</priref>
+      <Production>
+        <creator>onbekend</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>16e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1598</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>0000.2376.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>0000.2376a.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Anna Elema</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">31.249</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.249</response_time>
+  </diagnostic>
+</adlibXML>

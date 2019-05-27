@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/174">
+    <dc:identifier>1993.0305</dc:identifier>
+    <dc:type>zeefdrukken</dc:type>
+    <dc:title>Inschrijving kamer van koophandel</dc:title>
+    <dc:creator>Banca di Oklahoma</dc:creator>
+    <dc:date>1990</dc:date>
+    <dct:medium>kunststof</dct:medium>
+    <dc:format>hoogte: 150.2 cm</dc:format>
+    <dc:format>breedte: 99.9 cm</dc:format>
+    <dc:description>zeefdruk op kunststof plaat bestaande uit twee delen</dc:description>
+  </rdf:Description>
+</rdf:RDF>

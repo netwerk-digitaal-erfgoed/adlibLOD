@@ -1,0 +1,11 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/99">
+    <dc:identifier>1996.0222</dc:identifier>
+    <dc:title>Central Park, Children at the lake</dc:title>
+    <dc:creator>Davidson, Bruce</dc:creator>
+    <dc:date>1995</dc:date>
+    <dct:medium>fotopapier</dct:medium>
+    <dc:format>hoogte: 37.5 cm</dc:format>
+    <dc:format>breedte: 91.5 cm</dc:format>
+  </rdf:Description>
+</rdf:RDF>

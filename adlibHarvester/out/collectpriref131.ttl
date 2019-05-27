@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/131> dc:creator "Vanderheyden, JCJ" ;
+    dc:date "1965-1966" ;
+    dc:description "De realiteit van de dagelijkse dingen, de ingreep, de improvisatie, zijn voor van der Heyden de bronnen voor zijn kunst. Hij zoekt naar algemene wetten en waarheden. De schilder, zegt hij is een wet-vinder en de wetten die hij vindt eerbiedigt hij als natuurwetten. Van der Heyden vindt zijn wetten spelend met vorm en met kleur. Hij beplakt zijn doeken met foto's , folders, girobiljetten, catalogusillustraties. Massaal vermenigvuldigde algemeenheden worden geïsoleerd, in een nieuwe relatie tot elkaar gebracht en zo zelf gevormd tot een vernieuwd beeld. In dit doek zijn deze aspecten opgevoerd tot een hoge intensiteit." ;
+    dc:format "breedte: 91.2 cm",
+        "dikte: 3.5 cm",
+        "hoogte: 181.5 cm" ;
+    dc:identifier "1967.0412" ;
+    dc:title "Cataloog" ;
+    dc:type "schilderijen" ;
+    dct:medium "gemengde media",
+        "olieverf",
+        "vinylverf" .
+

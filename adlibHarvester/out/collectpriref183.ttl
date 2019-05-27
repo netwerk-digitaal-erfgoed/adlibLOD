@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/183> dc:creator "Bartolini, Ubaldo" ;
+    dc:date "1983" ;
+    dc:description "Het landschap van Bartolini is geschilderd in Neoclassicistische stijl, maar dateert uit 1983. Bartolini werd gerekend tot de IItaliaanse Pittura Colta (schilderkunst geplukt van kunsthistorische stijlen); ook wel anachronisten genoemd." ;
+    dc:format "breedte: 30 cm",
+        "hoogte: 25 cm" ;
+    dc:identifier "1984.0313" ;
+    dc:title "Paesaggio" ;
+    dc:type "landschappen (voorstellingen)",
+        "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

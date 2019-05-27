@@ -1,0 +1,83 @@
+<adlibXML>
+  <recordList>
+    <record priref="100" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:16" selected="false">
+      <Description>
+        <description>In dit eerste ooit op doek gespoten werk van Blade vormen de letters van zijn eigen naam het voornaamste bestanddeel. Tussen zijn gote letters en de ruimte die zij suggereren probeert hij een eigenaardige spanning te weeg te brengen. In feite lijkt het enige verschil met zijn eerdere graffiti op treinen en muren de ondergrond (doek) en (kleinere) afmetingen. Blade is heel bewust met letters en zijn naam blijven werken na zijn overgang op het doek. Hij wilde vast blijven houden aan het traditionele soort graffiti dat voorheen in de openbare ruimte werd aangebracht</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>179</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>228</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Blade, king of kings</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Graffiti</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1984.0321</object_number>
+      <priref>100</priref>
+      <Production>
+        <creator>Blade</creator>
+        <creator.role>schilder</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1983</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1984.0321.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1984.0321mc.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Come on in</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6257</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6257</response_time>
+  </diagnostic>
+</adlibXML>

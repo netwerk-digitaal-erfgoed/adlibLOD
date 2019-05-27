@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/162">
+    <dc:identifier>1991.0394</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Coming around the mountain</dc:title>
+    <dc:creator>Arbitrator Koor, the</dc:creator>
+    <dc:date>1983</dc:date>
+    <dct:medium>acrylverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 147.5 cm</dc:format>
+    <dc:format>breedte: 269 cm</dc:format>
+  </rdf:Description>
+</rdf:RDF>

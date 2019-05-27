@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/240">
+    <dc:identifier>1985.0353</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Majestic: Athanasian Confrontation</dc:title>
+    <dc:creator>Phase 2</dc:creator>
+    <dc:date>1984</dc:date>
+    <dct:medium>acrylverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 207 cm</dc:format>
+    <dc:format>breedte: 454 cm</dc:format>
+    <dc:description>Een zeer groot doek met ritmische en golvende lettertekens. In beweging en kracht doet het werk denken aan de schilderijen van futuristen als Umberto Boccioni en Carlo Carr&#224;. Maar Phase 2 is niet ge&#239;nteresseerd in beweging, techniek en vooruitgang zoals de futuristen. Hij is op zoek, met behulp van de calligrafie en het ontwerpen van letters, naar elementaire vormen. In dit werk zijn de letters ge&#235;volueerd tot abstracte vormen, krachtig omlijnd en opgevuld met combinaties van rode, groene, oranje, gele en blauwe kleuren. De complexiteit van vormen en de schittering van de kleuren verlelen het doek een mysterieus karakter</dc:description>
+  </rdf:Description>
+</rdf:RDF>

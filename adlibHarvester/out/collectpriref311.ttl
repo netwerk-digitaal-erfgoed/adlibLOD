@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/311> dc:creator "Di Rosa, Hervé" ;
+    dc:date "1985" ;
+    dc:description "Di Rosa schilderde zelf bedachte stripfiguren op doek, t-shirts, stickers en magneten. Zijn broer Richard (Buddy) vertaalde ze naar ruimtelijke vormen en speelgoed. Op deze wijze wilde Di Rosa zijn figuurtjes verspreiden onder een zo groot mogelijk publiek, dat anders nauwelijks met kunst in aanraking komt, zoals Keith Haring dat deed met zijn Popshop in New York. Di Rosa had een vergelijkbare winkel in Parijs. Zijn werk ligt op het snijvlak van populaire strips, cartoons en autonome kunstwerken." ;
+    dc:format "breedte: 148.5 cm",
+        "breedte: 67 cm",
+        "hoogte: 183.9 cm" ;
+    dc:identifier "1985.0473" ;
+    dc:title "Les marins regardent l'ultrafemme" ;
+    dc:type "schilderijen" ;
+    dct:medium "acrylverf",
+        "doek" .
+

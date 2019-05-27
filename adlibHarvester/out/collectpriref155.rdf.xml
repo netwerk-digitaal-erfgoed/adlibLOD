@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/155">
+    <dc:identifier>1976.0363</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Vogel</dc:title>
+    <dc:creator>Appel, Karel</dc:creator>
+    <dc:date>1951</dc:date>
+    <dct:medium>olieverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 81 cm</dc:format>
+    <dc:format>breedte: 116 cm</dc:format>
+    <dc:description>Opmerkelijk in dit schilderij is het verschil in behandeling van de rechter en de linker helft. Links zien we grote vlakken kleur, rood, geel, blauw en wit en daaroverheen enkele forse zwarte lijnen die ogen en snavel markeren. Het rechter deel is meer spontaan geschilderd. Het schilderij is typerend voor het werk dat Appel juist in de Cobra-tijd maakte.</dc:description>
+    <dc:description>In the years 1950 and 1951 Appel made a series of paintings with man and animals as subject. Large, compact colour planes with an occasional strong line dominate Appel's work in this period. A conspicious feature in the 'Vogel' painting is the difference in treatment in the left and right part. On the left large coloiur planes have been painted with a few prominent black lines. On the right the colours are more subtly applied with short brush strokes.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<adlibXML>
+  <recordList>
+    <record priref="91" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:16" selected="false">
+      <Description>
+        <description>Decoratieve vormen en kleuren strijden om voorrang met de beeltenis van een Madonna. Het Byzantijns  ikoon  in Madonna  28  van Christie van der Haak is een herkenbaar beeld. Van der Haak maakte een hele reeks Madonna&#8217;s op deze manier. Is de versiering louter een invulling van de hoofdpersoon of de omgeving of gaat het hier om een gelijkwaardig beeldelement?
+Hoewel de decoratieve elementen zijn geschilderd in het platte vlak, verwijzen ze in Madonna 28 ook naar ruimtelijke elementen die over en door elkaar heen zijn geschoven. Zo ontstaat een complexe structuur die je dwingt om beter kijken en een eigen geabstraheerde werkelijkheid vormt. Er wordt een hoofdperspectief gesuggereerd, maar in feite is er sprake van een voortdurende versmelting en verandering van ruimtelijke interpretaties.
+Het lijkt alsof de patronen, evenals de herkenbare Madonna, steeds in beweging zijn, als twee of meer beelden die in elkaar aan het overvloeien zijn. Doordat de kijker steeds op een ander punt in het beeldvlak moet focussen, ontstaat haast vanzelf een stroom van indrukken. Het Groninger Museum heeft nog een werk uit dezelfde serie, Madonna 6, in bezit.
+Deze manier van werken is voor het eerst tot uiting gekomen in de artistieke productie van Pablo Picasso en Georges Braque in het begin van de twintigste eeuw. De uitvinders van het kubisme abstraheerden portretten en stillevens door het gebruik van geometrische vormen die zowel de contouren van het afgebeelde object als zijn omgeving domineerden. Op die manier ontstond er een nieuwe lezing van ruimte en volume. Later gebruikten Picasso en Braque voor het eerst verschillende niet-schilderkunstige materialen, die ze naast en over elkaar plaatsten in een, al dan niet ruimtelijke, collage. Dit deden zij om een andere diepte te cre&#235;ren dan die van het schilderkunstig perspectief en om op een andere manier over de betekenis van materiaal en vorm na te denken.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>70</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>50</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Christie van der Haak</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>cause de notre joie : Christie van der Haak</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1987.0511</object_number>
+      <priref>91</priref>
+      <Production>
+        <creator>Haak, Christie van der</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1984</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1987.0511.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Madonna 28</title>
+      </Title>
+      <Title>
+        <title>Madonna 16</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6252</response_time>
+  </diagnostic>
+</adlibXML>

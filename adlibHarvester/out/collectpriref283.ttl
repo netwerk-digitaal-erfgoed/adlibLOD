@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/283> dc:creator "Connelly, Arch" ;
+    dc:date "1989" ;
+    dc:description "1989 maakte Connelly schilderijen getiteld Face. Deze gezichten zijn geïnspireerd op de 'smiley' buttons uit de jaren 70. De glimlach kan gezien worden als een symbool van de algemene (Amerikaanse) groet, om elkaar een plezierige dag te wensen. Maar aan het eind van de jaren 80 kan een dag ellendig, in plaats van plezierig zijn. Daarom kan bij Connelly de smiley ook een trieste uitdrukking krijgen." ;
+    dc:format "diameter: 61 cm" ;
+    dc:identifier "1989.0424" ;
+    dc:title "Face (Death)" ;
+    dc:type "gemengde media",
+        "schilderijen" ;
+    dct:medium "acrylverf",
+        "doek",
+        "glitter",
+        "lover",
+        "paillette" .
+

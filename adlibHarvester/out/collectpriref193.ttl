@@ -1,0 +1,21 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/193> dc:creator "Kunc, Milan" ;
+    dc:date "1985" ;
+    dc:description "For those who are acquainted with Salvador Dalí’s work, the painting style Milan Kunc employs here in this piece should be quite familiar. Within a surrealistic interplay of separately recognisable shapes another more ‘hidden’ image lies concealed. What a coincidence that the apple appears to be falling out of the tree like that! And this proves to be not the only whimsical reference in this painting. For instance, could that possibly be the Holy Ghost there, descending upon earth as a white dove? Is there even such a thing as coincidence?",
+        "Kunc gebruikt de stijlen van kubisme en het surrealisme omdat hij deze als een vooruitgang in de ontwikkeling van de moderne kunst ziet. Dali is een favoriet. In What a coincidence! parodieert hij Dali door met fruit zijn portret te suggereren.",
+        "We zien een landschap met daarin een boom waaruit een appel valt, een waterput, een dak met rokende schoorsteen, een vogel, een met gras omgeven waterput en een waslijn met wapperende kleren. Samen vormen al die elementen een gezicht. Wat een toeval (what a coincidence). Hoewel? Toeval bestaat niet in een kunstwerk. De kunstenaar bepaalt. Alles wat we zien in dit schilderij, zelfs de suggestie van toeval, is door Kunc bedacht.",
+        "Wer das OEuvre Salvador Dalís kennt, dem kommt Milan Kuncs Arbeitsweise in diesem Bild sicherlich bekannt vor. In einem surrealistischen Wechselspiel geläufiger Elemente steckt ein zweites, „verborgenes“ Bild. Reiner Zufall, dass gerade ein Apfel vom Baum fällt! So lassen sich viele spielerisch eingebaute Zitate erkennen. Ist das nicht der Heilige Geist, der als weiße Taube zu uns kommt? Gibt es den Zufall überhaupt?" ;
+    dc:format "breedte: 120 cm",
+        "hoogte: 150 cm" ;
+    dc:identifier "1986.0878" ;
+    dc:title "What a coincidence!" ;
+    dc:type "schilderijen" ;
+    dct:medium "doek",
+        "olieverf" .
+

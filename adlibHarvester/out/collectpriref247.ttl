@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/247> dc:creator "Combas, Robert" ;
+    dc:date "1981" ;
+    dc:description """Robert Combas behoort tot de Figuration Libre, de Franse exponent van het Neo-expressionisme dat rond 1980 overal in de westerse wereld ontstaat als reactie op de koele, rationele benadering van de Minimal Art en de Conceptuele Kunst uit de voorafgaande decennia.
+Het zelfportret van Combas, geschilderd op een oude kartonnen doos, is weinig gelijkend. Er is eerder sprake van een 'collectief portret' van een jongere generatie die, wars van de toenmalige koude oorlog politiek en bezeten van rockmuziek en strips, met een zekere wanhoop zoekt naar een eigen plek in de wereld.""",
+        """Robert Combas belongs to the Figuration Libre, the French exponent of the Neo-expressionism which originates around 1980 everywhere in the western world as a reaction to the cool, rational approach of the Minimal Art and the Conceptual Art of the preceding decades.
+Combas's selfportrait, painted on an old cardboard box, is all but a good likeness.lt is rather a 'collective portrait' of a younger generation who, averse to the cold war politics of the time and mad about rock music and comics, tries to find, with a certain despair, a place of its own in the world.""",
+        "Robert Combas’ Zelfportret  toont een woeste punkjongen op een rafelig gescheurd stuk afvalkarton, omgeven door symbolen van prikkeldraad. Combas speelde samen met Richard Di Rosa in een punkband. Dit portret was ook een daad van verzet tegen zijn opleiding aan de kunstacademie, waarvan hij was weggestuurd." ;
+    dc:format "breedte: 160 cm",
+        "breedte: 173.5 cm",
+        "dikte: 5.5 cm",
+        "hoogte: 189 cm",
+        "hoogte: 198.5 cm" ;
+    dc:identifier "1981.1559.A" ;
+    dc:title "Autoportret" ;
+    dc:type "portretten",
+        "schilderijen",
+        "zelfportretten" ;
+    dct:medium "karton",
+        "lakverf",
+        "verf op waterbasis" .
+

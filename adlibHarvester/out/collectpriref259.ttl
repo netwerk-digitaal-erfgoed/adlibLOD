@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/259> dc:creator "Premiata Ditta s.a.s." ;
+    dc:date "1993" ;
+    dc:description "planbord (90 x 120 cm) met rails, magneetletters, magneetcijfers, en magneetsymbolen" ;
+    dc:format "breedte: 120 cm",
+        "hoogte: 90 cm" ;
+    dc:identifier "1993.0279" ;
+    dc:title "Black Gold" ;
+    dc:type "borden (informatie)",
+        "installaties (kunstwerken)" ;
+    dct:medium "gemengde media" .
+

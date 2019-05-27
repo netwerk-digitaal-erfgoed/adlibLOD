@@ -1,0 +1,72 @@
+<adlibXML>
+  <recordList>
+    <record priref="93" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:16" selected="false">
+      <Description>
+        <description>Struisvogels is een &#8216;plakbeeld&#8217; van Carel Visser, &#233;&#233;n van de belangrijke Nederlandse kunstenaars die door het Groninger Museum gedurende langere tijd in hun artistieke ontwikkeling werden gevolgd met tentoonstellingen en aankopen. Visser maakte collages op papier met materialen als wol en veren, die leidden tot ruimtelijke beelden. Hij was ge&#239;nteresseerd in de sculpturale verhoudingen, hoe symmetrie en balans bereikt kunnen worden. Dit blijft terugkeren gedurende zijn hele oeuvre. Dieren zijn daarbij vaak een inspiratiebron, zoals hier twee vechtende struisvogels.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>198</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>240</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Carel Visser, plakbeelden</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>karton</material>
+      </Material>
+      <Material>
+        <material>verf</material>
+      </Material>
+      <Material>
+        <material>veer</material>
+      </Material>
+      <Object_name>
+        <object_name>beeldhouwwerken (beeldmateriaal)</object_name>
+      </Object_name>
+      <object_number>1984.0301</object_number>
+      <priref>93</priref>
+      <Production>
+        <creator>Visser, Carel</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1983</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1984.0301.jpg</reproduction.reference>
+      </Reproduction>
+      <Title>
+        <title>Struisvogels</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6241</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2464</response_time>
+  </diagnostic>
+</adlibXML>

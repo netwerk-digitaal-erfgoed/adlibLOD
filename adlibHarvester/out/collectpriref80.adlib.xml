@@ -1,0 +1,192 @@
+<adlibXML>
+  <recordList>
+    <record priref="80" created="2018-01-04T09:53:13" modification="2018-11-21T03:47:11" selected="false">
+      <Description>
+        <description>Charley Toorop was &#233;&#233;n van de meest opvallende verschijningen in de Nederlandse kunstwereld van de jaren twintig en dertig van de vorige eeuw. Zij was de dochter van de internationaal bekende symbolist Jan Toorop en staat vooral bekend als schilder van figuurstukken en portretten. Toen Toorop 38 jaar oud was schilderde ze dit werk. Van links naar rechts zijn haar dochter Charlie Annie Toorop (13 jaar), Charley zelf met penseel en palet in de hand, haar zoon John Fernhout (16 jaar) en haar oudste zoon Edgar Fernhout (17 jaar) vanaf borsthoogte weergegeven.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>101</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>81</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>121</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>101</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>5.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Visages: Picasso, Magritte, Warhol...</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zelfportret van een liefde, Charley Toorop en Arthur Lehning</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Vooral geen principes! Charley Toorop</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Bernard Essers 1893-1945</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>overige literatuur</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Amazonas del arte nuevo</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Bloedband - Familie, de werkelijkheid verbeeld</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Elck zijn waerom : vrouwelijke kunstenaars in Belgi&#235; en Nederland 1500-1950</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>wonder van de werkelijkheid, Jakob Nieweg 1877-1955</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Van Gogh bis Cobra. Holl&#228;ndische Malerei 1880-1959</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Charley Toorop</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Nederlandse zelfportretten van Vincent van Gogh tot heden</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Vier generaties :  een eeuw lang de kunstenaarsfamilie Toorop/Fernhout</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>groepsportretten</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>zelfportretten</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>portretten</object_name>
+      </Object_name>
+      <object_number>1958.0153</object_number>
+      <priref>80</priref>
+      <Production>
+        <creator>Toorop, Charley</creator>
+        <creator.role/>
+        <production.place>Amsterdam</production.place>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1929</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1951_1960\1958.0153.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Zelfportret met drie kinderen</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">31.2484</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8723</response_time>
+  </diagnostic>
+</adlibXML>

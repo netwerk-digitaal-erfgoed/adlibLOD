@@ -1,0 +1,89 @@
+<adlibXML>
+  <recordList>
+    <record priref="131" created="2018-01-04T09:53:13" modification="2018-07-24T12:34:29" selected="false">
+      <Description>
+        <description>De realiteit van de dagelijkse dingen, de ingreep, de improvisatie, zijn voor van der Heyden de bronnen voor zijn kunst. Hij zoekt naar algemene wetten en waarheden. De schilder, zegt hij is een wet-vinder en de wetten die hij vindt eerbiedigt hij als natuurwetten. Van der Heyden vindt zijn wetten spelend met vorm en met kleur. Hij beplakt zijn doeken met foto's , folders, girobiljetten, catalogusillustraties. Massaal vermenigvuldigde algemeenheden worden ge&#239;soleerd, in een nieuwe relatie tot elkaar gebracht en zo zelf gevormd tot een vernieuwd beeld. In dit doek zijn deze aspecten opgevoerd tot een hoge intensiteit.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>181.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>91.2</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Groninger Museum in Heerlen</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Jacques van der Heyden</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>vinylverf</material>
+      </Material>
+      <Material>
+        <material>gemengde media</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1967.0412</object_number>
+      <priref>131</priref>
+      <Production>
+        <creator>Vanderheyden, JCJ</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end>1966</production.date.end>
+        <production.date.start>1965</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1961_1970\1967.0412.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>gemengde media</technique>
+      </Technique>
+      <Title>
+        <title>Cataloog</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6237</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6237</response_time>
+  </diagnostic>
+</adlibXML>

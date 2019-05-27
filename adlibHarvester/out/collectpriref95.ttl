@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/95> dc:creator "Stomme, Jan Jansz. de" ;
+    dc:date "1655" ;
+    dc:description "De evangelist is afgebeeld met zijn symbool, de leeuw, links in het schilderij" ;
+    dc:format "breedte: 37 cm",
+        "breedte: 76 cm",
+        "diepte: 5 cm",
+        "hoogte: 48 cm",
+        "hoogte: 91.5 cm" ;
+    dc:identifier "1995.0230" ;
+    dc:title "Evangelist Marcus" ;
+    dc:type "portretten",
+        "schilderijen" ;
+    dct:medium "olieverf",
+        "paneel (hout)" .
+

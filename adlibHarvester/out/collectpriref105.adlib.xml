@@ -1,0 +1,96 @@
+<adlibXML>
+  <recordList>
+    <record priref="105" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:17" selected="false">
+      <Description>
+        <description>De naam van de lamp, Ashoka, is niet toevallig gekozen. Wat is de betekenis van deze naam? In het begin van de jaren zestig verbleef de maker, Ettore Sottsass, in India. Hier werkte hij samen met lokale ambachtslieden. Het was een tijd van spirituele ervaringen, tegenover de materialistische maatschappij in de Verenigde Staten, waar hij eerder kennis mee had gemaakt. Flower power tegenover opdringerige reclames. Beide invloeden komen samen in de Memphis stijl. Ashoka (304-282 v. Chr.) wordt beschouwd als een van de grootste Indiase keizers.  Dankzij hem werd het Boeddhisme verspreid over geheel India, en later de gehele wereld. De armen van de lamp brengen licht naar alle windrichtingen, als een eigentijdse veelarmige Boeddha.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>90</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>84</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>8.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Postmodern design complete</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Memphis Milano katalog wystawy</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Memphis 1981-1988</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>lakverf</material>
+      </Material>
+      <Material>
+        <material>metaal</material>
+      </Material>
+      <Object_name>
+        <object_name>tafellampen</object_name>
+      </Object_name>
+      <object_number>1990.0158</object_number>
+      <priref>105</priref>
+      <Production>
+        <creator>Sottsass, Ettore (Jr.)</creator>
+        <creator.role>designer</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Memphis Milano</creator>
+        <creator.role>producent</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1981</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1990.0158.jpg</reproduction.reference>
+      </Reproduction>
+      <Title>
+        <title>Ashoka</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6246</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2489</response_time>
+  </diagnostic>
+</adlibXML>

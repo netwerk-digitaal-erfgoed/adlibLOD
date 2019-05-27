@@ -1,0 +1,63 @@
+<adlibXML>
+  <recordList>
+    <record priref="65" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:41" selected="false">
+      <Description>
+        <description>Vrouw en profiel</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>60.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>40.5</dimension.value>
+      </Dimension>
+      <Material>
+        <material>fotopapier</material>
+      </Material>
+      <Object_name>
+        <object_name>modefoto's</object_name>
+      </Object_name>
+      <object_number>1993.0203</object_number>
+      <priref>65</priref>
+      <Production>
+        <creator>Man, Edland</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Vogue Espa&#241;a.</creator>
+        <creator.role>opdrachtgever</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1987</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1993.0203.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6235</response_time>
+  </diagnostic>
+</adlibXML>

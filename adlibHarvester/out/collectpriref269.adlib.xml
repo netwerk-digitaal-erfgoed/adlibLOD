@@ -1,0 +1,85 @@
+<adlibXML>
+  <recordList>
+    <record priref="269" created="2018-01-04T09:53:13" modification="2018-01-04T01:23:46" selected="false">
+      <Description>
+        <description>Op het dit schilderij 'Einen Staubsauger fressen' zien we een man die bezig is een stofzuiger op te eten. Het werk lijkt op het eerste gezicht een grote striptekening of karikatuur. Het is met woeste verfstreken geschilderd. De kleuren zijn moddergrijs, bruin en zwart, ze lopen door elkaar in een bruinige brij en er zijn geen heldere vlakken of afbakeningen. De sfeer van dit zelfportret sluit aan bij de bewuste lelijkheid, agressie en uitzichtloosheid van de punkbeweging uit deze tijd. Misschien is het wel een zelfportret van de maker
+Hij doet het hier voorkomen alsof hij geen concept heeft, maar in werkelijkheid is juist dat standpunt zijn idee: hij wilde zich afzetten tegen de conceptuele kunst uit de jaren zeventig, waarin alles om idee&#235;n draaide en het persoonlijke, het &#8216;handschrift&#8217;, er niet toe deed.
+
+Dahn was &#233;&#233;n van de smaakmakers van de M&#252;lheimer Freiheit, een groep van zes jonge Duitse schilders genoemd naar de Keulse straat waarin hun atelier zich bevond. In 1981 werd hun werk voor het eerst museaal getoond in het Groninger Museum, als voorbeeld van het nieuwe &#8216;wilde schilderen&#8217; in Duitsland. Om geen onderscheid te maken tussen de afzonderlijke leden, maar de mentaliteit van het geheel te tonen, werd uit de tentoonstelling van elke kunstenaar &#233;&#233;n werk verworven. Met galeriehouder Paul Maenz had directeur Frans Haks afgesproken dat het museum een aantal werken kon krijgen, in ruil voor het op spieramen laten zetten van alle doeken, die opgerold waren aangeleverd voor de tentoonstelling.
+
+In 1984 exposeerden de twee meest interessante kunstenaars van de groep, naast Dahn was dat Georg Jiri Dokoupil, opnieuw in het Groninger Museum. Ze toonden er enkele reeksen humoristische schilderijen die ze samen hadden gemaakt, telkens uitgaande van een ander idee. E&#233;n van die series was &#8216;Tierbilder&#8217;. Hierin kijken de kunstenaars, vergezeld van een aantal dieren, op elk schilderij over een hoge muur. Deze muur werd in de loop van de serie steeds hoger. Toen deze het beeldvlak bijna geheel vulde, stapten de kunstenaars over op een ander thema. Het laatste schilderij uit de reeks werd later aangekocht. (zie nr 1993.0270)</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>200</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>150</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Nieuwe Wilden: Duits Neo-Expressionisme uit de jaren '80</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>12 K&#252;nstler aus Deutschland</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>emulgerende verf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1982.0046</object_number>
+      <priref>269</priref>
+      <Production>
+        <creator>Dahn, Walter</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1982</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1982.0046.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Einen Staubsauger fressen</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6252</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2468</response_time>
+  </diagnostic>
+</adlibXML>

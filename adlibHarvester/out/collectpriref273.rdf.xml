@@ -1,0 +1,17 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://collectie.groningermuseum.nl/Details/collect/273">
+    <dc:identifier>1989.0140</dc:identifier>
+    <dc:type>schilderijen</dc:type>
+    <dc:title>Afrikanischer Flag 2</dc:title>
+    <dc:creator>Dahn, Walter</dc:creator>
+    <dc:date>1988</dc:date>
+    <dct:medium>acrylverf</dct:medium>
+    <dct:medium>doek</dct:medium>
+    <dc:format>hoogte: 91.5 cm</dc:format>
+    <dc:format>breedte: 81 cm</dc:format>
+    <dc:format>dikte: 3 cm</dc:format>
+    <dc:format>hoogte: 90 cm</dc:format>
+    <dc:format>breedte: 80 cm</dc:format>
+    <dc:description>De heftige expressionistische toets uit de begintijd is op het eerste gezicht geheel verdwenen. Heel subtiel is dat alleen terug te vinden in de achtergrond waarop vrij strakke duidelijk omlijnde figuren zijn aangebracht.</dc:description>
+  </rdf:Description>
+</rdf:RDF>

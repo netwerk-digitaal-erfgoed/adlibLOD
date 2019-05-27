@@ -1,0 +1,102 @@
+<adlibXML>
+  <recordList>
+    <record priref="108" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:17" selected="false">
+      <Description>
+        <description>Het hedonisme en de straatcultuur van de jaren negentig komen tot uitdrukking in dit werk van Micha Klein en Dani&#235;lle Kwaaitaal, een monumentaal vierluik waarvan het Groninger Museum twee delen bezit en twee in bruikleen heeft. De fotowerken waren oorspronkelijk bedoeld als modereportage voor het culttijdschrift Wave. Het zijn ensceneringen van modellen in een met de computer gecre&#235;erde omgeving.</description>
+      </Description>
+      <Description>
+        <description>Electric Blue neemt de ontwikkeling van de computertechnologie onder de loep. Bijna alle beeldelementen in dit werk verwijzen naar dit thema. Vooraan in het midden, zie je een man met een soort koptelefoon op zijn metalen hoofd waarvan draden naar zijn linkeroor leiden. Aan het rode lampje rechts zie je dat hij op dit moment 'aan' staat en als computer of geavanceerde robot functioneert. In zijn mond heeft hij een quantelpen, een hulpmiddel voor de eerste paintbox waarmee foto's op de computer konden worden verwerkt. Links, zit een meisje gehurkt met een 'virtual reality'-helm op en zij bevindt zich dus in een wereld, die geheel door computers is opgebouwd. Op haar lichte T-shirt staat het waarschuwingsteken, dat je computerchips niet mag aanraken omdat je dan deze zeer gevoelige elektronische deeltjes voorgoed kunt beschadigen. Achter haar zitten twee jongens op een grote spelcomputer de allernieuwste games te spelen. Rechts in het beeld is een meisje, zojuist bezig een ouderwetse spelcomputer kapot te trappen. Door haar actie wil Micha Klein aangeven hoe er tegenwoordig met techniek omgegaan wordt: wanneer er een nieuw, verbeterd product op de markt is gelanceerd, wordt het oude exemplaar ogenblikkelijk weggedaan.
+Electric Blue kan worden opgevat als de 'middag' binnen de serie 'Virtualistic Vibes'. Het dagdeel waarop men meestal druk bezig is met allerlei dingen en volledig kan opgaan in zijn eigen activiteiten, wat in dit werk ook het geval is.</description>
+      </Description>
+      <Description>
+        <description>Micha Klein's media art draws its spirituality from the clubhouse culture of the ninties. His digital paintings of virtual reality are contemporary genre pieces, caricatures of today's youth culture, referring to vanity, vitality, agression and sexuality. 'Electric Blue' is part of a series of four, in a fashion report for the Dutch cult magazine 'Wave' and was instantly appealing to advertising people. It is a significant work with its slick computerized image of a perfect world, portraying the cool accessibility of young models hanging out together. The surrealistic digital images, however, are more about the feeling of the hedonistic house culture than about fashion. This is because the artist is an insider to the scene, as the founder of the VJ movement, an Amsterdam rave craze.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>150</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>300</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Virtualistic vibes in het Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Micha Klein</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>plexiglas</material>
+      </Material>
+      <Material>
+        <material>perspex</material>
+      </Material>
+      <Material>
+        <material>hout</material>
+      </Material>
+      <object_number>1996.0018</object_number>
+      <priref>108</priref>
+      <Production>
+        <creator>Klein, Micha</creator>
+        <creator.role>concept &amp; art direction</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Kwaaitaal, Danielle</creator>
+        <creator.role>concept &amp; art direction</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Tan, Andy</creator>
+        <creator.role>fotograaf</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Technocreations</creator>
+        <creator.role>art director</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1996</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1996.0018.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+      <Title>
+        <title>Virtualistic Vibes, Electric Blue</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6247</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2488</response_time>
+  </diagnostic>
+</adlibXML>

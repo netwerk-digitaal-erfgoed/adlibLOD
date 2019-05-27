@@ -1,0 +1,70 @@
+<adlibXML>
+  <recordList>
+    <record priref="314" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:31" selected="false">
+      <Description>
+        <description>collage trouv&#233;</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>53.3</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>35.5</dimension.value>
+      </Dimension>
+      <Material>
+        <material>hout</material>
+      </Material>
+      <Material>
+        <material>multiplex</material>
+      </Material>
+      <Material>
+        <material>verf</material>
+      </Material>
+      <Object_name>
+        <object_name>collages</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>gemengde media</object_name>
+      </Object_name>
+      <object_number>1980.0517</object_number>
+      <priref>314</priref>
+      <Production>
+        <creator>Vries, Herman de</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1960</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1971_1980\1980.0517.JPG</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>collage</technique>
+      </Technique>
+      <Title>
+        <title>zonder titel</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6215</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6215</response_time>
+  </diagnostic>
+</adlibXML>

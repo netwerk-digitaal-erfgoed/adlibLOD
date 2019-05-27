@@ -1,0 +1,76 @@
+<adlibXML>
+  <recordList>
+    <record priref="206" created="2018-01-04T09:53:13" modification="2018-09-04T04:20:39" selected="false">
+      <Description>
+        <description>Dit schilderij van een kunstenaar uit Zaire is ge&#239;nspireerd op stripverhalen en straatkunst. Het houdt  het midden tussen volksverhalen, reclamepanelen en offici&#235;le aankondigingen op billboards. Voor deze boodschappen werd een eenvoudige stripstijl gebruikt, met tekstballonnetjes en uitleg. Dit soort schilderijen zijn ook bedoeld om mensen op straat aan het praten te krijgen over misstanden en corruptie.
+Hier leveren de mensen op straat commentaar op de slechte voorzieningen. Er is duidelijk iets mis met de stroom en het water.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>141.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>184</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kinderbeeldtaal</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>lakverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1991.0373</object_number>
+      <priref>206</priref>
+      <Production>
+        <creator>Ledy, Che&#239;k</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1990</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1991.0373.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Y-a-t'il une solution?</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.625</response_time>
+  </diagnostic>
+</adlibXML>

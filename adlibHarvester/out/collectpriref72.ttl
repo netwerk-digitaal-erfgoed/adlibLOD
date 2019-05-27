@@ -1,0 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collectie.groningermuseum.nl/Details/collect/72> dc:creator "Delvoye, Wim" ;
+    dc:date "1986" ;
+    dc:description """Delvoye gebruikt geen originele Perzische tapijt maar in grote oplage industrieel vervaardigde pseudo Oosterse tapijt, Made in Flanders.
+Op de randen van het tapijt zijn kleurrijke accenten gelegd. Vormen zijn opgehoogd, andere overschilderd. Decoratieve elementen zijn verenigd tot nieuwe geometrische motieven. Door subtiel verstoren van de symmetrie en het formele evenwicht van het tapijt ontstaat er een links en een rechts, een onder en een boven. De scene heeft een blauwe achtergrond, zodat de suggestie van diepte is ontstaan.
+Het beschilderde tapijt roept veel vragen op waarom duiken twee hazen op een mossel. In de Romeinse tijd stond de haas symbool voor de vruchtbaarheid en in de zeventiende eeuw werd het eten van mosselen als lustopwekkend beschouwd. De raadselachtige voorstelling lijkt aldus met een knipoog gelezen te moeten worden. En wat te denken van de opgeklopte Latijnse titel Dura lex, sed lex (De wet is hard, maar het is de wet).""" ;
+    dc:format "breedte: 166 cm",
+        "hoogte: 233 cm" ;
+    dc:identifier "1987.0506" ;
+    dc:title "Dura lex sed lex" ;
+    dc:type "schilderijen" ;
+    dct:medium "acrylverf" .
+
