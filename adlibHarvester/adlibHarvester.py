@@ -2,25 +2,49 @@
 
 import lxml.etree as etree
 import urllib.request
+import argparse
+import sys
+import datetime
 
-# variables
+# initiate the parser
+parser = argparse.ArgumentParser()  
+parser.add_argument("-v", "--version", help="show program version", action="store_true")
+parser.add_argument("-t", "--test", help="test: download first 200 records", action="store_true")
+parser.add_argument("-d", "--date", help="date of last harvest (default: '1900-01-01')")
+parser.add_argument("-ep", "--endpoint", help="Adlib API endpoint")
+parser.add_argument("-db", "--database", help="name of database (default 'collect')")
+parser.add_argument("-p", "--path", help="path to directory storing the harvest (default: 'out/')")
 
-## Adlib API-endpoint and variables
-#endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx?database=AMcollect&search=all&limit=100" # endpoint of Amsterdam Museum
-#endpoint = "https://lodp-web.adlibhosting.com/webapi/wwwopac.ashx?database=Collect&search=all&limit=100"
-endpoint = "http://collectie.groningermuseum.nl/webapi/wwwopac.ashx"
+# read arguments from the command line
+args = parser.parse_args()
 
-#database = "AMcollect" # database by Amsterdam Museum
-#database = "Collect" # database in test environment
-database = "collect" # database by Groninger Museum
+if args.version:  
+    print("adlibHarvester version 0.9")
+    print("Stores xml-file for every priref from DATABASE on ENDPOINT in directory PATH, modified after DATE.")
+
+if args.endpoint:  
+    endpoint = args.endpoint
+else:
+    print("No Adlib API endpoint provided. Use -ep")
+    sys.exit()
+
+if args.database:  
+    database = args.database
+else:
+    database = "collect"
+
+if args.date:  
+    date = datetime.datetime.strptime(args.date, '%Y-%m-%d')
+else:
+    date = datetime.datetime.strptime('1900-01-01', '%Y-%m-%d')
+
+if args.path:  
+    path = args.path
+else:
+    path = "out/"
 
 search = "all"
 limit = 100
-
-# initialization
-## initiate XSLT
-xslt = etree.parse(stylesheet)
-transform = etree.XSLT(xslt)
 
 ## initialize variables for loop
 page = 0
@@ -44,30 +68,35 @@ while (numberFound > (page * limit)):
     # parse adlibXML
     dom = etree.fromstring(adlibXML)
 
+    # get detailed information with priref
     for record in dom.findall('.//record'):
         priref = record.get('priref')
-        requestUrl = endpoint + \
-           "?database=" + database + \
-           "&search=priref=" + priref
+        modification = record.get('modification')
+        mod = datetime.datetime.strptime(modification, '%Y-%m-%dT%H:%M:%S')
+        if mod > date:
+            requestUrl = endpoint + \
+               "?database=" + database + \
+               "&search=priref=" + priref
 
-        print(requestUrl)
-        result = urllib.request.urlopen(requestUrl)
-        adlibXML = result.read()
+            print(requestUrl)
+            result = urllib.request.urlopen(requestUrl)
+            adlibXML = result.read()
 
-        # parse adlibXML
-        dom2 = etree.fromstring(adlibXML)
-        adlibXML = etree.tostring(dom2, pretty_print=True)
+            # parse adlibXML
+            dom2 = etree.fromstring(adlibXML)
+            adlibXML = etree.tostring(dom2, pretty_print=True)
 
-        # write adlibXML-file
-        filename = "out/" + database + "priref" + str(priref) + ".adlib.xml"
-        f = open(filename,"wb")
-        f.write(adlibXML)
-        f.close()
+            # write adlibXML-file
+            filename = path + database + "priref" + str(priref) + ".adlib.xml"
+            f = open(filename,"wb")
+            f.write(adlibXML)
+            f.close()
 
     # make loop end
     ## read numberFound
     hits = dom.find(".//hits")
     numberFound = int(hits.text)
-    numberFound = 200 # maximum for testing, comment this line for production
+    if args.test:
+        numberFound = 200 # maximum for testing
 
     page = page + 1

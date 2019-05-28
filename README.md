@@ -1,8 +1,11 @@
 # adlibLOD
 In this repository we develop XSLT stylesheets for converting basic AdlibXML into Linked Open Data. For your own use it might necessary to adjust the stylesheet to your own specific usages of Adlib fields and XML-elements.
 
+## Home-brewed harvesting-tool in Python3
+To get testdata - see directory "adlibHarvester".
+
 ## XSLT conversion
-We will test our product with four XSLT-conversion tools.
+We will test our product with three XSLT-conversion tools.
 
 ### Saxon
 Install saxon
@@ -22,15 +25,13 @@ Usage examples:
 xsltproc stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
 ```
 
+If you want to put the baseUri in the Command Line:
 ```
 xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
 ```
 
 ### Microsoft thing
 Is part of the Adlib intrastructure
-
-### Home-brewed harvesting-tool in Python3
-see directory "AdlibLODHarvester".
 
 ## Various schemas
 We developed the stylesheets top-to-bottom implementing all basicfields of a description into the schema at hand, and bottom-up by searching for all available data in the fields from the schema.
