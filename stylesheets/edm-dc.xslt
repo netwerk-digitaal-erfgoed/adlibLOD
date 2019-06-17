@@ -51,6 +51,8 @@
         <dc:publisher>
             <xsl:value-of select="$provider"/>
         </dc:publisher>
+        <!-- DC Terms created -->
+        <xsl:apply-templates select="Production_date/production.date.start"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
@@ -242,6 +244,38 @@
         <!-- SKOS preferred label -->
         <xsl:apply-templates select="material"/>
     </skos:Concept>
+</xsl:template>
+
+<!-- DC Terms created -->
+<xsl:template match="Production_date/production.date.start">
+    <xsl:choose>
+        <xsl:when test=". = ../production.date.end">
+            <dct:created>
+                <xsl:if test="string(../production.date.start.prec)">
+                    <xsl:value-of select="../production.date.start.prec"/>
+                    <xsl:text>&#160;</xsl:text>
+                </xsl:if>
+                <xsl:value-of select="."/>
+            </dct:created>
+        </xsl:when>
+        <xsl:otherwise>
+            <dct:created>
+                <xsl:if test="string(../production.date.start.prec)">
+                    <xsl:value-of select="../production.date.start.prec" />
+                    <xsl:text>&#160;</xsl:text>
+                </xsl:if>
+                <xsl:value-of select="."/>
+                <xsl:if test="string(../production.date.end)">
+                    <xsl:text>&#160;-&#160;</xsl:text>
+                    <xsl:if test="string(../production.date.end.prec)">
+                        <xsl:value-of select="../production.date.end.prec" />
+                        <xsl:text>&#160;</xsl:text>
+                    </xsl:if>
+                    <xsl:value-of select="../production.date.end"/>
+                </xsl:if>
+            </dct:created>
+        </xsl:otherwise>
+    </xsl:choose>
 </xsl:template>
 
 <!-- SKOS preferred label -->
