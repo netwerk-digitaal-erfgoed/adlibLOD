@@ -61,12 +61,26 @@
         <xsl:apply-templates select="Dimension"/>
         <!-- DC relation -->
         <xsl:apply-templates select="Related_object/related_object.association.lref"/>
+        <!-- DC Terms has part -->
+        <!-- DISCUSS: no example in testset? -->
+        <!-- <xsl:apply-templates select="Parts"/> -->
+        <!-- DC Terms is part of -->
+        <xsl:apply-templates select="Part_of/part_of_reference.lref"/>
+        <!--DC Terms spatial -->
+        <xsl:apply-templates select="Production/production.place.lref"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
     <xsl:for-each select="Production">
         <xsl:if test="not(creator.lref = preceding-sibling::Production/creator.lref)">
             <xsl:apply-templates select="."/>
+        </xsl:if>
+    </xsl:for-each>
+    <!-- EDM place production -->
+    <!-- only add place when the same place did not precede -->
+    <xsl:for-each select="Production">
+        <xsl:if test="not(production.place.lref = preceding-sibling::Production/production.place.lref)">
+            <xsl:apply-templates select="production.place"/>
         </xsl:if>
     </xsl:for-each>
     <!-- SKOS concept type -->
@@ -320,6 +334,52 @@
             <xsl:value-of select="."/>
         </xsl:attribute>
     </dc:relation>
+</xsl:template>
+
+<!-- DC Terms is part of -->
+<xsl:template match="Part_of/part_of_reference.lref">
+    <xsl:if test="string(.)">
+        <dct:isPartOf>
+            <xsl:attribute name="rdf:resource">
+                <!-- Create identifier for object -->
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>object/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </dct:isPartOf>
+    </xsl:if>
+</xsl:template>
+
+<!--DC Terms spatial -->
+<xsl:template match="Production/production.place.lref">
+    <xsl:if test="string(.)">
+        <dct:spatial>
+            <xsl:attribute name="rdf:resource">
+                <!-- Create identifier for place -->
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>place/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </dct:spatial>
+    </xsl:if>
+</xsl:template>
+
+<!-- EDM place -->
+<xsl:template match="Production/production.place">
+    <xsl:if test="string(.)">
+        <edm:Place>
+            <xsl:attribute name="rdf:about">
+                <!-- Create identifier for place -->
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>place/</xsl:text>
+                <xsl:value-of select="../production.place.lref"/>
+            </xsl:attribute>
+            <!-- SKOS preferred label -->
+            <skos:prefLabel>
+                <xsl:value-of select="."/>
+            </skos:prefLabel>
+        </edm:Place>
+    </xsl:if>
 </xsl:template>
 
 <!-- SKOS preferred label -->
