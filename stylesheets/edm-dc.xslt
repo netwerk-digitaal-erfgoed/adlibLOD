@@ -2,10 +2,12 @@
 <xsl:stylesheet version="2.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xmlns:ore="http://www.openarchives.org/ore/terms/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:dct="http://purl.org/dc/terms/">
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/">
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
@@ -77,7 +79,40 @@
             <xsl:text>agent/</xsl:text>
             <xsl:value-of select="creator.lref"/>
         </xsl:attribute>
+        <!-- SKOS preferred label -->
+        <xsl:apply-templates select="creator"/>
+        <!-- rdaGr2 date of birth -->
+        <xsl:apply-templates select="creator.date_of_birth"/>
+        <!-- rdaGr2 date of death -->
+        <xsl:apply-templates select="creator.date_of_death"/>
     </edm:Agent>
+</xsl:template>
+
+<!-- rdaGr2 date of birth -->
+<xsl:template match="creator.date_of_birth">
+    <xsl:if test="string(.)">
+        <rdaGr2:dateOfBirth>
+            <xsl:value-of select="."/>
+        </rdaGr2:dateOfBirth>
+    </xsl:if>
+</xsl:template>
+
+<!-- rdaGr2 date of death -->
+<xsl:template match="creator.date_of_death">
+    <xsl:if test="string(.)">
+        <rdaGr2:dateOfDeath>
+            <xsl:value-of select="."/>
+        </rdaGr2:dateOfDeath>
+    </xsl:if>
+</xsl:template>
+
+<!-- SKOS preferred label -->
+<xsl:template match="creator">
+    <xsl:if test="string(.)">
+        <skos:prefLabel>
+            <xsl:value-of select="."/>
+        </skos:prefLabel>
+    </xsl:if>
 </xsl:template>
 
 </xsl:stylesheet>
