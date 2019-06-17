@@ -59,6 +59,8 @@
         <xsl:apply-templates select="production.period"/>
         <!-- DC Terms extent -->
         <xsl:apply-templates select="Dimension"/>
+        <!-- DC relation -->
+        <xsl:apply-templates select="Related_object/related_object.association.lref"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
@@ -306,6 +308,18 @@
         <xsl:text>&#160;</xsl:text>
         <xsl:value-of select="dimension.unit"/>
     </dct:extent>
+</xsl:template>
+
+<!-- DC relation -->
+<xsl:template match="Related_object/related_object.association.lref">
+    <dc:relation>
+        <xsl:attribute name="rdf:resource">
+            <!-- Create identifier for object -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>object/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+    </dc:relation>
 </xsl:template>
 
 <!-- SKOS preferred label -->
