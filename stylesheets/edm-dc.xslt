@@ -15,12 +15,24 @@
     <rdf:RDF>
         <edm:ProvidedCHO>
             <xsl:attribute name="rdf:about">
-                <!-- Create handle identifier for object -->
+                <!-- Create identifier for object -->
                 <xsl:value-of select="$baseUri"/>
                 <xsl:value-of select="@priref"/>
             </xsl:attribute>
+            <!-- DC identifier -->
+            <xsl:apply-templates select="object_number"/>
         </edm:ProvidedCHO>
     </rdf:RDF>
+</xsl:template>
+
+<!-- do not map diagnostics -->
+<xsl:template match="diagnostic"/>
+
+<!-- DC identifier -->
+<xsl:template match="object_number">
+    <dc:identifier>
+        <xsl:value-of select="."/>
+    </dc:identifier>
 </xsl:template>
 
 </xsl:stylesheet>
