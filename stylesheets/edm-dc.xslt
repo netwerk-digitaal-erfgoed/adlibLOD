@@ -14,6 +14,8 @@
 <xsl:param name="provider">museum/</xsl:param>
 <xsl:param name="language">en</xsl:param>
 
+<!-- DISCUSS: hard to determine which language is used -->
+
 <!-- RDF wrap -->
 <xsl:template match="recordList">
     <rdf:RDF>
@@ -53,6 +55,8 @@
         </dc:publisher>
         <!-- DC Terms created -->
         <xsl:apply-templates select="Production_date/production.date.start"/>
+        <!-- DC Terms temporal -->
+        <xsl:apply-templates select="production.period"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
@@ -276,6 +280,14 @@
             </dct:created>
         </xsl:otherwise>
     </xsl:choose>
+</xsl:template>
+
+<!-- DC Terms temporal -->
+<xsl:template match="production.period">
+    <!-- DISCUSS: make resource? what type? -->
+    <dct:temporal>
+        <xsl:value-of select="."/>
+    </dct:temporal>
 </xsl:template>
 
 <!-- SKOS preferred label -->
