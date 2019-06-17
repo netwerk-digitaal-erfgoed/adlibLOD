@@ -17,13 +17,23 @@
             <xsl:attribute name="rdf:about">
                 <!-- Create identifier for object -->
                 <xsl:value-of select="$baseUri"/>
+                <xsl:text>object/</xsl:text>
                 <xsl:value-of select="@priref"/>
             </xsl:attribute>
             <!-- DC identifier -->
             <xsl:apply-templates select="object_number"/>
             <!-- DC title -->
             <xsl:apply-templates select="Title"/>
+            <!-- DC creator -->
+            <xsl:apply-templates select="Production/creator.lref"/>
         </edm:ProvidedCHO>
+        <!-- EDM agent -->
+        <!-- only add maker when the same maker did not precede -->
+        <xsl:for-each select="Production">
+            <xsl:if test="not(creator.lref = preceding-sibling::Production/creator.lref)">
+                <xsl:apply-templates select="."/>
+            </xsl:if>
+        </xsl:for-each>
     </rdf:RDF>
 </xsl:template>
 
@@ -44,6 +54,30 @@
             <xsl:value-of select="title"/>
         </dc:title>
     </xsl:if>
+</xsl:template>
+
+<!-- DC creator -->
+<xsl:template match="Production/creator.lref">
+    <dc:creator>
+        <xsl:attribute name="rdf:resource">
+            <!-- Create identifier for agent -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>agent/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+    </dc:creator>
+</xsl:template>
+
+<!-- EDM agent -->
+<xsl:template match="Production">
+    <edm:Agent>
+        <xsl:attribute name="rdf:about">
+            <!-- Create identifier for agent -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>agent/</xsl:text>
+            <xsl:value-of select="creator.lref"/>
+        </xsl:attribute>
+    </edm:Agent>
 </xsl:template>
 
 </xsl:stylesheet>
