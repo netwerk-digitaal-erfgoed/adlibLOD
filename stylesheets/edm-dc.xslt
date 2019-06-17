@@ -28,6 +28,8 @@
             <xsl:apply-templates select="Title"/>
             <!-- DC creator -->
             <xsl:apply-templates select="Production/creator.lref"/>
+            <!-- DC subject -->
+            <xsl:apply-templates select="Associated_subject/association.subject.lref"/>
         </edm:ProvidedCHO>
         <!-- EDM agent -->
         <!-- only add maker when the same maker did not precede -->
@@ -68,6 +70,56 @@
             <xsl:value-of select="."/>
         </xsl:attribute>
     </dc:creator>
+</xsl:template>
+
+<!-- DC subject -->
+<xsl:template match="Associated_subject/association.subject.lref">
+    <xsl:if test="string(.)">
+        <dc:subject>
+            <xsl:choose>
+                <xsl:when test="../association.subject.type/value[@lang='neutral'] = 'EVENT'">
+                    <xsl:attribute name="rdf:resource">
+                        <!-- Create identifier for event -->
+                        <xsl:value-of select="$baseUri"/>
+                        <xsl:text>event/</xsl:text>
+                        <xsl:value-of select="."/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:when test="../association.subject.type/value[@lang='neutral'] = 'OBJECT'">
+                    <xsl:attribute name="rdf:resource">
+                        <!-- Create identifier for object -->
+                        <xsl:value-of select="$baseUri"/>
+                        <xsl:text>object/</xsl:text>
+                        <xsl:value-of select="."/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:when test="../association.subject.type/value[@lang='neutral'] = 'SUBJECT'">
+                    <xsl:attribute name="rdf:resource">
+                        <!-- Create identifier for concept -->
+                        <xsl:value-of select="$baseUri"/>
+                        <xsl:text>concept/</xsl:text>
+                        <xsl:value-of select="."/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:when test="../association.subject.type/value[@lang='neutral'] = 'GEOKEYW'">
+                    <xsl:attribute name="rdf:resource">
+                        <!-- Create identifier for place -->
+                        <xsl:value-of select="$baseUri"/>
+                        <xsl:text>place/</xsl:text>
+                        <xsl:value-of select="."/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:attribute name="rdf:resource">
+                        <!-- Create identifier for concept -->
+                        <xsl:value-of select="$baseUri"/>
+                        <xsl:text>concept/</xsl:text>
+                        <xsl:value-of select="."/>
+                    </xsl:attribute>
+                </xsl:otherwise>
+            </xsl:choose>
+        </dc:subject>
+    </xsl:if>
 </xsl:template>
 
 <!-- EDM agent -->
