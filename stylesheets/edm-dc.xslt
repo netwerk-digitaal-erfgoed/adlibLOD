@@ -19,6 +19,8 @@
 
 <!-- DISCUSS: hard to determine which language is used -->
 <!-- DISCUSS: add fashion profile (EDMFP technique)? -->
+<!-- DISCUSS: rights aggregation and image -->
+<!-- DISCUSS: general lack of data about webresource -->
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
@@ -464,6 +466,33 @@
             </xsl:otherwise>
         </xsl:choose>
     </ore:Aggregation>
+    <edm:WebResource>
+            <xsl:attribute name="rdf:about">
+            <xsl:value-of select="$imageUrl"/>
+            <xsl:text>object/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+        <dc:format>
+            <xsl:text>image/jpeg</xsl:text>
+        </dc:format>
+        <!-- DISCUSS: rights -->
+        <xsl:choose>
+            <xsl:when test="../Rights/rights.consent_status/value[@lang='neutral'] = '2'">
+                <edm:rights>
+                    <xsl:attribute name="rdf:resource">
+                        <xsl:text>http://creativecommons.org/publicdomain/mark/1.0/</xsl:text>
+                    </xsl:attribute>
+                </edm:rights>
+            </xsl:when>
+            <xsl:otherwise>
+                <edm:rights>
+                    <xsl:attribute name="rdf:resource">
+                        <xsl:text>http://rightsstatements.org/vocab/InC/1.0/</xsl:text>
+                    </xsl:attribute>
+                </edm:rights>
+            </xsl:otherwise>
+        </xsl:choose>
+    </edm:WebResource>
 </xsl:template>
 
 <!-- SKOS preferred label -->
