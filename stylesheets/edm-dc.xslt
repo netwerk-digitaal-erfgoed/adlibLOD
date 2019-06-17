@@ -7,7 +7,8 @@
     xmlns:ore="http://www.openarchives.org/ore/terms/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:dct="http://purl.org/dc/terms/"
-    xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/">
+    xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/"
+    xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
@@ -15,6 +16,7 @@
 <xsl:param name="language">en</xsl:param>
 
 <!-- DISCUSS: hard to determine which language is used -->
+<!-- DISCUSS: add fashion profile (EDMFP technique)? -->
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
@@ -68,6 +70,8 @@
         <xsl:apply-templates select="Part_of/part_of_reference.lref"/>
         <!--DC Terms spatial -->
         <xsl:apply-templates select="Production/production.place.lref"/>
+        <!-- Mrel credit line -->
+        <xsl:apply-templates select="credit_line"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
@@ -380,6 +384,13 @@
             </skos:prefLabel>
         </edm:Place>
     </xsl:if>
+</xsl:template>
+
+<!-- Mrel credit line -->
+<xsl:template match="credit_line">
+    <mrel:spn>
+        <xsl:value-of select="."/>
+    </mrel:spn>
 </xsl:template>
 
 <!-- SKOS preferred label -->
