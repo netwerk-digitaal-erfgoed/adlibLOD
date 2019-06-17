@@ -30,6 +30,8 @@
             <xsl:apply-templates select="Production/creator.lref"/>
             <!-- DC subject -->
             <xsl:apply-templates select="Associated_subject/association.subject.lref"/>
+            <!-- DC description -->
+            <xsl:apply-templates select="Description"/>
         </edm:ProvidedCHO>
         <!-- EDM agent -->
         <!-- only add maker when the same maker did not precede -->
@@ -38,6 +40,7 @@
                 <xsl:apply-templates select="."/>
             </xsl:if>
         </xsl:for-each>
+        <!-- TODO: map individual types of subjects -->
     </rdf:RDF>
 </xsl:template>
 
@@ -119,6 +122,15 @@
                 </xsl:otherwise>
             </xsl:choose>
         </dc:subject>
+    </xsl:if>
+</xsl:template>
+
+<!-- DC description -->
+<xsl:template match="Description">
+    <xsl:if test="string(.)">
+        <dc:description>
+            <xsl:value-of select="description"/>
+        </dc:description>
     </xsl:if>
 </xsl:template>
 
