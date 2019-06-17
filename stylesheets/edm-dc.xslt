@@ -13,43 +13,48 @@
 <xsl:param name="baseUri">http://example.com/</xsl:param>
 
 <!-- RDF wrap -->
-<xsl:template match="record">
+<xsl:template match="recordList">
     <rdf:RDF>
-        <edm:ProvidedCHO>
-            <xsl:attribute name="rdf:about">
-                <!-- Create identifier for object -->
-                <xsl:value-of select="$baseUri"/>
-                <xsl:text>object/</xsl:text>
-                <xsl:value-of select="@priref"/>
-            </xsl:attribute>
-            <!-- DC identifier -->
-            <xsl:apply-templates select="object_number"/>
-            <!-- DC title -->
-            <xsl:apply-templates select="Title"/>
-            <!-- DC creator -->
-            <xsl:apply-templates select="Production/creator.lref"/>
-            <!-- DC subject -->
-            <xsl:apply-templates select="Associated_subject/association.subject.lref"/>
-            <!-- DC description -->
-            <xsl:apply-templates select="Description"/>
-            <!-- DC type -->
-            <xsl:apply-templates select="Object_name/object_name.lref"/>
-            <!-- DC format -->
-            <xsl:apply-templates select="Material/material.lref"/>
-        </edm:ProvidedCHO>
-        <!-- EDM agent -->
-        <!-- only add maker when the same maker did not precede -->
-        <xsl:for-each select="Production">
-            <xsl:if test="not(creator.lref = preceding-sibling::Production/creator.lref)">
-                <xsl:apply-templates select="."/>
-            </xsl:if>
-        </xsl:for-each>
-        <!-- SKOS concept type -->
-        <xsl:apply-templates select="Object_name"/>
-        <!-- SKOS concept material -->
-        <xsl:apply-templates select="Material"/>
-        <!-- TODO: map individual types of subjects -->
+        <xsl:apply-templates select="record"/>
     </rdf:RDF>
+</xsl:template>
+
+<!-- Records -->
+<xsl:template match="record">
+    <edm:ProvidedCHO>
+        <xsl:attribute name="rdf:about">
+            <!-- Create identifier for object -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>object/</xsl:text>
+            <xsl:value-of select="@priref"/>
+        </xsl:attribute>
+        <!-- DC identifier -->
+        <xsl:apply-templates select="object_number"/>
+        <!-- DC title -->
+        <xsl:apply-templates select="Title"/>
+        <!-- DC creator -->
+        <xsl:apply-templates select="Production/creator.lref"/>
+        <!-- DC subject -->
+        <xsl:apply-templates select="Associated_subject/association.subject.lref"/>
+        <!-- DC description -->
+        <xsl:apply-templates select="Description"/>
+        <!-- DC type -->
+        <xsl:apply-templates select="Object_name/object_name.lref"/>
+        <!-- DC format -->
+        <xsl:apply-templates select="Material/material.lref"/>
+    </edm:ProvidedCHO>
+    <!-- EDM agent -->
+    <!-- only add maker when the same maker did not precede -->
+    <xsl:for-each select="Production">
+        <xsl:if test="not(creator.lref = preceding-sibling::Production/creator.lref)">
+            <xsl:apply-templates select="."/>
+        </xsl:if>
+    </xsl:for-each>
+    <!-- SKOS concept type -->
+    <xsl:apply-templates select="Object_name"/>
+    <!-- SKOS concept material -->
+    <xsl:apply-templates select="Material"/>
+    <!-- TODO: map individual types of subjects -->
 </xsl:template>
 
 <!-- do not map diagnostics -->
@@ -135,7 +140,7 @@
 
 <!-- DC description -->
 <xsl:template match="Description">
-    <xsl:if test="string(.)">
+    <xsl:if test="string(description)">
         <dc:description>
             <xsl:value-of select="description"/>
         </dc:description>
