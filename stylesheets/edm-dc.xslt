@@ -34,6 +34,8 @@
             <xsl:apply-templates select="Description"/>
             <!-- DC type -->
             <xsl:apply-templates select="Object_name/object_name.lref"/>
+            <!-- DC format -->
+            <xsl:apply-templates select="Material/material.lref"/>
         </edm:ProvidedCHO>
         <!-- EDM agent -->
         <!-- only add maker when the same maker did not precede -->
@@ -42,8 +44,10 @@
                 <xsl:apply-templates select="."/>
             </xsl:if>
         </xsl:for-each>
-        <!-- SKOS concept -->
+        <!-- SKOS concept type -->
         <xsl:apply-templates select="Object_name"/>
+        <!-- SKOS concept material -->
+        <xsl:apply-templates select="Material"/>
         <!-- TODO: map individual types of subjects -->
     </rdf:RDF>
 </xsl:template>
@@ -150,6 +154,18 @@
     </dc:type>
 </xsl:template>
 
+<!-- DC format -->
+<xsl:template match="Material/material.lref">
+    <dc:format>
+        <xsl:attribute name="rdf:resource">
+            <!-- Create identifier for concept -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>concept/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+    </dc:format>
+</xsl:template>
+
 <!-- EDM agent -->
 <xsl:template match="Production">
     <edm:Agent>
@@ -186,7 +202,7 @@
     </xsl:if>
 </xsl:template>
 
-<!-- SKOS concept -->
+<!-- SKOS concept type -->
 <xsl:template match="Object_name">
     <skos:Concept>
         <xsl:attribute name="rdf:about">
@@ -200,8 +216,22 @@
     </skos:Concept>
 </xsl:template>
 
+<!-- SKOS concept material -->
+<xsl:template match="Material">
+    <skos:Concept>
+        <xsl:attribute name="rdf:about">
+            <!-- Create identifier for concept -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>concept/</xsl:text>
+            <xsl:value-of select="material.lref"/>
+        </xsl:attribute>
+        <!-- SKOS preferred label -->
+        <xsl:apply-templates select="material"/>
+    </skos:Concept>
+</xsl:template>
+
 <!-- SKOS preferred label -->
-<xsl:template match="creator | object_name">
+<xsl:template match="creator | object_name | material">
     <xsl:if test="string(.)">
         <skos:prefLabel>
             <xsl:value-of select="."/>
