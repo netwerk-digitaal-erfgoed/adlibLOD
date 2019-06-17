@@ -16,6 +16,11 @@ Usage example:
 saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.rdf.xml
 ```
 
+Conversion of the test set to [EDM](http://www.europeana.eu/schemas/edm/):
+```
+saxon -s:testdata/testset.xml -xsl:stylesheets/edm-dc.xslt -o:out/test_edm-dc.rdf
+```
+
 ### Xmllint
 Install xmllint
 [See this website](todo)
