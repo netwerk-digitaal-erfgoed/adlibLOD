@@ -11,6 +11,8 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
+<xsl:param name="provider">museum/</xsl:param>
+<xsl:param name="language">en</xsl:param>
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
@@ -19,7 +21,7 @@
     </rdf:RDF>
 </xsl:template>
 
-<!-- Records -->
+<!-- RDF -->
 <xsl:template match="record">
     <edm:ProvidedCHO>
         <xsl:attribute name="rdf:about">
@@ -42,6 +44,13 @@
         <xsl:apply-templates select="Object_name/object_name.lref"/>
         <!-- DC format -->
         <xsl:apply-templates select="Material/material.lref"/>
+        <!-- Provider metadata -->
+        <dc:language>
+            <xsl:value-of select="$language"/>
+        </dc:language>
+        <dc:publisher>
+            <xsl:value-of select="$provider"/>
+        </dc:publisher>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
