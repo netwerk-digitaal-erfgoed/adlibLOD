@@ -14,6 +14,7 @@
 <xsl:param name="baseUri">http://example.com/</xsl:param>
 <xsl:param name="provider">museum/</xsl:param>
 <xsl:param name="language">en</xsl:param>
+<xsl:param name="type">IMAGE</xsl:param>
 
 <!-- DISCUSS: hard to determine which language is used -->
 <!-- DISCUSS: add fashion profile (EDMFP technique)? -->
@@ -72,7 +73,12 @@
         <xsl:apply-templates select="Production/production.place.lref"/>
         <!-- Mrel credit line -->
         <xsl:apply-templates select="credit_line"/>
+        <edm:type>
+            <xsl:value-of select="$type"/>
+        </edm:type>
     </edm:ProvidedCHO>
+    <!-- ORE aggregation and EDM web resource-->
+    <xsl:apply-templates select="priref"/>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
     <xsl:for-each select="Production">
@@ -391,6 +397,27 @@
     <mrel:spn>
         <xsl:value-of select="."/>
     </mrel:spn>
+</xsl:template>
+
+<!-- ORE aggregation and EDM web resource-->
+<xsl:template match="priref">
+    <ore:Aggregation>
+        <xsl:attribute name="rdf:about">
+            <!-- Create identifier for aggregation -->
+            <!-- Create identifier for object -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>aggregation/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+        <edm:aggregatedCHO>
+            <xsl:attribute name="rdf:resource">
+                <!-- Create identifier for object -->
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>object/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </edm:aggregatedCHO>
+    </ore:Aggregation>
 </xsl:template>
 
 <!-- SKOS preferred label -->
