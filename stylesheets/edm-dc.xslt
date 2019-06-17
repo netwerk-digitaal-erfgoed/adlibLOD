@@ -32,6 +32,8 @@
             <xsl:apply-templates select="Associated_subject/association.subject.lref"/>
             <!-- DC description -->
             <xsl:apply-templates select="Description"/>
+            <!-- DC type -->
+            <xsl:apply-templates select="Object_name/object_name.lref"/>
         </edm:ProvidedCHO>
         <!-- EDM agent -->
         <!-- only add maker when the same maker did not precede -->
@@ -40,6 +42,8 @@
                 <xsl:apply-templates select="."/>
             </xsl:if>
         </xsl:for-each>
+        <!-- SKOS concept -->
+        <xsl:apply-templates select="Object_name"/>
         <!-- TODO: map individual types of subjects -->
     </rdf:RDF>
 </xsl:template>
@@ -134,6 +138,18 @@
     </xsl:if>
 </xsl:template>
 
+<!-- DC type -->
+<xsl:template match="Object_name/object_name.lref">
+    <dc:type>
+        <xsl:attribute name="rdf:resource">
+            <!-- Create identifier for concept -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>concept/</xsl:text>
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+    </dc:type>
+</xsl:template>
+
 <!-- EDM agent -->
 <xsl:template match="Production">
     <edm:Agent>
@@ -170,8 +186,22 @@
     </xsl:if>
 </xsl:template>
 
+<!-- SKOS concept -->
+<xsl:template match="Object_name">
+    <skos:Concept>
+        <xsl:attribute name="rdf:about">
+            <!-- Create identifier for concept -->
+            <xsl:value-of select="$baseUri"/>
+            <xsl:text>concept/</xsl:text>
+            <xsl:value-of select="object_name.lref"/>
+        </xsl:attribute>
+        <!-- SKOS preferred label -->
+        <xsl:apply-templates select="object_name"/>
+    </skos:Concept>
+</xsl:template>
+
 <!-- SKOS preferred label -->
-<xsl:template match="creator">
+<xsl:template match="creator | object_name">
     <xsl:if test="string(.)">
         <skos:prefLabel>
             <xsl:value-of select="."/>
