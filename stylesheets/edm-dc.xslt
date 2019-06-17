@@ -21,6 +21,8 @@
             </xsl:attribute>
             <!-- DC identifier -->
             <xsl:apply-templates select="object_number"/>
+            <!-- DC title -->
+            <xsl:apply-templates select="Title"/>
         </edm:ProvidedCHO>
     </rdf:RDF>
 </xsl:template>
@@ -33,6 +35,15 @@
     <dc:identifier>
         <xsl:value-of select="."/>
     </dc:identifier>
+</xsl:template>
+
+<!-- DC title -->
+<xsl:template match="Title">
+    <xsl:if test="not(title.type = 'former title')">
+        <dc:title>
+            <xsl:value-of select="title"/>
+        </dc:title>
+    </xsl:if>
 </xsl:template>
 
 </xsl:stylesheet>
