@@ -21,6 +21,7 @@
 <!-- DISCUSS: add fashion profile (EDMFP technique)? -->
 <!-- DISCUSS: rights aggregation and image -->
 <!-- DISCUSS: general lack of data about webresource -->
+<!-- DISCUSS: prefent duplicates in mapping (not map thesaurus terms at all? a.k.a. f*ck non linked data aggregators?) -->
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
@@ -100,7 +101,7 @@
     <xsl:apply-templates select="Object_name"/>
     <!-- SKOS concept material -->
     <xsl:apply-templates select="Material"/>
-    <!-- TODO: map individual types of subjects -->
+    <!-- TODO: map individual types of subjects, pending discussion about including them. -->
 </xsl:template>
 
 <!-- do not map diagnostics -->
