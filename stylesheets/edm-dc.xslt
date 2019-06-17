@@ -12,7 +12,8 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
-<xsl:param name="provider">museum/</xsl:param>
+<xsl:param name="imageUrl">http://example.image.com/</xsl:param>
+<xsl:param name="provider">museum</xsl:param>
 <xsl:param name="language">en</xsl:param>
 <xsl:param name="type">IMAGE</xsl:param>
 
@@ -399,12 +400,11 @@
     </mrel:spn>
 </xsl:template>
 
-<!-- ORE aggregation and EDM web resource-->
+<!-- ORE aggregation and EDM web resources -->
 <xsl:template match="priref">
     <ore:Aggregation>
         <xsl:attribute name="rdf:about">
             <!-- Create identifier for aggregation -->
-            <!-- Create identifier for object -->
             <xsl:value-of select="$baseUri"/>
             <xsl:text>aggregation/</xsl:text>
             <xsl:value-of select="."/>
@@ -417,6 +417,52 @@
                 <xsl:value-of select="."/>
             </xsl:attribute>
         </edm:aggregatedCHO>
+        <edm:dataProvider>
+            <xsl:value-of select="$provider"/>
+        </edm:dataProvider>
+        <edm:isShownAt>
+            <xsl:attribute name="rdf:resource">
+                <!-- Create identifier for object -->
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>object/page/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </edm:isShownAt>
+        <edm:isShownBy>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of select="$imageUrl"/>
+                <xsl:text>object/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </edm:isShownBy>
+        <edm:object>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of select="$imageUrl"/>
+                <xsl:text>object/</xsl:text>
+                <xsl:value-of select="."/>
+            </xsl:attribute>
+        </edm:object>
+        <edm:provider>
+            <xsl:value-of select="$provider"/>
+        </edm:provider>
+        <!-- Rights of metadata, check for public domain -->
+        <!-- DISCUSS: rights -->
+        <xsl:choose>
+            <xsl:when test="../Rights/rights.consent_status/value[@lang='neutral'] = '2'">
+                <edm:rights>
+                    <xsl:attribute name="rdf:resource">
+                        <xsl:text>http://creativecommons.org/publicdomain/mark/1.0/</xsl:text>
+                    </xsl:attribute>
+                </edm:rights>
+            </xsl:when>
+            <xsl:otherwise>
+                <edm:rights>
+                    <xsl:attribute name="rdf:resource">
+                        <xsl:text>http://rightsstatements.org/vocab/InC/1.0/</xsl:text>
+                    </xsl:attribute>
+                </edm:rights>
+            </xsl:otherwise>
+        </xsl:choose>
     </ore:Aggregation>
 </xsl:template>
 
