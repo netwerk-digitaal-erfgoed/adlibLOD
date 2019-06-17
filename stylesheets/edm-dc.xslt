@@ -57,6 +57,8 @@
         <xsl:apply-templates select="Production_date/production.date.start"/>
         <!-- DC Terms temporal -->
         <xsl:apply-templates select="production.period"/>
+        <!-- DC Terms extent -->
+        <xsl:apply-templates select="Dimension"/>
     </edm:ProvidedCHO>
     <!-- EDM agent -->
     <!-- only add maker when the same maker did not precede -->
@@ -125,6 +127,7 @@
                     </xsl:attribute>
                 </xsl:when>
                 <xsl:when test="../association.subject.type/value[@lang='neutral'] = 'SUBJECT'">
+                    <!-- DISCUSS: what is this for type, a concept? -->
                     <xsl:attribute name="rdf:resource">
                         <!-- Create identifier for concept -->
                         <xsl:value-of select="$baseUri"/>
@@ -288,6 +291,21 @@
     <dct:temporal>
         <xsl:value-of select="."/>
     </dct:temporal>
+</xsl:template>
+
+<!-- DC Terms extent -->
+<xsl:template match="Dimension">
+    <dct:extent>
+        <xsl:if test="string(dimension.part)">
+            <xsl:value-of select="dimension.part"/>
+            <xsl:text>&#160;</xsl:text>
+        </xsl:if>
+        <xsl:value-of select="dimension.type"/>
+        <xsl:text>&#160;</xsl:text>
+        <xsl:value-of select="dimension.value"/>
+        <xsl:text>&#160;</xsl:text>
+        <xsl:value-of select="dimension.unit"/>
+    </dct:extent>
 </xsl:template>
 
 <!-- SKOS preferred label -->
