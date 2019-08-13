@@ -1,0 +1,82 @@
+<adlibXML>
+  <recordList>
+    <record priref="273" created="2018-01-04T09:53:13" modification="2018-01-23T03:02:15" selected="false">
+      <Description>
+        <description>De heftige expressionistische toets uit de begintijd is op het eerste gezicht geheel verdwenen. Heel subtiel is dat alleen terug te vinden in de achtergrond waarop vrij strakke duidelijk omlijnde figuren zijn aangebracht.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>91.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>81</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>doek</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>90</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>80</dimension.value>
+      </Dimension>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1989.0140</object_number>
+      <priref>273</priref>
+      <Production>
+        <creator>Dahn, Walter</creator>
+        <creator.role>schilder</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1988</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1989.0140.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Afrikanischer Flag 2</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6259</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2492</response_time>
+  </diagnostic>
+</adlibXML>

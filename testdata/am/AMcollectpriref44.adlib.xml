@@ -1,0 +1,145 @@
+<adlibXML>
+  <recordList>
+    <record priref="44" created="2014-04-05T15:21:44" modification="2017-01-10T20:24:32" selected="False">
+      <acquisition.date>1957-05</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <association_subject>
+        <association.subject>
+          <bronnen>
+            <link_url/>
+          </bronnen>
+          <term>krijgsbedrijf</term>
+        </association.subject>
+      </association_subject>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Admiraliteitswerf</term>
+          <broader_term>
+            <term>Admiraliteit van Amsterdam</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Zeemagazijn</term>
+          <broader_term>
+            <bronnen>
+              <link_url>https://adamlink.nl/geo/street/kattenburgerplein/2319</link_url>
+            </bronnen>
+            <bronnen>
+              <link_url>http://www.wikidata.org/entity/Q19292742</link_url>
+            </bronnen>
+            <bronnen>
+              <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003977</link_url>
+            </bronnen>
+            <term>Kattenburgerplein</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>46.7</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>73</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <documentation>
+        <documentation.author/>
+        <documentation.page_reference>p. 5</documentation.page_reference>
+        <documentation.sortyear>1959</documentation.sortyear>
+        <documentation.title>Verslagen der bedrijven, diensten en commissies van Amsterdam 1958, no. 35 Gemeentemusea</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <maker>
+        <creator>Teyler, Johan</creator>
+        <creator.date_of_birth>1648</creator.date_of_birth>
+        <creator.date_of_death>1712</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role>etser</creator.role>
+        <creator.uri>http://hdl.handle.net/11259/people.32435</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <material>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300015045</link_url>
+        </bronnen>
+        <term>waterverf</term>
+        <broader_term>verf</broader_term>
+      </material>
+      <material>
+        <term>verf</term>
+        <broader_term>deklaag (materiaal)</broader_term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041365</link_url>
+        </bronnen>
+        <term>ets</term>
+        <broader_term>prent</broader_term>
+      </object_name>
+      <object_number>A 6679</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.44</persistent_ID>
+      <priref>
+        <highlight>44</highlight>
+      </priref>
+      <production.date.end>1712</production.date.end>
+      <production.date.start>1668</production.date.start>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_6679.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_6679.JPG</reproduction.reference>
+        <reproduction.reference.lref>44</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>gegraveerd</term>
+      </technique>
+      <title>Admiraliteitswerf te Amsterdam</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.5005</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '44'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">124.9995</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

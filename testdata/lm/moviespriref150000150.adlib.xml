@@ -1,0 +1,49 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000150" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:10" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">3</value>
+        <value lang="0">blakc and white and color</value>
+        <value lang="1">zwartwit en kleur</value>
+      </film.color>
+      <film.length>100</film.length>
+      <Description>
+        <description>Diverse opnames gemaakt in Velden tussen 1950 en 1965: 1. Familie-opnames van het gezin Rieter, waaronder (gespeelde) sc&#232;nes rondom een sleuteloverdracht aan een kostganger, opnames van kinderspelen en van wandeltochten; 2. Processie met als engeltjes verklede kinderen, en Gekke Maandag-optochten.</description>
+      </Description>
+      <Production>
+        <creator>Rieter, Th.</creator>
+        <creator.role>camera</creator.role>
+        <production.place/>
+      </Production>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Velden: 1. Familie Rieter; 2. Dorpsfeesten</title>
+      </Title>
+      <object_number>0051</object_number>
+      <priref>150000150</priref>
+      <production.date.notes>1950-1965 (ca.)</production.date.notes>
+      <Tijdsduur>26 "00''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">62</response_time>
+  </diagnostic>
+</adlibXML>

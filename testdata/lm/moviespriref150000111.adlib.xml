@@ -1,0 +1,49 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000111" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:04" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">3</value>
+        <value lang="0">blakc and white and color</value>
+        <value lang="1">zwartwit en kleur</value>
+      </film.color>
+      <film.length>120</film.length>
+      <Description>
+        <description>Diverse opnames gemaakt in Blerick en omgeving, eind jaren zestig, begin jaren zeventig. De film bevat de volgende onderwerpen: 1. Koetstocht van de zgn. Olympia-veteranen, de vriendenclub van Frits Peeters, vanaf het veerpont Baarlo-Steyl tot aan hotel De Molen in Baarlo; 2. Kinderen spelen in de tuin achter het huis van Frits Peeters aan de Pepijnstraat in Blerick; 3. Koetstocht van de Olympia-veteranen. Met drie door paarden getrokken open koetsen rijdt het gezelschap vanaf de Antoniusstraat in Blerick via de verkeersbrug over de Maas naar Venlo. Straatopnames van de Parade vanuit een van de rijdende koetsen. Halt bij de spoorwegovergang Vierpaardjes in Venlo. Opnames in een caf&#233; in Tegelen, waar de mannen wat drinken. Vervolgens dorpsbeelden van Tegelen en Blerick; 4. Afbraak van de oude dorpskern van Blerick, die grotendeels plaats moet maken voor nieuwbouw van winkels en woningen. Er is gedurende meerdere dagen gefilmd</description>
+      </Description>
+      <Production>
+        <creator>Peeters, Frits</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Blerick</title>
+      </Title>
+      <object_number>0032</object_number>
+      <priref>150000111</priref>
+      <production.date.notes>1970 (ca.)</production.date.notes>
+      <Tijdsduur>32'00''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">29</response_time>
+  </diagnostic>
+</adlibXML>

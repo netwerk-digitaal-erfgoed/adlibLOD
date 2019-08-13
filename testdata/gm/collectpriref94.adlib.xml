@@ -1,0 +1,57 @@
+<adlibXML>
+  <recordList>
+    <record priref="94" created="2018-01-04T09:53:13" modification="2018-03-08T10:29:48" selected="false">
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Art d'aujourd'hui au Groninger Museum = kunst nu</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>krijt (materiaal)</material>
+      </Material>
+      <Material>
+        <material>papier</material>
+      </Material>
+      <Object_name>
+        <object_name>tekeningen</object_name>
+      </Object_name>
+      <object_number>1983.0070</object_number>
+      <priref>94</priref>
+      <Production>
+        <creator>Kunc, Milan</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1982</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1983.0070.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>tekenen</technique>
+      </Technique>
+      <Title>
+        <title>Der Indianer ist sogar schneller als sein Pferd</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6166</response_time>
+  </diagnostic>
+</adlibXML>

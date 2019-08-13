@@ -1,0 +1,54 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000140" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:09" selected="false">
+      <content.genre>journaal</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">1</value>
+        <value lang="0">black and white</value>
+        <value lang="1">zwartwit</value>
+      </film.color>
+      <film.length>55</film.length>
+      <Description>
+        <description>Carnavalsoptocht in Geleen, 1961</description>
+      </Description>
+      <Production>
+        <creator>Polygoon</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1961</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1961</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Carnaval in Geleen, 1961</title>
+      </Title>
+      <object_number>0046</object_number>
+      <priref>150000140</priref>
+      <Tijdsduur>2 "00''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">38</response_time>
+  </diagnostic>
+</adlibXML>

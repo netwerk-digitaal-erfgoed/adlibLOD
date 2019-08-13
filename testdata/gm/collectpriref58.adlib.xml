@@ -1,0 +1,85 @@
+<adlibXML>
+  <recordList>
+    <record priref="58" created="2018-01-04T09:53:13" modification="2019-02-05T12:42:18" selected="false">
+      <Description>
+        <description>Hij is getrouwd met Johanna Busch de Marees (# 1931.0039) op 13 juli 1755 te Groningen, Nieuwe Kerk.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>90</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>62</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>93</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>77.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>8</dimension.value>
+      </Dimension>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>portretten</object_name>
+      </Object_name>
+      <object_number>1931.0040</object_number>
+      <priref>58</priref>
+      <Production>
+        <creator>onbekend</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>18e eeuw</production.period>
+      <Production_date>
+        <production.date.end>1766</production.date.end>
+        <production.date.start>1755</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1931_1940\1931.0040.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Albert Hendrik van Swinderen (1732-1802)</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6246</response_time>
+  </diagnostic>
+</adlibXML>

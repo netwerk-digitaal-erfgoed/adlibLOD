@@ -1,0 +1,123 @@
+<adlibXML>
+  <recordList>
+    <record priref="247" created="2018-01-04T09:53:13" modification="2018-11-21T03:47:11" selected="false">
+      <Description>
+        <description>Robert Combas&#8217; Zelfportret  toont een woeste punkjongen op een rafelig gescheurd stuk afvalkarton, omgeven door symbolen van prikkeldraad. Combas speelde samen met Richard Di Rosa in een punkband. Dit portret was ook een daad van verzet tegen zijn opleiding aan de kunstacademie, waarvan hij was weggestuurd.</description>
+      </Description>
+      <Description>
+        <description>Robert Combas behoort tot de Figuration Libre, de Franse exponent van het Neo-expressionisme dat rond 1980 overal in de westerse wereld ontstaat als reactie op de koele, rationele benadering van de Minimal Art en de Conceptuele Kunst uit de voorafgaande decennia.
+Het zelfportret van Combas, geschilderd op een oude kartonnen doos, is weinig gelijkend. Er is eerder sprake van een 'collectief portret' van een jongere generatie die, wars van de toenmalige koude oorlog politiek en bezeten van rockmuziek en strips, met een zekere wanhoop zoekt naar een eigen plek in de wereld.</description>
+      </Description>
+      <Description>
+        <description>Robert Combas belongs to the Figuration Libre, the French exponent of the Neo-expressionism which originates around 1980 everywhere in the western world as a reaction to the cool, rational approach of the Minimal Art and the Conceptual Art of the preceding decades.
+Combas's selfportrait, painted on an old cardboard box, is all but a good likeness.lt is rather a 'collective portrait' of a younger generation who, averse to the cold war politics of the time and mad about rock music and comics, tries to find, with a certain despair, a place of its own in the world.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>189</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>160</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>198.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>173.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>5.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kunst nu - Kunst unserer Zeit</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Robert Combas: r&#233;trospective</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>lakverf</material>
+      </Material>
+      <Material>
+        <material>verf op waterbasis</material>
+      </Material>
+      <Material>
+        <material>karton</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>zelfportretten</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>portretten</object_name>
+      </Object_name>
+      <object_number>1981.1559.A</object_number>
+      <priref>247</priref>
+      <Production>
+        <creator>Combas, Robert</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1981</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1981.1559.B.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Autoportret</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6242</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2432</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,76 @@
+<adlibXML>
+  <recordList>
+    <record priref="102" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:17" selected="false">
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>190</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>290</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>global city : berichten uit de post-industri&#235;le stad</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Object_name>
+        <object_name>modefoto's</object_name>
+      </Object_name>
+      <object_number>1997.0290</object_number>
+      <priref>102</priref>
+      <Production>
+        <creator>Lamsweerde, Inez van</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Matadin, Vinoodh</creator>
+        <creator.role>stylist</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Spijker, Karin</creator>
+        <creator.role>beeldmanipulator</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1996</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1997.0290.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+      <Technique>
+        <technique/>
+      </Technique>
+      <Title>
+        <title>Michelle in New York</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6224</response_time>
+  </diagnostic>
+</adlibXML>

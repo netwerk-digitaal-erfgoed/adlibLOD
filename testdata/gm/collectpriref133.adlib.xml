@@ -1,0 +1,80 @@
+<adlibXML>
+  <recordList>
+    <record priref="133" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:20" selected="false">
+      <Description>
+        <description>Horndeski becommentarieert d&#237;e situaties die hij als sociale misstanden ervaart, zoals de oprukkende nieuwbouwijken in zij stad Dallas. Hier bieden de vele wolkenkrabbers, wegen en auto's voldoende aanknopingspunten voor zijn werk. Hoewel na&#239;ef,is zijn wijze van schilderen heel indringend. De veelzeggende titel van dit schilderij maakt duidelijk dat hij behoefte heeft zijn gevoelens en gedachten via zijn werk te uiten.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>108.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>148.7</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Ornamentalism : the new decorativeness in architecture &amp; design</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Texas, hedendaagse kunst uit Texas</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1987.0500</object_number>
+      <priref>133</priref>
+      <Production>
+        <creator>Horndeski, Gregory</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1986-08-16</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1987.0500.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Walled in</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.624</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.624</response_time>
+  </diagnostic>
+</adlibXML>

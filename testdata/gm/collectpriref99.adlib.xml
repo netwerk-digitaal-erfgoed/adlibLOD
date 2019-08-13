@@ -1,0 +1,55 @@
+<adlibXML>
+  <recordList>
+    <record priref="99" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:16" selected="false">
+      <Dimension>
+        <dimension.part>dagmaat</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>37.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>91.5</dimension.value>
+      </Dimension>
+      <Material>
+        <material>fotopapier</material>
+      </Material>
+      <object_number>1996.0222</object_number>
+      <priref>99</priref>
+      <Production>
+        <creator>Davidson, Bruce</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1995</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1996.0222.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+      <Title>
+        <title>Central Park, Children at the lake</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6231</response_time>
+  </diagnostic>
+</adlibXML>

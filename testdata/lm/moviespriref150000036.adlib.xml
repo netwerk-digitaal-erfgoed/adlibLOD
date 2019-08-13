@@ -1,0 +1,245 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000036" created="2018-07-09T03:24:41" modification="2018-07-09T03:24:56" selected="false">
+      <content.genre>documentaire</content.genre>
+      <film.carrier>
+        <value lang="neutral">2</value>
+        <value lang="0">video</value>
+        <value lang="1">video</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">3</value>
+        <value lang="0">blakc and white and color</value>
+        <value lang="1">zwartwit en kleur</value>
+      </film.color>
+      <film.length> -</film.length>
+      <Associated_subject>
+        <association.subject>stadsbeelden</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>volkscultuur</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>schutterijen</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>carnaval</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>optochten</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>Tweede Wereldoorlog</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>bevrijding</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>koninklijke bezoeken</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>sport</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>Compilatie van filmfragmenten over Sittard uit de periode 1920 tot 1965. Het originele materiaal is afkomstig uit het Polygoonarchief en van particuliere filmmakers. De volgende onderwerpen komen aan bod: krombroodrapen, schuttersfeest, carnaval, processies, huwelijk tussen twee circusartiesten, Tweede Wereldoorlog en bevrijding, koninklijk bezoek, afbraak van het oude stadhuis, voetbalwedstrijd Sittardia tegen Barcelona, stadsfiguren.</description>
+      </Description>
+      <Production>
+        <creator>Branje, Bert</creator>
+        <creator.role>camera</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Haenen, Herman</creator>
+        <creator.role>regie</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Huub Mans, Philip Bloemendal</creator>
+        <creator.role>gesproken commentaar</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Video Limburg BV</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1992</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1992</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Sittard vroeger...1920-1965</title>
+      </Title>
+      <object_number>0016</object_number>
+      <priref>150000036</priref>
+      <Tijdsduur>70 "00''</Tijdsduur>
+      <video.sound>
+        <value lang="neutral">2</value>
+        <value lang="0">mono</value>
+        <value lang="1">mono</value>
+      </video.sound>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">67</response_time>
+  </diagnostic>
+</adlibXML>

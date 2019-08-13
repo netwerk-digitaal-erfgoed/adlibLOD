@@ -1,0 +1,98 @@
+<adlibXML>
+  <recordList>
+    <record priref="130" created="2018-07-09T11:00:47" modification="2019-05-02T08:59:43" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel. Ruitvormig door naar achteren geslagen zijkanten. Geknikt en gelobt. Franje aan onderzijde. In centrum heilige bisschop, Eligius,  (geappliqueerd en geborduurd)  met staf in linker en hamer in rechterhand. Omschrift heilige: R.K. WERKLIEDEN - VEREENIGING. St. ELIGIUS. GELEEN 1912. Vijf schildjes onderzijde. Eerste met hamer, haak en schroevendraaier?; tweede met hak en twee spades; derde: tang, twee mokers en een aambeeld; vierde met moker, beitel en zaag; vijfde: mijnlamp en twee mokers.
+Messing roe met twee goudkleuroge knoppen aan het uiteinde. Opschrift katoen met klittenband: vaandel niet ophangen aan de roe maar aan de steunplaat. Roe apart bewaren / niet aan roe ophangen
+Uniforme vlag waarvan er in de jaren dertig honderden zijn gemaakt.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>vaandel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>140.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>97.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>2.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>roe</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>30.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>katoen</material>
+        <material.part>vaandel</material.part>
+      </Material>
+      <Material>
+        <material>gouddraad</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>goudband</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>messing</material>
+        <material.part>roe</material.part>
+      </Material>
+      <Material>
+        <material>touw</material>
+        <material.part/>
+      </Material>
+      <Object_name>
+        <object_name>vaandel</object_name>
+      </Object_name>
+      <Production>
+        <creator>Kloosteratelier Franciscanessen van de Misericorde</creator>
+        <creator.role/>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1912</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1912</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>R.K. WERKLIEDEN VEREENIGING ST. ELIGIUS GELEEN 1912</title>
+      </Title>
+      <location.default.name>3066B</location.default.name>
+      <object_number>L17716</object_number>
+      <priref>130</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">61</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,164 @@
+<adlibXML>
+  <recordList>
+    <record priref="34" created="2014-04-05T11:21:44" modification="2017-01-10T20:24:28" selected="False">
+      <acquisition.date>1950-08</acquisition.date>
+      <acquisition.method>schenking</acquisition.method>
+      <content.motif.general>
+        <term>mansportret</term>
+        <broader_term>portret</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <bronnen>
+          <link_url/>
+        </bronnen>
+        <term>portret</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+        <broader_term>iconografische indeling</broader_term>
+      </content.motif.general>
+      <content_person>
+        <content.person.name.type>
+          <value lang="neutral">PERSON</value>
+          <value lang="0">personal name</value>
+          <value lang="1">persoonsnaam</value>
+        </content.person.name.type>
+        <content.person.name>Franke, Bernardus Cornelis</content.person.name>
+        <content.person.name.uri>http://hdl.handle.net/11259/people.57962</content.person.name.uri>
+      </content_person>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Sint Nicolaaskerk</term>
+          <broader_term>
+            <bronnen>
+              <link_url>https://adamlink.nl/geo/street/prins-hendrikkade/3680</link_url>
+            </bronnen>
+            <bronnen>
+              <link_url>http://www.wikidata.org/entity/Q2122164</link_url>
+            </bronnen>
+            <bronnen>
+              <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004577</link_url>
+            </bronnen>
+            <term>Prins Hendrikkade</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Oudekerkstoren</term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/damrak/882</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://www.wikidata.org/entity/Q901461</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003187</link_url>
+          </bronnen>
+          <term>Damrak</term>
+          <broader_term>
+            <term>Amsterdam - straten [TOPTERM]</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Alle rechten voorbehouden</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>31.7</dimension.value>
+        <dimension.type>hoogte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>23</dimension.value>
+        <dimension.type>breedte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>19.2</dimension.value>
+        <dimension.type>hoogte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>13.8</dimension.value>
+        <dimension.type>breedte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Strik, Lou</creator>
+        <creator.date_of_birth>1921-12-08</creator.date_of_birth>
+        <creator.date_of_death>2001</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role>graficus</creator.role>
+        <creator.uri>http://hdl.handle.net/11259/people.25461</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 3698</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.34</persistent_ID>
+      <priref>
+        <highlight>34</highlight>
+      </priref>
+      <production.date.end>1953</production.date.end>
+      <production.date.start>1953</production.date.start>
+      <production.place>
+        <bronnen>
+          <link_url>http://sws.geonames.org/2759794/</link_url>
+        </bronnen>
+        <term>Amsterdam</term>
+        <broader_term>Nederland</broader_term>
+      </production.place>
+      <related_object.reference>BU1007</related_object.reference>
+      <related_object.reference>A 56707.1/6</related_object.reference>
+      <related_object.title/>
+      <related_object.title>Portret van wethouder Franke (1889-1953)</related_object.title>
+      <technique>
+        <term>houtsnede</term>
+        <broader_term>druktechnieken</broader_term>
+        <broader_term>prent</broader_term>
+      </technique>
+      <title>Portret van wethouder B.C. Franke (1889-1953)</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2869</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '34'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">93.7055</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

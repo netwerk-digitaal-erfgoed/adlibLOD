@@ -1,0 +1,80 @@
+<adlibXML>
+  <recordList>
+    <record priref="216" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:24" selected="false">
+      <Description>
+        <description>In dit schilderij past Boogaard een voor hem kenmerkende werkwijze toe, die hij in de loop van de jaren '80 heeft ontwikkeld. Om verf en vorm op het doek te brengen, gebruikt hij combinaties van eenvoudige druktechnieken: de monotype en sjablonen. Hij knipt geometrische figuren uit die hij met verf insmeert en op doek afdrukt. De verkregen composities worden verfijnd door daar overheen met sjablonen versieringen aan te brengen. Op die manier kan hij de ingewikkelde vormverstregelingen beter beheersen en naar het gewenste eindresultaat sturen. Hij vermijd zo ook de het gevaar de complexe structuren 'dicht' te schilderen, hij houdt het graag licht en open. Voor elk werk maakt Boogaards tot in detail uitgewerkte tekeningen en de arrangementen worden van te voren nauwkeurig uitgetekend. Zijn opleiding tot werktuigbouwkundige aan de HTS kwam hem daarbij goed van pas.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>180</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>200</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Stop making sense : Nederlandse schilderkunst uit de jaren '80</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Art d'aujourd'hui au Groninger Museum = kunst nu</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1985.0515</object_number>
+      <priref>216</priref>
+      <Production>
+        <creator>Boogaard, Bert</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1985</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1985.0515.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>95 Howbury St.</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">16.1677</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.7923</response_time>
+  </diagnostic>
+</adlibXML>

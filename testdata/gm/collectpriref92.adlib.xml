@@ -1,0 +1,93 @@
+<adlibXML>
+  <recordList>
+    <record priref="92" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:42" selected="false">
+      <Description>
+        <description>Seringen, in de stralende kleurstelling van paars, wit en groen, tegen gitzwarte fond. Mag tot haar mooiste bloemstukken worden gerekend</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>42.9</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>39.3</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>45</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>41.4</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Charley Toorop, seizoenen</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>triplex</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>stillevens</object_name>
+      </Object_name>
+      <object_number>1956.0195</object_number>
+      <priref>92</priref>
+      <Production>
+        <creator>Toorop, Charley</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1955</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1951_1960\1956.0195.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Seringen</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6251</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2487</response_time>
+  </diagnostic>
+</adlibXML>

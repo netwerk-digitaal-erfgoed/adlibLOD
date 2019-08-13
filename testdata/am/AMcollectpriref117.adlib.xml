@@ -1,0 +1,102 @@
+<adlibXML>
+  <recordList>
+    <record priref="117" created="2014-04-05T10:21:44" modification="2017-01-10T20:25:02" selected="False">
+      <acquisition.date>1934</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <content.motif.general>
+        <bronnen>
+          <link_url/>
+        </bronnen>
+        <term>portret</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+        <broader_term>iconografische indeling</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>mansportret</term>
+        <broader_term>portret</broader_term>
+      </content.motif.general>
+      <content_person>
+        <content.person.name.type>
+          <value lang="neutral">PERSON</value>
+          <value lang="0">personal name</value>
+          <value lang="1">persoonsnaam</value>
+        </content.person.name.type>
+        <content.person.name>Boissieu, Jean Jacques de</content.person.name>
+        <content.person.name.uri>http://hdl.handle.net/11259/people.26623</content.person.name.uri>
+      </content_person>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>19</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>13</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <documentation>
+        <documentation.author/>
+        <documentation.page_reference>p. 18</documentation.page_reference>
+        <documentation.sortyear>1935</documentation.sortyear>
+        <documentation.title>Gemeentemusea : verslag over het jaar 1934 [jaarverslag]</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <maker>
+        <creator>Boissieu, Jean Jacques de</creator>
+        <creator.date_of_birth>1736-11-30</creator.date_of_birth>
+        <creator.date_of_death>1810-03-01</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.26623</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 10068</object_number>
+      <part_of_reference>KA 22434 &amp; A 10051 t/m A 10100</part_of_reference>
+      <persistent_ID>http://hdl.handle.net/11259/collection.117</persistent_ID>
+      <priref>
+        <highlight>117</highlight>
+      </priref>
+      <reproduction>
+        <reproduction.creator>Pictura Imaginis BV</reproduction.creator>
+        <reproduction.date>2008-12-05</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\pictura2009\S_A_10068_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_10068_000.jpg</reproduction.reference>
+        <reproduction.reference.lref>128503</reproduction.reference.lref>
+        <reproduction.type>high-end scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Portret van Dr. de Boissieu no.68</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">46.5807</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '117'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">93.7581</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

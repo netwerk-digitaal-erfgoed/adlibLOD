@@ -1,0 +1,230 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000001" created="2018-07-09T03:24:41" modification="2018-07-09T03:24:45" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">1</value>
+        <value lang="0">black and white</value>
+        <value lang="1">zwartwit</value>
+      </film.color>
+      <film.length>268</film.length>
+      <Associated_subject>
+        <association.subject>koninklijke bezoeken</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>provinciaal bestuur</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>gezondheidszorg</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>woningbouw</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>wederopbouw</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>dans</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>optochten</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>schutterijen</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>burgemeesters</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+          <value lang="9">&#228;mne</value>
+          <value lang="10">&#1504;&#1493;&#1513;&#1488;</value>
+          <value lang="11">emne</value>
+          <value lang="14">&#20027;&#38988;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>Tweedaags bezoek van koningin Juliana en prins Bernhard aan Limburg, 24 en 25 april 1950. Het eerste deel van de reportage toont het bezoek aan Maastricht. Na de ontvangst aan de stadsgrens wordt een rijtoer gemaakt naar het provinciehuis, waar de offici&#235;le ontvangst plaatsvindt. Hierna gaat men naar het stadhuis en is er een galasoiree. 's Avonds kijkt men naar een fakkeloptocht. In het tweede deel van de film gaat het bezoek verder de provincie in. In Zuid-Limburg worden Valkenburg, Heerlen, Hoensbroek, Geleen en Sittard aangedaan. Overal wordt het gezelschap op het stadhuis ontvangen. In de grotten van Valkenburg vindt een balletvoorstelling plaats. In Sittard bekijkt het gezelschap een schuttersparade. Het derde deel van de reportage toont de reis verder in noordelijke richting. Achtereenvolgens worden bezocht: Roermond, Horn (bezoek sanatorium), Weert, Blerick (onthulling gedenkplaat honderdduizendste woning na de oorlog), Venlo en Venray.</description>
+      </Description>
+      <Production>
+        <creator>Philip Bloemendal</creator>
+        <creator.role>gesproken commentaar</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Polygoon-Profilti</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1950</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1950</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Het koninklijk bezoek aan Limburg</title>
+      </Title>
+      <object_number>0001</object_number>
+      <priref>150000001</priref>
+      <Tijdsduur>24 '30''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">54</response_time>
+  </diagnostic>
+</adlibXML>

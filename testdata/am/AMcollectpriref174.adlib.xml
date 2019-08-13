@@ -1,0 +1,119 @@
+<adlibXML>
+  <recordList>
+    <record priref="174" created="2014-04-05T10:21:44" modification="2017-04-23T11:58:10" selected="False">
+      <acquisition.date>1860-12-24</acquisition.date>
+      <acquisition.method>legaat</acquisition.method>
+      <collection>Fodor, collectie Carel Joseph</collection>
+      <content.motif.general>
+        <term>landschap</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+      </content.motif.general>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum, legaat C.J. Fodor</credit_line>
+      <dimension>
+        <dimension.value>21.0</dimension.value>
+        <dimension.type>hoogte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>28.5</dimension.value>
+        <dimension.type>breedte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>20.1</dimension.value>
+        <dimension.type>hoogte b</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>27.7</dimension.value>
+        <dimension.type>breedte b</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>19.7</dimension.value>
+        <dimension.type>hoogte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>27.1</dimension.value>
+        <dimension.type>breedte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Both, Jan</creator>
+        <creator.date_of_birth>1618</creator.date_of_birth>
+        <creator.date_of_death>1652-08</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role>etser</creator.role>
+        <creator.uri>http://hdl.handle.net/11259/people.26745</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041365</link_url>
+        </bronnen>
+        <term>ets</term>
+        <broader_term>prent</broader_term>
+      </object_name>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 11036</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.174</persistent_ID>
+      <priref>
+        <highlight>174</highlight>
+      </priref>
+      <production.date.end>1652</production.date.end>
+      <production.date.start>1644</production.date.start>
+      <reproduction>
+        <reproduction.creator>Gerritsen, Ren&#233;</reproduction.creator>
+        <reproduction.date>2013-11-20</reproduction.date>
+        <reproduction.format>272 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_11036_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_11036_000.tif</reproduction.reference>
+        <reproduction.reference.lref>163609</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_11036.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_11036.JPG</reproduction.reference>
+        <reproduction.reference.lref>174</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Mannen en een muilezel bij de Via Appia</title>
+      <title>Landschap, waarin huis met rokende schoorsteen</title>
+      <title.type>nieuwe titel</title.type>
+      <title.type>oude titel</title.type>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">46.8855</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '174'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6457</response_time>
+    <xml_creation_time unit="mS" culture="en-US">78.0375</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

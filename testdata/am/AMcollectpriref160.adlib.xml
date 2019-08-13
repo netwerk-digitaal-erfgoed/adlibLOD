@@ -1,0 +1,131 @@
+<adlibXML>
+  <recordList>
+    <record priref="160" created="2014-04-05T10:21:44" modification="2017-01-10T20:25:26" selected="False">
+      <acquisition.date>1860-12-24</acquisition.date>
+      <acquisition.method>legaat</acquisition.method>
+      <association_subject>
+        <association.subject>
+          <term>tachtigjarige oorlog</term>
+        </association.subject>
+      </association_subject>
+      <collection>Fodor, collectie Carel Joseph</collection>
+      <content.motif.general>
+        <bronnen>
+          <link_url/>
+        </bronnen>
+        <term>portret</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+        <broader_term>iconografische indeling</broader_term>
+      </content.motif.general>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum, legaat C.J. Fodor</credit_line>
+      <dimension>
+        <dimension.value>22.1</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>30.8</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>15.0</dimension.value>
+        <dimension.type>hoogte b</dimension.type>
+      </dimension>
+      <dimension>
+        <dimension.value>19.3</dimension.value>
+        <dimension.type>breedte b</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>7.7</dimension.value>
+        <dimension.type>hoogte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>9.1</dimension.value>
+        <dimension.type>breedte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator.qualifier/>
+        <creator>Mare, Johannes de</creator>
+        <creator.date_of_birth>1806-10-26</creator.date_of_birth>
+        <creator.date_of_death>1889</creator.date_of_death>
+        <creator.uri>http://hdl.handle.net/11259/people.30124</creator.uri>
+        <creator.role>graveur</creator.role>
+      </maker>
+      <maker>
+        <creator.qualifier>naar</creator.qualifier>
+        <creator>Pieneman, Nicolaas</creator>
+        <creator.date_of_birth>1809-01-01</creator.date_of_birth>
+        <creator.date_of_death>1860-12-30</creator.date_of_death>
+        <creator.uri>http://hdl.handle.net/11259/people.65708</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041340</link_url>
+        </bronnen>
+        <term>gravure</term>
+        <broader_term>prent</broader_term>
+      </object_name>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 10995</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.160</persistent_ID>
+      <priref>
+        <highlight>160</highlight>
+      </priref>
+      <production.date.end>1860</production.date.end>
+      <production.date.start>1840</production.date.start>
+      <reproduction>
+        <reproduction.creator>Gerritsen, Ren&#233;</reproduction.creator>
+        <reproduction.date>2013-12</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_10995_001.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_10995_001.tif</reproduction.reference>
+        <reproduction.reference.lref>164988</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Gerritsen, Ren&#233;</reproduction.creator>
+        <reproduction.date>2013-12</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_10995_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_10995_000.tif</reproduction.reference>
+        <reproduction.reference.lref>164987</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>gegraveerd</term>
+      </technique>
+      <title>Charlotte de Bourbon, gemalin van Prins Willem I, hem verzorgende na zijne verwonding door Jean Jauregui te Antwerpen</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">64.724</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '160'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">93.0966</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

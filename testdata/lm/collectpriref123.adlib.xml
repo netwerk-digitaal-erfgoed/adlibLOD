@@ -1,0 +1,57 @@
+<adlibXML>
+  <recordList>
+    <record priref="123" created="2018-07-09T11:00:47" modification="2019-05-06T01:45:37" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vlag Nederlandse Katholieke Mijnwerkers Bond Hulsberg. Rechthoekig, in kleuren paars, wit, rood, geel en zwart. In centrum oranje kruis met gelijkvromige kruisarmen. Op kruis: brandende mijnlamp met moker en hamer. Onder kruis V-vormig banier opschrift: NED. KATH. MIJNW. BOND. Kruis tussen KATH. en MIJNW. Opschrift virticale gele strook: HULSBERG. Zeven lussen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>148.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>158.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>wol</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1960</production.date.end>
+        <production.date.end.prec>circa</production.date.end.prec>
+        <production.date.start>1945</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>HULSBERG NED. KATH+MIJNW. BOND</title>
+      </Title>
+      <location.default.name>3195C</location.default.name>
+      <object_number>L17727</object_number>
+      <priref>123</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">68</response_time>
+  </diagnostic>
+</adlibXML>

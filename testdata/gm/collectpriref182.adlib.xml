@@ -1,0 +1,64 @@
+<adlibXML>
+  <recordList>
+    <record priref="182" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:22" selected="false">
+      <Description>
+        <description>Dit  schilderij verbeeldt Kostabi&#8217;s bedrijf in de betekenisvolle vorm van een kassa. Androgyne plastic poppetjes, in een heldere wereld met primaire kleuren, werken haast mechanisch aan het vervaardigen en verkopen van schilderijen. Allereerst besloot een denktank van drie tekenaars over een ontwerp. De ontwerpen werden dan geprojecteerd, overgetekend en geschilderd in een lopende band productie. In het pand van drie verdiepingen was ook een pr-studio en verkoopruimte.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>213.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>213.5</dimension.value>
+      </Dimension>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1994.0045</object_number>
+      <priref>182</priref>
+      <Production>
+        <creator>Kostabi, Mark</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1992</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1994.0045.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>The world according to Mark</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.627</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.627</response_time>
+  </diagnostic>
+</adlibXML>

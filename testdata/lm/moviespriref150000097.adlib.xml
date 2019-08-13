@@ -1,0 +1,44 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000097" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:02" selected="false">
+      <content.genre>documentaire</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">2</value>
+        <value lang="0">color</value>
+        <value lang="1">kleur</value>
+      </film.color>
+      <Description>
+        <description>Fragmenten van 'Limburgse liedjes' met filmbeelden uit Limburg die betrekking hebben op het lied.</description>
+      </Description>
+      <Production>
+        <creator>Offermans, W.</creator>
+        <creator.role>camera</creator.role>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Limburg mie landj</title>
+      </Title>
+      <object_number>0026</object_number>
+      <priref>150000097</priref>
+      <Tijdsduur>5"00"</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">33</response_time>
+  </diagnostic>
+</adlibXML>

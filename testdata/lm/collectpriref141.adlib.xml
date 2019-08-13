@@ -1,0 +1,46 @@
+<adlibXML>
+  <recordList>
+    <record priref="141" created="2018-07-09T11:00:47" modification="2019-05-20T11:03:05" selected="false">
+      <Description>
+        <description>Vlag. Rechthoekig, Met aan een kant een witte huls met ophangkoord. Overwegend geel, met rode en zwarte letters: IB Industrie / bond nkv / afd. guttecoven.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>97.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>150.0</dimension.value>
+      </Dimension>
+      <Production_date>
+        <production.date.end>1970</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1960</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>INDUSTRIEBOND NKV AFD. GUTTECOVEN</title>
+      </Title>
+      <location.default.name>3195E</location.default.name>
+      <object_number>L17738</object_number>
+      <priref>141</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">37</response_time>
+  </diagnostic>
+</adlibXML>

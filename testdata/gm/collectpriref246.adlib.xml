@@ -1,0 +1,146 @@
+<adlibXML>
+  <recordList>
+    <record priref="246" created="2018-01-04T09:53:13" modification="2019-02-08T02:00:09" selected="false">
+      <Description>
+        <description>koffie/theeservies van porselein. Het melkkannetrje is een klein plalazzo uit Florence of Veneti&#235;. De suikerpot is een eenvoudig landhuisje. De koffiepot is een Toscaanse torre, zoals nog te zien in San Gimignano. Het meest opmerkelijk is de theepot met rond deksel en een groot gat bovenin.
+Deze vorm doet inmiddelijk denken aan het Pantheon, gebouwd in Rome in de 1e eeuw na Christus. De decoratie laat geen enkele twijfel meer bestaan: zij toont het tempelfront wat voor het romeinse gebouw staat.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>koffiepot</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>25</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>koffiepot</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>13</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>theepot</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>13</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>theepot</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>25</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>theepot</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>14</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>melkkan</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>8</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>melkkan</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>18.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>melkkan</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>11</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>suikerpot</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>11.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>suikerpot</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>11.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>suikerpot</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>9.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Postmodern design complete</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Rondom vormgeving</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>porselein</material>
+      </Material>
+      <Object_name>
+        <object_name>serviezen</object_name>
+      </Object_name>
+      <object_number>1989.0141</object_number>
+      <priref>246</priref>
+      <Production>
+        <creator>Venturi, Robert</creator>
+        <creator.role>vormgever</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Swid Powell</creator>
+        <creator.role>opdrachtgever</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1986</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1989.0141.1 L.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1989.0141.2 L.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1989.0141.3 L.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1989.0141.4 L.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1989.0141.jpg</reproduction.reference>
+      </Reproduction>
+      <Title>
+        <title>The Village</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6243</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2486</response_time>
+  </diagnostic>
+</adlibXML>

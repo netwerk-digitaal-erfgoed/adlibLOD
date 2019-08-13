@@ -1,0 +1,100 @@
+<adlibXML>
+  <recordList>
+    <record priref="144" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:20" selected="false">
+      <Description>
+        <description>Gemanipuleerde kleurenfoto van de prachtige 'tweeling' Joanna op een Italiaans terras. Hun klaterende lach verstijfd ineens tot een onpersoonlijke grimas</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>185</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>140</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>gewaagde combinatie: Mode van Vivienne Westwood en modefoto's van Inez van Lamsweerde/Vinoodh Matadin</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>unforgettable fire, 25 years of Torch Gallery</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>keuze : werk van kunstenaressen uit museumcollecties</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>fotopapier</material>
+      </Material>
+      <Object_name>
+        <object_name>modefoto's</object_name>
+      </Object_name>
+      <object_number>1996.0215</object_number>
+      <priref>144</priref>
+      <Production>
+        <creator>Lamsweerde, Inez van</creator>
+        <creator.role>fotograaf</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Matadin, Vinoodh</creator>
+        <creator.role>stylist</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Spijker, Karin</creator>
+        <creator.role>beeldmanipulator</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Leger, Herv&#233;</creator>
+        <creator.role>opdrachtgever, advertentiecampagne, zomer 1995</creator.role>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1995</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1991_2000\1996.0215.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>fotograferen</technique>
+      </Technique>
+      <Title>
+        <title>Joanna</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6253</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.25</response_time>
+  </diagnostic>
+</adlibXML>

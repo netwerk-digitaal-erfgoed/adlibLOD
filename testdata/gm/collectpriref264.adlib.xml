@@ -1,0 +1,119 @@
+<adlibXML>
+  <recordList>
+    <record priref="264" created="2018-01-04T09:53:13" modification="2018-11-21T03:47:04" selected="false">
+      <Description>
+        <description>De kunstenaar heeft zichzelf afgebeeld als karikatuur of stripfiguur,  bezig om een klein schilderij te maken. In grote letters staat de titel op het doek: schilder zonder idee. De kleuren zijn moddergrijs. Ze lopen door elkaar in een bruinige brij en er zijn geen heldere vlakken of afbakeningen. De sfeer van dit zelfportret sluit aan bij de bewuste lelijkheid, agressie en uitzichtloosheid van de punkbeweging uit deze tijd.  Dahn speelde in een punkband. Hij doet het hier voorkomen alsof hij geen concept heeft. In werkelijkheid is juist dat standpunt zijn idee. Hij wilde zich afzetten tegen de conceptuele kunst uit de jaren zeventig, waarin alles om idee&#235;n draaide en het persoonlijke, het &#8216;handschrift&#8217;, er niet toe deed.</description>
+      </Description>
+      <Description>
+        <description>In 1981 the Groninger Museum introduced Walter Dahn's work at the exhibition 'M&#252;lheimer Freiheit', a group exhibition of six young artists from Cologne. The members of the M&#252;lheimer Freiheit belonged to the so-called 'Neue Wilden', artists painting in a neo-expressionist style.
+The theme' Maler ohne Idee' depicted in this painting not only represents the spectre of each artist, but is also a sarcastic reaction of Dahn on the criticism on the New German Expressionism.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>50</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>50</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Stop making sense : Nederlandse schilderkunst uit de jaren '80</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kunst nu - Kunst unserer Zeit</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>M&#252;lheimer Freiheit</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Vom Erforschen der Bilder</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Walter Dahn : Gem&#228;lde 1981-1985</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>emulgerende verf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1981.1551</object_number>
+      <priref>264</priref>
+      <Production>
+        <creator>Dahn, Walter</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1981</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1981.1551.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Mahler ohne Idee</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">31.2493</xml_creation_time>
+    <response_time unit="mS" culture="en-US">46.8742</response_time>
+  </diagnostic>
+</adlibXML>

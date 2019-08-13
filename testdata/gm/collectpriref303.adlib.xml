@@ -1,0 +1,80 @@
+<adlibXML>
+  <recordList>
+    <record priref="303" created="2018-01-04T10:53:13" modification="2018-01-04T01:23:47" selected="false">
+      <Description>
+        <description>Wat zich  in de houtgrafiek als lijn laat lezen, is in feite de schaduw van de gleuf, die met een frees in het vlak is aangebracht. Zoals de gleuven zich door hun schaduwen als lijnen gedragen, gedraagt de buitenkant van de plaat zich evenzo als lijn, door zijn schaduw. Het zijn a-materi&#235;le lijnen.
+Lijn betekent voor Ad Dekkers het begrip 'absolute'-lijn. De maat en de richting ervan worden afgeleid van het basisvlak. Zijn lijn bestaat bij de gratie van het licht;  door het neveneffect schaduw.
+Belangrijker dan het principe is het visuele effect van het totaal, waar lijn en vlak samengaan.
+</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>180</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>180</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Konstruktive Kunst: Elemente und Prinzipien. Biennale 1969 N&#252;rnberg: Bild-Band</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>4. Documenta Kassel '68: Katalog II</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>polyester</material>
+      </Material>
+      <Object_name>
+        <object_name>reli&#235;fs (objecten)</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>wandsculpturen</object_name>
+      </Object_name>
+      <object_number>1969.0377</object_number>
+      <priref>303</priref>
+      <Production>
+        <creator>Dekkers, Ad</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1968</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1961_1970\1969.0377.jpg</reproduction.reference>
+      </Reproduction>
+      <Title>
+        <title>1 + 1/4 Vierkant</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6237</response_time>
+  </diagnostic>
+</adlibXML>

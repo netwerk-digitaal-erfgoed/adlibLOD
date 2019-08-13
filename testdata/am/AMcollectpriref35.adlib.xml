@@ -1,0 +1,116 @@
+<adlibXML>
+  <recordList>
+    <record priref="35" created="2014-04-05T10:21:44" modification="2017-01-10T20:24:28" selected="False">
+      <acquisition.date>1953-02</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <AHMteksten>
+        <AHM.texts.tekst>Cornelis Hop (1685&#8211;1762) was in 1713 voor de eerste keer schepen. In 1753 volgde zijn benoeming tot burgemeester, een waardigheid die hij daarna nog drie maal bekleedde. Daarnaast was hij een lange tijd diplomaat en bewindhebber bij de VOC. Die opeenstapeling van functies was statusverhogend en werd dan ook trots vermeld onder het portret.</AHM.texts.tekst>
+        <AHM.texts.type>
+          <value lang="neutral">zaaltekst NL</value>
+          <value lang="0">zaaltekst NL</value>
+          <value lang="1">zaaltekst NL</value>
+        </AHM.texts.type>
+      </AHMteksten>
+      <AHMteksten>
+        <AHM.texts.tekst>Cornelis Hop (1685&#8211;1762) first became an alderman in 1713. In 1753 he was appointed burgomaster, a position he held three times. He was also in the diplomatic service for many years and a director of the Dutch East India Company (VOC). These prestigious appointments considerably enhanced his status and they are proudly listed below the portrait.</AHM.texts.tekst>
+        <AHM.texts.type>
+          <value lang="neutral">zaaltekst ENG</value>
+          <value lang="0">zaaltekst ENG</value>
+          <value lang="1">zaaltekst ENG</value>
+        </AHM.texts.type>
+      </AHMteksten>
+      <content.motif.general>
+        <bronnen>
+          <link_url/>
+        </bronnen>
+        <term>portret</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+        <broader_term>iconografische indeling</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>mansportret</term>
+        <broader_term>portret</broader_term>
+      </content.motif.general>
+      <content_person>
+        <content.person.name.type>
+          <value lang="neutral">PERSON</value>
+          <value lang="0">personal name</value>
+          <value lang="1">persoonsnaam</value>
+        </content.person.name.type>
+        <content.person.name>Hop, Cornelis</content.person.name>
+        <content.person.name.uri>http://hdl.handle.net/11259/people.65419</content.person.name.uri>
+      </content_person>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>25</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>23</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Houbraken, Jacob</creator>
+        <creator.date_of_birth>1698-12</creator.date_of_birth>
+        <creator.date_of_death>1780-11-14</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.23283</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 3791</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.35</persistent_ID>
+      <priref>
+        <highlight>35</highlight>
+      </priref>
+      <production.date.end>1758</production.date.end>
+      <production.date.start>1758</production.date.start>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2013-04-22</reproduction.date>
+        <reproduction.format>241 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_3791_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_3791_000.tif</reproduction.reference>
+        <reproduction.reference.lref>35</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>kopergravure</term>
+        <broader_term>gravure</broader_term>
+      </technique>
+      <technique>
+        <term>gegraveerd</term>
+      </technique>
+      <title>Portret van mr. Cornelis Hop</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">47.5529</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '35'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.5922</response_time>
+    <xml_creation_time unit="mS" culture="en-US">62.4869</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

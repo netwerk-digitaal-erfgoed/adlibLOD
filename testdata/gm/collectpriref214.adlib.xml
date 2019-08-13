@@ -1,0 +1,108 @@
+<adlibXML>
+  <recordList>
+    <record priref="214" created="2018-01-04T09:53:13" modification="2018-09-04T03:35:06" selected="false">
+      <Description>
+        <description>Het werk bestaat uit zes verschillende lappen, die beschilderd zijn en daarna aan elkaar vastgezet. Ze hebben niet dezelfde lengte en breedte. Elk stuk bevat een ander patroon. Alleen het derde van links laat herkenbare, geabstraheerde voorwerpen zien, die refereren aan de titel.</description>
+      </Description>
+      <Description>
+        <description>Kim MacConnel behoort tot de zgn. Pattern and Decoration beweging, een groep Amerikaanse kunstenaars die in het begin van de jaren zeventig decoratie tot hoofdthema van hun werk maakten.
+MacConnel maakt gebruik van diverse media, varierend van schilderijen en papier tot bestaande stoffen en meubels. Allerlei decoratieve motieven van geometrische en architectonische tot bloemen en dieren, zijn in zijn werk terug te vinden. Zijn inspiratie vindt hij overal: van het Oosten tot het Westen, in de Islam, de Pop Art en de naieve schilderkunst. Zijn doeken droeg hij soms ook in performances.
+MacConnel tekent meestal direct naar modellen op het doek, in vergrote vorm. Daarbij is hij ge&#239;nspireerd door de stijl van Henri Matisse, die ook met sierpatronen en textiel gewerkt heeft. Matisse wist met eenvoudige lijnen toch een enorme, eigen ruimte te suggeren.</description>
+      </Description>
+      <Description>
+        <description>Kim MacConnel belongs to the so-called Pattern and Decoration movement, a group of American artists who in the early seventies made decoration the main theme of their work.
+MacConnel uses various media, varying from paintings and paper to existing fabrics and furniture. All kinds of decorative motifs, from geometric and architectural to flowers and animals, can be recognized in his work. He finds his inspiration all over the world: from East to West, in the Islam, Pop Art and naive painting.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>240</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>241</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Pattern &amp; decoration</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Minder kan het niet : exuberantie nu = less is a bore : exuberance now</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Kim MacConnel : decoc terrae Africano</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>katoen</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1987.0492</object_number>
+      <priref>214</priref>
+      <Production>
+        <creator>MacConnel, Kim</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1980</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1987.0492.jpg</reproduction.reference>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1987.0492installatie.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Jazz</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">31.2496</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2496</response_time>
+  </diagnostic>
+</adlibXML>

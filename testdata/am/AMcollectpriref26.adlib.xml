@@ -1,0 +1,208 @@
+<adlibXML>
+  <recordList>
+    <record priref="26" created="2014-04-05T10:21:44" modification="2017-01-10T20:24:25" selected="False">
+      <acquisition.date>0000</acquisition.date>
+      <acquisition.method>schenking</acquisition.method>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Montelbaanstoren</term>
+          <broader_term>
+            <bronnen>
+              <link_url/>
+            </bronnen>
+            <term>Amsterdam centrum</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Zuiderkerkstoren</term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Oudekerkstoren</term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>40</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>217</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>50</dimension.value>
+        <dimension.type>hoogte lijst</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>224.6</dimension.value>
+        <dimension.type>breedte lijst</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>4.2</dimension.value>
+        <dimension.type>dikte lijst</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <documentation>
+        <documentation.author/>
+        <documentation.page_reference>p. 13 nr. 6</documentation.page_reference>
+        <documentation.sortyear>1932</documentation.sortyear>
+        <documentation.title>Museum Fodor tweede tentoonstelling : kaarten, profielen en panorama's van Amsterdam</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <documentation>
+        <documentation.author>Ailly, A.E. d'</documentation.author>
+        <documentation.page_reference>p. 32-33 nr. 44</documentation.page_reference>
+        <documentation.sortyear>1953</documentation.sortyear>
+        <documentation.title>Repertorium van de profielen der stad Amsterdam en van de plattegronden der schutterswijken</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <documentation>
+        <documentation.author>Kingma, J.</documentation.author>
+        <documentation.page_reference>p. 24 nr. 33</documentation.page_reference>
+        <documentation.sortyear>1977</documentation.sortyear>
+        <documentation.title>Wie was Spinoza? Feit en fictie rond een zeventiende-eeuwse denker : herdenkingstentoonstelling</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <documentation>
+        <documentation.author>Braillon-Philippe, Juliette</documentation.author>
+        <documentation.page_reference>p. 112, afb. 3</documentation.page_reference>
+        <documentation.sortyear>2007</documentation.sortyear>
+        <documentation.title>Rembrandt et la nouvelle J&#233;rusalem : juifs et chr&#233;tiens &#224; Amsterdam au si&#232;cle d'or</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <documentation>
+        <documentation.author>Bakker, Boudewijn</documentation.author>
+        <documentation.page_reference>p. 48 afb. 5</documentation.page_reference>
+        <documentation.sortyear>2007</documentation.sortyear>
+        <documentation.title>aanzien van Amsterdam : panorama's, plattegronden en profielen ut de Gouden Eeuw</documentation.title>
+        <documentation.title.article>Het</documentation.title.article>
+      </documentation>
+      <maker>
+        <creator>onbekend</creator>
+        <creator.date_of_birth/>
+        <creator.date_of_death/>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.21732</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <material>
+        <term>glas</term>
+        <broader_term>drinkgerei</broader_term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <term>kopergravure</term>
+        <broader_term>gravure</broader_term>
+      </object_name>
+      <object_number>A 2009</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.26</persistent_ID>
+      <priref>
+        <highlight>26</highlight>
+      </priref>
+      <production.date.end>1645</production.date.end>
+      <production.date.start>1625</production.date.start>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2007-01-04</reproduction.date>
+        <reproduction.format>695 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_2009_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_2009_000.tif</reproduction.reference>
+        <reproduction.reference.lref>26</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2007-01-04</reproduction.date>
+        <reproduction.format>224 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_2009_001.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_2009_001.tif</reproduction.reference>
+        <reproduction.reference.lref>121719</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2007-01-04</reproduction.date>
+        <reproduction.format>224 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_2009_003.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_2009_003.tif</reproduction.reference>
+        <reproduction.reference.lref>121720</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2007-01-04</reproduction.date>
+        <reproduction.format>224 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_2009_004.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_2009_004.tif</reproduction.reference>
+        <reproduction.reference.lref>121721</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2007-01-04</reproduction.date>
+        <reproduction.format>224 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_2009_002.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_2009_002.tif</reproduction.reference>
+        <reproduction.reference.lref>121722</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>kopergravure</term>
+        <broader_term>gravure</broader_term>
+      </technique>
+      <title>Profiel van Amsterdam voor de demping van het Waalserland, ca. 1635</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">93.3816</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '26'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">157.8508</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

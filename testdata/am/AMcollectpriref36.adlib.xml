@@ -1,0 +1,88 @@
+<adlibXML>
+  <recordList>
+    <record priref="36" created="2014-04-05T10:21:44" modification="2017-01-10T20:24:29" selected="False">
+      <acquisition.date>1954-10</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/herengracht/1768</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://www.wikidata.org/entity/Q2623129</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003533</link_url>
+          </bronnen>
+          <term>Herengracht</term>
+          <broader_term>
+            <term>grachtengordel</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>19.1</dimension.value>
+        <dimension.type>hoogte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>13.97</dimension.value>
+        <dimension.type>breedte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>onbekend</creator>
+        <creator.date_of_birth/>
+        <creator.date_of_death/>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.21732</creator.uri>
+      </maker>
+      <material>
+        <term>leer (materiaal)</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 4357</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.36</persistent_ID>
+      <priref>
+        <highlight>36</highlight>
+      </priref>
+      <production.date.end>1830</production.date.end>
+      <production.date.start>1810</production.date.start>
+      <technique>
+        <term>gegraveerd</term>
+      </technique>
+      <title> Le canal du Heerengracht * bij de Spiegelstraat</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2618</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '36'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2618</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

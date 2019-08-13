@@ -1,0 +1,181 @@
+<adlibXML>
+  <recordList>
+    <record priref="7" created="2014-04-05T12:21:44" modification="2017-01-10T20:24:17" selected="False">
+      <acquisition.date>1929-12-13</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/building/haringpakkerstoren/564</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://verdwenengebouwen.nl/gebouw/199</link_url>
+          </bronnen>
+          <term>Haringpakkerstoren</term>
+          <broader_term>
+            <bronnen>
+              <link_url/>
+            </bronnen>
+            <term>Amsterdam centrum</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/singel/4088</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://www.wikidata.org/entity/Q893046</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004526</link_url>
+          </bronnen>
+          <term>Singel</term>
+          <broader_term>
+            <term>Amsterdam - straten [TOPTERM]</term>
+          </broader_term>
+          <broader_term>
+            <term>grachtengordel</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/prins-hendrikkade/3680</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://www.wikidata.org/entity/Q2122164</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000004577</link_url>
+          </bronnen>
+          <term>Prins Hendrikkade</term>
+          <broader_term>
+            <term>Amsterdam - straten [TOPTERM]</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.value>59.3/69.</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.value>3</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.value>95.2</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.value>57.2</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part>c</dimension.part>
+        <dimension.value>93.2</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part>c</dimension.part>
+        <dimension.value>54.2</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>91.6</dimension.value>
+      </dimension>
+      <maker>
+        <creator>Leth, Hendrik de</creator>
+        <creator.date_of_birth>1703</creator.date_of_birth>
+        <creator.date_of_death>1766-06-17</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.23443</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 66</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.7</persistent_ID>
+      <priref>
+        <highlight>7</highlight>
+      </priref>
+      <production.date.end>1766</production.date.end>
+      <production.date.start>1723</production.date.start>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_66.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_66.JPG</reproduction.reference>
+        <reproduction.reference.lref>7</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Gezicht op de Haringpakkerstoren</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">46.8047</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '7'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6076</response_time>
+    <xml_creation_time unit="mS" culture="en-US">62.515</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

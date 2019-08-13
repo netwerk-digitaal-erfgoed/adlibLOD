@@ -1,0 +1,71 @@
+<adlibXML>
+  <recordList>
+    <record priref="133" created="2018-07-09T11:00:47" modification="2019-05-02T09:00:28" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel. Aan de bovenzijde breder; V-vorm met goudkleurige franje aan de onderzijde. Vier ophanglussen. Sint Jozef met zaag en hamer. Onder Jozef: tandwiel met kruis en hamer. Opschrift bovenzijde: R.K.W.V. PUTH (Rooms Katholieke Werknemers Vereniging) Opschrift aan weerszijden hoofd Jozef: QUADRAGESIMO ANNO RERUM NOVARUM (in het 40e jaar van Rerum Novarum (de omwenteling), (Sociale encycliek paus Leo XIII 1891).
+Met stafbekroning.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>vaandel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>175.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>81.5</dimension.value>
+      </Dimension>
+      <Material>
+        <material>fluweel</material>
+        <material.part>vaandel</material.part>
+      </Material>
+      <Material>
+        <material>zijde</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>katoen</material>
+        <material.part/>
+      </Material>
+      <Object_name>
+        <object_name>vaandel</object_name>
+      </Object_name>
+      <Production>
+        <creator>Str&#228;ter, Atelier J.L.</creator>
+        <creator.role/>
+        <production.place>Hilversum</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1931</production.date.end>
+        <production.date.end.prec>waarschijnlijk</production.date.end.prec>
+        <production.date.start>1931</production.date.start>
+        <production.date.start.prec>waarschijnlijk</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>RKWV PUTH QUADRA GESIMO ANNO RERUM NOVARUM</title>
+      </Title>
+      <location.default.name>3056A</location.default.name>
+      <object_number>L17705</object_number>
+      <priref>133</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">41</response_time>
+  </diagnostic>
+</adlibXML>

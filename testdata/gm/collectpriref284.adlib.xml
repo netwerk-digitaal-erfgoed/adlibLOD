@@ -1,0 +1,70 @@
+<adlibXML>
+  <recordList>
+    <record priref="284" created="2018-01-04T09:53:13" modification="2018-09-04T04:13:19" selected="false">
+      <Description>
+        <description>1989 maakte Connelly schilderijen getiteld Face. Deze gezichten zijn ge&#239;nspireerd op de 'smiley' buttons uit de jaren 70. De glimlach kan gezien worden als een symbool van de algemene (Amerikaanse) groet, om elkaar een plezierige dag te wensen. Maar aan het eind van de jaren 80 kan een dag ellendig, in plaats van plezierig zijn. Daarom kan bij Connelly de smiley ook een trieste uitdrukking krijgen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>61</dimension.value>
+      </Dimension>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Material>
+        <material>lover</material>
+      </Material>
+      <Material>
+        <material>paillette</material>
+      </Material>
+      <Material>
+        <material>glitter</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>gemengde media</object_name>
+      </Object_name>
+      <object_number>1989.0425</object_number>
+      <priref>284</priref>
+      <Production>
+        <creator>Connelly, Arch</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1989</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1989.0425.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>gemengde media</technique>
+      </Technique>
+      <Title>
+        <title>Face (the Blues)</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6247</response_time>
+  </diagnostic>
+</adlibXML>

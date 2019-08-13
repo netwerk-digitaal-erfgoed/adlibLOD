@@ -1,0 +1,60 @@
+<adlibXML>
+  <recordList>
+    <record priref="108" created="2018-07-09T11:00:47" modification="2019-05-13T03:20:54" selected="false">
+      <Description>
+        <description>Vlag. Rechthoekig; acht lussen; goudkleurige franje aan uiteinde. Polychroom; witte achtergrond. Links: de heilige Carolus Borromeus met kruis in de rechterhand en boek in de linkerhand. Hoed op de rug. Opschriften: SANCTUS CAROLUS-BORROM.  Borromeus staat op een wapenschild in kleuren rood wit en groen. Diagonale balk in kleuren wit en geel.
+Rechts fabriek en een kerk. Zon met stralenkrans en opschrift: RERUM NOVARUM BOVEN KERK.  Geheel rechts: werkman met moker en aambeeld. Opschrift boven en achter de werkman: R.K. WERKLIEDENVEREENIGING VENLO
+Volgens beschrijvingen in een feestbrochure was de vlag oorspronkelijk tweezijdig en stond Borromeus aan de achterzijde. De vlag was vierkant. Waardoor de beschadiging is veroorzaakt is niet bekend. Een deel van de vluchtzijde moet daar bij zijn verdwenen. Het ontbrekenden deel, rechts van der arbeidersfiguur, is later aangevuld. Duidelijk is de naad die over de vlag loopt evenals het verschil in materiaal en bewerking. In de vlag zijn veel stoppages uitgevoerd. Voor een deel zijn ze gehandhaafd als historisch element. Het betreft stoppages die de stof niet verder beschadigen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>126.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>185.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>katoen</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production>
+        <creator>Peters, L., Kunststickerei</creator>
+        <creator.role/>
+        <production.place>Kevelaer</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1928</production.date.end>
+        <production.date.end.prec>waarschijnlijk</production.date.end.prec>
+        <production.date.start>1928</production.date.start>
+        <production.date.start.prec>waarschijnlijk</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>R.K. WERKLIEDENVEREENIGING VENLO SANCTUS CAROLUS BORROM.</title>
+      </Title>
+      <location.default.name>3195A</location.default.name>
+      <object_number>L17718</object_number>
+      <priref>108</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">38</response_time>
+  </diagnostic>
+</adlibXML>

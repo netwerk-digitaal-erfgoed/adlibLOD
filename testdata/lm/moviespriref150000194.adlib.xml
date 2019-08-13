@@ -1,0 +1,81 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000194" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:22" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">1</value>
+        <value lang="0">black and white</value>
+        <value lang="1">zwartwit</value>
+      </film.color>
+      <film.length>80</film.length>
+      <Associated_subject>
+        <association.subject>Venlo (plaats)</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+          <value lang="9">geografi</value>
+          <value lang="10">&#1490;&#1488;&#1493;&#1490;&#1512;&#1508;&#1497;&#1492;</value>
+          <value lang="11">geografi</value>
+          <value lang="14">&#22320;&#29702;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>Reportage van een historische missieoptocht door Venlo, 25 mei 1952. In de optocht worden bijbelse taferelen uit het Oude Testament en uit het leven van Jezus Christus uitgebeeld, alsook het leven in de missielanden. De stoet trekt vanaf de Heilig Hartkerk op de hoek Veldenseweg/Straelseweg naar de binnenstad van Venlo. De film opent met het uitladen van kamelen uit een aanhangwagen, waarbij enkele geestelijken toekijken. In een weiland lopen tientallen schapen. Deelnemers in historische kledij presenteren zich voor de camera. Daarna beelden van de optocht, waarin ook praalwagens meerijden. Het einde van de optocht is op de Markt voor het stadhuis. Burgemeester B. Berger, Mgr. J.H.G. Lemmens en wethouder E.M.O. Haffmans ontvangen de stoet</description>
+      </Description>
+      <Production>
+        <creator>onbekend</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1952</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1952</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Historische missieoptocht te Venlo</title>
+      </Title>
+      <website>
+        <website_url>http://youtu.be/xLOtlldY7E4</website_url>
+      </website>
+      <Website>
+        <website_label/>
+        <website_ondisplay/>
+        <website_online>x</website_online>
+      </Website>
+      <object_number>0061</object_number>
+      <priref>150000194</priref>
+      <Tijdsduur>22 "40''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">42</response_time>
+  </diagnostic>
+</adlibXML>

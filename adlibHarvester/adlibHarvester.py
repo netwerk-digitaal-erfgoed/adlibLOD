@@ -53,7 +53,6 @@ numberFound = 1000000
 # iterate through resultpages
 while (numberFound > (page * limit)):
     startfrom = page * limit
-    print(str(startfrom) + "-" + str(startfrom + limit) + " of " + str(numberFound))
     # read page of records
     requestUrl = endpoint + \
                     "?database=" + database + \
@@ -100,3 +99,4 @@ while (numberFound > (page * limit)):
         numberFound = 200 # maximum for testing
 
     page = page + 1
+    print(str(page * limit) + "-" + str(page * limit + limit) + " of " + str(numberFound))

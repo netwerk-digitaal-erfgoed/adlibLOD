@@ -1,0 +1,174 @@
+<adlibXML>
+  <recordList>
+    <record priref="6" created="2014-04-05T12:21:44" modification="2017-01-10T20:24:17" selected="False">
+      <acquisition.date>1929-12-13</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <association_subject>
+        <association.subject>
+          <bronnen>
+            <link_url/>
+          </bronnen>
+          <term>transport</term>
+        </association.subject>
+      </association_subject>
+      <association_subject>
+        <association.subject>
+          <term>transport per trek- en rijdier</term>
+        </association.subject>
+      </association_subject>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url/>
+          </bronnen>
+          <term>Korenbeurs</term>
+          <broader_term>
+            <term>Beursgebouw</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/building/oude-brug/585</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://verdwenengebouwen.nl/gebouw/228</link_url>
+          </bronnen>
+          <term>Oude brug</term>
+          <broader_term>
+            <term>Wallengebied</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Oude Kerk</term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>59</dimension.value>
+        <dimension.type>hoogte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>99.2</dimension.value>
+        <dimension.type>breedte a</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>56.3</dimension.value>
+        <dimension.type>hoogte b</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>96.7</dimension.value>
+        <dimension.type>breedte b</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>55.4</dimension.value>
+        <dimension.type>hoogte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>95.9</dimension.value>
+        <dimension.type>breedte c</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>117.5</dimension.value>
+        <dimension.type>hoogte met lijst</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>78</dimension.value>
+        <dimension.type>breedte met lijst</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Schenk, Jan</creator>
+        <creator.date_of_birth>1698</creator.date_of_birth>
+        <creator.date_of_death>1752</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.23844</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <material>
+        <term>perspex</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 65</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.6</persistent_ID>
+      <priref>
+        <highlight>6</highlight>
+      </priref>
+      <production.date.end>1752</production.date.end>
+      <production.date.start>1718</production.date.start>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2012-07-02</reproduction.date>
+        <reproduction.format>196 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_65_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_65_000.tif</reproduction.reference>
+        <reproduction.reference.lref>6</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Gezicht op de Korenbeurs Amsterdam</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.4408</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '6'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6533</response_time>
+    <xml_creation_time unit="mS" culture="en-US">78.0981</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

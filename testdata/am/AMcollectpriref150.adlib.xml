@@ -1,0 +1,93 @@
+<adlibXML>
+  <recordList>
+    <record priref="150" created="2014-04-05T10:21:44" modification="2017-01-10T20:25:20" selected="False">
+      <acquisition.date>1860-12-24</acquisition.date>
+      <acquisition.method>legaat</acquisition.method>
+      <collection>Fodor, collectie Carel Joseph</collection>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum, legaat C.J. Fodor</credit_line>
+      <dimension>
+        <dimension.value>40.6</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>45.6</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Madou, Jean Baptiste</creator>
+        <creator.date_of_birth>1796-02-03</creator.date_of_birth>
+        <creator.date_of_death>1877-04-03</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.55373</creator.uri>
+      </maker>
+      <maker>
+        <creator>Meyer, G. Eduard</creator>
+        <creator.date_of_birth/>
+        <creator.date_of_death/>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.25126</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <material>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300015012</link_url>
+        </bronnen>
+        <term>inkt</term>
+      </material>
+      <object_category>boekencollectie</object_category>
+      <object_name>
+        <term>album</term>
+        <broader_term>boek</broader_term>
+      </object_name>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300026030</link_url>
+        </bronnen>
+        <term>documentair object</term>
+      </object_name>
+      <object_name>
+        <term>titelpagina</term>
+        <broader_term>document</broader_term>
+      </object_name>
+      <object_number>A 10695</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.150</persistent_ID>
+      <priref>
+        <highlight>150</highlight>
+      </priref>
+      <production.date.end>1857</production.date.end>
+      <production.date.start>1857</production.date.start>
+      <production.place>
+        <bronnen>
+          <link_url>http://sws.geonames.org/2800866/</link_url>
+        </bronnen>
+        <term>Brussel</term>
+        <broader_term>Belgi&#235;</broader_term>
+      </production.place>
+      <title>Voorstellingen der gewoonten en kleederdrachten van het jaar 1400 tot 1836 (titelblad)</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">15.6588</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '150'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">62.4867</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

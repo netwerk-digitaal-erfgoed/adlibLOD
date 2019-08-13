@@ -1,0 +1,44 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000104" created="2018-07-09T03:25:02" modification="2018-07-09T03:25:03" selected="false">
+      <Production>
+        <creator>Crins, Peter</creator>
+        <creator.role>camera en regie</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Hermans, Peter</creator>
+        <creator.role>camera en regie</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Peter Crins</creator>
+        <creator.role>gesproken commentaar</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>C &amp; H Leveroy</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Leveroy 1940-1945. Een Midden-Limburgs dorp in oorlogstijd</title>
+      </Title>
+      <object_number>LFV-06/0019</object_number>
+      <priref>150000104</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">45</response_time>
+  </diagnostic>
+</adlibXML>

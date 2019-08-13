@@ -1,0 +1,58 @@
+<adlibXML>
+  <recordList>
+    <record priref="174" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:21" selected="false">
+      <Description>
+        <description>zeefdruk op kunststof plaat bestaande uit twee delen</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>150.2</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>99.9</dimension.value>
+      </Dimension>
+      <Material>
+        <material>kunststof</material>
+      </Material>
+      <Object_name>
+        <object_name>zeefdrukken</object_name>
+      </Object_name>
+      <object_number>1993.0305</object_number>
+      <priref>174</priref>
+      <Production>
+        <creator>Banca di Oklahoma</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1990</production.date.start>
+      </Production_date>
+      <Technique>
+        <technique>rasterdruk</technique>
+      </Technique>
+      <Title>
+        <title>Inschrijving kamer van koophandel</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6253</response_time>
+  </diagnostic>
+</adlibXML>

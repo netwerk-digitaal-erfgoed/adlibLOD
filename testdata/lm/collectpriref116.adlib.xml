@@ -1,0 +1,75 @@
+<adlibXML>
+  <recordList>
+    <record priref="116" created="2018-07-09T11:00:47" modification="2019-05-02T08:56:14" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel, rechthoekig. zeven ophanglussen,franje aan de rechter en benedenkant. Afbeeling, diagonaal, Antonius van Padua met kind Jezus op rechterarm. Hij staat in een nis. Links van hem hoorn met bliksemstralen onder kroon; rechts: tiara met twee kruiselings over alkaar liggende sleutels. Opschriften aan weerzijden heilige:  NED. R.K. BOND V. POST-TELEGR.- EN TELEF.-PERSON. ST. PETRUS / AFD. ST. ANTONIUS V. PADUA TE VENLO / OPGER. 1. AUG. 1909. Randopschrift: AFDEEL. VENLO:
+Signatuur lus: Leo Peters Kunststickerei Kevelaer</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>145.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>137.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>zijde</material>
+        <material.part>vaandel</material.part>
+      </Material>
+      <Material>
+        <material>katoen</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>goudband</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>gouddraad</material>
+        <material.part/>
+      </Material>
+      <Object_name>
+        <object_name>vaandel</object_name>
+      </Object_name>
+      <Production>
+        <creator>Peters, L., Kunststickerei</creator>
+        <creator.role/>
+        <production.place>Kevelaer</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1915</production.date.end>
+        <production.date.end.prec>voor</production.date.end.prec>
+        <production.date.start>1910</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>NED. R.K. BOND V. POST TELEF. PERSON. ST. PETRUS AFD. ST. ANTONIUS V. PADUA TE VENLO OPGER. 1 AUG. 1909 AFDEEL. VENLO</title>
+      </Title>
+      <location.default.name>3056E</location.default.name>
+      <object_number>L17709</object_number>
+      <priref>116</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">53</response_time>
+  </diagnostic>
+</adlibXML>

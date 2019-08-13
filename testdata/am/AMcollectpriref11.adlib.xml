@@ -1,0 +1,89 @@
+<adlibXML>
+  <recordList>
+    <record priref="11" created="2014-04-05T12:21:44" modification="2017-01-10T20:24:18" selected="False">
+      <acquisition.date>1932</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <content.motif.general>
+        <bronnen>
+          <link_url/>
+        </bronnen>
+        <term>portret</term>
+        <broader_term>AM algemene voorstellingstrefwoorden [TOPTERM]</broader_term>
+        <broader_term>iconografische indeling</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>mansportret</term>
+        <broader_term>portret</broader_term>
+      </content.motif.general>
+      <content_person>
+        <content.person.name.type>
+          <value lang="neutral">PERSON</value>
+          <value lang="0">personal name</value>
+          <value lang="1">persoonsnaam</value>
+        </content.person.name.type>
+        <content.person.name>Troelstra, Pieter Jelles</content.person.name>
+        <content.person.name.uri>http://hdl.handle.net/11259/people.17030</content.person.name.uri>
+      </content_person>
+      <copyright>Alle rechten voorbehouden</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>18</dimension.value>
+        <dimension.type>hoogte (a)</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>13</dimension.value>
+        <dimension.type>breedte (a)</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Ottens, Jacques</creator>
+        <creator.date_of_birth/>
+        <creator.date_of_death/>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.21755</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 331</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.11</persistent_ID>
+      <priref>
+        <highlight>11</highlight>
+      </priref>
+      <production.date.end>1926</production.date.end>
+      <production.date.start>1926</production.date.start>
+      <technique>
+        <term>houtsnede</term>
+        <broader_term>druktechnieken</broader_term>
+        <broader_term>prent</broader_term>
+      </technique>
+      <title>Portret van Pieter Jelles Troelstra</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">15.6226</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '11'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">46.8713</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

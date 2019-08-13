@@ -1,0 +1,103 @@
+<adlibXML>
+  <recordList>
+    <record priref="142" created="2018-01-04T09:53:13" modification="2018-07-31T10:28:58" selected="false">
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>81</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>61</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>84.4</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>63.7</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>dikte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>2</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Ploeg verzameld in het Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Wobbe Alkema: schilderijen, beelden, tekeningen, aquarellen, gouaches, monotypes, dia's, gebruiksdrukwerk, toegepaste kunst, meubelontwerpen, dokumentatiemateriaal : In de collectie van het Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Ploeg  zusammengestellt im Groninger Museum</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>hardboard</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1981.1546</object_number>
+      <priref>142</priref>
+      <Production>
+        <creator>Alkema, Wobbe</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1961</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1981.1546.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Compositie no.4</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">78.1257</xml_creation_time>
+    <response_time unit="mS" culture="en-US">93.75</response_time>
+  </diagnostic>
+</adlibXML>

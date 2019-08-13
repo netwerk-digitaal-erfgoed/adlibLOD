@@ -1,0 +1,64 @@
+<adlibXML>
+  <recordList>
+    <record priref="279" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:28" selected="false">
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>93</dimension.value>
+      </Dimension>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Material>
+        <material>gemengde media</material>
+      </Material>
+      <Material>
+        <material>parel</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <Object_name>
+        <object_name>gemengde media</object_name>
+      </Object_name>
+      <object_number>1987.0497</object_number>
+      <priref>279</priref>
+      <Production>
+        <creator>Connelly, Arch</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1985</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1987.0497.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>gemengde media</technique>
+      </Technique>
+      <Title>
+        <title>Vanity with a rose</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">15.6236</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,92 @@
+<adlibXML>
+  <recordList>
+    <record priref="311" created="2018-01-04T10:53:13" modification="2018-01-04T10:53:31" selected="false">
+      <Description>
+        <description>Di Rosa schilderde zelf bedachte stripfiguren op doek, t-shirts, stickers en magneten. Zijn broer Richard (Buddy) vertaalde ze naar ruimtelijke vormen en speelgoed. Op deze wijze wilde Di Rosa zijn figuurtjes verspreiden onder een zo groot mogelijk publiek, dat anders nauwelijks met kunst in aanraking komt, zoals Keith Haring dat deed met zijn Popshop in New York. Di Rosa had een vergelijkbare winkel in Parijs. Zijn werk ligt op het snijvlak van populaire strips, cartoons en autonome kunstwerken.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>183.9</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>a</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>67</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>183.9</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>b</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>148.5</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Tout l'oeuvre peint herv&#233; di rosa</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>aankoopbeleid van Frans Haks 'We doen nooit wat anderen doen'</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>acrylverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1985.0473</object_number>
+      <priref>311</priref>
+      <Production>
+        <creator>Di Rosa, Herv&#233;</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1985</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1985.0473.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Les marins regardent l'ultrafemme</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6251</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.25</response_time>
+  </diagnostic>
+</adlibXML>

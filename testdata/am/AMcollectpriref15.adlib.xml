@@ -1,0 +1,96 @@
+<adlibXML>
+  <recordList>
+    <record priref="15" created="2014-04-05T10:21:44" modification="2017-01-10T20:24:21" selected="False">
+      <acquisition.date>1932-11-07</acquisition.date>
+      <acquisition.method>schenking</acquisition.method>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <term>Admiraliteitslijnbanen</term>
+          <broader_term>
+            <term>Admiraliteit van Amsterdam</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>33</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>44</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Heyden, Jan van der</creator>
+        <creator.date_of_birth>1637-03-05</creator.date_of_birth>
+        <creator.date_of_death>1712-03-28</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.7401</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 337</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.15</persistent_ID>
+      <priref>
+        <highlight>15</highlight>
+      </priref>
+      <production.date.end>1712</production.date.end>
+      <production.date.start>1673</production.date.start>
+      <reproduction>
+        <reproduction.creator>Gerritsen, Ren&#233;</reproduction.creator>
+        <reproduction.date>2013-12</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\S_A_337_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_337_000.tif</reproduction.reference>
+        <reproduction.reference.lref>165301</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Brand in de Admiraliteitslijnbanen, 1673</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2687</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '15'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6372</response_time>
+    <xml_creation_time unit="mS" culture="en-US">46.881</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

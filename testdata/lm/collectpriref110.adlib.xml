@@ -1,0 +1,59 @@
+<adlibXML>
+  <recordList>
+    <record priref="110" created="2018-07-09T11:00:47" modification="2019-05-02T09:04:50" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel, rechthoekig.
+Voorzijde: In midden diagonale blauwe balk met opschrift: Limburg aan Christus. Hoek rechtsboven wapen met lelie, rad en Sint Christoffel. Getooid met staf, kruis en mijter. linksonder het wapen van de provincie Limburg. Hoeken versierd met Gelderse roos. Vier roodwitte wapenschilden. Opschrift midden boven: St. Servatius; links O.L. Vrouwe, beneden: St. Martinus., par.; rechts St. Matthias
+Keerzijde: diagonale blauwe balk met opschrift: Katholieke Actie. Hoek rechtsboven: wapen stad Maastricht met stralen; hoek linksonder: sleutel. De rand is hetzelfde als op de voorzijde.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>111.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>97.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>katoen</material>
+        <material.part>vaandel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vaandel</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1970</production.date.end>
+        <production.date.end.prec>circa</production.date.end.prec>
+        <production.date.start>1900</production.date.start>
+        <production.date.start.prec>circa</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>LIMBURG AAN CHRISTUS St. Servatius St. Mathias St. Martinus O.L. Vrouwe</title>
+      </Title>
+      <location.default.name>3056D</location.default.name>
+      <object_number>L17708</object_number>
+      <priref>110</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">42</response_time>
+  </diagnostic>
+</adlibXML>

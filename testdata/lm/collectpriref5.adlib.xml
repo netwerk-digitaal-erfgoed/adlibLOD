@@ -1,0 +1,38 @@
+<adlibXML>
+  <recordList>
+    <record priref="5" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:34" selected="false">
+      <Description>
+        <description>Boek. Gedenkboek van het Oranjehotel. 2e druk. N.V. Roman , boek-en - kunsthandel H. Nelissen,  Amsterdam. 432 pagina's .Druk: Labor Zuilen. Band: Jan Retel</description>
+      </Description>
+      <Material>
+        <material>papier</material>
+        <material.part/>
+      </Material>
+      <Production_date>
+        <production.date.end>1947</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1947</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Gedenkboek van het "Oranjehotel" : celmuren spreken, gevangenen getuigen, onze gevallen verzetshelden</title>
+      </Title>
+      <location.default.name>Bibliotheek</location.default.name>
+      <object_number>L17532V</object_number>
+      <priref>5</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">65</response_time>
+  </diagnostic>
+</adlibXML>

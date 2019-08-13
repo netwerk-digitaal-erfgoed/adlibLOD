@@ -1,0 +1,74 @@
+<adlibXML>
+  <recordList>
+    <record priref="8" created="2014-04-05T11:21:44" modification="2017-01-10T20:24:18" selected="False">
+      <acquisition.date>1911</acquisition.date>
+      <acquisition.method>legaat</acquisition.method>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>26</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit/>
+        <dimension.value/>
+      </dimension>
+      <maker>
+        <creator>Isra&#235;ls, Jozef</creator>
+        <creator.date_of_birth>1824-01-27</creator.date_of_birth>
+        <creator.date_of_death>1911-08-12</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.8235</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 117</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.8</persistent_ID>
+      <priref>
+        <highlight>8</highlight>
+      </priref>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_117.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_117.JPG</reproduction.reference>
+        <reproduction.reference.lref>8</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Oude man</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">0</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '8'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6248</response_time>
+    <xml_creation_time unit="mS" culture="en-US">15.6179</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

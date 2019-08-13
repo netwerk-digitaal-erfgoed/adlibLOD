@@ -1,0 +1,122 @@
+<adlibXML>
+  <recordList>
+    <record priref="189" created="2018-01-04T09:53:13" modification="2018-01-04T12:46:15" selected="false">
+      <Description>
+        <description>In dit schilderij combineert Kunc diverse verwijzingen naar avant-garde stijlen. De schilder, weergegeven als Griekse held en profile (zoals op een klassieke vaas), kijkt naar de ondergaande zon, een beeldcitaat van L&#8217;impression: soleil levant van Claude Monet, het begin van het impressionisme. De straatlantaarn, met daaronder discussi&#235;rende kunstcritici, en de reusachtige fles zijn kubistisch weergegeven, en het geheel lijkt op een droomwereld, als in een surrealistisch schilderij. De ware avant-gardist kan niet in een hokje worden gestopt - hij zweeft op een kapotte tafel in de kosmos&#8230;</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>195</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>175</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>lijst</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>197</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>177.3</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>diepte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Wie es ist, Holger Bunk, Milan Kunc, Silke Leverk&#252;hne, Andreas Schulze, Bilder der fr&#252;hen 1980er Jahre bis heute</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Milan Kunc, neue Iconen, Arbeiten 1979-1984</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>ware avantgardist</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>Milan Kunc : Bilder =pictures = obrazy 1973-2006</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.title>
+          <Title>
+            <title>80er: Figuratieve Malerei in der BRD</title>
+          </Title>
+          <title_term_index/>
+        </documentation.title>
+      </Documentation>
+      <Material>
+        <material>olieverf</material>
+      </Material>
+      <Material>
+        <material>doek</material>
+      </Material>
+      <Object_name>
+        <object_name>schilderijen</object_name>
+      </Object_name>
+      <object_number>1984.0328</object_number>
+      <priref>189</priref>
+      <Production>
+        <creator>Kunc, Milan</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <production.period>20e eeuw</production.period>
+      <Production_date>
+        <production.date.end/>
+        <production.date.start>1982</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>1981_1990\1984.0328.jpg</reproduction.reference>
+      </Reproduction>
+      <Technique>
+        <technique>schilderen</technique>
+      </Technique>
+      <Title>
+        <title>Der wahre Avantgardist versucht vergebens in die Schublade zu passen</title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>museum</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">15.6247</xml_creation_time>
+    <response_time unit="mS" culture="en-US">31.2491</response_time>
+  </diagnostic>
+</adlibXML>

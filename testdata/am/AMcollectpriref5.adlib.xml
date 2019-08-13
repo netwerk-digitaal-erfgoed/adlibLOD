@@ -1,0 +1,127 @@
+<adlibXML>
+  <recordList>
+    <record priref="5" created="2014-04-05T12:21:44" modification="2017-01-10T20:24:17" selected="False">
+      <acquisition.date>1929-12-13</acquisition.date>
+      <acquisition.method>aankoop</acquisition.method>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/geldersekade/1459</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://www.wikidata.org/entity/Q4807145</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003687</link_url>
+          </bronnen>
+          <term>Geldersekade</term>
+          <broader_term>
+            <term>Amsterdam Binnenstad</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/building/schreierstoren/190</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/pand/0363100012182530</link_url>
+          </bronnen>
+          <term>Schreierstoren</term>
+          <broader_term>
+            <bronnen>
+              <link_url/>
+            </bronnen>
+            <term>Amsterdam centrum</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>60</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>96</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <maker>
+        <creator>Leth, Hendrik de</creator>
+        <creator.date_of_birth>1703</creator.date_of_birth>
+        <creator.date_of_death>1766-06-17</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.23443</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 64</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.5</persistent_ID>
+      <priref>
+        <highlight>5</highlight>
+      </priref>
+      <production.date.end>1766</production.date.end>
+      <production.date.start>1723</production.date.start>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_64.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_64.JPG</reproduction.reference>
+        <reproduction.reference.lref>5</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>Gezicht op de Geldersekade vanaf de IJ-kant</title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.4964</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '5'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6238</response_time>
+    <xml_creation_time unit="mS" culture="en-US">62.4964</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

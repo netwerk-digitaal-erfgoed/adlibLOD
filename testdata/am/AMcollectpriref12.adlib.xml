@@ -1,0 +1,205 @@
+<adlibXML>
+  <recordList>
+    <record priref="12" created="2014-04-05T10:21:44" modification="2018-06-11T11:18:10" selected="False">
+      <acquisition.date>1932-11-07</acquisition.date>
+      <acquisition.method>schenking</acquisition.method>
+      <AHMteksten>
+        <AHM.texts.tekst>Jan van der Heyden had als 15-jarige de brand van het OudeStadhuis op 7 juli 1652 meegemaakt. Naar eigen zeggen is die gebeurtenis voor hem de aanleiding geweest om zich te verdiepen in de verbetering van de bestaande blusmethoden. Het Slangbrandspuitenboek uit 1690 opent dan ook met een impressie van de beroemde brand. Terwijl tientallen mensen in de weer zijn met het doorgeven van emmers water, geput uit de haven op de voorgrond, wagen anderen hun leven op ladders bij het brandende gebouw. Rechts is er meer rust, want daar wordt de nieuwe slangbrandspuit ingezet. Hierdoor zijn minder mensen nodig terwijl het rendement groter is. Als in een &#8216;artist&#8217;s impression&#8217; heeft Van der Heyden zijn nieuwe vinding een plaats gegeven in de historische voorstelling. In werkelijkheid lag daar 38 jaar tussen.</AHM.texts.tekst>
+        <AHM.texts.type>
+          <value lang="neutral">zaaltekst NL</value>
+          <value lang="0">zaaltekst NL</value>
+          <value lang="1">zaaltekst NL</value>
+        </AHM.texts.type>
+      </AHMteksten>
+      <AHMteksten>
+        <AHM.texts.tekst>As a lad of fifteen, Jan van der Heyden had witnessed the fire that burned down the Old Town Hall on 7 July 1652. The event, as he describes it, led him to study ways of improving existing fire-fighting methods. The Slangbrandspuitenboek of 1690 opens with an impression of this famous fire.
+While dozens of people are busy passing buckets of water from one to another from the harbour in the foreground, others are risking their lives on ladders propped against the burning building. To the right things are more relaxed, because the new fire extinguisher is operating. It required less manpower and the results were greater. As in an &#8216;artist&#8217;s impression&#8217;, Van der Heyden has set his new invention in a historical panorama, because in reality 38 years had passed between the two events.</AHM.texts.tekst>
+        <AHM.texts.type>
+          <value lang="neutral">zaaltekst ENG</value>
+          <value lang="0">zaaltekst ENG</value>
+          <value lang="1">zaaltekst ENG</value>
+        </AHM.texts.type>
+      </AHMteksten>
+      <AHMteksten>
+        <AHM.texts.author>Middelkoop, Norbert</AHM.texts.author>
+        <AHM.texts.publ/>
+        <AHM.texts.tekst>Jan van der Heyden had als 15-jarige de brand van het Oude Stadhuis op 7 juli 1652 meegemaakt. Naar eigen zeggen is die gebeurtenis voor hem de aanleiding geweest om zich te verdiepen in de verbetering van de bestaande blusmethoden. Het Slangbrandspuitenboek uit 1690 opent dan ook met een impressie van de beroemde brand.
+Terwijl tientallen mensen in de weer zijn met het doorgeven van emmers water, geput uit de haven op de voorgrond, wagen anderen hun leven op ladders bij het brandende gebouw. Rechts is er meer rust, want daar wordt de nieuwe slangbrandspuit ingezet. Hierdoor zijn minder mensen nodig terwijl het rendement groter is. Als in een &#8216;artist&#8217;s impression&#8217; heeft Van der Heyden zijn nieuwe vinding een plaats gegeven in de historische voorstelling. In werkelijkheid lag daar 38 jaar tussen.
+A 334 - schenking C.G. &#8217;t Hooft, 1932
+
+
+The Fire in the Old Town Hall in 1652, 1690
+Jan van der Heyden (1637-1712)
+
+As a lad of fifteen, Jan van der Heyden had witnessed the fire that burned down the Old Town Hall on 7 July 1652. The event, as he describes it, led him to study ways of improving existing fire-fighting methods. The Slangbrandspuitenboek of 1690 opens with an impression of this famous fire.
+While dozens of people are busy passing buckets of water from one to another from the harbour in the foreground, others are risking their lives on ladders propped against the burning building. To the right things are more relaxed, because the new fire extinguisher is operating. It required less manpower and the results were greater. As in an &#8216;artist&#8217;s impression&#8217;, Van der Heyden has set his new invention in a historical panorama, because in reality 38 years had passed between the two events.
+Gift of C.G. &#8217;t Hooft, 1932</AHM.texts.tekst>
+        <AHM.texts.type>
+          <value lang="neutral">zaaltekst NL</value>
+          <value lang="0">zaaltekst NL</value>
+          <value lang="1">zaaltekst NL</value>
+        </AHM.texts.type>
+      </AHMteksten>
+      <content.motif.general>
+        <term>stadsgezicht</term>
+        <broader_term>landschap</broader_term>
+      </content.motif.general>
+      <content.motif.general>
+        <term>stadsgezicht Amsterdam</term>
+        <broader_term>stadsgezicht</broader_term>
+      </content.motif.general>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/building/waag-op-de-dam/662</link_url>
+          </bronnen>
+          <term>Waag op de Dam</term>
+          <broader_term>
+            <bronnen>
+              <link_url>https://adamlink.nl/geo/street/dam/880</link_url>
+            </bronnen>
+            <bronnen>
+              <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003186</link_url>
+            </bronnen>
+            <term>Dam</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <content_subject>
+        <content.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+        </content.subject.type>
+        <content.subject>
+          <bronnen>
+            <link_url>https://adamlink.nl/geo/street/dam/880</link_url>
+          </bronnen>
+          <bronnen>
+            <link_url>http://bag.basisregistraties.overheid.nl/bag/id/openbare-ruimte/0363300000003186</link_url>
+          </bronnen>
+          <term>Dam</term>
+          <broader_term>
+            <term>Amsterdam - straten [TOPTERM]</term>
+          </broader_term>
+        </content.subject>
+      </content_subject>
+      <copyright>Public Domain</copyright>
+      <credit_line>Amsterdam Museum</credit_line>
+      <dimension>
+        <dimension.value>36</dimension.value>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <dimension>
+        <dimension.value>45</dimension.value>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+      </dimension>
+      <documentation>
+        <documentation.author>Lieshout, Martijn van</documentation.author>
+        <documentation.page_reference>[R] p. 52 met afb.</documentation.page_reference>
+        <documentation.sortyear>2007</documentation.sortyear>
+        <documentation.title>Uitvinder, brandmeester, stadsschilder : Jan van der heyden (1637-1712) in het Rijksmuseum</documentation.title>
+        <documentation.title.article/>
+      </documentation>
+      <maker>
+        <creator>Heyden, Jan van der</creator>
+        <creator.date_of_birth>1637-03-05</creator.date_of_birth>
+        <creator.date_of_death>1712-03-28</creator.date_of_death>
+        <creator.qualifier/>
+        <creator.role/>
+        <creator.uri>http://hdl.handle.net/11259/people.7401</creator.uri>
+      </maker>
+      <material>
+        <term>papier</term>
+      </material>
+      <object_category>prentencollectie</object_category>
+      <object_name>
+        <bronnen>
+          <link_url>http://vocab.getty.edu/aat/300041273</link_url>
+        </bronnen>
+        <term>prent</term>
+      </object_name>
+      <object_number>A 334</object_number>
+      <persistent_ID>http://hdl.handle.net/11259/collection.12</persistent_ID>
+      <priref>
+        <highlight>12</highlight>
+      </priref>
+      <production.date.end>1712</production.date.end>
+      <production.date.start>1652</production.date.start>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2012-11-01</reproduction.date>
+        <reproduction.format>68,9 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\Buitencollectie\S_BC_00850_001.jpg</reproduction.identifier_URL>
+        <reproduction.reference>BC_00850_001.tif</reproduction.reference>
+        <reproduction.reference.lref>149603</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>Edwards, Joyce</reproduction.creator>
+        <reproduction.date>2012-11-02</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_334_000.jpg</reproduction.identifier_URL>
+        <reproduction.reference>A_334_000.jpg</reproduction.reference>
+        <reproduction.reference.lref>159307</reproduction.reference.lref>
+        <reproduction.type>scan</reproduction.type>
+      </reproduction>
+      <reproduction>
+        <reproduction.creator>DMP</reproduction.creator>
+        <reproduction.date>1999</reproduction.date>
+        <reproduction.format/>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\A_334.JPG</reproduction.identifier_URL>
+        <reproduction.reference>A_334.JPG</reproduction.reference>
+        <reproduction.reference.lref>12</reproduction.reference.lref>
+        <reproduction.type>low-res scan</reproduction.type>
+      </reproduction>
+      <reproduction/>
+      <reproduction/>
+      <reproduction>
+        <reproduction.creator>Vermeulen, Monique</reproduction.creator>
+        <reproduction.date>2012-11-01</reproduction.date>
+        <reproduction.format>68,9 mB</reproduction.format>
+        <reproduction.identifier_URL>..\..\DAT\collectie\images\Buitencollectie\S_BC_00850_003.jpg</reproduction.identifier_URL>
+        <reproduction.reference>BC_00850_003.tif</reproduction.reference>
+        <reproduction.reference.lref>159327</reproduction.reference.lref>
+        <reproduction.type>digitale opname</reproduction.type>
+      </reproduction>
+      <technique>
+        <term>ge&#235;tst</term>
+      </technique>
+      <title>De brand in het oude stadhuis (1652)</title>
+      <title.translation>The fire in the Old Town Hall in 1652</title.translation>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">78.087</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '12'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6215</response_time>
+    <xml_creation_time unit="mS" culture="en-US">93.7119</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">AMcollect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

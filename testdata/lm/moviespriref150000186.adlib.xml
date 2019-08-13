@@ -1,0 +1,30 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000186" created="2018-07-09T03:25:19" modification="2018-07-09T03:25:19" selected="false">
+      <Production>
+        <creator>Rieter, Th.</creator>
+        <creator.role>camera</creator.role>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Velden: Carnavalsoptocht</title>
+      </Title>
+      <location.default.name>server</location.default.name>
+      <object_number>110135_IMX50</object_number>
+      <priref>150000186</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">38</response_time>
+  </diagnostic>
+</adlibXML>
