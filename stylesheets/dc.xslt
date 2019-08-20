@@ -37,8 +37,7 @@
         <!-- DC title -->
         <xsl:apply-templates select="Title"/>
 
-        <!-- DC creator -->
-        <!-- DCT spatial -->
+        <!-- DC creator & DCT spatial -->
         <xsl:apply-templates select="Production"/>
 
         <!-- DC subject -->
@@ -117,6 +116,7 @@
 
 <!-- DC creator -->
 <xsl:template match="Production">
+
     <xsl:if test="string(creator.lref)">
         <dc:creator>
             <rdf:Description>
@@ -214,6 +214,7 @@
 
 <!-- DC type -->
 <xsl:template match="Object_name">
+
     <xsl:if test="string(object_name.lref)">
         <dc:type>
             <rdf:Description>
@@ -233,6 +234,7 @@
             <xsl:value-of select="object_name"/>
         </dc:type>
     </xsl:if>
+
 </xsl:template>
 
 <!-- DC format -->
@@ -317,13 +319,15 @@
 
 <!-- DC relation -->
 <xsl:template match="Related_object">
-    <dc:relation>
-        <xsl:attribute name="rdf:resource">
-            <xsl:value-of select="$baseUri"/>
-            <xsl:text>object/</xsl:text>
-            <xsl:value-of select="related_object.association.lref"/>
-        </xsl:attribute>
-    </dc:relation>
+    <xsl:if test="string(related_object.association.lref)">
+        <dc:relation>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of select="$baseUri"/>
+                <xsl:text>object/</xsl:text>
+                <xsl:value-of select="related_object.association.lref"/>
+            </xsl:attribute>
+        </dc:relation>
+    </xsl:if>
 </xsl:template>
 
 <!-- DC Terms is part of -->
