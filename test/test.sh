@@ -4,7 +4,7 @@
 for xml_file in input/lm/*.adlib.xml
 do
         rdf_file=$(basename -- "$xml_file")
-        xsltproc -o output/lm/${rdf_file%%.*}.rdf.xml dc.xslt $xml_file
+        xsltproc -o output/lm/${rdf_file%%.*}.rdf.xml ../stylesheets/dc.xslt $xml_file
 done
 
 # serialize RDF/XML into turtle for the ultimate test
