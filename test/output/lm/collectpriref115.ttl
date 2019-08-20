@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/115>
+    dc:description """Vlag, rechthoekig, overwegend paars. Elf ophanglussen. Franje aan drie zijden.  Afbeeldinng bestaande uit aambeeld, hamer, moker, tang en tandwiel. Opschrift: R.K. Smedenpatroons Bond / S. ELooi / Afd. Maastricht. Linksboven het wapen van de stad Maastgricht. Geheel is omkaderd door keten.
+Signatuur afbeelding rechtsonder: E.M.""" ;
+    dc:identifier "L17710" ;
+    dc:title "R.K. Smedenpatroons Bond S. Elooi Afd. Maastricht" ;
+    dc:type "vlag" ;
+    dct:created "voor 1940" ;
+    dct:extent "breedte 140.0 cm", "vaandel hoogte 163.0 cm" ;
+    dct:temporal "Tweede Wereldoorlog" .
+

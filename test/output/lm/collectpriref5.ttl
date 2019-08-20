@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/5>
+    dc:description "Boek. Gedenkboek van het Oranjehotel. 2e druk. N.V. Roman , boek-en - kunsthandel H. Nelissen,  Amsterdam. 432 pagina's .Druk: Labor Zuilen. Band: Jan Retel" ;
+    dc:format "papier" ;
+    dc:identifier "L17532V" ;
+    dc:title "Gedenkboek van het \"Oranjehotel\" : celmuren spreken, gevangenen getuigen, onze gevallen verzetshelden" ;
+    dct:created "1947" .
+

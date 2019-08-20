@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/134>
+    dc:creator "Capiau, L.", "Kloosteratelier Carmelitessen" ;
+    dc:description """Vaandel, zijkanten naar achteren geslagen, waardoor het grondpatroon ruitvormig is. Onderzijde: licht golvend met een spitse punt. Franje en drie kwasten aan de onderzijde. Wapen van Nederland (Leeuw met een zwaard) met onderschrift: NEDERLAND. Daaronder medaillon met afbeelding Sint-Christoffel wadend door rivier met kindje Jezus op de linkerschouder. Omschrift: R.K. BOND van SPOOR  en TRAMWEGPERSONEEL AFD. St. CHRISTOFFEL. Onderschrift op banderol: ROERMOND. Daaronder het wapen van Roermond (lopende leeuw en lelie) met palmtakken.
+Twee zwarte rouwlinten.""" ;
+    dc:format "fluweel", "goudband", "goudgalon", "zijde" ;
+    dc:identifier "L17712" ;
+    dc:title "NEDERLAND RK BOND VOOR SPOOR EN TRAMWEGPERSONEEL ST. CHRISTOFFEL ROERMOND" ;
+    dc:type "vaandel" ;
+    dct:created "1930" ;
+    dct:extent "breedte 10.0 cm", "breedte 102.0 cm", "rouwlint hoogte 138.0 cm", "rouwlint hoogte 150.0 cm", "vaandel hoogte 190.0 cm" ;
+    dct:spatial "Roermond (plaats)" .
+

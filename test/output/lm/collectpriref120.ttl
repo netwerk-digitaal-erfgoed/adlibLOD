@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/120>
+    dc:creator "Lubbe, H. v.d." ;
+    dc:description """Vlag. Rechthoekig, acht lussen. Polychroom, donkere tonen overheersen; witte achtergrond. Sint Christoffel door de Maas wadend met kind Jezus op zijn linkerschouder. Een boompje gebruikt de heilige als staf. Op de achtergrond: de St. Servaasbrug en de Maas, de Onze-Lieve-Vrouwe basiliek, de Sint-Servaaskerk en de Sint-Janskerk. Opschrift: R K. VER / ENI / GING / SINT CHRISTOFFEL MAASTRICHT. Een deel van de tekst 'HANDELSVERTEGENWOORDIGERS'  staat op een bijbehorende wimpel.
+Signatuur in water van de Maas H.v.d.L (H.v.d. Lubbe)""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17725A" ;
+    dc:title "MAASTRICHT R.K. VERENIGING SINT CHRISTOFFEL" ;
+    dc:type "vlag" ;
+    dct:created "1949" ;
+    dct:extent "geheel breedte 183.0 cm", "geheel hoogte 137.0 cm" .
+

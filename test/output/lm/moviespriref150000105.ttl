@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000105>
+    dc:creator "Willems, Dirk" ;
+    dc:description "Reportage van de carnavalsviering in Venlo en Blerick, 1974. Onder meer beelden van de optocht in Venlo met een nagebouwde helicopter, de prinsenwagen, een toespeling op de oliecrisis van 1973 en de reuzen Valuas en Guntrud. Mensen verkleed door de Vleesstraat en op de Markt voor het stadhuis. De optocht op de dag van de Boerebroelof (Boerenbruiloft) in Blerick" ;
+    dc:identifier "0029" ;
+    dc:title "Carnaval Venlo en Blerick" ;
+    dct:created "1974" .
+

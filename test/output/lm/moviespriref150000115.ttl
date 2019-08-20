@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000115>
+    dc:creator "Pope Opleidingen" ;
+    dc:description "Instructiefilm van Pope's Draad- en Lampenfabrieken BV in Blerick. Een werknemer van Pope bezig met het opspannen van draad aan de trekbank. Door het steeds verder oprekken van de draad wordt deze langer en dunner, en daarmee gereed gemaakt voor diverse toepassingen" ;
+    dc:identifier "0034" ;
+    dc:subject "elektrotechnische industrie" ;
+    dc:title "Instructiefilm Pope: de trekbank" .
+

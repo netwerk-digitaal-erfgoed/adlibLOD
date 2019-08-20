@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000020>
+    dc:creator "Bosch, Eugène van den", "Deltafilm i.s.m. NOS" ;
+    dc:description "Gesprekken met oud-mijnwerkers, hun familie en andere betrokkenen geven een beeld van het werk in de Limburgse steenkolenmijnen, de macht van de katholieke kerk, de mijnsluitingen vanaf 1965, de sociale nasleep, en de invloed op de gezinnen van de werkloos geworden kompels. Historisch filmmateriaal plaatst de verhalen terug in de tijd, met o.a. beelden van Frans Dohmen (Nederlandse Katholieke Mijnwerkersbond). De auteurs Bertus Aafjes en Wiel Kusters dragen op lokatie voor uit eigen werk." ;
+    dc:identifier "0009" ;
+    dc:subject "kerkelijk leven", "mijnarbeid", "mijnwerkers", "sociale problematiek" ;
+    dc:title "Afstand van de berg: vertellingen uit de mijnstreek" ;
+    dct:created "1990" .
+

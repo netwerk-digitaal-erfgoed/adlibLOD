@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/150000008">
+    <dc:identifier>0003</dc:identifier>
+    <dc:title>Sittard in de jaren zestig, deel 2</dc:title>
+    <dc:creator>onbekend</dc:creator>
+    <dc:subject>stadsbeelden</dc:subject>
+    <dc:subject>sport</dc:subject>
+    <dc:subject>monumenten</dc:subject>
+    <dc:subject>muziek</dc:subject>
+    <dc:subject>beeldende kunst</dc:subject>
+    <dc:subject>onderscheidingen</dc:subject>
+    <dc:subject>volkscultuur</dc:subject>
+    <dc:subject>carnaval</dc:subject>
+    <dc:description>Diverse onderwerpen opgenomen in Sittard omstreeks 1965: 1. Intergemeentelijk voetbaltoernooi 1966; 2. Kritzraedthuis; 3. Koninklijke onderscheidingen (fragm.); 4. Muziekkorps en optocht oude klederdrachten op de Markt; 5. Tentoonstelling "Schilders in Limburg"; 6. Tentoonstelling "Oude kunstschatten uit Krefeld"; 7. Koninklijke onderscheidingen (fragm.); 8. Carnavalsoptocht 1965; 9. "Haufvaste in Zitterd: Krombreudjes raape" (krombroodrapen); 10. Sint-Jozefmarkt; 11. Koninklijke onderscheidingen, o.a. aan Sjeer Schrijen (fragm.)</dc:description>
+  </rdf:Description>
+</rdf:RDF>
+  
+

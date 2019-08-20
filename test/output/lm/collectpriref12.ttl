@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/12>
+    dc:description "Munt. Een cent Nederlands-Indië. Voorzijde: Generaliteitswapen met kroon tussen jaartal 18-57; muntekene en muntmeesterteken in binnencirkel. Omschrift: NEDERLANDSCHE INDIE en 1 CENT. In binnencirkel twee regels Maleise tekst: SAPERATOES ROEPIJAH. Javaans omschrift: SA PARA SATOES ROEPIJAH en rozet. Gladde rand." ;
+    dc:format "koper", "metaal" ;
+    dc:identifier "G12550" ;
+    dc:title "Een cent Nederlands-Indië" ;
+    dct:created "1857" ;
+    dct:extent "geheel diameter 2.4 cm" .
+

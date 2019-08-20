@@ -108,7 +108,7 @@
 
 <!-- DC title -->
 <xsl:template match="Title">
-    <xsl:if test="not(title.type = 'former title')">
+    <xsl:if test="not(title.type = 'former title') and string(title)">
         <dc:title>
             <xsl:value-of select="title"/>
         </dc:title>
@@ -131,6 +131,12 @@
             </rdf:Description>
         </dc:creator>
     </xsl:if>
+    <xsl:if test="not(string(creator.lref)) and string(creator)">
+        <dc:creator>
+            <xsl:value-of select="creator"/>
+        </dc:creator>
+    </xsl:if>
+
     <xsl:if test="string(production.place.lref)">
         <dct:spatial>
             <rdf:Description>
@@ -145,6 +151,12 @@
             </rdf:Description>                
         </dct:spatial>
     </xsl:if>
+    <xsl:if test="not(string(production.place.lref)) and string(production.place)">
+        <dct:spatial>
+            <xsl:value-of select="production.place"/>
+        </dct:spatial>
+    </xsl:if>
+
 </xsl:template>
 
 <!-- DC subject -->
@@ -168,6 +180,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:param>
+
     <xsl:if test="string(association.subject.lref)">
         <dc:subject>
             <rdf:Description>
@@ -182,6 +195,12 @@
             </rdf:Description>
         </dc:subject>
     </xsl:if>
+    <xsl:if test="not(string(association.subject.lref)) and string(association.subject)">
+        <dc:subject>
+            <xsl:value-of select="association.subject"/>
+        </dc:subject>
+    </xsl:if>
+
 </xsl:template>
 
 <!-- DC description -->
@@ -195,24 +214,50 @@
 
 <!-- DC type -->
 <xsl:template match="Object_name">
-    <dc:type>
-        <xsl:attribute name="rdf:resource">
-            <xsl:value-of select="$baseUri"/>
-            <xsl:text>concept3/</xsl:text>
-            <xsl:value-of select="object_name.lref"/>
-        </xsl:attribute>
-    </dc:type>
+    <xsl:if test="string(object_name.lref)">
+        <dc:type>
+            <rdf:Description>
+                <xsl:attribute name="rdf:about">
+                    <xsl:value-of select="$baseUri"/>
+                    <xsl:text>concept3/</xsl:text>
+                    <xsl:value-of select="object_name.lref"/>
+                </xsl:attribute>
+                <rdfs:label>
+                    <xsl:value-of select="object_name"/>
+                </rdfs:label>
+            </rdf:Description>
+        </dc:type>
+    </xsl:if>
+    <xsl:if test="not(string(object_name.lref)) and string(object_name)">
+        <dc:type>
+            <xsl:value-of select="object_name"/>
+        </dc:type>
+    </xsl:if>
 </xsl:template>
 
 <!-- DC format -->
 <xsl:template match="Material">
-    <dc:format>
-        <xsl:attribute name="rdf:resource">
-            <xsl:value-of select="$baseUri"/>
-            <xsl:text>concept4/</xsl:text>
-            <xsl:value-of select="material.lref"/>
-        </xsl:attribute>
-    </dc:format>
+
+    <xsl:if test="string(material.lref)">
+        <dc:format>
+            <rdf:Description>
+                <xsl:attribute name="rdf:about">
+                    <xsl:value-of select="$baseUri"/>
+                    <xsl:text>concept4/</xsl:text>
+                    <xsl:value-of select="material.lref"/>
+                </xsl:attribute>
+                <rdfs:label>
+                    <xsl:value-of select="material"/>
+                </rdfs:label>
+            </rdf:Description>
+        </dc:format>
+    </xsl:if>
+    <xsl:if test="not(string(material.lref)) and string(material)">
+        <dc:format>
+            <xsl:value-of select="material"/>
+        </dc:format>
+    </xsl:if>
+
 </xsl:template>
 
 <!-- DC Terms created -->

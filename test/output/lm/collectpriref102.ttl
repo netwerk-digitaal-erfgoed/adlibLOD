@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/102>
+    dc:creator "Lücker, Eugène" ;
+    dc:description "In het midden van het beeldvlak staat een boom. Deze staat voor de korte gevel van een boerderij die schuin in het beeld staat. Links van de boederij staat nog een tweede boerderij." ;
+    dc:format "board", "hout", "olieverf" ;
+    dc:identifier "L17695" ;
+    dc:title "Boerderij in een Noord-Limburgs/Gelders landschap" ;
+    dct:created "circa 1900 - 1943" ;
+    dct:extent "lijst breedte 95 cm", "lijst hoogte 79.5 cm", "schilderij breedte 76.5 cm", "schilderij hoogte 61 cm" .
+

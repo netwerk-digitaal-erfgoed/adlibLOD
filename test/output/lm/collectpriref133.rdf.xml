@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/133">
+    <dc:identifier>L17705</dc:identifier>
+    <dc:title>RKWV PUTH QUADRA GESIMO ANNO RERUM NOVARUM</dc:title>
+    <dc:creator>Sträter, Atelier J.L.</dc:creator>
+    <dct:spatial>Hilversum</dct:spatial>
+    <dc:description>Vaandel. Aan de bovenzijde breder; V-vorm met goudkleurige franje aan de onderzijde. Vier ophanglussen. Sint Jozef met zaag en hamer. Onder Jozef: tandwiel met kruis en hamer. Opschrift bovenzijde: R.K.W.V. PUTH (Rooms Katholieke Werknemers Vereniging) Opschrift aan weerszijden hoofd Jozef: QUADRAGESIMO ANNO RERUM NOVARUM (in het 40e jaar van Rerum Novarum (de omwenteling), (Sociale encycliek paus Leo XIII 1891).
+Met stafbekroning.</dc:description>
+    <dc:type>vaandel</dc:type>
+    <dc:format>fluweel</dc:format>
+    <dc:format>zijde</dc:format>
+    <dc:format>katoen</dc:format>
+    <dct:created>waarschijnlijk 1931</dct:created>
+    <dct:extent>vaandel hoogte 175.0 cm</dct:extent>
+    <dct:extent>breedte 81.5 cm</dct:extent>
+  </rdf:Description>
+</rdf:RDF>
+  
+

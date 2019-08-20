@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/68>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Drie schetsen energie voorstellend. Links: 'winkelhaak' met bolvormig voorwerp en spitsvormig object. Rechtsboven en onder: 'vogel' met staart met bol. Titel linksonder: \"Energie\", signatuur rechtsonder: PK" ;
+    dc:format "crayon", "papier" ;
+    dc:identifier "L17637" ;
+    dc:title "Energie" ;
+    dct:created "circa 1970 - circa 1980" ;
+    dct:extent "geheel breedte 41.8 cm", "geheel hoogte 30 cm" ;
+    dct:spatial "Maastricht" .
+

@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/148>
+    dc:creator "Wiegman, Piet" ;
+    dc:description "Door middel van een vogelvluchtperspectief hebben we een overzicht over een deel van het stadje Thorn. We zien onder andere enkele stiftsgebouwen, de stiftskerk en enkele woningen. Over een weg die naar de poort van het stiftscomplex leidt komt een stoet met paarden en koets aan. Op de voorgrond zijn enkele boompartijen weergegeven en enkele wandelaars." ;
+    dc:format "drukinkt", "glas", "hout", "papier" ;
+    dc:identifier "L17703" ;
+    dc:title "De abdij van Thorn" ;
+    dct:created "circa 1950" ;
+    dct:extent "geheel breedte 96.8 cm", "geheel hoogte 74.5 cm", "houtsnede breedte 72 cm", "houtsnede hoogte 50.5 cm" .
+

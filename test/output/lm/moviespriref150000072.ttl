@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000072>
+    dc:creator "Haenen, Herman", "Huub Mans", "Video Limburg BV" ;
+    dc:description "Documentaire over de bevrijding van Limburg na de Tweede Wereldoorlog, gemaakt in opdracht van het provinciebestuur. Historisch filmmateriaal uit diverse bronnen uit de periode september 1944 tot mei 1945 wordt afgewisseld met interviews in 1994, waarin ooggetuigen herinneringen ophalen. Het authentieke beeldmateriaal is opgenomen in onder meer Maastricht, Heerlen, Sittard, Roermond, Montfort, Venray, Venlo en Mook." ;
+    dc:identifier "0019" ;
+    dc:subject "Tweede Wereldoorlog", "bevrijding" ;
+    dc:title "Limburg bevrijd 50 jaar" ;
+    dct:created "1994" .
+

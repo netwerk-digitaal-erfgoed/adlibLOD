@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000125>
+    dc:creator "Ruud van Wersch i.s.m. Buro Pinkpop", "Wersch, Ruud van" ;
+    dc:description "Documentaire over de eerste 5 jaar van het popfestival Pinkpop, jaarlijks op 2de Pinksterdag gehouden in Geleen (na 1987 Landgraaf). De film brengt in beeld en geluid de sfeer over van het festival, dat in deze beginjaren uitgroeide van een kleinschalig muziekfeest tot een festival met internationale uitstraling. Het originele filmmateriaal is opgenomen door een aantal amateurcineasten, onder wie ook de samensteller Van Wersch. Een groot aantal optredens is gemonteerd met opnames van het publiek en de voorbereidingen van het festival" ;
+    dc:identifier "0039" ;
+    dc:subject "Jan Smeets" ;
+    dc:title "Pinkpop: the first quintet, 1970-1974" ;
+    dct:created "1995" .
+

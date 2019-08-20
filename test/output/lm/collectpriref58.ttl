@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/58>
+    dc:creator "Enkhuizen" ;
+    dc:description "Munt. Achtste scheepjesgulden. Voorzijde: driemaster met volle zeilen op open zee. Binnencirkel: INDIAE BATAVORUM, (1802). kEERZIJDE: Generaliteitswapen met kroon tussen 1/8 - G Binnencirkel Omschrift: MO: ARG: FOED: BEL: HOL: Muntteken: ster." ;
+    dc:format "metaal", "zilver" ;
+    dc:identifier "G12565" ;
+    dc:title "Achtstse scheepjesgulden Nederlands-Indië" ;
+    dct:created "1802" ;
+    dct:extent "geheel diameter 2.0 cm" .
+

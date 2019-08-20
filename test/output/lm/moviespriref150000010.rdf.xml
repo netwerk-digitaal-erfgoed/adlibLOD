@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/150000010">
+    <dc:identifier>0004</dc:identifier>
+    <dc:title>Sittard in de jaren zestig, deel 3</dc:title>
+    <dc:creator>onbekend</dc:creator>
+    <dc:subject>stadsbeelden</dc:subject>
+    <dc:subject>spel</dc:subject>
+    <dc:subject>sport</dc:subject>
+    <dc:subject>monumenten</dc:subject>
+    <dc:subject>muziek</dc:subject>
+    <dc:subject>koninklijke bezoeken</dc:subject>
+    <dc:subject>Handel</dc:subject>
+    <dc:subject>begrafenissen</dc:subject>
+    <dc:subject>militairen</dc:subject>
+    <dc:description>Diverse onderwerpen opgenomen in Sittard omstreeks 1965: 1. Afbraak stadhuis; 2. Speeltuin in De Baandert; 3. Optocht gymnastiekfeest; 4. Showconcours muziekkorpsen in De Baandert; 5. Fanfare Sint-Jan; 6. Schaatsen in De Baandert; 7. Slederijden van de Kollenberg; 8. Oude kerkhof achter de flat aan de Odasingel; 9. Industrie- en handeltentoonstelling "Universa"; 10. Kerstverlichting; 11. Bezoek minister Vrolijk aan sportpark De Baandert; 12. Bezoek gemeenteraad aan Den Haag; 13. Begrafenis oud-gemeentesecretaris F.J.H. Ensinck; 14. Generaal der mariniers Nass bezoekt Sittard; 15. Koningin Juliana in Sittard</dc:description>
+  </rdf:Description>
+</rdf:RDF>
+  
+

@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000157>
+    dc:creator "Rieter, Th." ;
+    dc:identifier "Rieter-5" ;
+    dc:title "Velden: 1. Familie Rieter; 2. De Maas dichtgevroren; 3. Communiestoet" .
+

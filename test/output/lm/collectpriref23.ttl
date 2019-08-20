@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/23>
+    dc:description "Munt. Tien cent (eentiende) gulden Nederlands-Indië. Voorzijde: Generaliteitswapen met kroon tussen waarde-aanduiding 1/10-G Omschrift boven: NEDERL. INDIE (grotendeels afgesleten); beneden muntmeesterteken: zwaard en 1858, muntteken: mercuriusstaf. Keerzijde: in binnencirkel twee regels Maleise tekst: SAPER POELOH ROEPIJAH. Javaans onderschrift: SA PARA SA POELOH ROEPIJAH en ster. Kartelrand." ;
+    dc:format "metaal", "zilver" ;
+    dc:identifier "G12561" ;
+    dc:title "Tien cent Nederlands-Indië" ;
+    dct:created "1858" ;
+    dct:extent "geheel diameter 1.5 cm" .
+

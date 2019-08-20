@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000103>
+    dc:creator "C & H Leveroy", "Crins, Peter", "Hermans, Peter", "Peter Crins" ;
+    dc:description "Documentaire over de oorlogsjaren 1940-1945 in Leveroy, met aandacht voor o.a. de Duitse inval op 10 mei 1940, het dagelijks leven, het verzet, joodse onderduikers en de bevrijding. Interviews met ooggetuigen worden afgewisseld met historisch beeldmateriaal." ;
+    dc:identifier "0028" ;
+    dc:title "Leveroy 1940-1945. Een Midden-Limburgs dorp in oorlogstijd" .
+

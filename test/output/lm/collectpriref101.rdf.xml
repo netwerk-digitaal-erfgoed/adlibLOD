@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/101">
+    <dc:identifier>L17694</dc:identifier>
+    <dc:title>Zeven Werken van Barmhartigheid</dc:title>
+    <dc:creator>Francken II, Frans</dc:creator>
+    <dct:spatial>Antwerpen</dct:spatial>
+    <dc:description>Schilderij, opgebouwd uit drie panelen. Tegen een achtergrond van een poort en enkele gebouwen (links) en een vergezicht met een kerk en andere gebouwen (rechts) zijn scènes met de zeven werken van barmhartigheid uitgebeeld. Links op de voorgrond wordt brood uitgedeeld aan de hongerigen. Linksachter komt een man uit een huis met een mand met brood. Achter de groep hongerigen worden (in een opengewerkte binnenruimte) de naakten gekleed (links) en de zieken bezocht (rechts). Rechts van deze scènes aan de voet van de gebouwen worden de vreemdelingen geherbergd. Rechtsvoor worden de dorstigen gelaafd en geheel rechts in het beeldvlak worden de gevangenen bezocht. Naast de gevangenistoren gaat een groepje mensen de doden begraven.</dc:description>
+    <dc:format>olieverf</dc:format>
+    <dc:format>hout</dc:format>
+    <dc:format>hout</dc:format>
+    <dct:created>circa 1600 - circa 1642</dct:created>
+    <dct:temporal>Nieuwe Tijd</dct:temporal>
+    <dct:extent>schilderij hoogte 70.5 cm</dct:extent>
+    <dct:extent>breedte 107.5 cm</dct:extent>
+    <dct:extent>lijst hoogte 80.8 cm</dct:extent>
+    <dct:extent>breedte 117.5 cm</dct:extent>
+    <dct:extent>diepte 3.0 cm</dct:extent>
+  </rdf:Description>
+</rdf:RDF>
+  
+

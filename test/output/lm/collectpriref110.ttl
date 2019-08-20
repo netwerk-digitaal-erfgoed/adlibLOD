@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/110>
+    dc:description """Vaandel, rechthoekig.
+Voorzijde: In midden diagonale blauwe balk met opschrift: Limburg aan Christus. Hoek rechtsboven wapen met lelie, rad en Sint Christoffel. Getooid met staf, kruis en mijter. linksonder het wapen van de provincie Limburg. Hoeken versierd met Gelderse roos. Vier roodwitte wapenschilden. Opschrift midden boven: St. Servatius; links O.L. Vrouwe, beneden: St. Martinus., par.; rechts St. Matthias
+Keerzijde: diagonale blauwe balk met opschrift: Katholieke Actie. Hoek rechtsboven: wapen stad Maastricht met stralen; hoek linksonder: sleutel. De rand is hetzelfde als op de voorzijde.""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17708" ;
+    dc:title "LIMBURG AAN CHRISTUS St. Servatius St. Mathias St. Martinus O.L. Vrouwe" ;
+    dc:type "vaandel" ;
+    dct:created "circa 1900 - circa 1970" ;
+    dct:extent "geheel breedte 97.0 cm", "hoogte 111.0 cm" .
+

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/70>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Krijtttekening/gouache. Man met zijwaarts gestrekte armen rond bol op sokkel voor gebouwen met raamwerken beneden. Op voorgrond voorgrond links: voorbijganger. Op achtergrond rechts: twee personen. Signatuur + datering rechtsonder op uitsparing die over krijttekening/gouache is heengeplakt : P. Killaars '55. Op achterzijde geschreven: prijsvraag ontwerp Mens en elementen brons 1955 (PLEM Maasbracht 1957 geplaatst LTS Rumpen Brunssum" ;
+    dc:format "hout", "karton", "krijt", "papier" ;
+    dc:identifier "L17639" ;
+    dc:title "Mens en elementen" ;
+    dct:created "1955" ;
+    dct:extent "geheel breedte 78.8 cm", "geheel diepte 5.4 cm", "geheel hoogte 53.5 cm" ;
+    dct:spatial "Maastricht" .
+

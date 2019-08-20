@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000036>
+    dc:creator "Branje, Bert", "Haenen, Herman", "Huub Mans, Philip Bloemendal", "Video Limburg BV" ;
+    dc:description "Compilatie van filmfragmenten over Sittard uit de periode 1920 tot 1965. Het originele materiaal is afkomstig uit het Polygoonarchief en van particuliere filmmakers. De volgende onderwerpen komen aan bod: krombroodrapen, schuttersfeest, carnaval, processies, huwelijk tussen twee circusartiesten, Tweede Wereldoorlog en bevrijding, koninklijk bezoek, afbraak van het oude stadhuis, voetbalwedstrijd Sittardia tegen Barcelona, stadsfiguren." ;
+    dc:identifier "0016" ;
+    dc:subject "Tweede Wereldoorlog", "bevrijding", "carnaval", "koninklijke bezoeken", "optochten", "schutterijen", "sport", "stadsbeelden", "volkscultuur" ;
+    dc:title "Sittard vroeger...1920-1965" ;
+    dct:created "1992" .
+

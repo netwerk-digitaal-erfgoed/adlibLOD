@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000016>
+    dc:creator "Grijpink, Jan", "NCRV", "Raven, Anneke" ;
+    dc:description "Televisie-uitzending van \"Kerkepad\" in Sittard. De route loopt langs de volgende kerken en kloosters: Sint-Petruskerk, Basiliek van Onze-Lieve-Vrouw van het H. Hart, Nederlands Hervormde Kerk, Sint-Michielskerk, klooster Sint-Agnetenberg en Sint-Rosakapel." ;
+    dc:identifier "0007" ;
+    dc:subject "kerkgebouwen", "kloosters", "stadsbeelden" ;
+    dc:title "Kerkepad in Sittard" ;
+    dct:created "1983" .
+

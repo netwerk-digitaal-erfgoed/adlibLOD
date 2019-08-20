@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/3">
+    <dc:identifier>L17532R</dc:identifier>
+    <dc:title>Boek: De zak met vlooien : Oflag 67, M Stalag 371 : ontvluchtingen van Nederlandse officieren uit krijgsgevangenschap, 1942-1945</dc:title>
+    <dc:creator>Bigot &amp; Van Rossum</dc:creator>
+    <dct:spatial>Blaricum</dct:spatial>
+    <dc:description>Boek. De zak met vlooien: ontvluchtingen van Nederlandse officieren uit krijgsgevangenschap 1942 - 1945. Uitgeverij: Bigot &amp; Van Rossum B.V. Blaricum. Omslag: Reint de Jonge. 288 pagina's</dc:description>
+    <dc:format>papier</dc:format>
+    <dct:created>1974</dct:created>
+  </rdf:Description>
+</rdf:RDF>
+  
+

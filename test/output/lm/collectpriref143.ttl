@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/143>
+    dc:description """Vlag. Rechthoekig, witte franje aan drie zijden. Ophanglussen ontbreken. Drie horizontale stroken: rood, wit, rood. In midden wapenschild in kluren rood, wit en blauw met diagonale balk in kleuren wit en groen.
+Opschrift: R.K. Werkledenvereeniging / St.. Antonius Limmel""" ;
+    dc:identifier "L17740" ;
+    dc:title "R.K. WERKLEDENVEREENIGING ST. ANTONIUS LIMMEL" ;
+    dct:created "waarschijnlijk 1930 - waarschijnlijk 1940" ;
+    dct:extent "geheel breedte 146.0 cm", "geheel hoogte 148.0 cm" .
+

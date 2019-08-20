@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000008>
+    dc:creator "onbekend" ;
+    dc:description "Diverse onderwerpen opgenomen in Sittard omstreeks 1965: 1. Intergemeentelijk voetbaltoernooi 1966; 2. Kritzraedthuis; 3. Koninklijke onderscheidingen (fragm.); 4. Muziekkorps en optocht oude klederdrachten op de Markt; 5. Tentoonstelling \"Schilders in Limburg\"; 6. Tentoonstelling \"Oude kunstschatten uit Krefeld\"; 7. Koninklijke onderscheidingen (fragm.); 8. Carnavalsoptocht 1965; 9. \"Haufvaste in Zitterd: Krombreudjes raape\" (krombroodrapen); 10. Sint-Jozefmarkt; 11. Koninklijke onderscheidingen, o.a. aan Sjeer Schrijen (fragm.)" ;
+    dc:identifier "0003" ;
+    dc:subject "beeldende kunst", "carnaval", "monumenten", "muziek", "onderscheidingen", "sport", "stadsbeelden", "volkscultuur" ;
+    dc:title "Sittard in de jaren zestig, deel 2" .
+

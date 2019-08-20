@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/67>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Studie voor oorlogsmonument Tegelen. Gewonde man voorovergebogen liggend (links); stand kind met duif in armen voor vrouw met rechterhand tegen hoofd. Signatuur + datering linksonder PK 1953. Opschrift rechtsonder Teglen definitieve schets." ;
+    dc:format "inkt", "papier" ;
+    dc:identifier "L17636" ;
+    dc:title "Gezin (studie oorlogsmonument Tegelen)" ;
+    dct:created "1953" ;
+    dct:extent "geheel breedte 56 cm", "geheel hoogte 39 cm" ;
+    dct:spatial "Maastricht" .
+

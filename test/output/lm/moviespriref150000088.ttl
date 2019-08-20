@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000088>
+    dc:creator "Nunen, Jean van" ;
+    dc:description "Reportage van de opening van de Stadbroekermolen in Sittard, op 8 september 1995. De molen is na restauratie in gebruik genomen als woonhuis annex ambachtelijke molen. Er zijn plannen om ook de oorspronkelijke bakkerij in ere te herstellen" ;
+    dc:identifier "0022" ;
+    dc:subject "ambachten", "monumenten" ;
+    dc:title "Opening Stadbroekermolen" ;
+    dct:created "1995" .
+

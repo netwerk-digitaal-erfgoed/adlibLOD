@@ -930,6 +930,1110 @@
 <http://example.com/concept2/4159>
     rdfs:label "snoep" .
 
+<http://example.com/concept3/1459>
+    rdfs:label "painting" .
+
+<http://example.com/concept3/1484>
+    rdfs:label "Photograph" .
+
+<http://example.com/concept3/2908>
+    rdfs:label "teapot" .
+
+<http://example.com/concept3/2945>
+    rdfs:label "Negative" .
+
+<http://example.com/concept3/2962>
+    rdfs:label "Model" .
+
+<http://example.com/concept3/2972>
+    rdfs:label "Concrete fragment" .
+
+<http://example.com/concept3/2977>
+    rdfs:label "Medal" .
+
+<http://example.com/concept3/2983>
+    rdfs:label "Radio" .
+
+<http://example.com/concept3/2989>
+    rdfs:label "Telephone" .
+
+<http://example.com/concept3/2991>
+    rdfs:label "Rifle" .
+
+<http://example.com/concept3/2995>
+    rdfs:label "Fan" .
+
+<http://example.com/concept3/3006>
+    rdfs:label "Jar" .
+
+<http://example.com/concept3/3026>
+    rdfs:label "Tureen" .
+
+<http://example.com/concept3/3033>
+    rdfs:label "2.45" .
+
+<http://example.com/concept3/3037>
+    rdfs:label "Moneybox" .
+
+<http://example.com/concept3/3042>
+    rdfs:label "Biomicrite" .
+
+<http://example.com/concept3/3045>
+    rdfs:label "Mollusc" .
+
+<http://example.com/concept3/3047>
+    rdfs:label "Bivalve" .
+
+<http://example.com/concept3/3048>
+    rdfs:label "Coin" .
+
+<http://example.com/concept3/3056>
+    rdfs:label "Greetings card" .
+
+<http://example.com/concept3/3067>
+    rdfs:label "Wrap" .
+
+<http://example.com/concept3/3069>
+    rdfs:label "capital" .
+
+<http://example.com/concept3/3073>
+    rdfs:label "sculpture (figure)" .
+
+<http://example.com/concept3/3074>
+    rdfs:label "sculpture (mother goddess)" .
+
+<http://example.com/concept3/3075>
+    rdfs:label "mosaic" .
+
+<http://example.com/concept3/3082>
+    rdfs:label "brooch (square-headed)" .
+
+<http://example.com/concept3/3085>
+    rdfs:label "toilet set" .
+
+<http://example.com/concept3/3087>
+    rdfs:label "waggon" .
+
+<http://example.com/concept3/3090>
+    rdfs:label "photographic print" .
+
+<http://example.com/concept3/3094>
+    rdfs:label "postcard (building)" .
+
+<http://example.com/concept3/3098>
+    rdfs:label "postcard (village/town)" .
+
+<http://example.com/concept3/3099>
+    rdfs:label "postcard (multi-view)" .
+
+<http://example.com/concept3/3102>
+    rdfs:label "Star chart" .
+
+<http://example.com/concept3/3113>
+    rdfs:label "Celestial globe" .
+
+<http://example.com/concept3/3119>
+    rdfs:label "Orrery, vertical" .
+
+<http://example.com/concept3/3124>
+    rdfs:label "Orrery / case" .
+
+<http://example.com/concept3/3128>
+    rdfs:label "Indigenous Object" .
+
+<http://example.com/concept3/3133>
+    rdfs:label "Work Of Art" .
+
+<http://example.com/concept3/3135>
+    rdfs:label "Costume" .
+
+<http://example.com/concept3/3141>
+    rdfs:label "Puppet" .
+
+<http://example.com/concept3/3146>
+    rdfs:label "Sculpture" .
+
+<http://example.com/concept3/3211>
+    rdfs:label "design" .
+
+<http://example.com/concept3/3215>
+    rdfs:label "Performance" .
+
+<http://example.com/concept3/3245>
+    rdfs:label "Specimen" .
+
+<http://example.com/concept3/3246>
+    rdfs:label "dance" .
+
+<http://example.com/concept3/3255>
+    rdfs:label "Gemälde" .
+
+<http://example.com/concept3/3266>
+    rdfs:label "Sonnenuhr" .
+
+<http://example.com/concept3/3272>
+    rdfs:label "Schulwandbild" .
+
+<http://example.com/concept3/3278>
+    rdfs:label "Andachtsbild" .
+
+<http://example.com/concept3/3286>
+    rdfs:label "Tischuhr" .
+
+<http://example.com/concept3/3293>
+    rdfs:label "Karte/Plan" .
+
+<http://example.com/concept3/3298>
+    rdfs:label "Zuckerzange" .
+
+<http://example.com/concept3/3304>
+    rdfs:label "Tafelschmuck" .
+
+<http://example.com/concept3/3310>
+    rdfs:label "Löffel" .
+
+<http://example.com/concept3/3316>
+    rdfs:label "Taschenuhr" .
+
+<http://example.com/concept3/3322>
+    rdfs:label "Mörser" .
+
+<http://example.com/concept3/3327>
+    rdfs:label "Portaluhr" .
+
+<http://example.com/concept3/3331>
+    rdfs:label "Rahmenuhr" .
+
+<http://example.com/concept3/3336>
+    rdfs:label "Kupferstich" .
+
+<http://example.com/concept3/3347>
+    rdfs:label "Mörser mit Pistill" .
+
+<http://example.com/concept3/3351>
+    rdfs:label "Fotografie" .
+
+<http://example.com/concept3/3356>
+    rdfs:label "Tischaufsatz" .
+
+<http://example.com/concept3/3363>
+    rdfs:label "Sarkophagdeckel" .
+
+<http://example.com/concept3/3368>
+    rdfs:label "Stuhluhr" .
+
+<http://example.com/concept3/3373>
+    rdfs:label "Hausstein" .
+
+<http://example.com/concept3/3380>
+    rdfs:label "Sanduhr" .
+
+<http://example.com/concept3/3391>
+    rdfs:label "Teller" .
+
+<http://example.com/concept3/3397>
+    rdfs:label "Deckeldose" .
+
+<http://example.com/concept3/3401>
+    rdfs:label "UhrwerkStuhluhr" .
+
+<http://example.com/concept3/3403>
+    rdfs:label "Großuhren" .
+
+<http://example.com/concept3/3405>
+    rdfs:label "Klistierspritze" .
+
+<http://example.com/concept3/3409>
+    rdfs:label "Kranenkanne" .
+
+<http://example.com/concept3/3412>
+    rdfs:label "Medallionbild" .
+
+<http://example.com/concept3/3415>
+    rdfs:label "Streudose" .
+
+<http://example.com/concept3/3425>
+    rdfs:label "Figurenuhr" .
+
+<http://example.com/concept3/3443>
+    rdfs:label "Landkarte" .
+
+<http://example.com/concept3/3445>
+    rdfs:label "Taufstein" .
+
+<http://example.com/concept3/3449>
+    rdfs:label "Teekanne" .
+
+<http://example.com/concept3/3458>
+    rdfs:label "Terrine" .
+
+<http://example.com/concept3/3489>
+    rdfs:label "Kerzenleuchter" .
+
+<http://example.com/concept3/3491>
+    rdfs:label "Teeservice" .
+
+<http://example.com/concept3/3496>
+    rdfs:label "Walzenkrug" .
+
+<http://example.com/concept3/3506>
+    rdfs:label "Zeichnung" .
+
+<http://example.com/concept3/3509>
+    rdfs:label "Kaffeekanne" .
+
+<http://example.com/concept3/3510>
+    rdfs:label "TintenfaßLöschpulverfaß" .
+
+<http://example.com/concept3/3513>
+    rdfs:label "Kohlebecken" .
+
+<http://example.com/concept3/3516>
+    rdfs:label "Tablett" .
+
+<http://example.com/concept3/3518>
+    rdfs:label "Wärmflasche" .
+
+<http://example.com/concept3/3535>
+    rdfs:label "Bierkrug" .
+
+<http://example.com/concept3/3538>
+    rdfs:label "Bodenstanduhr" .
+
+<http://example.com/concept3/3552>
+    rdfs:label "Stutzuhr" .
+
+<http://example.com/concept3/3556>
+    rdfs:label "Uhrwerk einer Turmuhr" .
+
+<http://example.com/concept3/3566>
+    rdfs:label "Dornenkranzbecher" .
+
+<http://example.com/concept3/3569>
+    rdfs:label "Taschenuhrständer" .
+
+<http://example.com/concept3/3578>
+    rdfs:label "Grabplatte" .
+
+<http://example.com/concept3/3580>
+    rdfs:label "TaschensonnenuhrSonnenuhr" .
+
+<http://example.com/concept3/3589>
+    rdfs:label "Becher" .
+
+<http://example.com/concept3/3611>
+    rdfs:label "Dose in Schwanenform" .
+
+<http://example.com/concept3/3623>
+    rdfs:label "Frauenkopf" .
+
+<http://example.com/concept3/3649>
+    rdfs:label "Vase" .
+
+<http://example.com/concept3/3669>
+    rdfs:label "Befestigungsplan" .
+
+<http://example.com/concept3/3677>
+    rdfs:label "Service" .
+
+<http://example.com/concept3/3681>
+    rdfs:label "Sternenkarte" .
+
+<http://example.com/concept3/3687>
+    rdfs:label "Stilleben" .
+
+<http://example.com/concept3/3712>
+    rdfs:label "Tröstelbierschale" .
+
+<http://example.com/concept3/3719>
+    rdfs:label "Wöchnerinnenschüssel" .
+
+<http://example.com/concept3/3746>
+    rdfs:label "Deckelbecher" .
+
+<http://example.com/concept3/3764>
+    rdfs:label "dessin" .
+
+<http://example.com/concept3/3773>
+    rdfs:label "calice[culte catholique]" .
+
+<http://example.com/concept3/3779>
+    rdfs:label "ornement liturgiquechasuble[liturgie]" .
+
+<http://example.com/concept3/3784>
+    rdfs:label "ornement liturgiquedalmatique[liturgie]" .
+
+<http://example.com/concept3/3785>
+    rdfs:label "château" .
+
+<http://example.com/concept3/3786>
+    rdfs:label "carton[projet]portrait[peinture]" .
+
+<http://example.com/concept3/3792>
+    rdfs:label "bracelet" .
+
+<http://example.com/concept3/3796>
+    rdfs:label "portrait[peinture]" .
+
+<http://example.com/concept3/3799>
+    rdfs:label "tableau[peinture]portrait[peinture]" .
+
+<http://example.com/concept3/3802>
+    rdfs:label "burette de messe" .
+
+<http://example.com/concept3/3812>
+    rdfs:label "buste[ronde-bosse]" .
+
+<http://example.com/concept3/3818>
+    rdfs:label "statue humaine" .
+
+<http://example.com/concept3/3821>
+    rdfs:label "vase à fleurs" .
+
+<http://example.com/concept3/3825>
+    rdfs:label "image impriméeimage historiquelivre commémoratif" .
+
+<http://example.com/concept3/3831>
+    rdfs:label "image imprimée" .
+
+<http://example.com/concept3/3836>
+    rdfs:label "plan de bâtiment" .
+
+<http://example.com/concept3/3841>
+    rdfs:label "bulle[lettre]miniature[peinture]" .
+
+<http://example.com/concept3/3849>
+    rdfs:label "buste[ronde-bosse]portrait[sculpture]" .
+
+<http://example.com/concept3/3854>
+    rdfs:label "tableau[peinture]" .
+
+<http://example.com/concept3/3857>
+    rdfs:label "plateau[support plat]" .
+
+<http://example.com/concept3/3862>
+    rdfs:label "vase cérémoniel" .
+
+<http://example.com/concept3/3876>
+    rdfs:label "portrait[peinture]tableau[peinture]" .
+
+<http://example.com/concept3/3879>
+    rdfs:label "maquette[f]" .
+
+<http://example.com/concept3/3884>
+    rdfs:label "tasse à cafésoucoupe de tasse à café" .
+
+<http://example.com/concept3/3895>
+    rdfs:label "Vaseportrait[peinture]" .
+
+<http://example.com/concept3/3901>
+    rdfs:label "récipientobjet décoratif" .
+
+<http://example.com/concept3/3904>
+    rdfs:label "calice[coupe]" .
+
+<http://example.com/concept3/3907>
+    rdfs:label "gobeletportrait[sculpture]médaillon[ornement]" .
+
+<http://example.com/concept3/3912>
+    rdfs:label "gobeletmédaillon[ornement]portrait[sculpture]" .
+
+<http://example.com/concept3/3913>
+    rdfs:label "salière[petit récipient]" .
+
+<http://example.com/concept3/3916>
+    rdfs:label "hanap" .
+
+<http://example.com/concept3/3920>
+    rdfs:label "vase de nuit" .
+
+<http://example.com/concept3/3927>
+    rdfs:label "volmodelreconstructiemodel" .
+
+<http://example.com/concept3/3937>
+    rdfs:label "haringkroon" .
+
+<http://example.com/concept3/3942>
+    rdfs:label "breispaan" .
+
+<http://example.com/concept3/3950>
+    rdfs:label "schilderij" .
+
+<http://example.com/concept3/4019>
+    rdfs:label "zak (kledingonderdeel)" .
+
+<http://example.com/concept3/4025>
+    rdfs:label "schilderijenportretten" .
+
+<http://example.com/concept3/4030>
+    rdfs:label "plaat" .
+
+<http://example.com/concept3/4034>
+    rdfs:label "kazuifels" .
+
+<http://example.com/concept3/4039>
+    rdfs:label "Photographkleurenfoto's" .
+
+<http://example.com/concept3/4043>
+    rdfs:label "landschappen (voorstellingen)tekeningen" .
+
+<http://example.com/concept3/4049>
+    rdfs:label "dalmatieken" .
+
+<http://example.com/concept3/4054>
+    rdfs:label "reliëfs" .
+
+<http://example.com/concept3/4058>
+    rdfs:label "devotiebeeldenreliëfs" .
+
+<http://example.com/concept3/4060>
+    rdfs:label "reclamebord" .
+
+<http://example.com/concept3/4064>
+    rdfs:label "devotieprentje" .
+
+<http://example.com/concept3/4071>
+    rdfs:label "ansichtkaartennieuwjaarskaart" .
+
+<http://example.com/concept3/4073>
+    rdfs:label "gevelstenen" .
+
+<http://example.com/concept3/4078>
+    rdfs:label "devotiebeeldenbeeldjes" .
+
+<http://example.com/concept3/4081>
+    rdfs:label "koffiekannen" .
+
+<http://example.com/concept3/4086>
+    rdfs:label "fornuizen" .
+
+<http://example.com/concept3/4088>
+    rdfs:label "handschoenen" .
+
+<http://example.com/concept3/4093>
+    rdfs:label "bidprenten" .
+
+<http://example.com/concept3/4112>
+    rdfs:label "produktverpakking" .
+
+<http://example.com/concept3/4117>
+    rdfs:label "zeep" .
+
+<http://example.com/concept3/4124>
+    rdfs:label "album" .
+
+<http://example.com/concept3/4125>
+    rdfs:label "reclamefiguur" .
+
+<http://example.com/concept3/4146>
+    rdfs:label "beeld" .
+
+<http://example.com/concept3/4149>
+    rdfs:label "sjabloon" .
+
+<http://example.com/concept3/4165>
+    rdfs:label "lollierek" .
+
+<http://example.com/concept3/4166>
+    rdfs:label "beeldje" .
+
+<http://example.com/concept3/4169>
+    rdfs:label "meubilairstoel" .
+
+<http://example.com/concept3/4174>
+    rdfs:label "interieurtextielmeubilairstoel" .
+
+<http://example.com/concept3/4188>
+    rdfs:label "aquarel" .
+
+<http://example.com/concept3/4192>
+    rdfs:label "gedenkraamglas-in-loodraam" .
+
+<http://example.com/concept3/4195>
+    rdfs:label "raambedekkinggordijnstof" .
+
+<http://example.com/concept3/4206>
+    rdfs:label "fotoportret" .
+
+<http://example.com/concept3/4209>
+    rdfs:label "documentair objectklok" .
+
+<http://example.com/concept3/4213>
+    rdfs:label "grafiekreclamebord" .
+
+<http://example.com/concept3/4216>
+    rdfs:label "penninghistoriepenning" .
+
+<http://example.com/concept3/4221>
+    rdfs:label "tekening" .
+
+<http://example.com/concept3/4230>
+    rdfs:label "sieraadbroche" .
+
+<http://example.com/concept3/4234>
+    rdfs:label "sieraadhalssieraad" .
+
+<http://example.com/concept3/4238>
+    rdfs:label "motorstoommachine" .
+
+<http://example.com/concept3/4247>
+    rdfs:label "spingereedschapspinmachineselfactor" .
+
+<http://example.com/concept3/4248>
+    rdfs:label "fotogroepsfoto" .
+
+<http://example.com/concept3/4253>
+    rdfs:label "weefgereedschapweefmachineJacquard-weefmachine" .
+
+<http://example.com/concept3/4255>
+    rdfs:label "spingereedschapduivelmolen" .
+
+<http://example.com/concept3/4256>
+    rdfs:label "weefgereedschapweefmachine" .
+
+<http://example.com/concept3/4259>
+    rdfs:label "interieurtextielraambedekkinggordijnstof" .
+
+<http://example.com/concept3/4262>
+    rdfs:label "appretuurwerktuigpers" .
+
+<http://example.com/concept3/4265>
+    rdfs:label "kunstvoorwerptaart" .
+
+<http://example.com/concept3/4275>
+    rdfs:label "foto" .
+
+<http://example.com/concept3/4276>
+    rdfs:label "documentair objectbook" .
+
+<http://example.com/concept4/1455>
+    rdfs:label "canvas" .
+
+<http://example.com/concept4/1464>
+    rdfs:label "paper" .
+
+<http://example.com/concept4/1468>
+    rdfs:label "ivory" .
+
+<http://example.com/concept4/1471>
+    rdfs:label "panel (wood)" .
+
+<http://example.com/concept4/2911>
+    rdfs:label "printing colour" .
+
+<http://example.com/concept4/2963>
+    rdfs:label "Plastic" .
+
+<http://example.com/concept4/2970>
+    rdfs:label "Wood" .
+
+<http://example.com/concept4/2971>
+    rdfs:label "Metal" .
+
+<http://example.com/concept4/2973>
+    rdfs:label "Concrete" .
+
+<http://example.com/concept4/2981>
+    rdfs:label "Silver" .
+
+<http://example.com/concept4/2986>
+    rdfs:label "Bakelite" .
+
+<http://example.com/concept4/3008>
+    rdfs:label "Stoneware" .
+
+<http://example.com/concept4/3016>
+    rdfs:label "oil paint" .
+
+<http://example.com/concept4/3023>
+    rdfs:label "tempera" .
+
+<http://example.com/concept4/3029>
+    rdfs:label "earthenware" .
+
+<http://example.com/concept4/3070>
+    rdfs:label "oolite" .
+
+<http://example.com/concept4/3076>
+    rdfs:label "tesserae" .
+
+<http://example.com/concept4/3083>
+    rdfs:label "Bronze" .
+
+<http://example.com/concept4/3091>
+    rdfs:label "cardboard" .
+
+<http://example.com/concept4/3104>
+    rdfs:label "Tissue paper" .
+
+<http://example.com/concept4/3111>
+    rdfs:label "Tissue" .
+
+<http://example.com/concept4/3125>
+    rdfs:label "Mahogany" .
+
+<http://example.com/concept4/3137>
+    rdfs:label "Cotton Denim" .
+
+<http://example.com/concept4/3154>
+    rdfs:label "cream laid paper" .
+
+<http://example.com/concept4/3167>
+    rdfs:label "wove paper" .
+
+<http://example.com/concept4/3176>
+    rdfs:label "heavy wove paper" .
+
+<http://example.com/concept4/3179>
+    rdfs:label "thick white wove paper" .
+
+<http://example.com/concept4/3185>
+    rdfs:label "woolsilk" .
+
+<http://example.com/concept4/3194>
+    rdfs:label "Photographic Paper" .
+
+<http://example.com/concept4/3200>
+    rdfs:label "Lame Silk" .
+
+<http://example.com/concept4/3204>
+    rdfs:label "Crepe de chine silk" .
+
+<http://example.com/concept4/3206>
+    rdfs:label "Silk Velvet" .
+
+<http://example.com/concept4/3219>
+    rdfs:label "cardboardgouache" .
+
+<http://example.com/concept4/3225>
+    rdfs:label "thick wove Velin Cuve Rives 300 gsm paper" .
+
+<http://example.com/concept4/3238>
+    rdfs:label "cardboardWood" .
+
+<http://example.com/concept4/3243>
+    rdfs:label "MetalFelt" .
+
+<http://example.com/concept4/3247>
+    rdfs:label "digital" .
+
+<http://example.com/concept4/3258>
+    rdfs:label "LeinwandÖlfarben" .
+
+<http://example.com/concept4/3267>
+    rdfs:label "Messing" .
+
+<http://example.com/concept4/3273>
+    rdfs:label "PapierDruckfarbe" .
+
+<http://example.com/concept4/3279>
+    rdfs:label "PapierGlasHolz" .
+
+<http://example.com/concept4/3287>
+    rdfs:label "AlabasterMessing" .
+
+<http://example.com/concept4/3294>
+    rdfs:label "Papier" .
+
+<http://example.com/concept4/3305>
+    rdfs:label "Keramik" .
+
+<http://example.com/concept4/3311>
+    rdfs:label "Tin" .
+
+<http://example.com/concept4/3317>
+    rdfs:label "GoldPerleRubin" .
+
+<http://example.com/concept4/3328>
+    rdfs:label "AlabasterMessingPerlmuttHolzGlas" .
+
+<http://example.com/concept4/3330>
+    rdfs:label "SilverGlas" .
+
+<http://example.com/concept4/3332>
+    rdfs:label "HolzGlasMetal" .
+
+<http://example.com/concept4/3348>
+    rdfs:label "MessingHolzGlas" .
+
+<http://example.com/concept4/3364>
+    rdfs:label "Sandstein" .
+
+<http://example.com/concept4/3369>
+    rdfs:label "HolzMessingleadFarbe" .
+
+<http://example.com/concept4/3381>
+    rdfs:label "HolzGlas" .
+
+<http://example.com/concept4/3384>
+    rdfs:label "HolzÖlfarben" .
+
+<http://example.com/concept4/3388>
+    rdfs:label "MessingleadHolz" .
+
+<http://example.com/concept4/3402>
+    rdfs:label "Messingiron" .
+
+<http://example.com/concept4/3406>
+    rdfs:label "TinHolz" .
+
+<http://example.com/concept4/3410>
+    rdfs:label "TinMessing" .
+
+<http://example.com/concept4/3426>
+    rdfs:label "BronzeGlas" .
+
+<http://example.com/concept4/3437>
+    rdfs:label "BronzeMarmorGlas" .
+
+<http://example.com/concept4/3452>
+    rdfs:label "AlabasterMessingGlas" .
+
+<http://example.com/concept4/3492>
+    rdfs:label "KeramikPeddigrohr" .
+
+<http://example.com/concept4/3511>
+    rdfs:label "TinFarbe" .
+
+<http://example.com/concept4/3514>
+    rdfs:label "TinCopper" .
+
+<http://example.com/concept4/3521>
+    rdfs:label "SilverGlasRubin" .
+
+<http://example.com/concept4/3539>
+    rdfs:label "PerlmuttGlas" .
+
+<http://example.com/concept4/3543>
+    rdfs:label "EichenholzÖlfarben" .
+
+<http://example.com/concept4/3548>
+    rdfs:label "SilverRubinGlas" .
+
+<http://example.com/concept4/3553>
+    rdfs:label "MessingGlasHolz" .
+
+<http://example.com/concept4/3557>
+    rdfs:label "ironHolz" .
+
+<http://example.com/concept4/3561>
+    rdfs:label "Holztempera" .
+
+<http://example.com/concept4/3570>
+    rdfs:label "LederHolz" .
+
+<http://example.com/concept4/3573>
+    rdfs:label "MetalGlasNußbaum" .
+
+<http://example.com/concept4/3576>
+    rdfs:label "PorzellanMessingGlas" .
+
+<http://example.com/concept4/3577>
+    rdfs:label "EicheAlabasterMessingGlas" .
+
+<http://example.com/concept4/3581>
+    rdfs:label "SilverMessing" .
+
+<http://example.com/concept4/3582>
+    rdfs:label "GoldSilverMessingGlas" .
+
+<http://example.com/concept4/3583>
+    rdfs:label "SilverMessingGlas" .
+
+<http://example.com/concept4/3585>
+    rdfs:label "TinGlas" .
+
+<http://example.com/concept4/3600>
+    rdfs:label "PapierHolzGlas" .
+
+<http://example.com/concept4/3601>
+    rdfs:label "HolzAlabasterMessingGlas" .
+
+<http://example.com/concept4/3602>
+    rdfs:label "HolzFarbeMessingGlas" .
+
+<http://example.com/concept4/3612>
+    rdfs:label "KeramikFayence" .
+
+<http://example.com/concept4/3633>
+    rdfs:label "CopperÖlfarben" .
+
+<http://example.com/concept4/3642>
+    rdfs:label "MessingGlas" .
+
+<http://example.com/concept4/3651>
+    rdfs:label "HolzGlasleadMessing" .
+
+<http://example.com/concept4/3674>
+    rdfs:label "LeinwandÖlfarbenPappe" .
+
+<http://example.com/concept4/3709>
+    rdfs:label "EbenholzAlabasterMessingPerlmuttGlas" .
+
+<http://example.com/concept4/3710>
+    rdfs:label "MessingElfenbeinGlas" .
+
+<http://example.com/concept4/3718>
+    rdfs:label "TinKork" .
+
+<http://example.com/concept4/3724>
+    rdfs:label "TinMessingHolz" .
+
+<http://example.com/concept4/3729>
+    rdfs:label "PapierGelatine" .
+
+<http://example.com/concept4/3734>
+    rdfs:label "MessingÖlfarben" .
+
+<http://example.com/concept4/3741>
+    rdfs:label "SilverSchildpattGlas" .
+
+<http://example.com/concept4/3742>
+    rdfs:label "HolzMetalGlas" .
+
+<http://example.com/concept4/3743>
+    rdfs:label "ZinkGlas" .
+
+<http://example.com/concept4/3767>
+    rdfs:label "papier[f]encre noire" .
+
+<http://example.com/concept4/3780>
+    rdfs:label "satinsoieor" .
+
+<http://example.com/concept4/3789>
+    rdfs:label "toile à peindrepeinture à l'huile" .
+
+<http://example.com/concept4/3794>
+    rdfs:label "or" .
+
+<http://example.com/concept4/3798>
+    rdfs:label "peinturetoile à peindre" .
+
+<http://example.com/concept4/3803>
+    rdfs:label "papier à dessinencre de Chine" .
+
+<http://example.com/concept4/3805>
+    rdfs:label "papier à dessinbistre[peinture]" .
+
+<http://example.com/concept4/3806>
+    rdfs:label "papier à dessinsépia[peinture]" .
+
+<http://example.com/concept4/3808>
+    rdfs:label "papier à dessinencre" .
+
+<http://example.com/concept4/3811>
+    rdfs:label "papier à dessinencre brune" .
+
+<http://example.com/concept4/3820>
+    rdfs:label "marbré" .
+
+<http://example.com/concept4/3822>
+    rdfs:label "faïence[f]" .
+
+<http://example.com/concept4/3828>
+    rdfs:label "papier à imprimerencre" .
+
+<http://example.com/concept4/3838>
+    rdfs:label "papier[f]encre de Chine" .
+
+<http://example.com/concept4/3842>
+    rdfs:label "vélingouacheencre de Chineencre rouge" .
+
+<http://example.com/concept4/3848>
+    rdfs:label "chênepeinture à l'huile" .
+
+<http://example.com/concept4/3856>
+    rdfs:label "papier à dessingouache" .
+
+<http://example.com/concept4/3864>
+    rdfs:label "brique" .
+
+<http://example.com/concept4/3865>
+    rdfs:label "toile à peindrepeinture" .
+
+<http://example.com/concept4/3874>
+    rdfs:label "papier à dessincrayon" .
+
+<http://example.com/concept4/3880>
+    rdfs:label "boistissu" .
+
+<http://example.com/concept4/3885>
+    rdfs:label "porcelaine" .
+
+<http://example.com/concept4/3891>
+    rdfs:label "verre" .
+
+<http://example.com/concept4/3896>
+    rdfs:label "cristal" .
+
+<http://example.com/concept4/3923>
+    rdfs:label "grès[céramique]" .
+
+<http://example.com/concept4/3930>
+    rdfs:label "houttextieltouw" .
+
+<http://example.com/concept4/3938>
+    rdfs:label "ZinkhoutGlas" .
+
+<http://example.com/concept4/3944>
+    rdfs:label "hout" .
+
+<http://example.com/concept4/3953>
+    rdfs:label "hardboard (Ned)olieverf" .
+
+<http://example.com/concept4/3962>
+    rdfs:label "linnenolieverf" .
+
+<http://example.com/concept4/3969>
+    rdfs:label "triplexolieverfwaterverf" .
+
+<http://example.com/concept4/3975>
+    rdfs:label "houtolieverf" .
+
+<http://example.com/concept4/3987>
+    rdfs:label "hardboard (Ned)olieverfwaterverf" .
+
+<http://example.com/concept4/3992>
+    rdfs:label "triplexwaterverfolieverf" .
+
+<http://example.com/concept4/4000>
+    rdfs:label "triplexolieverf" .
+
+<http://example.com/concept4/4021>
+    rdfs:label "textielkatoen" .
+
+<http://example.com/concept4/4024>
+    rdfs:label "textiel" .
+
+<http://example.com/concept4/4027>
+    rdfs:label "olieverflinnen" .
+
+<http://example.com/concept4/4032>
+    rdfs:label "emailleren" .
+
+<http://example.com/concept4/4036>
+    rdfs:label "zijde" .
+
+<http://example.com/concept4/4041>
+    rdfs:label "papier,spaanplaat" .
+
+<http://example.com/concept4/4042>
+    rdfs:label "papier (vezelprodukt)Glashout" .
+
+<http://example.com/concept4/4045>
+    rdfs:label "papier (vezelprodukt)karton" .
+
+<http://example.com/concept4/4051>
+    rdfs:label "stof (textiel)" .
+
+<http://example.com/concept4/4055>
+    rdfs:label "BronzekunststofGlas" .
+
+<http://example.com/concept4/4062>
+    rdfs:label "karton" .
+
+<http://example.com/concept4/4067>
+    rdfs:label "papier (vezelprodukt)" .
+
+<http://example.com/concept4/4074>
+    rdfs:label "steen" .
+
+<http://example.com/concept4/4091>
+    rdfs:label "nylon (Ned)" .
+
+<http://example.com/concept4/4117>
+    rdfs:label "zeep" .
+
+<http://example.com/concept4/4121>
+    rdfs:label "kartonPapier" .
+
+<http://example.com/concept4/4129>
+    rdfs:label "houttextiel" .
+
+<http://example.com/concept4/4136>
+    rdfs:label "MetalMetal" .
+
+<http://example.com/concept4/4147>
+    rdfs:label "aardewerk" .
+
+<http://example.com/concept4/4151>
+    rdfs:label "iron" .
+
+<http://example.com/concept4/4160>
+    rdfs:label "houtPlastic" .
+
+<http://example.com/concept4/4170>
+    rdfs:label "Carbonkunststofviltwol" .
+
+<http://example.com/concept4/4175>
+    rdfs:label "katoenSteel (mat)Steel" .
+
+<http://example.com/concept4/4179>
+    rdfs:label "houtkatoenmohair" .
+
+<http://example.com/concept4/4185>
+    rdfs:label "textielhoutbandijzer" .
+
+<http://example.com/concept4/4189>
+    rdfs:label "waterverf" .
+
+<http://example.com/concept4/4193>
+    rdfs:label "Glas" .
+
+<http://example.com/concept4/4196>
+    rdfs:label "linnen" .
+
+<http://example.com/concept4/4197>
+    rdfs:label "katoenMetalschuim" .
+
+<http://example.com/concept4/4199>
+    rdfs:label "hardboardtouwhenneplak" .
+
+<http://example.com/concept4/4204>
+    rdfs:label "Aluminium" .
+
+<http://example.com/concept4/4210>
+    rdfs:label "MetalGlas" .
+
+<http://example.com/concept4/4214>
+    rdfs:label "Papierkarton" .
+
+<http://example.com/concept4/4222>
+    rdfs:label "papier [materiaal]potloodkrijt" .
+
+<http://example.com/concept4/4225>
+    rdfs:label "houtvelourswolzijde" .
+
+<http://example.com/concept4/4231>
+    rdfs:label "rayonrubberMessing" .
+
+<http://example.com/concept4/4235>
+    rdfs:label "textielSilverkunststof" .
+
+<http://example.com/concept4/4241>
+    rdfs:label "Cast ironMetalCopper" .
+
+<http://example.com/concept4/4246>
+    rdfs:label "olieverfdoek" .
+
+<http://example.com/concept4/4254>
+    rdfs:label "Cast ironMetal" .
+
+<http://example.com/concept4/4257>
+    rdfs:label "Cast ironhout" .
+
+<http://example.com/concept4/4260>
+    rdfs:label "katoen" .
+
+<http://example.com/concept4/4263>
+    rdfs:label "houtCast iron" .
+
+<http://example.com/concept4/4266>
+    rdfs:label "rubberelastiekkraal" .
+
+<http://example.com/concept4/4271>
+    rdfs:label "wol" .
+
 <http://example.com/event/3114>
     rdfs:label "Paris Exhibition of 1889" .
 

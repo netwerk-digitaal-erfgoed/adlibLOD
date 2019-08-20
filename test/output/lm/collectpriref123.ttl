@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/123>
+    dc:description "Vlag Nederlandse Katholieke Mijnwerkers Bond Hulsberg. Rechthoekig, in kleuren paars, wit, rood, geel en zwart. In centrum oranje kruis met gelijkvromige kruisarmen. Op kruis: brandende mijnlamp met moker en hamer. Onder kruis V-vormig banier opschrift: NED. KATH. MIJNW. BOND. Kruis tussen KATH. en MIJNW. Opschrift virticale gele strook: HULSBERG. Zeven lussen." ;
+    dc:format "wol" ;
+    dc:identifier "L17727" ;
+    dc:title "HULSBERG NED. KATH+MIJNW. BOND" ;
+    dc:type "vlag" ;
+    dct:created "1945 - circa 1960" ;
+    dct:extent "geheel breedte 158.0 cm", "geheel hoogte 148.0 cm" .
+

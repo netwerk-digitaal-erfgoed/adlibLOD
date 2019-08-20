@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/104>
+    dc:creator "Herwijnen, Jan van" ;
+    dc:description "In een tonale blauwe kleur is een industriecomplex in een landschap weergegeven. De opbouw is deels in geometrische figuren geschied. De compositie-elementen zijn midden en links in het beeldvlak geplaatst. Signatuur en datering achterzijde: \"Jan van Herwijnen 2[?]1\" [2 met streepje erdoor]." ;
+    dc:format "doek", "hout", "olieverf" ;
+    dc:identifier "L17697" ;
+    dc:title "De fabriek ENCI, Sint-Pietersberg" ;
+    dct:created "1921" ;
+    dct:extent "breedte 103.5 cm", "breedte 132.5 cm", "lijst hoogte 104.5 cm", "schilderij hoogte 95.5 cm" ;
+    dct:temporal "Nieuwste Tijd" .
+

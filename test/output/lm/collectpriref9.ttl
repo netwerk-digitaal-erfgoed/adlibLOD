@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/9>
+    dc:description "Munt. ½ (halve) stuiver Nederlands-Indië. Voorzijde: Generalieitswapen met kroon tussen ½-ST. Keerzijde muntteken: ster/ NEDERL. INDIE/ 1822/ S (muntmeesterteken)" ;
+    dc:format "koper", "metaal" ;
+    dc:identifier "G12547" ;
+    dc:title "Halve stuiver Nederlands-Indië" ;
+    dct:created "1822" ;
+    dct:extent "diameter 2.7 cm" .
+

@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/135>
+    dc:description """Vaandel, ruitvormig door naar achteren geslagen zijkanten, onderzijde geknikt en gebogen met franje en kwasten. Roodfluweel. Engel (geborduurd en geappliceerd) met gespreide vleugels, met in de linkerhand een staf en in de rechterhand een vis.
+R.K. VEREENIGING SPOOR- EN TRAM- PERSONEEL. / \"ST RAPHAËL\" HAELEN-BUGGENUM. / ANNO 1931""" ;
+    dc:format "goudband", "gouddraad", "katoen" ;
+    dc:identifier "L17715" ;
+    dc:title "R.K. VEREENIGING SPOOR- EN TRAMPERSONEEL ST. RAPHAEL HAELEN BUGGENUM ANNO 1931" ;
+    dct:created "1930 - 1940" ;
+    dct:extent "breedte 102.0 cm", "diepte 3.0 cm", "geheel hoogte 180.0 cm" .
+

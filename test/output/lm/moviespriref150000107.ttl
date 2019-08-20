@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000107>
+    dc:creator "Willems, Dirk" ;
+    dc:description "Sloopwerkzaamheden in het centrum van Blerick, ter hoogte van het huidige bejaardentehuis \"Onder de Wiën\" en het (voormalige) Tuindorp, omstreeks 1970. De nieuwbouw van het winkelcentrum \"De Wiën\" is al gereed. Tevens korte opname van de tuin achter het huis van Dirk Willems. Op de achtergrond het terrein van boerderij Wellens" ;
+    dc:identifier "0030" ;
+    dc:title "Afbraak dorpskern Blerick" .
+

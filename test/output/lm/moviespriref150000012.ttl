@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000012>
+    dc:creator "Huub Mans, Ad Pfennings.", "NOS i.s.m. Cinevideogroep", "Ruiter, Hans de", "Venema, Jan", "Verheul, Aart" ;
+    dc:description "Televisiereportage van de carnavalsoptocht in Sittard, 1989. De organisatie is in handen van Carnavalsvereniging De Marotte Zitterd en Stichting Optoch Kommitee Zitterd. Beelden van de optocht en de deelnemende groepen en wagens worden afgewisseld door interviews met prins Peet I (Peet van Erp) en vorst Marot Fernao I (Fernand Schmeits). Ook impressies van de bouw van praalwagens en een carnavalsviering in een bejaardentehuis." ;
+    dc:identifier "0005" ;
+    dc:subject "carnaval", "optochten", "volkscultuur" ;
+    dc:title "Carnavalsoptocht Sittard 1989" ;
+    dct:created "1989" .
+

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/66>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Studie oorlogsmonument Tegelen.Van links naar rechts: staande , naakte man, vrouw met kind op arm (naar links) en naakt jongetje. Hoek rechtsonder: PK 53" ;
+    dc:format "inkt", "papier" ;
+    dc:identifier "L17635" ;
+    dc:title "Gezin (studie oorlogsmonument Tegelen)" ;
+    dct:created "1953" ;
+    dct:extent "geheel breedte 43 cm", "geheel hoogte 56.5 cm" ;
+    dct:spatial "Maastricht" .
+

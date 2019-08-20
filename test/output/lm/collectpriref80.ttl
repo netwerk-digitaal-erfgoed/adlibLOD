@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/80>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening. Zes afbeeldingen, elk bestaande uit drie figuren in verschillende houdingingen p sokkel. een afbeelding zeer vaag. Signatuur rechtsonder: PK. Opmerking achterzijde: 45x32 voorstudie 1960 Venlo ontwerpen voor plastiek reizigers h. 210" ;
+    dc:format "crayon", "papier" ;
+    dc:identifier "L17646" ;
+    dc:title "Reizigers (studie beeld station Venlo)" ;
+    dct:created "1960" ;
+    dct:extent "geheel breedte 45.8 cm", "geheel hoogte 32 cm" ;
+    dct:spatial "Maastricht" .
+

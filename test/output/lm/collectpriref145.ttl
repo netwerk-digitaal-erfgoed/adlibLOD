@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/145>
+    dc:creator "Haas, Aad de", "Haas, Nel de", "Palm, W.A.", "Sarneel, Ko" ;
+    dc:description "Een originele cassette (V) met twintig linoleumsneden (A-T) van Aad de Haas, gedrukt door zijn echtgenote Nel de Haas en met teksten van Ko Sarneel (U), in 1973 uitgegeven door W.A. Palm in Den Haag. Gesigneerd en gemonogrammeerd door Nel de Haas en genummerd in het colofon 75/85" ;
+    dc:format "japans papier", "papier" ;
+    dc:identifier "L17700" ;
+    dc:title "De dood en het meisje" ;
+    dct:created "1973" ;
+    dct:extent "geheel breedte 41.8 cm", "geheel hoogte 56.7 cm" ;
+    dct:spatial "Den Haag" .
+

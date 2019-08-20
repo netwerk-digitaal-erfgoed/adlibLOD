@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/149>
+    dc:creator "Jeuken, Johan" ;
+    dc:description "Op een grasveld voor een kerkgebouw  met omheinde tuin te Venray vinden gelijktijdig diverse sportactiviteiten plaats. Het betreft onder andere: rekstok, ringen, hoogspringen, acrobatiek, kogelstoten en brug. Verdeeld over het veld wachten sporters op hun beurt. Aan de rand van het grasveld staan diverse toeschouwers. Aan de linkerzijde van het beeldvlak loopt een straat waarlangs een bomenrij staat. Signatuur en datering hoek linksonder: Joh. Jeuken 1975." ;
+    dc:format "doek", "hout", "olieverf" ;
+    dc:identifier "L17704" ;
+    dc:title "Sportdag in Venray" ;
+    dct:created "1975" ;
+    dct:extent "lijst breedte 111.5 cm", "lijst hoogte 91.5 cm", "schilderij breedte 105.0 cm", "schilderij hoogte 85.2 cm" ;
+    dct:temporal "Nieuwste Tijd" .
+

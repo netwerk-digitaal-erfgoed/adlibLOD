@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/46>
+    dc:creator "Stultiens, A." ;
+    dc:description "Kleurenfoto. Silhouet man op vlonder in water. De man staat tot schouders afgebeeld op vlonder. In het water wordt zijn silhouet weerspiegeld vanaf hoofd tot zijn knieën" ;
+    dc:format "papier" ;
+    dc:identifier "L17690N" ;
+    dc:title "Silhouet man op vlonder" ;
+    dct:created "2003" ;
+    dct:extent "geheel breedte 19.3 cm", "geheel hoogte 24.3 cm" ;
+    dct:spatial "Nijmegen" .
+

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/88>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening. Verticalen. Vijf 'stengels'  met gelelingen. Twee schuin naar links lopend, drie schuin naar rechts lopend. Signatuur rechtsonder: P. Killaars Achterzijde: getypte tekst roman, pagina 27" ;
+    dc:format "inkt", "papier" ;
+    dc:identifier "L17654" ;
+    dc:title "Verticalen in beweging" ;
+    dct:created "1975" ;
+    dct:extent "geheel breedte 29.7 cm", "geheel hoogte 21.5 cm" ;
+    dct:spatial "Maastricht" .
+

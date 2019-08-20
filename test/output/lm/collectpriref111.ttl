@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/111>
+    dc:creator "Lommen, Mathieu" ;
+    dc:description """Vlag Credo pugno Heerlen St. Pancratius. Vierkant (rechthoekig met lussen). Achtergrond: horizontale banen in kleuren rood, wit en groen.  Cirkel waarbinnen een palmtak, zwaard en kruis. Omschrift: CREDO . PUGNO . HEERLEN ST. PANCRATIUS. Credo pugno (ik geloof; ik strijd). Credo pugno was de propaganda-afdeling van de KAB.
+Uniforme vlag waarvan er in de jaren dertig honderden zijn gemaakt met de naam van de lokale afdeling.""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17730" ;
+    dc:title "CREDO PUGNO HEERLEN ST PANCRATIUS" ;
+    dc:type "vlag" ;
+    dct:created "circa 1933" ;
+    dct:extent "geheel breedte 130.0 cm", "geheel hoogte 124.0 cm" ;
+    dct:spatial "Schaesberg" .
+

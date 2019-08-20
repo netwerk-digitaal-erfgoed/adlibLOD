@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/136>
+    dc:creator "Borduuratelier Huize Loreto", "Goffin, Jerome" ;
+    dc:description """Vlag Katholieke Arbeiders Beweging Limburg. Rechthoekig, polychroom.  Linksboven: mijnlift. Daanaast Christus die met zijn rechterhand hamer vasthoudt. De  hamer bevindt zich voor een tandrad en kruis. Gebouw met koepel en spits (St. Pieter te Rome?); onder blauwwitte  'golven' rechtsboven. Voor Christus: hand met 2 lelies. Onder Christus: mijngebouwen en -torens. Opschrift: hoek linksonder: KAB; opschrift hoek rechtsonder: LIMBURG.
+Acht lussen.""" ;
+    dc:identifier "L17734" ;
+    dc:title "KAB LIMBURG" ;
+    dct:created "1950" ;
+    dct:extent "geheel breedte 155.0 cm", "geheel hoogte 123.0 cm" .
+

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/93>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening (zwart-wit). Icarus' vlucht. Signatuur rechtsonder: PKillaars" ;
+    dc:format "inkt", "papier" ;
+    dc:identifier "L17659" ;
+    dc:title "Icarus vlucht" ;
+    dct:created "1986" ;
+    dct:extent "geheel breedte 65 cm", "geheel hoogte 50 cm" ;
+    dct:spatial "Maastricht" .
+

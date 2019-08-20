@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/130>
+    dc:creator "Kloosteratelier Franciscanessen van de Misericorde" ;
+    dc:description """Vaandel. Ruitvormig door naar achteren geslagen zijkanten. Geknikt en gelobt. Franje aan onderzijde. In centrum heilige bisschop, Eligius,  (geappliqueerd en geborduurd)  met staf in linker en hamer in rechterhand. Omschrift heilige: R.K. WERKLIEDEN - VEREENIGING. St. ELIGIUS. GELEEN 1912. Vijf schildjes onderzijde. Eerste met hamer, haak en schroevendraaier?; tweede met hak en twee spades; derde: tang, twee mokers en een aambeeld; vierde met moker, beitel en zaag; vijfde: mijnlamp en twee mokers.
+Messing roe met twee goudkleuroge knoppen aan het uiteinde. Opschrift katoen met klittenband: vaandel niet ophangen aan de roe maar aan de steunplaat. Roe apart bewaren / niet aan roe ophangen
+Uniforme vlag waarvan er in de jaren dertig honderden zijn gemaakt.""" ;
+    dc:format "goudband", "gouddraad", "katoen", "messing", "touw" ;
+    dc:identifier "L17716" ;
+    dc:title "R.K. WERKLIEDEN VEREENIGING ST. ELIGIUS GELEEN 1912" ;
+    dc:type "vaandel" ;
+    dct:created "1912" ;
+    dct:extent "breedte 30.0 cm", "breedte 97.0 cm", "diepte 2.0 cm", "roe diameter 3.0 cm", "vaandel hoogte 140.0 cm" ;
+    dct:spatial "Maastricht" .
+

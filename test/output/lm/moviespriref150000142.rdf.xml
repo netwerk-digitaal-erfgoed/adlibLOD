@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/150000142">
+    <dc:identifier>0047</dc:identifier>
+    <dc:title>Pinkpop 1979</dc:title>
+    <dc:creator>Polygoon</dc:creator>
+    <dc:description>Verslag van het in Geleen gehouden Pinkpop-festival op 2de Pinksterdag 1979, met gedeeltes uit de optredens van Dire Straits, Peter Tosh en Massada</dc:description>
+    <dct:created>1979</dct:created>
+  </rdf:Description>
+</rdf:RDF>
+  
+

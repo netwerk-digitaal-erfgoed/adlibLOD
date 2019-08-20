@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/71>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Studie oorlogsmonument. Liggende man, rustend op stelsel van palen. signatuur rechtsonder: PK" ;
+    dc:format "crayon", "pakpapier", "papier" ;
+    dc:identifier "L17640" ;
+    dc:title "Vaals" ;
+    dct:created "1956" ;
+    dct:extent "geheel breedte 36.5 cm", "geheel hoogte 24 cm" ;
+    dct:spatial "Maastricht" .
+

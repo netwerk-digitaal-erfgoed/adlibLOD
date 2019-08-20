@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/100>
+    dc:creator "Adams, Jean" ;
+    dc:description "De kunstenaar is frontaal gezeten en heeft de benen enigszins uit elkaar.Hij draagt een bruine broek en een wit shirt. Hij heeft zijn hoofd naar links gewend. In zijn handen die hij voor zijn bovenlichaam heeft gebogen, draagt hij een kwast (l) en een sigaar (r.). Om zijn rechterpols draagt hij een horloge. Over zijn rechterschouder kijkt een schedel (met pet) de beschouwer aan." ;
+    dc:format "doek", "hout", "olieverf" ;
+    dc:identifier "L17684" ;
+    dc:title "Zelfportret Jean Adams" ;
+    dct:created "1933-03-21" ;
+    dct:extent "lijst breedte 77.5 cm", "lijst hoogte 137 cm", "schilderij breedte 61 cm", "schilderij hoogte 120 cm" .
+

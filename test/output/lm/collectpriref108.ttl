@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/108>
+    dc:creator "Peters, L., Kunststickerei" ;
+    dc:description """Vlag. Rechthoekig; acht lussen; goudkleurige franje aan uiteinde. Polychroom; witte achtergrond. Links: de heilige Carolus Borromeus met kruis in de rechterhand en boek in de linkerhand. Hoed op de rug. Opschriften: SANCTUS CAROLUS-BORROM.  Borromeus staat op een wapenschild in kleuren rood wit en groen. Diagonale balk in kleuren wit en geel.
+Rechts fabriek en een kerk. Zon met stralenkrans en opschrift: RERUM NOVARUM BOVEN KERK.  Geheel rechts: werkman met moker en aambeeld. Opschrift boven en achter de werkman: R.K. WERKLIEDENVEREENIGING VENLO
+Volgens beschrijvingen in een feestbrochure was de vlag oorspronkelijk tweezijdig en stond Borromeus aan de achterzijde. De vlag was vierkant. Waardoor de beschadiging is veroorzaakt is niet bekend. Een deel van de vluchtzijde moet daar bij zijn verdwenen. Het ontbrekenden deel, rechts van der arbeidersfiguur, is later aangevuld. Duidelijk is de naad die over de vlag loopt evenals het verschil in materiaal en bewerking. In de vlag zijn veel stoppages uitgevoerd. Voor een deel zijn ze gehandhaafd als historisch element. Het betreft stoppages die de stof niet verder beschadigen.""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17718" ;
+    dc:title "R.K. WERKLIEDENVEREENIGING VENLO SANCTUS CAROLUS BORROM." ;
+    dc:type "vlag" ;
+    dct:created "waarschijnlijk 1928" ;
+    dct:extent "geheel breedte 185.0 cm", "geheel hoogte 126.0 cm" ;
+    dct:spatial "Kevelaer" .
+

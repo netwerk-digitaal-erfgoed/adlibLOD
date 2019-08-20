@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/2>
+    dc:creator "Drukkerij Coenen B.V." ;
+    dc:description "Boek. Bericht aan Hare Majesteit: Een geschiedenis. Rosalie Sprooten. Uitgeverij: Drukkerij Coenen B.V. Simpelveld. Omslag: Hans ter Horst" ;
+    dc:identifier "L17532T" ;
+    dc:title "Boek.Bericht aan Hare Majesteit : een geschiedenis" ;
+    dct:created "1991" ;
+    dct:spatial "Simpelveld (plaats)" .
+

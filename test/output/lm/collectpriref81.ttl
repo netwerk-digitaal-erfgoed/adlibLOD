@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/81>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening. Studie beeld station Venlo.Twee schetsen van de beeldengroep. Signatuur rechtsonder: P. Killaars" ;
+    dc:format "crayon", "papier" ;
+    dc:identifier "L17647" ;
+    dc:title "Reizigers (studie beeld station Venlo)" ;
+    dct:created "1960" ;
+    dct:extent "geheel breedte 45.8 cm", "geheel hoogte 32 cm" ;
+    dct:spatial "Maastricht" .
+

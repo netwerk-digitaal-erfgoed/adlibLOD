@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/4">
+    <dc:identifier>L17532S</dc:identifier>
+    <dc:title>Boek: "In de bajes..." : een jaar Oranje-hotel</dc:title>
+    <dc:creator>Uitgeversmaatschappij W. de Haan N.V.</dc:creator>
+    <dct:spatial>Utrecht (plaats)</dct:spatial>
+    <dc:description>Boek. In de bajes, een jaar Oranje-hotel. K. De Fries. Uitgeversmaatschappij: W. de Haan N.V. Utrecht. 246 pagina's.</dc:description>
+    <dc:format>papier</dc:format>
+    <dct:created>1945</dct:created>
+    <dct:temporal>Tweede Wereldoorlog</dct:temporal>
+  </rdf:Description>
+</rdf:RDF>
+  
+

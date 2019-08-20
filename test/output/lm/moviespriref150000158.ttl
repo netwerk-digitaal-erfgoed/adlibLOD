@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000158>
+    dc:creator "Rieter, Th." ;
+    dc:description "Optochten in Velden tussen 1950 en 1955: 1. Kindsheidoptocht. Kinderen verkleed als Chineesjes, de fanfare met het tamboerkorps en toespraak door kapelaan Canjels; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht (carnaval; kleur)." ;
+    dc:identifier "0055" ;
+    dc:subject "Velden" ;
+    dc:title "Velden: 1. Kindsheidoptocht; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht" .
+

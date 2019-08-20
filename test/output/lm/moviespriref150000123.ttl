@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000123>
+    dc:creator "Foto Stelder" ;
+    dc:description "Productiefilm van de NV Metaaldraadlampenfabriek Pope in Venlo, gemaakt ter gelegenheid van het vijftigjarig bestaan van het bedrijf. De film toont het bewerken van ruw koperdraad tot gebruiksklaar, van isolatie voorzien elektriciteitsdraad" ;
+    dc:identifier "0038" ;
+    dc:subject "elektrotechnische industrie" ;
+    dc:title "Productiefilm Pope 1939" ;
+    dct:created "1939" .
+

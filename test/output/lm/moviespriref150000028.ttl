@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000028>
+    dc:creator "Dixon, Kester", "RVU i.s.m. Vanzetti", "Zuilhof, Marco" ;
+    dc:description "Televisiereportage over de Sittardse saneringswijk Stadbroek. Interviews met wijkbewoners, een wethouder, een schoolhoofd, een ambtenaar van de sociale dienst, cultureel-maatschappelijk werkers en een vertegenwoordiger van de woningbouwvereniging geven een beeld van de veelvormige problematiek in de wijk. Gettovorming, leegstand van huizen, werkloosheid, drugsoverlast, vandalisme en een gebrek aan openbare voorzieningen als scholen en winkels zijn bepalend voor de achterstand. Een positieve ontwikkeling is het recent opgezette buurtbeheer." ;
+    dc:identifier "0013" ;
+    dc:subject "sociale problematiek" ;
+    dc:title "Stadbroek Sittard" ;
+    dct:created "1996" .
+

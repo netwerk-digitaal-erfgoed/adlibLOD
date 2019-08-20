@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/79>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening. Ontwerp van een wijngaardenier. Staande man op rug gezien, naar links gewend. Licht voorover gebukt. Met beide handen houdt hij lat van raamwerk en tak van boom vast. Boom en takken zijn aan raamwerk bevestigd. Signatuur + datering rechtsonder: PKilaars  '55" ;
+    dc:format "krijt", "papier" ;
+    dc:identifier "L17645" ;
+    dc:title "Ontwerp wijngaardenier" ;
+    dct:created "1955" ;
+    dct:extent "geheel breedte 26.7 cm", "geheel hoogte 22 cm" ;
+    dct:spatial "Maastricht" .
+

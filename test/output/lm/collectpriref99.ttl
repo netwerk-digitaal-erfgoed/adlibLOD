@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/99>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Model oorlogsmonument Vaals. Liggende man, schouders en benen iets opgetrokken. De armen gespreid langs het lichaam, benen iets uit elkaar. Op rotsachtige sokkel." ;
+    dc:format "brons", "metaal", "steen" ;
+    dc:identifier "L17664" ;
+    dc:title "Model oorlogsmonument Vaals" ;
+    dct:created "1959" ;
+    dct:extent "geheel breedte  cm", "geheel diepte  cm", "geheel hoogte  cm" ;
+    dct:spatial "Maastricht" .
+

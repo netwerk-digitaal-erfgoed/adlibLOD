@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/113">
+    <dc:identifier>L17707</dc:identifier>
+    <dc:title>PROPAGANDACLUB SINT WILLIBRORDUS 13 FEB 1925</dc:title>
+    <dc:creator>Postmes, Jos.</dc:creator>
+    <dc:description>Vlag, rechthoekig; goudkleurige franje aan de rechter- en onderkant. De vlag is vormgegeven in art-deco stijl; ze is opgebouwd uit geometrisch getrapte elementen waarin de tekst is geïntegreerd. De gebruikte kleuren zijn geel, blauw, rood en wit, kenmerkend voor de kunststroming De Stijl. Voor de letters is het type Broadway gekozen. Opschrift: PROPAGANDA-CLUB SINT WILLIBRORDUS 13 FEB 1925.
+Signatuur rechterkantlijk in het midden: JAP (Johannes Antonius Postmes)
+Zie veld opmerkingen</dc:description>
+    <dc:type>vlag</dc:type>
+    <dc:format>katoen</dc:format>
+    <dct:created>circa 1925</dct:created>
+    <dct:extent>geheel hoogte 71.0 cm</dct:extent>
+    <dct:extent>geheel breedte 90 cm</dct:extent>
+  </rdf:Description>
+</rdf:RDF>
+  
+

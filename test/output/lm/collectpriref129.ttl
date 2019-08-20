@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/129>
+    dc:creator "Lindeman, H.J." ;
+    dc:description """Vaandel. Zijden aan de bovenkant naar achteren geslagen, waardoor het vaandel een ruitvormige gestalte krijgt, franje van goudgalon aan de onderzijde. Een kwast hangt aan de onderkant links; de andere rechts, ontbreekt. Op roodfluweel is een kruis met in het midden een ovaal medaillon waarop de heilige Mauritius staat afgebeeld. Mauritius staand, is afgebeeld als een Romeins soldaat met een lans in zijn rechterhand; zijn rechterhand rust op een schild. Boven is een rond medaillon waarin Sint-Jozef met winkelhaak is afgebeeld. Onder Mauritius medaillon met wapen Schin op Geul. Opschriften: R.K.W.V. / St MAURITIUS / SCHIN OP GEUL 1917. Drie lussen aan de bovenzijde. Met koperen draagbuisje met uiteinden in de vorm van een knoop waarop een roos is afgebeeld. Vier kwasten hangen aan de uiteinden van het draagbalkje.
+Signatuur etiket op voering: H.J. Lindeman s 'Gravenhage""" ;
+    dc:format "fluweel", "jute", "katoen", "koper", "zijde" ;
+    dc:identifier "L17717" ;
+    dc:title "RKWV ST. MAURITIUS SCHIN OP GEULLE 1917" ;
+    dc:type "vaandel" ;
+    dct:created "circa 1920" ;
+    dct:extent "breedte 90.0 cm", "diepte 3.7 cm", "hoogte 4.5 cm", "roe breedte 26.7 cm", "vaandel hoogte 154.0 cm" ;
+    dct:spatial "Den Haag" .
+

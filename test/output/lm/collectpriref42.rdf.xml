@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/42">
+    <dc:identifier>L17690J</dc:identifier>
+    <dc:title>Aannemersbord</dc:title>
+    <dc:creator>Stultiens, A.</dc:creator>
+    <dct:spatial>Nijmegen</dct:spatial>
+    <dc:description>Kleurenfoto. Aannemersbord 13 luxe appartementen "De tweeling" Maasveld II, Tegelen. Op achtergrond: rivier de Maas met schip. Aan de overkant van de rivier rechts: huizen.</dc:description>
+    <dc:format>papier</dc:format>
+    <dct:created>2003</dct:created>
+    <dct:extent>geheel hoogte 24.3 cm</dct:extent>
+    <dct:extent>geheel breedte 19.3 cm</dct:extent>
+  </rdf:Description>
+</rdf:RDF>
+  
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/150000194">
+    <dc:identifier>0061</dc:identifier>
+    <dc:title>Historische missieoptocht te Venlo</dc:title>
+    <dc:creator>onbekend</dc:creator>
+    <dc:subject>Venlo (plaats)</dc:subject>
+    <dc:description>Reportage van een historische missieoptocht door Venlo, 25 mei 1952. In de optocht worden bijbelse taferelen uit het Oude Testament en uit het leven van Jezus Christus uitgebeeld, alsook het leven in de missielanden. De stoet trekt vanaf de Heilig Hartkerk op de hoek Veldenseweg/Straelseweg naar de binnenstad van Venlo. De film opent met het uitladen van kamelen uit een aanhangwagen, waarbij enkele geestelijken toekijken. In een weiland lopen tientallen schapen. Deelnemers in historische kledij presenteren zich voor de camera. Daarna beelden van de optocht, waarin ook praalwagens meerijden. Het einde van de optocht is op de Markt voor het stadhuis. Burgemeester B. Berger, Mgr. J.H.G. Lemmens en wethouder E.M.O. Haffmans ontvangen de stoet</dc:description>
+    <dct:created>1952</dct:created>
+  </rdf:Description>
+</rdf:RDF>
+  
+

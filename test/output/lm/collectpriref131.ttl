@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/131>
+    dc:description """Vaandel, ruitvormig met twee smalle boogvormige uitsparingen. Twee kwasten verbonden aan draagstok en vaandel. In het midden de engel Raphaël, staand op een landschapseilandje.. In zijn rechterhand houdt hij een gouden sleutel vast waarin een vis zich heeft vastgebeten. In zijn linkerhand houdt hij een lange staf waaraan  een drinkpot is bevestigd. Aan de riem (rechts) draagt hij een tas.  Opschriften: OPGERICHT 1923 / R.K. BOND VAN SPOOR EN TRAMWEGPERSONEEL / St. RAPHAEL AFD BAEXEM. Voorzijde locomotief op de onderzijde.
+Draagstok met twee goudkleurige knoppen.""" ;
+    dc:format "fluweel", "goudband", "katoen" ;
+    dc:identifier "L17714" ;
+    dc:title "R.K. BOND VAN SPOOR EN TRAMWEGPERSONEEL ST. RAPHAEL AFD. BAEXEM OPGERICHT 1923" ;
+    dc:type "vaandel" ;
+    dct:created "circa 1925" ;
+    dct:extent "geheel breedte 95.0 cm", "geheel hoogte 155.0 cm" .
+

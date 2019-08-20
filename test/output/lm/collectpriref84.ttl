@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/84>
+    dc:creator "Killaars, Piet" ;
+    dc:description "Tekening met twee afbeeldingen van de Philipstrofee. Stervormig. Signatuur rechtsonder PK '65. Achterzijde: twee figuren. Opschrift rechtsonder: vormdeling wording TH Eindhoven" ;
+    dc:format "contékrijt", "papier" ;
+    dc:identifier "L17650" ;
+    dc:title "Philipstrofee" ;
+    dct:created "1965" ;
+    dct:extent "geheel breedte 36.8 cm", "geheel hoogte 27 cm" ;
+    dct:spatial "Maastricht" .
+

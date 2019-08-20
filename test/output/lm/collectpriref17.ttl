@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/17>
+    dc:description "Munt. Duit VOC stad Utrecht. Voorzijde: wapen stad Utrecht met kroon, gehouden door twee leeuwen. Balk onder wapen. Ornamenten onder balk. Keerzijde de letter O en C door gote V, stadswapentje als als muntteken tussen twee punten, 1790." ;
+    dc:format "koper", "metaal" ;
+    dc:identifier "G12555" ;
+    dc:title "Duit VOC stad Utrecht" ;
+    dct:created "1790" ;
+    dct:extent "geheel diameter 2.2 cm" .
+

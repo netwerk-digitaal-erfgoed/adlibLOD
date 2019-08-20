@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/32>
+    dc:creator "Zwarts, K." ;
+    dc:description "Kleurenfoto. Plaats waar de Jeker onder brug (rechts) doorstromend, in de Maas vloeit. Midden: twee naast elkaar liggende schepen, een met bord 'BOTEL MAASTRICHT', ander met bord RIJN-MAASVALLEI. Links van Maas: nieuwbouwwoningen en toren Bonnefantenmuseum." ;
+    dc:format "papier" ;
+    dc:identifier "L17688D" ;
+    dc:title "De Maas-Jeker" ;
+    dct:created "2003-05" ;
+    dct:extent "geheel breedte 63 cm", "geheel hoogte 43 cm", "passe-partout breedte 80 cm", "passe-partout hoogte 60 cm" ;
+    dct:spatial "Maastricht" .
+

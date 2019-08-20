@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000001>
+    dc:creator "Philip Bloemendal", "Polygoon-Profilti" ;
+    dc:description "Tweedaags bezoek van koningin Juliana en prins Bernhard aan Limburg, 24 en 25 april 1950. Het eerste deel van de reportage toont het bezoek aan Maastricht. Na de ontvangst aan de stadsgrens wordt een rijtoer gemaakt naar het provinciehuis, waar de officiële ontvangst plaatsvindt. Hierna gaat men naar het stadhuis en is er een galasoiree. 's Avonds kijkt men naar een fakkeloptocht. In het tweede deel van de film gaat het bezoek verder de provincie in. In Zuid-Limburg worden Valkenburg, Heerlen, Hoensbroek, Geleen en Sittard aangedaan. Overal wordt het gezelschap op het stadhuis ontvangen. In de grotten van Valkenburg vindt een balletvoorstelling plaats. In Sittard bekijkt het gezelschap een schuttersparade. Het derde deel van de reportage toont de reis verder in noordelijke richting. Achtereenvolgens worden bezocht: Roermond, Horn (bezoek sanatorium), Weert, Blerick (onthulling gedenkplaat honderdduizendste woning na de oorlog), Venlo en Venray." ;
+    dc:identifier "0001" ;
+    dc:subject "burgemeesters", "dans", "gezondheidszorg", "koninklijke bezoeken", "optochten", "provinciaal bestuur", "schutterijen", "wederopbouw", "woningbouw" ;
+    dc:title "Het koninklijk bezoek aan Limburg" ;
+    dct:created "1950" .
+

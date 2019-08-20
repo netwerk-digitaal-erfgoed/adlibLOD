@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/112>
+    dc:creator "Goffin, Jerome", "Kloosteratelier Huize Loreto" ;
+    dc:description """Vlag van de propaganda-afdeling van de KAB. Rechthoekig; acht lussen; polychroom. Man in overall met rood zwaard in zijn rechter-, en  palmtak in zijn linkerhand. Gestileerde denneboomjes beneden. Rechts van hem: fabriek, links van hem tandrad met rood kruis, een winkelhaak en een grote passer. Opschrift CREDO PUGNO (=ik geloof; ik strijd) LIMBURG
+Opschrift: CREDO PUGNO LIMBURG""" ;
+    dc:identifier "L17720" ;
+    dc:title "CREDO PUGNO LIMBURG" ;
+    dc:type "vlag" ;
+    dct:created "1950" ;
+    dct:extent "geheel breedte 157.0 cm", "geheel hoogte 123.0 cm" ;
+    dct:spatial "Simpelveld (plaats)" .
+

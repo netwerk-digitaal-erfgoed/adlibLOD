@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/101>
+    dc:creator "Francken II, Frans" ;
+    dc:description "Schilderij, opgebouwd uit drie panelen. Tegen een achtergrond van een poort en enkele gebouwen (links) en een vergezicht met een kerk en andere gebouwen (rechts) zijn scènes met de zeven werken van barmhartigheid uitgebeeld. Links op de voorgrond wordt brood uitgedeeld aan de hongerigen. Linksachter komt een man uit een huis met een mand met brood. Achter de groep hongerigen worden (in een opengewerkte binnenruimte) de naakten gekleed (links) en de zieken bezocht (rechts). Rechts van deze scènes aan de voet van de gebouwen worden de vreemdelingen geherbergd. Rechtsvoor worden de dorstigen gelaafd en geheel rechts in het beeldvlak worden de gevangenen bezocht. Naast de gevangenistoren gaat een groepje mensen de doden begraven." ;
+    dc:format "hout", "olieverf" ;
+    dc:identifier "L17694" ;
+    dc:title "Zeven Werken van Barmhartigheid" ;
+    dct:created "circa 1600 - circa 1642" ;
+    dct:extent "breedte 107.5 cm", "breedte 117.5 cm", "diepte 3.0 cm", "lijst hoogte 80.8 cm", "schilderij hoogte 70.5 cm" ;
+    dct:spatial "Antwerpen" ;
+    dct:temporal "Nieuwe Tijd" .
+

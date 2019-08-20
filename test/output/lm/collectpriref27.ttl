@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/27>
+    dc:creator "Offsetdruk Smeets", "Zeguers, C." ;
+    dc:description "Affiche. Gekleurd, offsetdruk op linnen. Links grot; boven op berg berg kasteelruïne, midden rivier de Geul en Valkenburg met heuvellandschap op achtergrond. rechts boom. Hoek afbeelding rechtsonder:  C. Zeguers. Opschrift  VALKENBURG HOUTHEM (boven), TOURISTENCENTRUM INFORMATIE BUREAU V.V.V. \"HET GEULDAL\" VALKENBURG NEDERLANDS LIMBURG. Hoek rechtsonder: OFFSETDRUK SMEERTS WEERT" ;
+    dc:format "drukinkt", "linnen", "papier" ;
+    dc:identifier "L17687" ;
+    dc:title "Valkenburg Houthem toeristencentrum" ;
+    dct:created "crca 1955" ;
+    dct:extent "geheel breedte 54 cm", "geheel hoogte 90 cm" ;
+    dct:spatial "Weert (plaats)" .
+

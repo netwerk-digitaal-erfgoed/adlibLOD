@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/138>
+    dc:description """Vaandel, omdat zijkanten naar achteren geslagen zijn is het grondpatroon ruitvormig. Onderzijde gelobt met uitstekende punt in het midden en versierd met franje. Afbeelding: de heilige Barbara met kelk met hostie in haar rechterhand en zwaard in haar linkerhand. Toren links van haar. Tafereel binnen twee eikentakken. Boven Barbara: vijfpuntige ster.
+Opschrift: R.K. MIJNWERKERSBOND. / St. BARBARA / VOERENDAAL / 1906
+Drieophanglussen aan de bovenzijde; draagstokje met lelies aan de uiteinden.""" ;
+    dc:format "fluweel", "goudband", "gouddraad", "katoen" ;
+    dc:identifier "L17713" ;
+    dc:title "R.K. MIJNWERKERSBOND ST. BARBARA VOERENDAAL 1906" ;
+    dct:created "waarschijnlijk 1906 - waarschijnlijk 1910" ;
+    dct:extent "geheel breedte 92.0 cm", "geheel hoogte 155.0 cm" .
+

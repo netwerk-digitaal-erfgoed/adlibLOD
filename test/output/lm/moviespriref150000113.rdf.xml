@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/150000113">
+    <dc:identifier>0033</dc:identifier>
+    <dc:title>75 Jaar Gymnastiekvereniging Olympia Blerick</dc:title>
+    <dc:creator>Terpoorten, H.</dc:creator>
+    <dc:description>Reportage van het vijfenzeventigjarig-jubileumfeest van de Blerickse gymnastiekvereniging Olympia, op 5, 6 en 7 mei 1978. Het feest vindt plaats in De Staay in Blerick. Achtereenvolgens opnames van: gymnastiekdemonstratie door beroepsturners en Limburgse verenigingen op 22 april 1978, jeugdmiddag en jongerenavond op 5 mei, tentoonstelling over de geschiedenis van Olympia, receptie en feestavond op 6 mei, en de afsluiting op 7 mei met eucharistieviering en Frühschoppen</dc:description>
+    <dct:created>1978</dct:created>
+  </rdf:Description>
+</rdf:RDF>
+  
+

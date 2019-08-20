@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://example.com/object/137">
+    <dc:identifier>L17735</dc:identifier>
+    <dc:title>KAB SCHINVELD</dc:title>
+    <dc:description>Vlag Katholieke Arbeiders Beweging Schinveld. Rechthoekig, blauwe achtergrond met polychrome afbeeldingen; zeven lussen. Afbeelding hoek rechtboven: twee in elkaar grijpende tandraden. Midden: de heilige Jozef met kind Jezus. Jozef heeft linkerarm om kind geslagen en rechterhand in 'aanspreekgebaar'. Jezus met linkerhand in aanspreekgebaar en kruis op rechterhand.
+Opschrift: KAB Schinveld</dc:description>
+    <dc:format>zijde</dc:format>
+    <dc:format>katoen</dc:format>
+    <dct:created>circa 1950 - 1960</dct:created>
+    <dct:extent>geheel hoogte 120.0 cm</dct:extent>
+    <dct:extent>geheel breedte 195.0 cm</dct:extent>
+  </rdf:Description>
+</rdf:RDF>
+  
+

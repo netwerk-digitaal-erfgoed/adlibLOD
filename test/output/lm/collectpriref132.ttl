@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/132>
+    dc:description "Vaandel. Zijkanten naar achteren omgeslagen, waardoor een ruitvorm ontstaat. Onderzijde franje van goudgalon en een kwast. Vier ophanglussen. In medaillon: de heilige Rochus, staand met ontbloot linker onderbeen. De pestbuil in niet afgebeeld. Rechts van hem hond met stuk brood in zijn mond. Cirkelvormig voorwerp in zijn rechterhand; linkerhand op de borst. Karaf aan riem linksboven. Omschrift afbeelding: RK. MIJNWERKERSBOND. St. ROCHUS OPGERICHT - 30 6 1918. Daaronder gekroond wapen van de provincie Limburg met onderschrift: AFDEELING HULSBERG" ;
+    dc:format "fluweel", "gouddraad", "zijde" ;
+    dc:identifier "L17706" ;
+    dc:title "RK MIJNWERKERSBOND ST ROCHUS OPGERICHT 30 6 1918 AFDEELING HULSBERG" ;
+    dc:type "vaandel" ;
+    dct:created "1919" ;
+    dct:extent "geheel breedte 85.0 cm", "geheel hoogte 145.0 cm" .
+

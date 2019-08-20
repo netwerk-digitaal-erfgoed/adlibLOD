@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/150000170>
+    dc:creator "Rieter, Th." ;
+    dc:description """Reportage van de feestelijkheden rondom de eerste plechtige H. Mis door kapelaan Leo Brueren in Velden, Pasen 1951. Het ouderlijk huis, de boerderij Mariahoeve aan de Schandeloseweg, en deze straat zijn door buurtbewoners rijk versierd. 
+
+De familie maakt zich gereed voor het feest. Op paaszondag gaat het gezelschap naar de kerk, begeleid door de fanfare (nog zonder uniformen), ruiters en bruidjes. Beelden van de H. Mis. Feestelijke stoet na afloop van de mis, waarna in het ouderlijk huis familie en parochianen bij elkaar komen om de gebeurtenis te vieren.""" ;
+    dc:identifier "0057" ;
+    dc:subject "Velden" ;
+    dc:title "Velden: Eerste plechtige H. Mis Leo Brueren" ;
+    dct:created "1951" .
+

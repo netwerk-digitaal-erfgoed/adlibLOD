@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/142>
+    dc:creator "Oven, Gebroeders van" ;
+    dc:description """Vlag. Rechthoekig, franje aan achter- en onderkant; drie lussen. Kleuren achtergrond: groen, blauw en zwart. Sint Jozef met kind Jezus op linkerarm en met lelietak op kruis. Kind Jezus heeft een rijksappel. Hoek linkonder: troffel, winkelhaak, hamer en zaag; Hoek rechtsonder: mijnlamp.
+Opschriften: GLÚCK AUF / R.K. W.B. /AFD. WIJNANDSRADE / OPGERICHT 10 JUNI 1928
+Signatuur beneden bij de lussen (geborduurd): Gebr. v. Oven
+R.K.W.B.=Rooms-Katholieke Werklieden Bond.""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17739" ;
+    dc:title "GLÜCK AUF R.K.W.B. AFD. WIJNANDSRADE OPGERICHT 10 JUNI 1928" ;
+    dct:created "waarschijnlijk 1928" ;
+    dct:extent "geheel breedte 162.0 cm", "geheel hoogte 103.0 cm" ;
+    dct:spatial "Den Haag" .
+

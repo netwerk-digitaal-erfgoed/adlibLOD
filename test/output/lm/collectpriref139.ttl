@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/139>
+    dc:creator "Lommen, Mathieu" ;
+    dc:description """Vlag Credo Pugno Schinveld. Vierkant  (lussen niet meegerekend), achtergrond bestaande uit drie horizontale banen in rood, wit en groen. Op de voorgrond: cirkel met kruis, palmtak en zwaard. Opschrift: CREDO PUGNO SCHINDVELD. Vijf lussen.
+Handgeschreven signatuur onderzijde groene baan (bij een lus): M. LOMMEN SCHAESBERG
+Credo Pugno (ik geloof, ik strijd) was de propaganda-afdeling van de Katholieke Abeiders Beweging.""" ;
+    dc:format "katoen" ;
+    dc:identifier "L17736" ;
+    dc:title "CREDO PUGNO SCHINVELD" ;
+    dct:created "waarschijnlijk 1930 - waarschijnlijk 1940" ;
+    dct:extent "geheel breedte 128.0 cm", "geheel hoogte 120.0 cm" ;
+    dct:spatial "Schaesberg" .
+

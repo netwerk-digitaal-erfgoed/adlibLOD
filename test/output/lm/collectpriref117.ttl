@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/117>
+    dc:creator "Kurpershoek, L.H.", "Oven, Gebroeders van" ;
+    dc:description """Vlag. Rechthoekig; vijf lussen; polychroom. Franjes aan de onder- en achterkant. In centrum boek met opschrift: Psalm 199: 105.  Bijbel ligt op groene ondergrond en is omringd door stralen en cirkel met volgende tekst: UW WOORD IS EEN LAMP VOOR MIJNEN VOET, EN EEN LICHT OP MIJN PAD. Tekst onderzijde: PROTESTANTSCH-CHRISTELIJKE MIJNWERKERVERBOND. Kantlijn links en rechts: twee kruislings over elkaar liggende hamers; liftschachten en de letters PCM in driepasmotief binnen cirkel. Bovenrand versierd met een mijngebouw; mijnlamp en een pikhouweel.
+Signatuur voorzijde linksonder: Gebr. van Oven Den Haag""" ;
+    dc:identifier "L17722" ;
+    dc:title "PROTESTANTSCH CHRISTELIJKE MIJNWERKERSBOND PSALM 119:105 CMP CMP" ;
+    dc:type "vlag" ;
+    dct:created "1927" ;
+    dct:extent "geheel breedte 170.0 cm", "geheel hoogte 125.0 cm" ;
+    dct:spatial "Den Haag" .
+
