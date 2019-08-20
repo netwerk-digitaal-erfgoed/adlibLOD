@@ -1,0 +1,30 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000035" created="2018-07-09T03:24:51" modification="2018-07-09T03:24:51" selected="false">
+      <Production>
+        <creator>Van Amstel Video</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Wonen doe je elke dag. Woningvereniging Sittard 75 jaar, 1912-1987</title>
+      </Title>
+      <location.default.name>Gemeentearchief Sittard</location.default.name>
+      <object_number>GAS-V024</object_number>
+      <priref>150000035</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">42</response_time>
+  </diagnostic>
+</adlibXML>

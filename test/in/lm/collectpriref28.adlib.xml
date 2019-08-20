@@ -1,0 +1,78 @@
+<adlibXML>
+  <recordList>
+    <record priref="28" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:40" selected="false">
+      <Associated_subject>
+        <association.subject>Sinterklaasviering</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start>2003-11-16</association.subject.date.start>
+        <association.subject.type>
+          <value lang="neutral">ACTIV</value>
+          <value lang="0">activity</value>
+          <value lang="1">activiteit</value>
+          <value lang="2">activit&#233;</value>
+          <value lang="3">Handlung</value>
+          <value lang="4">&#1575;&#1604;&#1606;&#1588;&#1575;&#1591;</value>
+          <value lang="5">attivit&#224;</value>
+          <value lang="6">&#948;&#961;&#945;&#963;&#964;&#951;&#961;&#953;&#972;&#964;&#951;&#964;&#945;</value>
+          <value lang="9">aktivitet</value>
+          <value lang="10">&#1508;&#1506;&#1497;&#1500;&#1493;&#1514;</value>
+          <value lang="11">aktivitet</value>
+          <value lang="14">&#27963;&#21205;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>Pentekening. Op voorgrond: vier zwarte pieten brengen cadeaus naar het Limburgs Museum. Rechtsboven proberen drie zwarte pieten spandoek met tekst Pakhuis van Sinterklaas aan muur van museum op te hangen. Centrum boven: ingang. Opschrift beneden: pakhuis van Sinterklaas. Signatuur hoek rechtsboven: Piet Camps. Tekening in rechthoekig kader met afgeronde hoeken. Met flap</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>29.7</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>21</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Camps, Piet</creator>
+        <creator.role>tekenaar</creator.role>
+        <production.place>Blerick</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>2003</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>2003</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Pakhuis van Sinterklaas</title>
+      </Title>
+      <location.default.name>WOP La 019E</location.default.name>
+      <object_number>L17686</object_number>
+      <priref>28</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">2</xml_creation_time>
+    <response_time unit="mS" culture="en-US">60</response_time>
+  </diagnostic>
+</adlibXML>

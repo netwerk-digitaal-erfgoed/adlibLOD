@@ -1,0 +1,58 @@
+<adlibXML>
+  <recordList>
+    <record priref="119" created="2018-07-09T11:00:47" modification="2019-06-03T03:40:12" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vlag KAB Venlo. Titel: VENLO. Rechthoekig, groene achtergrond. Acht lussen. Afbeelding: blauw tandrad met rood kruis/hamer en in het  wit het chi rho (PX=Pax Christi) teken. Opschrift in rood: VENLO</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>137.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>207.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>katoen</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1945</production.date.end>
+        <production.date.end.prec>waarschijnlijk na</production.date.end.prec>
+        <production.date.start>1945</production.date.start>
+        <production.date.start.prec>waarschijnlijk na</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>VENLO</title>
+      </Title>
+      <location.default.name>3195B</location.default.name>
+      <object_number>L17724</object_number>
+      <priref>119</priref>
+      <production.period>Tweede Wereldoorlog</production.period>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">104</response_time>
+  </diagnostic>
+</adlibXML>

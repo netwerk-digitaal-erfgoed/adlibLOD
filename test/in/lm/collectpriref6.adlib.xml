@@ -1,0 +1,43 @@
+<adlibXML>
+  <recordList>
+    <record priref="6" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:34" selected="false">
+      <Description>
+        <description>Boek: '10 jaar vrede - 10 jaar expog&#233;". De Nederlandse vereniging van ex - politieke gevangenen. W. Bakker en K.R. van Staal. N. Panklaar 133. Groene kaft. 111 pagina's. Uitgeverij: Bureau Expog&#233; Scheveningen.</description>
+      </Description>
+      <Material>
+        <material>papier</material>
+        <material.part/>
+      </Material>
+      <Production>
+        <creator>Drukkerij Meyer</creator>
+        <creator.role/>
+        <production.place>Wormerveer</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1955</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1955</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Nationaal gedenkboek "10 jaar vrede - 10 jaar expog&#233;"</title>
+      </Title>
+      <location.default.name>Bibliotheek</location.default.name>
+      <object_number>L17532Q</object_number>
+      <priref>6</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">37</response_time>
+  </diagnostic>
+</adlibXML>

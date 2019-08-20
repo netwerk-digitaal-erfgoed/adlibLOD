@@ -1,0 +1,64 @@
+<adlibXML>
+  <recordList>
+    <record priref="75" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:48" selected="false">
+      <Associated_period>
+        <association.period>Tweede Wereldoorlog</association.period>
+        <association.period.assoc/>
+        <association.period.date.start>1940</association.period.date.start>
+      </Associated_period>
+      <Description>
+        <description>Ontwerp oorlogsmonument Vaals. Liggende man rustend op raamwerk van palen. Op achtergrond gebouwen, bomen en mensen. DAtering + signatuur 1953 Piet K. In passe-partout van bruin papier. Uitsparing met potloodlijnen omkaderd. Titel op passe-partout rechtsonder: ontwerp Oorlogsmonument Vaals</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>23.5</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>35.8</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>ontwerper</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1953</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1953</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Ontwerp oorlogsmonument Vaals</title>
+      </Title>
+      <location.default.name>WOP La 027A</location.default.name>
+      <object_number>L17642C</object_number>
+      <priref>75</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">70</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,67 @@
+<adlibXML>
+  <recordList>
+    <record priref="78" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:48" selected="false">
+      <Associated_subject>
+        <association.subject/>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral"/>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>Tekening. Ontwerp prijsvraag. Man staande temidden van halve bol met schalen. Opgeheven rechterarm; linkerarm zijwaarts gestrekt.. Signatuur rechtsonder: P Killaars.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>31.2</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>23.3</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>ontwerper</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1957</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1957</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Mens en elementen</title>
+      </Title>
+      <location.default.name>WOP La 027A</location.default.name>
+      <object_number>L17644</object_number>
+      <priref>78</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">52</response_time>
+  </diagnostic>
+</adlibXML>

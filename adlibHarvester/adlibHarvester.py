@@ -13,14 +13,15 @@ parser.add_argument("-t", "--test", help="test: download first 200 records", act
 parser.add_argument("-d", "--date", help="date of last harvest (default: '1900-01-01')")
 parser.add_argument("-ep", "--endpoint", help="Adlib API endpoint")
 parser.add_argument("-db", "--database", help="name of database (default 'collect')")
-parser.add_argument("-p", "--path", help="path to directory storing the harvest (default: 'out/')")
+parser.add_argument("-p", "--path", help="path to directory storing the harvest (default: 'output/')")
+parser.add_argument("-s", "--search", help="search value (default: 'all')")
 
 # read arguments from the command line
 args = parser.parse_args()
 
 if args.version:  
-    print("adlibHarvester version 0.9")
-    print("Stores xml-file for every priref from DATABASE on ENDPOINT in directory PATH, modified after DATE.")
+    print("adlibHarvester version 0.95")
+    print("Stores xml-file for every priref in selection SEARCH from DATABASE on ENDPOINT in directory PATH, modified after DATE.")
 
 if args.endpoint:  
     endpoint = args.endpoint
@@ -41,9 +42,13 @@ else:
 if args.path:  
     path = args.path
 else:
-    path = "out/"
+    path = "output/"
 
-search = "all"
+if args.search:  
+    search = args.search
+else:
+    search = "all"
+
 limit = 100
 
 ## initialize variables for loop

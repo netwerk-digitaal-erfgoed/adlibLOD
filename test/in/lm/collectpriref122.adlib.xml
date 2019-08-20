@@ -1,0 +1,58 @@
+<adlibXML>
+  <recordList>
+    <record priref="122" created="2018-07-09T11:00:47" modification="2019-06-03T03:40:45" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vlag. Rechthoekig, polychroom; acht lussen. Afbeelding: de engel Rapaha&#235;l met gespreide vleugels; staf in linkerhand en drinkfles hangend aan linkerarm. Voor Rapaha&#235;l: rad, anker en propeller. Rechts van hem een schip, trein, bus en vliegtuig. 
+Opschrift: 1903-1953 NED. KATH. BOND VAN VERVOERSPERSONEEL St. RAPHAEL AFD. MAASTRICHT</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>119.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>192.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>katoen</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1953</production.date.end>
+        <production.date.end.prec>voor</production.date.end.prec>
+        <production.date.start>1953</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>1903-1953 NED. KATH. BOND VAN VERVOERSPERSONEEL St. RAPHAEL AFD. MAASTRICHT</title>
+      </Title>
+      <location.default.name>3195B</location.default.name>
+      <object_number>L17726</object_number>
+      <priref>122</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">61</response_time>
+  </diagnostic>
+</adlibXML>

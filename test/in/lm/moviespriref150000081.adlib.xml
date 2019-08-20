@@ -1,0 +1,91 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000081" created="2018-07-09T03:24:41" modification="2018-07-09T03:24:59" selected="false">
+      <content.genre>documentaire</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">1</value>
+        <value lang="0">black and white</value>
+        <value lang="1">zwartwit</value>
+      </film.color>
+      <Associated_subject>
+        <association.subject>Sittard</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+          <value lang="9">geografi</value>
+          <value lang="10">&#1490;&#1488;&#1493;&#1490;&#1512;&#1508;&#1497;&#1492;</value>
+          <value lang="11">geografi</value>
+          <value lang="14">&#22320;&#29702;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject>Maastricht</association.subject>
+        <association.subject.association/>
+        <association.subject.date.start/>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+          <value lang="9">geografi</value>
+          <value lang="10">&#1490;&#1488;&#1493;&#1490;&#1512;&#1508;&#1497;&#1492;</value>
+          <value lang="11">geografi</value>
+          <value lang="14">&#22320;&#29702;</value>
+        </association.subject.type>
+      </Associated_subject>
+      <Description>
+        <description>De film laat beelden zien van de kampioensploeg Sittardia op het speelveld in de Sittardse wijk Baandert. Uitblinker is de 18- jarige Willy Dullens. Het publiek bejubelt zijn favorieten zoals o.a. Sjeer Gruiser, Joep Beckers, Piet Quix, Jo Plum en Math Schmeitz. De kampioenen van de eerste divisie maken in landauers een triomftocht door Sittard. Sittardia debuteert enkele maanden later in de eredivisie. Er wordt gespeeld in een nieuw stadion De Baandert. Cineast Jan van Kempen was aanwezig bij de trainingen van oefenmeester Frans Debruyn en maakte de voorbereiding mee van het eerste thuis duel tegen landskampioen DWS Amsterdam. Het nieuwe stadion was op die 23e augustus uitverkocht (25.000 toeschouwers). We zien flitsen van dit duel maar ook shots van supporters en bekende Sittardenaren. Een hoofdrol is er voor Leo Horn, oud- Sittardenaar en scheidsrechter van dit eredivisieduel. Tenslotte zijn er nog enkele korte flitsen te zien van het (uit) duel MVV - Sittardia in het Maastrichtse Geuseltstadion.</description>
+      </Description>
+      <Production>
+        <creator>Kempen, J. van</creator>
+        <creator.role>camera</creator.role>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1964</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1964</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Viva Sittardia</title>
+      </Title>
+      <website>
+        <website_url>http://youtu.be/vkyzOvj7y5g</website_url>
+      </website>
+      <object_number>0020</object_number>
+      <priref>150000081</priref>
+      <Tijdsduur>17"00"</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">49</response_time>
+  </diagnostic>
+</adlibXML>

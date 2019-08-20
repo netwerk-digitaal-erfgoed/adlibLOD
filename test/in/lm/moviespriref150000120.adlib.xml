@@ -1,0 +1,30 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000120" created="2018-07-09T03:25:05" modification="2018-07-09T03:25:05" selected="false">
+      <Production>
+        <creator>Foto Stelder</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Vijftigjarig jubileum Pope 1939 (deel 1)</title>
+      </Title>
+      <location.default.name>Gemeentearchief Venlo</location.default.name>
+      <object_number>Pope blik I</object_number>
+      <priref>150000120</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">25</response_time>
+  </diagnostic>
+</adlibXML>

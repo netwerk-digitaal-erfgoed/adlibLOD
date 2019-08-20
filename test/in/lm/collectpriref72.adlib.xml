@@ -1,0 +1,59 @@
+<adlibXML>
+  <recordList>
+    <record priref="72" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:47" selected="false">
+      <Description>
+        <description>Studie oorlogsmonument. Vier schetsen met liggende man op tafel. Zuil bij iedere schets. Bij schets linksonder: moeder met kind. Signatuur rechtsonder: PK. Achterzijde opschrift: PK Vaals voorstudie; schetsje.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>25.8</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>20.8</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>tekenaar</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1950</production.date.end>
+        <production.date.end.prec>circa</production.date.end.prec>
+        <production.date.start>1945</production.date.start>
+        <production.date.start.prec>circa</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>Vaals (studie oorlogsmonument)</title>
+      </Title>
+      <location.default.name>WOP 100</location.default.name>
+      <object_number>L17641</object_number>
+      <priref>72</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">63</response_time>
+  </diagnostic>
+</adlibXML>

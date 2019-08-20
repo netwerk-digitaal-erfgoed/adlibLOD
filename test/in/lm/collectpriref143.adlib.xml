@@ -1,0 +1,51 @@
+<adlibXML>
+  <recordList>
+    <record priref="143" created="2018-07-09T11:00:47" modification="2019-05-20T11:03:33" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vlag. Rechthoekig, witte franje aan drie zijden. Ophanglussen ontbreken. Drie horizontale stroken: rood, wit, rood. In midden wapenschild in kluren rood, wit en blauw met diagonale balk in kleuren wit en groen.
+Opschrift: R.K. Werkledenvereeniging / St.. Antonius Limmel</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>148.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>146.0</dimension.value>
+      </Dimension>
+      <Production_date>
+        <production.date.end>1940</production.date.end>
+        <production.date.end.prec>waarschijnlijk</production.date.end.prec>
+        <production.date.start>1930</production.date.start>
+        <production.date.start.prec>waarschijnlijk</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>R.K. WERKLEDENVEREENIGING ST. ANTONIUS LIMMEL</title>
+      </Title>
+      <location.default.name>3195E</location.default.name>
+      <object_number>L17740</object_number>
+      <priref>143</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">66</response_time>
+  </diagnostic>
+</adlibXML>

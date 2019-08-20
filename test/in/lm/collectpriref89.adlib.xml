@@ -1,0 +1,59 @@
+<adlibXML>
+  <recordList>
+    <record priref="89" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:50" selected="false">
+      <Description>
+        <description>Tekening. Verticalen in beweging. drie schetsen. signatuur rechtsonder: PK</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>21.4</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>30</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>krijt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>tekenaar</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1975</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1975</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Verticalen in beweging</title>
+      </Title>
+      <location.default.name>WOP 100</location.default.name>
+      <object_number>L17655</object_number>
+      <priref>89</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">49</response_time>
+  </diagnostic>
+</adlibXML>

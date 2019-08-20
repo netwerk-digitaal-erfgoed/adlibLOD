@@ -1,0 +1,63 @@
+<adlibXML>
+  <recordList>
+    <record priref="82" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:49" selected="false">
+      <Description>
+        <description>Tekening. Drie staande figuren. Signatuur rechtsonder: Piet Killaars 1960. Keerzijde: vlekken. Opschrift: 1960 Drie figuren 60 x 50 ca. 1960 PKillaars</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>60</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>25</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>krijt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>tekenaar</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1960</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1960</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Drie figuren</title>
+      </Title>
+      <location.default.name>WOP La 016A</location.default.name>
+      <object_number>L17648</object_number>
+      <priref>82</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">99</response_time>
+  </diagnostic>
+</adlibXML>

@@ -13,12 +13,12 @@ Install saxon
 
 Usage example:
 ```
-saxon -s:testdata/testset.xml -xsl:stylesheets/dc.xslt -o:out/test_dc.rdf.xml
+saxon -s:test/input/testset.xml -xsl:stylesheets/dc.xslt -o:test/output/test_dc.rdf.xml
 ```
 
 Conversion of the test set to [EDM](http://www.europeana.eu/schemas/edm/):
 ```
-saxon -s:testdata/testset.xml -xsl:stylesheets/edm-dc.xslt -o:out/test_edm-dc.rdf
+saxon -s:test/input/testset.xml -xsl:stylesheets/edm-dc.xslt -o:test/output/test_edm-dc.rdf
 ```
 
 ### Xmllint
@@ -27,12 +27,12 @@ Install xmllint
 
 Usage examples:
 ```
-xsltproc stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
+xsltproc stylesheets/dc.xslt test/input/testset.xml > test/output/test_dc.rdf.xml
 ```
 
 If you want to put the baseUri in the Command Line:
 ```
-xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesheets/dc.xslt testdata/testset.xml > out/test_dc.rdf.xml
+xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesheets/dc.xslt test/input/testset.xml > test/output/test_dc.rdf.xml
 ```
 
 ### Microsoft thing
@@ -50,5 +50,5 @@ We test the resulting XML/RDF by parsing it with raptor.
 
 Usage example
 ```
-rapper -o turtle out/test_dc.rdf.xml > out/test_dc.ttl
+rapper -o turtle test/output/test_dc.rdf.xml > test/output/test_dc.ttl
 ```

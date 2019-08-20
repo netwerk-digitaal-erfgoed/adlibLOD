@@ -1,0 +1,54 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000105" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:03" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">2</value>
+        <value lang="0">color</value>
+        <value lang="1">kleur</value>
+      </film.color>
+      <film.length>90</film.length>
+      <Description>
+        <description>Reportage van de carnavalsviering in Venlo en Blerick, 1974. Onder meer beelden van de optocht in Venlo met een nagebouwde helicopter, de prinsenwagen, een toespeling op de oliecrisis van 1973 en de reuzen Valuas en Guntrud. Mensen verkleed door de Vleesstraat en op de Markt voor het stadhuis. De optocht op de dag van de Boerebroelof (Boerenbruiloft) in Blerick</description>
+      </Description>
+      <Production>
+        <creator>Willems, Dirk</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Production_date>
+        <production.date.end>1974</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1974</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Carnaval Venlo en Blerick</title>
+      </Title>
+      <object_number>0029</object_number>
+      <priref>150000105</priref>
+      <Tijdsduur>21 "00''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">36</response_time>
+  </diagnostic>
+</adlibXML>

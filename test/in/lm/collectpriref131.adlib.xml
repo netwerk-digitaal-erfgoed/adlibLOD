@@ -1,0 +1,66 @@
+<adlibXML>
+  <recordList>
+    <record priref="131" created="2018-07-09T11:00:47" modification="2019-06-24T02:36:51" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel, ruitvormig met twee smalle boogvormige uitsparingen. Twee kwasten verbonden aan draagstok en vaandel. In het midden de engel Rapha&#235;l, staand op een landschapseilandje.. In zijn rechterhand houdt hij een gouden sleutel vast waarin een vis zich heeft vastgebeten. In zijn linkerhand houdt hij een lange staf waaraan  een drinkpot is bevestigd. Aan de riem (rechts) draagt hij een tas.  Opschriften: OPGERICHT 1923 / R.K. BOND VAN SPOOR EN TRAMWEGPERSONEEL / St. RAPHAEL AFD BAEXEM. Voorzijde locomotief op de onderzijde.
+Draagstok met twee goudkleurige knoppen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>155.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>95.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>fluweel</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>goudband</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>katoen</material>
+        <material.part/>
+      </Material>
+      <Object_name>
+        <object_name>vaandel</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1925</production.date.end>
+        <production.date.end.prec>circa</production.date.end.prec>
+        <production.date.start>1925</production.date.start>
+        <production.date.start.prec>circa</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>R.K. BOND VAN SPOOR EN TRAMWEGPERSONEEL ST. RAPHAEL AFD. BAEXEM OPGERICHT 1923</title>
+      </Title>
+      <location.default.name>3056J</location.default.name>
+      <object_number>L17714</object_number>
+      <priref>131</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">54</response_time>
+  </diagnostic>
+</adlibXML>

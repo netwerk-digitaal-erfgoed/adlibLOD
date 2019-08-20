@@ -1,0 +1,72 @@
+<adlibXML>
+  <recordList>
+    <record priref="76" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:48" selected="false">
+      <collection>
+        <broader_term>Beeldcultuur</broader_term>
+        <term>Werken op papier</term>
+      </collection>
+      <Associated_period>
+        <association.period>Tweede Wereldoorlog</association.period>
+        <association.period.assoc/>
+        <association.period.date.start>1940</association.period.date.start>
+      </Associated_period>
+      <Description>
+        <description>Ontwerp oorlogsmonument Vaals. Aquarel. Liggende man op tafelvormige sokkel. Achter/naast tafel links: zuil of boom. Op achtergrond water. Signatuur + datering op tekening: PK. 53. In bruine papieren passe-partout. Titel rechtsonder op passe-partout: ontwerp oorlogsmonument Vaals</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>23</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>35.7</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>inkt</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>waterverf</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>ontwerper</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1953</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1953</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Ontwerp oorlogsmonument Vaals</title>
+      </Title>
+      <location.default.name>WOP La 027A</location.default.name>
+      <object_number>L17642D</object_number>
+      <priref>76</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">72</response_time>
+  </diagnostic>
+</adlibXML>

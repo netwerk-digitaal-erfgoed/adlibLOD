@@ -1,0 +1,62 @@
+<adlibXML>
+  <recordList>
+    <record priref="21" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:37" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Handel</term>
+      </collection>
+      <Description>
+        <description>Munt. 2&#189; (tweeeneenhalve) Cent Nederlands-Indi&#235;. Voorzijde Nederlands wapen met kroon tussen jaartal 19-45, muntteken en muntmeesterteken in binnencirkel. Omschrift: NEDERLANDSCH INDIE en 2&#189; CENT. Keerzijde. In binnencirkel drie regels Maleise tekst met versieringen: SAPER AMPAT POELOH ROEPIJAH. Javaans omschrift: SA PARA PATANG POELOH ROEPIJAH en rozet. Muntmeesterteken palmboom en muntteken P. (philadelphia)</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>diameter</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>3.1</dimension.value>
+      </Dimension>
+      <Material>
+        <material>metaal</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>koper</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>zink</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator/>
+        <creator.role/>
+        <production.place>Philadelphia</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1945</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1945</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Twee&#235;neenhalve cent Nederlands-Indi&#235;</title>
+      </Title>
+      <location.default.name>8040 La 12</location.default.name>
+      <object_number>G12559</object_number>
+      <priref>21</priref>
+      <production.period>Tweede Wereldoorlog</production.period>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">54</response_time>
+  </diagnostic>
+</adlibXML>

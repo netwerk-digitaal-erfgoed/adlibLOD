@@ -1,0 +1,69 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000103" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:03" selected="false">
+      <content.genre>documentaire</content.genre>
+      <film.carrier>
+        <value lang="neutral">2</value>
+        <value lang="0">video</value>
+        <value lang="1">video</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">3</value>
+        <value lang="0">blakc and white and color</value>
+        <value lang="1">zwartwit en kleur</value>
+      </film.color>
+      <film.length> -</film.length>
+      <Description>
+        <description>Documentaire over de oorlogsjaren 1940-1945 in Leveroy, met aandacht voor o.a. de Duitse inval op 10 mei 1940, het dagelijks leven, het verzet, joodse onderduikers en de bevrijding. Interviews met ooggetuigen worden afgewisseld met historisch beeldmateriaal.</description>
+      </Description>
+      <Production>
+        <creator>Crins, Peter</creator>
+        <creator.role>camera en regie</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Hermans, Peter</creator>
+        <creator.role>camera en regie</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>Peter Crins</creator>
+        <creator.role>gesproken commentaar</creator.role>
+        <production.place/>
+      </Production>
+      <Production>
+        <creator>C &amp; H Leveroy</creator>
+        <creator.role>Productiemaatschappij</creator.role>
+        <production.place/>
+      </Production>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Leveroy 1940-1945. Een Midden-Limburgs dorp in oorlogstijd</title>
+      </Title>
+      <object_number>0028</object_number>
+      <priref>150000103</priref>
+      <production.date.notes>1995 / 1996</production.date.notes>
+      <Tijdsduur>150"00''</Tijdsduur>
+      <video.sound>
+        <value lang="neutral">2</value>
+        <value lang="0">mono</value>
+        <value lang="1">mono</value>
+      </video.sound>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">87</response_time>
+  </diagnostic>
+</adlibXML>

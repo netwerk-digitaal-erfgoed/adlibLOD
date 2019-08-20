@@ -88,7 +88,7 @@
 
         <!-- DC Terms has part -->
         <!-- DISCUSS: no example in testset? -->
-        <!-- <xsl:apply-templates select="Parts"/> -->
+        <!-- <xsl:apply-templates select="Parts"/-->
 
         <!-- DC Terms is part of -->
         <xsl:apply-templates select="Part_of"/>

@@ -1,0 +1,68 @@
+<adlibXML>
+  <recordList>
+    <record priref="138" created="2018-07-09T11:00:47" modification="2019-05-02T09:01:23" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vaandel, omdat zijkanten naar achteren geslagen zijn is het grondpatroon ruitvormig. Onderzijde gelobt met uitstekende punt in het midden en versierd met franje. Afbeelding: de heilige Barbara met kelk met hostie in haar rechterhand en zwaard in haar linkerhand. Toren links van haar. Tafereel binnen twee eikentakken. Boven Barbara: vijfpuntige ster.
+Opschrift: R.K. MIJNWERKERSBOND. / St. BARBARA / VOERENDAAL / 1906
+Drieophanglussen aan de bovenzijde; draagstokje met lelies aan de uiteinden.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>155.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>92.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material>fluweel</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>gouddraad</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>goudband</material>
+        <material.part/>
+      </Material>
+      <Material>
+        <material>katoen</material>
+        <material.part/>
+      </Material>
+      <Production_date>
+        <production.date.end>1910</production.date.end>
+        <production.date.end.prec>waarschijnlijk</production.date.end.prec>
+        <production.date.start>1906</production.date.start>
+        <production.date.start.prec>waarschijnlijk</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>R.K. MIJNWERKERSBOND ST. BARBARA VOERENDAAL 1906</title>
+      </Title>
+      <location.default.name>3056I</location.default.name>
+      <object_number>L17713</object_number>
+      <priref>138</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">62</response_time>
+  </diagnostic>
+</adlibXML>

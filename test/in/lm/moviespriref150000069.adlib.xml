@@ -1,0 +1,30 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000069" created="2018-07-09T03:24:56" modification="2018-07-09T03:24:57" selected="false">
+      <Production>
+        <creator>Sittard, Jean van Nunen (c) i.s.m. Hogeschool Kath. Leergangen</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Title>
+        <title>Historische Stoet Sittard</title>
+      </Title>
+      <location.default.name>Gemeentearchief Sittard</location.default.name>
+      <object_number>GAS-V026</object_number>
+      <priref>150000069</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">34</response_time>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,59 @@
+<adlibXML>
+  <recordList>
+    <record priref="62" created="2018-07-09T11:00:47" modification="2018-07-09T11:59:45" selected="false">
+      <Description>
+        <description>Zittende herder (naar links gewend) met schaap (gedeeltelijk) op schoot. De herder heeft de linkerarm om schaap geslagen. Hoek rechtsonder: signatuur en datering: Piet K 46</description>
+      </Description>
+      <Dimension>
+        <dimension.part>tekening</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>50</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>tekening</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>48</dimension.value>
+      </Dimension>
+      <Material>
+        <material>papier</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Material>
+        <material>houtskool</material>
+        <material.part>geheel</material.part>
+      </Material>
+      <Production>
+        <creator>Killaars, Piet</creator>
+        <creator.role>tekenaar</creator.role>
+        <production.place>Maastricht</production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1946</production.date.end>
+        <production.date.end.prec/>
+        <production.date.start>1946</production.date.start>
+        <production.date.start.prec/>
+      </Production_date>
+      <Title>
+        <title>Zittende herder met schaap</title>
+      </Title>
+      <location.default.name>WOP La 016B</location.default.name>
+      <object_number>L17631</object_number>
+      <priref>62</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">75</response_time>
+  </diagnostic>
+</adlibXML>

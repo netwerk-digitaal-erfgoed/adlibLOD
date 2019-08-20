@@ -1,0 +1,49 @@
+<adlibXML>
+  <recordList>
+    <record priref="150000107" created="2018-07-09T03:24:41" modification="2018-07-09T03:25:03" selected="false">
+      <content.genre>reportage</content.genre>
+      <film.carrier>
+        <value lang="neutral">1</value>
+        <value lang="0">film</value>
+        <value lang="1">film</value>
+      </film.carrier>
+      <film.color>
+        <value lang="neutral">2</value>
+        <value lang="0">color</value>
+        <value lang="1">kleur</value>
+      </film.color>
+      <film.length>28</film.length>
+      <Description>
+        <description>Sloopwerkzaamheden in het centrum van Blerick, ter hoogte van het huidige bejaardentehuis "Onder de Wi&#235;n" en het (voormalige) Tuindorp, omstreeks 1970. De nieuwbouw van het winkelcentrum "De Wi&#235;n" is al gereed. Tevens korte opname van de tuin achter het huis van Dirk Willems. Op de achtergrond het terrein van boerderij Wellens</description>
+      </Description>
+      <Production>
+        <creator>Willems, Dirk</creator>
+        <creator.role/>
+        <production.place/>
+      </Production>
+      <Rights>
+        <rights.notes/>
+      </Rights>
+      <Title>
+        <title>Afbraak dorpskern Blerick</title>
+      </Title>
+      <object_number>0030</object_number>
+      <priref>150000107</priref>
+      <production.date.notes>1970 (ca.)</production.date.notes>
+      <Tijdsduur>7 "00''</Tijdsduur>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>film</dsname>
+    <cgistring>
+      <param name="database">movies</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">37</response_time>
+  </diagnostic>
+</adlibXML>

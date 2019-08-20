@@ -1,0 +1,62 @@
+<adlibXML>
+  <recordList>
+    <record priref="109" created="2018-07-09T11:00:47" modification="2019-06-03T03:38:59" selected="false">
+      <collection>
+        <broader_term>Cultuurhistorie</broader_term>
+        <term>Verenigingsleven</term>
+      </collection>
+      <Description>
+        <description>Vlag Nederlandse katholieke mijnwerkersbond van de parochie van de Heilige Geest te Meezenbroek. Rechthoekig; polychroom; zeven lussen; franje aan drie zijden. Afbeelding boven: duif- de Heilige Geest voorstellend - aan de onderkant omgeven door stralen. Linksbeneden: twee kruislings over elkaar liggende hamers boven mijnlamp; rechtsbeneden: mijnfabriek met toren liftschacht en koeltoren.
+Opschrift: NKMB HEERLEN PAR. H. GEEST MEEZENBROEK OPG. 1955</description>
+      </Description>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>140.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part>geheel</dimension.part>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>171.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material/>
+        <material.part>bovenlaag</material.part>
+      </Material>
+      <Material>
+        <material>katoen</material>
+        <material.part>onderlaag</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end/>
+        <production.date.end.prec/>
+        <production.date.start>1955</production.date.start>
+        <production.date.start.prec>na</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>NKMB HEERLEN PAR. H. GEEST MEEZENBROEK OPG. 1955</title>
+      </Title>
+      <location.default.name>3195A</location.default.name>
+      <object_number>L17719</object_number>
+      <priref>109</priref>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">45</response_time>
+  </diagnostic>
+</adlibXML>

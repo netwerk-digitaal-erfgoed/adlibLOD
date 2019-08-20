@@ -1,0 +1,55 @@
+<adlibXML>
+  <recordList>
+    <record priref="115" created="2018-07-09T11:00:47" modification="2019-04-15T03:08:40" selected="false">
+      <Description>
+        <description>Vlag, rechthoekig, overwegend paars. Elf ophanglussen. Franje aan drie zijden.  Afbeeldinng bestaande uit aambeeld, hamer, moker, tang en tandwiel. Opschrift: R.K. Smedenpatroons Bond / S. ELooi / Afd. Maastricht. Linksboven het wapen van de stad Maastgricht. Geheel is omkaderd door keten.
+Signatuur afbeelding rechtsonder: E.M.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>vaandel</dimension.part>
+        <dimension.type>hoogte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>163.0</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.type>breedte</dimension.type>
+        <dimension.unit>cm</dimension.unit>
+        <dimension.value>140.0</dimension.value>
+      </Dimension>
+      <Material>
+        <material/>
+        <material.part>vaandel</material.part>
+      </Material>
+      <Object_name>
+        <object_name>vlag</object_name>
+      </Object_name>
+      <Production_date>
+        <production.date.end>1940</production.date.end>
+        <production.date.end.prec>voor</production.date.end.prec>
+        <production.date.start>1940</production.date.start>
+        <production.date.start.prec>voor</production.date.start.prec>
+      </Production_date>
+      <Title>
+        <title>R.K. Smedenpatroons Bond S. Elooi Afd. Maastricht</title>
+      </Title>
+      <location.default.name>3056F</location.default.name>
+      <object_number>L17710</object_number>
+      <priref>115</priref>
+      <production.period>Tweede Wereldoorlog</production.period>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <first_item>1</first_item>
+    <limit>1</limit>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <response_time unit="mS" culture="en-US">59</response_time>
+  </diagnostic>
+</adlibXML>
