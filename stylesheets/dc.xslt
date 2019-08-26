@@ -13,7 +13,8 @@
 <xsl:param name="language">en</xsl:param-->
 
 <!-- DISCUSS: hard to determine which language is used -->
-<!-- DISCUSS HOWTO handle empty elements? -->
+<!-- DISCUSS: HOWTO handle empty elements? -->
+<!-- DISCUSS: how to link a picture? -->
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
