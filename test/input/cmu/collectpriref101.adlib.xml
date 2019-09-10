@@ -1,0 +1,273 @@
+<adlibXML>
+  <recordList>
+    <record priref="101" created="2015-06-15T22:38:59" modification="2019-06-24T15:39:52" selected="False">
+      <acquisition.date>1920</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Bisschoppelijk Utrecht 695-1528</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, St. Ursulaklooster</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral"/>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">kloosters (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">religie</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">Fragiel: fragmenten zijn verbogen, ontbreken gedeeltelijk, zijn gescheurd. Ijzer is plaatselijk dun geworden. Lichte oppervlakte corrosie.</value>
+        </condition.notes>
+        <condition>
+          <value lang="">matig</value>
+        </condition>
+      </Condition>
+      <current_location.context>metaalcabine, kast 37, ernaast</current_location.context>
+      <current_location.name>metaalcabine, kast 37, ernaast</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 37, ernaast</location.default.name>
+        <location.default.context>metaalcabine, kast 37, ernaast</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Leliekruis van het dak van de kapel van het St. Ursulaklooster</description>
+      </Description>
+      <Dimension>
+        <dimension.value>214</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>121</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>25</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1575</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 712 2x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 896, cat. nr. 360</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum [onedele metalen cat. nr. 251-543]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp; B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3648</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-06-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-12-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-12-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-07-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <input.date>1995-10-13</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ijzer</value>
+        </material>
+      </Material>
+      <notes>Afkomstig van het dak van de kapel van het St. Ursulaklooster, sinds 1745 in gebruik als lutherse kerk, Hamburgerstraat 9.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">kruis</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">leliekruis</value>
+        </object_name>
+      </Object_name>
+      <object_number>1616</object_number>
+      <priref>101</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1580</production.date.end>
+        <production.date.start>1500</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>inventarisnrs\H1616.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>109385</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-09-05</input.date>
+          <edit.date>2016-09-12</edit.date>
+          <edit.time>09:34:03</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>109385</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>smeedijzer</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Leliekruis van het St. Ursulaklooster</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2089</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '101'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">46.8728</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

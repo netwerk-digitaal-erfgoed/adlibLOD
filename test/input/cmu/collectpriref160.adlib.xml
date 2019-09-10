@@ -1,0 +1,468 @@
+<adlibXML>
+  <recordList>
+    <record priref="160" created="2015-06-15T22:38:59" modification="2019-04-03T13:40:35" selected="False">
+      <acquisition.date>1905</acquisition.date>
+      <acquisition.date.precision>+</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <acquisition.notes>bruikleen sinds 1874</acquisition.notes>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Bisschoppelijk Utrecht 695-1528</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Wijk bij Duurstede</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Wijk bij Duurstede</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">provincie Utrecht</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 10, plank C</current_location.context>
+      <current_location.name>metaalcabine, kast 10, plank C</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 10, plank C</location.default.name>
+        <location.default.context>metaalcabine, kast 10, plank C</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Enkel spoor gemaakt van gesmeed ijzer; vier ogen aan de voorzijde waarin aan beide kanten een ringetje. Aan de achterzijde een ronddraaiend wiel met acht punten (2 punten zijn halverwege afgebroken).</description>
+      </Description>
+      <Dimension>
+        <dimension.value>12.5</dimension.value>
+        <dimension.type>
+          <value lang="">lengte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>9</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>4</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 4140</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1083</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 810</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 662, cat. nr. 40, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 618, 623, nr. 18</documentation.page_reference>
+        <documentation.title>
+          <title>Kriegswaffen in ihren geschichtlichen Entwickelungen von den &#228;ltesten Zeiten bis auf der Gegenwart : eine Encyklop&#228;die der Waffenkunde</title>
+          <lead_word>
+            <value lang="">Die</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Demmin, A.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">von August Demmin</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Leipzig</value>
+          </place_of_publication>
+          <year_of_publication>1893</year_of_publication>
+          <copy.number>r05646</copy.number>
+          <priref>7356</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 12, afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Met hand en hart : zeven eeuwen smedengilde en St. Eloyengasthuis in Utrecht 1304-2004</title>
+          <lead_word/>
+          <statement_of_responsibility>
+            <value lang="">Ronald Rommes &amp; Joost van der Spek</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <place_of_publication/>
+          <year_of_publication>2004</year_of_publication>
+          <year_of_publication/>
+          <year_of_publication/>
+          <copy.number>05/276</copy.number>
+          <priref>15811</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-07-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-07-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-07</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-12-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-11-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Het Gilde van St. Eloy</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2004-09-11</venue.date.start>
+          <venue.date.end>2004-11-14</venue.date.end>
+          <notes>Historische tentoonstelling ter gelegenheid van de viering van het 700-jarig bestaan van het smedengilde Sint Eloy in Utrecht.</notes>
+          <nummer_cm>T200437</nummer_cm>
+          <object.object_number>6849</object.object_number>
+          <object.object_number>473</object.object_number>
+          <object.object_number>9447</object.object_number>
+          <object.object_number>1675</object.object_number>
+          <object.object_number>24539</object.object_number>
+          <object.object_number>9547</object.object_number>
+          <object.object_number>1576</object.object_number>
+          <object.object_number>5337</object.object_number>
+          <object.object_number>2478</object.object_number>
+          <object.object_number>1651</object.object_number>
+          <object.object_number>6720</object.object_number>
+          <object.object_number>11745</object.object_number>
+          <object.object_number>25667/001</object.object_number>
+          <object.object_number>25667/002</object.object_number>
+          <object.object_number>25667/003</object.object_number>
+          <object.object_number>25667/004</object.object_number>
+          <object.object_number>3010/001-002</object.object_number>
+          <object.object_number>4321 b</object.object_number>
+          <object.object_number>4321 c</object.object_number>
+          <object.object_number>4321 b</object.object_number>
+          <object.object_number>4321 c</object.object_number>
+          <object.object_number>4321 d</object.object_number>
+          <object.object_number>4321 e</object.object_number>
+          <object.object_number>4321 f</object.object_number>
+          <object.object_number>4321 g</object.object_number>
+          <object.object_number>4321 h</object.object_number>
+          <object.object_number>4321 i</object.object_number>
+          <object.object_number>4321 j</object.object_number>
+          <object.object_number>4321 k</object.object_number>
+          <object.object_number>4321 l</object.object_number>
+          <object.object_number>4321 m</object.object_number>
+          <object.object_number>3015</object.object_number>
+          <object.object_number>3013</object.object_number>
+          <object.object_number>3014</object.object_number>
+          <object.object_number>3017/001-002</object.object_number>
+          <object.object_number>3024/001-002</object.object_number>
+          <object.object_number>3025/001-002</object.object_number>
+          <object.object_number>3026/001-002</object.object_number>
+          <object.object_number>3021/001-002</object.object_number>
+          <object.object_number>3022/001-002</object.object_number>
+          <object.object_number>1652</object.object_number>
+          <object.object_number>1653</object.object_number>
+          <object.object_number>1654</object.object_number>
+          <object.object_number>1667</object.object_number>
+          <object.object_number>3012</object.object_number>
+          <object.object_number>2525</object.object_number>
+          <object.object_number>648</object.object_number>
+          <object.object_number>24768/001</object.object_number>
+          <object.object_number>24768/002</object.object_number>
+          <object.object_number>18155</object.object_number>
+          <priref>10523</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200437_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200437_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>10523</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1994-01-31</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ijzer</value>
+        </material>
+      </Material>
+      <notes>Gevonden in Wijk bij Duurstede. A. Demmin, Die Kriegwaffen in ihren geschichtichen Entwicklungen von den &#228;ltesten Zeiten bis auf die Gegenwart, 4e druk, Leipzig 1893, beeldt een identieke spoor af, die in het graf van een Duitse ridder Von Heideck werd gevonden, en is gedateerd eind 14de eeuw. Tot 1997 (publicatie van de collectiecatalogus Metalen) was de datering 17de eeuw.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">spoor</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">ruiterspoor</value>
+        </object_name>
+      </Object_name>
+      <object_number>1675</object_number>
+      <priref>160</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1300</production.date.end>
+        <production.date.start>1175</production.date.start>
+      </Production_date>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1675.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>101987</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2015-10-02</input.date>
+          <edit.date>2016-09-21</edit.date>
+          <edit.time>14:07:36</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1675.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>101987</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gesmeed ijzer</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Enkel ruiterspoor</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.9014</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '160'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">281.2573</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,474 @@
+<adlibXML>
+  <recordList>
+    <record priref="1" created="2015-06-15T22:38:59" modification="2019-08-16T13:02:28" selected="False">
+      <acquisition.date>1876-07</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">verdedigingswezen (schutterij) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">prenten en tekeningen</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">portret</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">mansportret</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">Visscher, Cornelis Govert</value>
+      </content.motif.general>
+      <current_location.context>prentendepot, vak 7 C</current_location.context>
+      <current_location.name>prentendepot, vak 7 C</current_location.name>
+      <defaultlocation>
+        <location.default.name>prentendepot, vak 7 C</location.default.name>
+        <location.default.context>prentendepot, vak 7 C</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Beschrijving: borstbeeld, driekwart frontaal naar links gewend, gekleed in het uniform der patriotten. Geplaatst in een lijst die tussen twee pilasters tegen een stenen muur is opgehangen; van boven bekroond met een guirlande, waaronder opschrift. Onderaan krijgstrofee&#235;n met het familiewapen van Visscher, waaronder een vers.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>35.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>26.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1397</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus der schilderijen [1952]</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1952</year_of_publication>
+          <priref>2274</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 130</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2141</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3440</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>zaal 2, cat. nr. 4</documentation.page_reference>
+        <documentation.title>
+          <title>Vreeswijks verleden in woord en beeld</title>
+          <lead_word/>
+          <priref>13882</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-08-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-12-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-06-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-07-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-06-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-06-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-10-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-10-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-08-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-08-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-06-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-06-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Vreeswijks verleden in woord en beeld</title>
+          <venue>
+            <value lang="">Openbare Lagere School, Vreeswijk</value>
+          </venue>
+          <venue.place>
+            <value lang="">Vreeswijk</value>
+          </venue.place>
+          <venue.date.start>1964-10-29</venue.date.start>
+          <venue.date.end>1964-10-31</venue.date.end>
+          <object.object_number>1022</object.object_number>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>2340</object.object_number>
+          <object.object_number>608</object.object_number>
+          <priref>9593</priref>
+        </exhibition>
+        <exhibition.lref>9593</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-08-05</input.date>
+      <Inscription>
+        <inscription.content>Mr. Cornelis Govert Visscher, Bevelhebber van het Burgervaandel Turkyen En der vrywillige scherpschutters ten dienste der Stad Utrecht. Gesneuveld oud 23 Jaaren, 3 Maanden en 11 dagen den 9 Mey 1787 's avonds ten 10 uuren.</inscription.content>
+        <inscription.method>met inkt</inscription.method>
+        <inscription.position>
+          <value lang="">m.b.</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>Dit is de beeltenis van Visscher "Utrechts Held" // Die strijdend voor Stads Regt bij Vreeswijk is geveld // Dat niemand 't beeld aanschouw, dan die gewillig 't leeven // Als 't Vaderland het eischt, aan 't Vaderland durft geeven.</inscription.content>
+        <inscription.method>met inkt</inscription.method>
+        <inscription.position>
+          <value lang="">m.o.</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>Met de Pen geteekend door Leonard Venroy in Gouda 1792</inscription.content>
+        <inscription.method>met inkt</inscription.method>
+        <inscription.position>
+          <value lang="">m.o.</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur en datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">papier</value>
+        </material>
+      </Material>
+      <notes>Toen op 9 mei 1787 om 10 uur 's avonds de troepen van de Staten van Utrecht onder leiding van regimentscommandant Van Efferen en de patriotse Utrechtse schutters elkaar troffen, vuurde het grenadierspeleton van de Staten de eerste twee salvo's af. Bij het eerste salvo sneuvelde de Utrechtse kanonnier Robertus van der Vlerk en bij het tweede de kapitein-luitenant Cornelis Govert Visscher, bevelhebber van het schuttersvendel Turkije. Na een korte schotenwisseling bleek het artillerievuur van de Utrechtse schutters de doorslag te geven en sloeg het Staatse bataljon op de vlucht.
+Getekend op dubbelvel, 355 x 536 mm. De kop is gekopieerd naar de prent van P.H. Jonxis (zie inv.nr.15029).</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">tekening</value>
+        </object_name>
+      </Object_name>
+      <object_number>1022</object_number>
+      <priref>1</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Venroy, Leonardus</value>
+          </name>
+          <birth.date.start>1734-11-15</birth.date.start>
+          <birth.place>
+            <value lang="">Gouda</value>
+          </birth.place>
+          <death.date.start>1808-05-29</death.date.start>
+          <death.place>
+            <value lang="">Gouda</value>
+          </death.place>
+          <url>https://rkd.nl/explore/artists/206654</url>
+          <url>http://www.wikidata.org/entity/Q18225989</url>
+          <priref>21822</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1792</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>15029</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1025</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>25993</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>2340</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1706</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1022.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>47632</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2016-06-24</edit.date>
+          <edit.date>2013-02-21</edit.date>
+          <edit.date>2013-02-21</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>13:42:10</edit.time>
+          <edit.time>10:50:36</edit.time>
+          <edit.time>10:47:41</edit.time>
+          <edit.time>18:56:38</edit.time>
+          <edit.time>18:55:49</edit.time>
+          <edit.time>16:41:42</edit.time>
+          <edit.time>16:32:47</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1022.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>47632</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\PENT\1022_01.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>155564</priref>
+          <rights>&#169; Centraal Museum, Utrecht</rights>
+          <input.date>2019-08-16</input.date>
+          <edit.date>2019-08-16</edit.date>
+          <edit.time>13:02:28</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>155564</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>inkt op papier</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Portret van Cornelis Govert Visscher (1764-1787)</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">120.7224</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '1'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.621</response_time>
+    <xml_creation_time unit="mS" culture="en-US">187.5056</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

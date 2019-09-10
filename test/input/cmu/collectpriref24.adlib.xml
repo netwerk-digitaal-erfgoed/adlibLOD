@@ -1,0 +1,456 @@
+<adlibXML>
+  <recordList>
+    <record priref="24" created="2015-06-15T22:38:59" modification="2018-08-21T14:52:34" selected="False">
+      <acquisition.date>1889</acquisition.date>
+      <acquisition.method>
+        <value lang="">overdracht</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Oudmunsterkerkhof F 220</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Groenekan</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">provincie Utrecht</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">schilderkunst</value>
+      </collection>
+      <collection>
+        <value lang="">meubelen tot 1900</value>
+      </collection>
+      <collection>
+        <value lang="">schilderkunst tot 1850</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">landschap</value>
+      </content.motif.general>
+      <current_location.context>HKU-depot, kast 10, plank B</current_location.context>
+      <current_location.name>HKU-depot, kast 10, plank B</current_location.name>
+      <defaultlocation>
+        <location.default.name>HKU-depot, kast 10, plank B</location.default.name>
+        <location.default.context>HKU-depot, kast 10, plank B</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>HKU-depot, kast 11, plank B</location.default.name>
+        <location.default.context>HKU-depot, kast 11, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>De acht delen hebben de volgende voorstellingen: (001) een weg met tuinhuis en tuinhek (de buitenplaats Scadeshoeve aan de Groene Kan behorende aan de familie Loten); (002) een water met schepen; (003) een boerenhuis aan het water; (004) een kerk met een herberg; (005) een weg met boerenhuizen; (006) een weg langs een sloot; (007) een weg met een sloot en geboomte; (008) een schuur met een boerin.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.value>300</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.value>277.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.value>299</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.value>182.5</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.value>300.6</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.value>168.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.value>299.8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.value>149</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>005</dimension.part>
+        <dimension.value>300.4</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>005</dimension.part>
+        <dimension.value>143.7</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>006</dimension.part>
+        <dimension.value>300</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>006</dimension.part>
+        <dimension.value>185.4</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>007</dimension.part>
+        <dimension.value>299.9</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>007</dimension.part>
+        <dimension.value>183.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>008</dimension.part>
+        <dimension.value>299.2</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>008</dimension.part>
+        <dimension.value>41.2</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1060</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1014 12x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1685</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 1765, cat. nr. 902</documentation.page_reference>
+        <documentation.title>
+          <title>Schilderkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 591-902]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Helmus, Liesbeth M. [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Liesbeth M. Helmus</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1999</year_of_publication>
+          <priref>11703</priref>
+        </documentation.title>
+      </Documentation>
+      <documentation.free_text>Het Utrechts Archief, toegnr. 27 (1889), nr. 234 noemt de opdracht aan de kunstschilder A.C. van Selm om de behangsels te restaureren.</documentation.free_text>
+      <documentation.free_text>Het Utrechts Archief, toegnr. 811: inventaris van het archief van de gemeentelijke archief- en fotodienst te Utrecht (circa 1650) 1802-1986 (1988), door A. Pietersma, band 28 (1890), nr. 255.</documentation.free_text>
+      <documentation.free_text>S. Muller Fz. Catalogus van het Museum van Oudheden, Openbare verzamelingen der gemeente Utrecht, Utrecht 1878 (met handgeschreven latere bijschriften), nr. 1014 12x</documentation.free_text>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-01-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-01-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-06-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-04-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-08-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-08-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-07-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-10-12</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <input.date>1993-11-10</input.date>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description/>
+        <inscription.method/>
+        <inscription.notes/>
+        <inscription.position lang=""/>
+        <inscription.type lang="">
+          <value lang="">geen</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">doek</value>
+        </material>
+      </Material>
+      <notes>Afkomstig uit het huis Oudmunsterkerkhof F nr. 220, afgebroken voor de bouw van het Universiteitsgebouw. Het Utrechts Archief, toegnr. 811: inventaris van het archief van de gemeentelijke archief- en fotodienst te Utrecht (circa 1650) 1802-1986 (1988), door A. Pietersma, band 28 (1890), nr. 255  bevat een advies met betrekking tot de restauratie van de geschilderde behangsels door de heer Ellenberger, d&#233;corateur te Amsterdam, die bezig is de coulissen van de schouwburg alhier te herstellen; de Utrechtsen d&#233;corateur Viveen, die evenals de heer Hanau verzoekt de behangsels thuis te herstellen; de heer A. van Everdingen en de heer J. Hoevenaar worden gevraagd of de behangsels door een d&#233;corateur kunnen worden hersteld. Dit blijkt vooral een technische kwestie te zijn: de behangsels moeten worden gedoubleerd. A.C. van Selm completeert de opdracht (279)</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">bouwfragment</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">kamerbehangsel</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">behang</value>
+        </object_name>
+      </Object_name>
+      <object_number>1539/001-008</object_number>
+      <Part_of>
+        <part_of_reference>Louis XV-kamer</part_of_reference>
+      </Part_of>
+      <priref>24</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Noord-Nederlands</value>
+          </name>
+          <priref>21830</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1807</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>olieverf op doek</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Kamerbehangsel in acht delen</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">85.0933</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '24'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">147.7619</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

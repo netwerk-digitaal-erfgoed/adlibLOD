@@ -1,0 +1,253 @@
+<adlibXML>
+  <recordList>
+    <record priref="149" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:25" selected="False">
+      <acquisition.date>1878-11</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Bisschoppelijk Utrecht 695-1528</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Oudmunsterkerkhof</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral"/>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">kapittels (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">religie</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <current_location.context>prentendepot, kast 10, lade 2</current_location.context>
+      <current_location.name>prentendepot, kast 10, lade 2</current_location.name>
+      <defaultlocation>
+        <location.default.name>onbekend</location.default.name>
+        <location.default.context>onbekend</location.default.context>
+      </defaultlocation>
+      <Dimension>
+        <dimension.value>14.5</dimension.value>
+        <dimension.type>
+          <value lang="">lengte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 4120</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 386 x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 721</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 895, cat. nr. 355</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum [onedele metalen cat. nr. 251-543]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp; B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3648</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-04-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <input.date>1994-02-03</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ijzer</value>
+        </material>
+      </Material>
+      <notes>Gevonden in de grond van het Oudmunsterkerkhof (Domplein)</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">sleutel</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">huisraad</value>
+        </object_name>
+      </Object_name>
+      <object_number>1664</object_number>
+      <priref>149</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1499</production.date.end>
+        <production.date.start>1400</production.date.start>
+      </Production_date>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>ijzer</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Sleutel</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">93.757</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '149'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.624</response_time>
+    <xml_creation_time unit="mS" culture="en-US">109.3789</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

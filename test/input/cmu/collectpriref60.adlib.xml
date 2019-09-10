@@ -1,0 +1,473 @@
+<adlibXML>
+  <recordList>
+    <record priref="60" created="2015-06-15T22:38:59" modification="2019-04-01T16:19:15" selected="False">
+      <acquisition.date>1896</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 08, plank E</current_location.context>
+      <current_location.name>metaalcabine, kast 08, plank E</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 08, plank E</location.default.name>
+        <location.default.context>metaalcabine, kast 08, plank E</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Olielamp met kapje op verstelbare standaard met oliereservoir. Los gereedschap hangt aan standaard.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>39</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>22</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>11</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1903</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 830, cat. nr. 204, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-04-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-09-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Script. Mode en interieur, van salon tot house</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2007-12-08</venue.date.start>
+          <venue.date.end>2008-08-02</venue.date.end>
+          <notes>Door topstukken uit de mode- en interieurgeschiedenis in een filmische setting te presenteren speelde de ervaring van het verstrijken van de tijd de hoofdrol in de opstelling Script (december 2007 tot augustus 2008 in het Centraal Museum Utrecht). 18de- en 19de-eeuwse japonnen, servieskasten en canap&#233;s, maar ook Rietveld-ontwerpen en hedendaagse mode van onder anderen Jean Paul Gaultier en Vivienne Westwood werden met elkaar vermengd in een doorlopende filmische ervaring. Kostuumfilms uit de afgelopen twintig jaar vormden de inspiratie voor filmsets waarin de stukken waren opgesteld. Dit resulteerde in een nieuwe interpretatie van de beroemde Utrechtse stijlkamers.
+
+Mode, film en interieur
+De mode-industrie ontstaat in de late 18de eeuw doordat mensen op de boulevards van grote steden, in de opera en winkelgalerijen - de passages - met hun kleding tonen dat ze &#8216;van hun tijd&#8217; zijn. Nog steeds is de actualiteit van kleding een belangrijk communicatiemiddel op semi-openbare plekken als terrassen, clubs en disco&#8217;s. Trends in kleuren, vormen en productiemethoden zijn in de mode en het interieur van een bepaalde tijd vaak aan elkaar gerelateerd. Films, en tegenwoordig ook games, initi&#235;ren of versterken zulke trends.
+
+Van Liaisons Dangereuses tot Blade Runner
+De meubels en mode in de films die als uitgangspunt dienden voor de inrichting van Script, verbeeldden belangrijke cultuurhistorische ontwikkelingen. In &#8216;Sense and Sensibility&#8217; weerspiegelden interieur en kleding de verheerlijking van het ongecompliceerde buitenleven versus de verdorven stad.
+
+De film &#8216;Man met de camera&#8217; was het cinematografische equivalent van het beroemde Rietveld Schr&#246;derhuis van Gerrit Rietveld uit 1924. Niet &#8216;natuur&#8217; maar &#8216;cultuur&#8217; was het parool. De toekomst leek maakbaar. Hiervoor werden in Script topstukken uit de Rietveldcollectie in een bijzondere modernistische omgeving geplaatst. Deze Rietveld-set was in Script een soort &#8216;uitkijkpost&#8217; geworden op het verleden &#233;n de toekomst.
+
+In de science fiction film &#8216;Blade Runner&#8217; kwamen vele historische stijlen samen. De film had grote invloed op de vormgeving van de cyberpunk in het uitgaansleven van de jaren tachtig en negentig. De architectuur van de danssc&#232;ne uit de film Basic Instinct was gebruikt om al die invloeden samen te laten komen.
+
+Iedereen een filmster!
+In het Centraal Museum was iedereen een filmster! In Script waren niet alleen bijzondere topstukken in de filmsets te zien, de bezoeker kon verschillende sets binnenstappen en zichzelf (laten) fotograferen.
+Thema's waren ontleend aan &#8216;Man met de camera&#8217; (Dziga Vertov, 1929), &#8216;Young Mr. Lincoln&#8217; (John Ford, 1939), &#8216;India Song&#8217; (Marguerite Duras, 1975), &#8216;Blade Runner&#8217; (Ridley Scott, 1982), &#8216;Liaisons dangereuses&#8217; (Stephen Frears, 1988), &#8216;Madame Bovary&#8217; (Claude Chabrol, 1991), &#8216;Basic Instinct&#8217; (Paul Verhoeven, 1992), &#8216;The age of innocence&#8217; (Martin Scorsese, 1993), de computergame &#8216;Myst&#8217; (Robyn en Rand Miller, 1993), &#8216;Sense and Sensibility&#8217; (Ang Lee, 1995), &#8216;Monsieur Proust&#8217; (Raul Ruiz, 1999) en &#8216;Gosford Park&#8217; (Robert Altman, 2001).
+
+De vormgeving van Script was in handen van Concern/Gillian Schrofer en Darlaine Heitinga.
+Script werd onder andere mogelijk met steun van de BankGiro Loterij.</notes>
+          <nummer_cm>T200733</nummer_cm>
+          <object.object_number>1694</object.object_number>
+          <object.object_number>9118</object.object_number>
+          <object.object_number>50057</object.object_number>
+          <object.object_number>15312</object.object_number>
+          <object.object_number>1017</object.object_number>
+          <object.object_number>9620</object.object_number>
+          <object.object_number>50036</object.object_number>
+          <object.object_number>10197 a</object.object_number>
+          <object.object_number>10197 b</object.object_number>
+          <object.object_number>18093/001-002</object.object_number>
+          <object.object_number>22424/001-002</object.object_number>
+          <object.object_number>13209</object.object_number>
+          <object.object_number>20189</object.object_number>
+          <object.object_number>12577</object.object_number>
+          <object.object_number>12586</object.object_number>
+          <object.object_number>20094</object.object_number>
+          <object.object_number>22756</object.object_number>
+          <object.object_number>26193</object.object_number>
+          <object.object_number>26479</object.object_number>
+          <object.object_number>28111</object.object_number>
+          <object.object_number>26701</object.object_number>
+          <object.object_number>50081</object.object_number>
+          <object.object_number>15709</object.object_number>
+          <object.object_number>16047</object.object_number>
+          <object.object_number>2291</object.object_number>
+          <object.object_number>11286 a-e</object.object_number>
+          <object.object_number>1575</object.object_number>
+          <object.object_number>18806/001-003</object.object_number>
+          <object.object_number>9856</object.object_number>
+          <object.object_number>6885/001-002</object.object_number>
+          <object.object_number>6885/003-014</object.object_number>
+          <object.object_number>837</object.object_number>
+          <object.object_number>17894</object.object_number>
+          <object.object_number>14145</object.object_number>
+          <object.object_number>20966 a</object.object_number>
+          <object.object_number>22857/003</object.object_number>
+          <object.object_number>12639/001-002</object.object_number>
+          <object.object_number>22714/001-003</object.object_number>
+          <object.object_number>24128</object.object_number>
+          <object.object_number>24123/001-002</object.object_number>
+          <object.object_number>30253</object.object_number>
+          <object.object_number>30247</object.object_number>
+          <object.object_number>30254</object.object_number>
+          <object.object_number>30248</object.object_number>
+          <object.object_number>30249</object.object_number>
+          <object.object_number>30251/001-002</object.object_number>
+          <object.object_number>30255/001-003</object.object_number>
+          <object.object_number>30246</object.object_number>
+          <object.object_number>30252</object.object_number>
+          <object.object_number>30259</object.object_number>
+          <object.object_number>12938</object.object_number>
+          <object.object_number>16567</object.object_number>
+          <object.object_number>11298</object.object_number>
+          <object.object_number>12365 d/001-009</object.object_number>
+          <object.object_number>30210</object.object_number>
+          <object.object_number>12365 f</object.object_number>
+          <object.object_number>12365 h</object.object_number>
+          <object.object_number>12423</object.object_number>
+          <object.object_number>5034</object.object_number>
+          <object.object_number>10722/001-002</object.object_number>
+          <object.object_number>27097</object.object_number>
+          <object.object_number>7801</object.object_number>
+          <object.object_number>8619</object.object_number>
+          <object.object_number>19810/001-013</object.object_number>
+          <object.object_number>12263</object.object_number>
+          <object.object_number>22112</object.object_number>
+          <object.object_number>21777</object.object_number>
+          <object.object_number>8184 a</object.object_number>
+          <object.object_number>8184 b</object.object_number>
+          <object.object_number>8184 c</object.object_number>
+          <object.object_number>8184 d</object.object_number>
+          <object.object_number>17855</object.object_number>
+          <object.object_number>16149</object.object_number>
+          <object.object_number>20871</object.object_number>
+          <object.object_number>7916/001-003</object.object_number>
+          <object.object_number>2136</object.object_number>
+          <object.object_number>2241/001-236</object.object_number>
+          <object.object_number>9966 a</object.object_number>
+          <object.object_number>9966 b</object.object_number>
+          <object.object_number>14919</object.object_number>
+          <object.object_number>16425</object.object_number>
+          <object.object_number>16426</object.object_number>
+          <object.object_number>9967</object.object_number>
+          <object.object_number>7215</object.object_number>
+          <object.object_number>5226/001-002</object.object_number>
+          <object.object_number>7800/001-002</object.object_number>
+          <object.object_number>8174</object.object_number>
+          <object.object_number>9110</object.object_number>
+          <object.object_number>859</object.object_number>
+          <object.object_number>1618</object.object_number>
+          <object.object_number>50101</object.object_number>
+          <object.object_number>50104</object.object_number>
+          <object.object_number>9620</object.object_number>
+          <object.object_number>24752/001-009</object.object_number>
+          <object.object_number>9202</object.object_number>
+          <object.object_number>5229</object.object_number>
+          <object.object_number>20713</object.object_number>
+          <object.object_number>4459</object.object_number>
+          <object.object_number>23945</object.object_number>
+          <object.object_number>22253</object.object_number>
+          <object.object_number>21252</object.object_number>
+          <object.object_number>22251</object.object_number>
+          <object.object_number>20026</object.object_number>
+          <object.object_number>14987/001</object.object_number>
+          <object.object_number>14986</object.object_number>
+          <object.object_number>21202/001-002</object.object_number>
+          <object.object_number>22420</object.object_number>
+          <object.object_number>12509</object.object_number>
+          <object.object_number>10537</object.object_number>
+          <object.object_number>9205</object.object_number>
+          <object.object_number>22252</object.object_number>
+          <object.object_number>21248</object.object_number>
+          <object.object_number>9204</object.object_number>
+          <object.object_number>16687</object.object_number>
+          <object.object_number>7228</object.object_number>
+          <object.object_number>642</object.object_number>
+          <object.object_number>9129</object.object_number>
+          <object.object_number>4402</object.object_number>
+          <object.object_number>25956/001-002</object.object_number>
+          <object.object_number>7229</object.object_number>
+          <object.object_number>56</object.object_number>
+          <object.object_number>57</object.object_number>
+          <object.object_number>7950/001-002</object.object_number>
+          <object.object_number>8930/001-002</object.object_number>
+          <object.object_number>21755/001-002</object.object_number>
+          <object.object_number>20225</object.object_number>
+          <object.object_number>18385</object.object_number>
+          <object.object_number>13037/001-002</object.object_number>
+          <object.object_number>4451</object.object_number>
+          <object.object_number>21247</object.object_number>
+          <object.object_number>16687</object.object_number>
+          <object.object_number>13041/001-002</object.object_number>
+          <object.object_number>21249</object.object_number>
+          <object.object_number>28595</object.object_number>
+          <object.object_number>14987/002</object.object_number>
+          <object.object_number>10722/003</object.object_number>
+          <object.object_number>22857/001</object.object_number>
+          <object.object_number>22857/002</object.object_number>
+          <object.object_number>20962</object.object_number>
+          <object.object_number>15874 a-b</object.object_number>
+          <object.object_number>7916/002</object.object_number>
+          <priref>12712</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200733_D_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>12712</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1996-04-15</input.date>
+      <Inscription>
+        <inscription.content>crystal - prima - boheems</inscription.content>
+        <inscription.position>
+          <value lang="">op glas</value>
+        </inscription.position>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">geel metaal</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">glas</value>
+        </material>
+      </Material>
+      <notes>De olielamp is voorzien van een argandbrander, genoemd naar de uitvinder Aim&#233; Argand (geb. te Gent, 1750). Het principe van de brander berust op toevoer van lucht door de brander, zodat de luchttoevoer zowel binnendoor als aan de buitenkant van de brander geschiedt. Het gevolg is een betere verbranding van de olie, waardoor meer licht wordt verkregen en minder stank. Door de lamp te voorzien van een nauw glas wordt het effect nog versterkt. De brander is in hoogte verstelbaar en bestaat uit een brander met lampenglas, een messing kap en een oliereservoir.
+Tot 1997 (publicatie van de collectiecatalogus Metalen) was de datering: begin 19de eeuw.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">lamp</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">olielamp</value>
+        </object_name>
+      </Object_name>
+      <object_number>1575</object_number>
+      <priref>60</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1850</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1575.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>101937</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2015-10-02</input.date>
+          <edit.date>2016-09-21</edit.date>
+          <edit.time>13:53:53</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1575.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>101937</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>geel metaal; glas</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Olielamp met argandbrander</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.4968</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '60'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6273</response_time>
+    <xml_creation_time unit="mS" culture="en-US">941.774</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,554 @@
+<adlibXML>
+  <recordList>
+    <record priref="23" created="2015-06-15T22:38:59" modification="2019-08-16T13:04:05" selected="False">
+      <acquisition.date>1918-11</acquisition.date>
+      <acquisition.method>
+        <value lang="">aankoop</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">kunstenaars (literatuur) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">cultuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">schilderkunst</value>
+      </collection>
+      <collection>
+        <value lang="">schilderkunst tot 1850</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">portret</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">vrouwenportret</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">Schurman, Anna Maria van</value>
+      </content.motif.general>
+      <current_location.context>EXPO 6.2</current_location.context>
+      <current_location.name>EXPO 6.2</current_location.name>
+      <defaultlocation>
+        <location.default.name>prentendepot, kast 26, plank 14</location.default.name>
+        <location.default.context>prentendepot, kast 26, plank 14</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Borstbeeld, driekwart frontaal naar rechts gewend, afgebeeld tegen een groen gordijn als achtergrond. Zij is gekleed in een wit gewaad met bruine mantel en witte hoofddoek; de rechterhand rust op een opengeslagen boek. Op het tweede plan ziet men een kast met boeken en een beeld van Pallas Athene.</description>
+      </Description>
+      <Dimension>
+        <dimension.notes>ovaal</dimension.notes>
+        <dimension.value>10.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.notes>ovaal</dimension.notes>
+        <dimension.value>8.6</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.notes>ovaal</dimension.notes>
+        <dimension.value>14.8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte (met lijst)</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.notes>ovaal</dimension.notes>
+        <dimension.value>12.7</dimension.value>
+        <dimension.type>
+          <value lang="">breedte (met lijst)</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 76-78, 83 (noten 86 en 89), cat. nr. I.1.1.7 op p. 261, afb. 6 op p. 77</documentation.page_reference>
+        <documentation.title>
+          <title>Anna Maria van Schurman of "Hoe hooge dat een maeght kan in de konsten stijgen"</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Stighelen, Katlijne van der</value>
+          </author.name>
+          <author.name>
+            <value lang="">Van der Stighelen, Katlijne</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Katlijne Van der Stighelen. Katlijne van der Stighelen</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Leuven</value>
+          </place_of_publication>
+          <year_of_publication>1987</year_of_publication>
+          <copy.number>96/626</copy.number>
+          <priref>783</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 8 (?)</documentation.page_reference>
+        <documentation.title>
+          <title>Blauwkous : Tentoonstelling over Vrouwenstudie aan Nederlandse Universiteiten en Hogescholen</title>
+          <lead_word/>
+          <priref>1804</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 168</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus der schilderijen [1933]</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1933</year_of_publication>
+          <priref>2273</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 255</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus der schilderijen [1952]</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1952</year_of_publication>
+          <priref>2274</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 123</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3431 2x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 72</documentation.page_reference>
+        <documentation.title>
+          <title>Filips von Zesen (1619-1689) en Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Graft, Cornelia Catharina van de [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">dr. C. Cath. van de Graft</value>
+          </statement_of_responsibility>
+          <priref>200000738</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 911-912, cat. nr. 245, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Schilderkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 1-290]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Helmus, Liesbeth M. [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Liesbeth M. Helmus</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1999</year_of_publication>
+          <priref>11701</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 146-147, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Calvinismus : die Reformierten in Deutschland und Europa</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Reiss, Ansgar</value>
+          </author.name>
+          <author.name>
+            <value lang="">Witt, Sabine</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">hrsg. von Ansgar Reiss und Sabine Witt</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Berlin</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Dresden</value>
+          </place_of_publication>
+          <year_of_publication>2009</year_of_publication>
+          <year_of_publication/>
+          <copy.number>09/228</copy.number>
+          <copy.number>09/229</copy.number>
+          <priref>19529</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 55, afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Panpo&#235;ticon Batav&#251;m : The Portrait of the Author as a Celebrity</title>
+          <lead_word>
+            <value lang="">The</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Deinsen, Lieke van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Lieke van Deinsen</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>2016</year_of_publication>
+          <copy.number>17/160</copy.number>
+          <priref>25007</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-08-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-08-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-01-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-01-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-02-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-03-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-07-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-04-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-04-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-12-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-08-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-06-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-03-20</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Calvinismus: Die Reformierten in Deutschland und Europa</title>
+          <venue>
+            <value lang="">Deutsches Historisches Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Berlijn</value>
+          </venue.place>
+          <venue.date.start>2009-04-01</venue.date.start>
+          <venue.date.end>2009-07-19</venue.date.end>
+          <object.object_number>1538</object.object_number>
+          <object.object_number>1827</object.object_number>
+          <object.object_number>2040</object.object_number>
+          <object.object_number>2247/001-008</object.object_number>
+          <object.object_number>2369</object.object_number>
+          <object.object_number>2370</object.object_number>
+          <object.object_number>2498</object.object_number>
+          <object.object_number>2557</object.object_number>
+          <object.object_number>2613</object.object_number>
+          <object.object_number>2621</object.object_number>
+          <object.object_number>4752</object.object_number>
+          <object.object_number>6436</object.object_number>
+          <object.object_number>10009</object.object_number>
+          <object.object_number>18056</object.object_number>
+          <object.object_number>18057</object.object_number>
+          <object.object_number>20845</object.object_number>
+          <object.object_number>20846</object.object_number>
+          <object.object_number>520</object.object_number>
+          <object.object_number>50001</object.object_number>
+          <priref>13266</priref>
+        </exhibition>
+        <exhibition.lref>13266</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Vromen en Verlichten : twee eeuwen Protestantse geloofsbeleving 1650-1850</title>
+          <venue>
+            <value lang="">Aartsbisschoppelijk Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1974-06-15</venue.date.start>
+          <venue.date.end>1974-08-18</venue.date.end>
+          <object.object_number>1538</object.object_number>
+          <object.object_number>4752</object.object_number>
+          <object.object_number>7386</object.object_number>
+          <priref>8408</priref>
+        </exhibition>
+        <exhibition.lref>8408</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"Blauwkous?" Tentoonstelling over Vrouwenstudie aan Nederlandse Universiteiten en Hogescholen</title>
+          <venue>
+            <value lang="">Universiteitsmuseum, Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1959-04-15</venue.date.start>
+          <venue.date.end>1959-05-16</venue.date.end>
+          <object.object_number>1538</object.object_number>
+          <object.object_number>2369</object.object_number>
+          <object.object_number>2370</object.object_number>
+          <object.object_number>2484</object.object_number>
+          <object.object_number>4752</object.object_number>
+          <object.object_number>6643 b</object.object_number>
+          <priref>9387</priref>
+        </exhibition>
+        <exhibition.lref>9387</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <in_museum>x</in_museum>
+      <input.date>1993-07-29</input.date>
+      <Inscription>
+        <inscription.content>ANNA MARIA SCHUURMAN // Obt 1678</inscription.content>
+        <inscription.position>
+          <value lang="">op achterzijde</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">blik</value>
+        </material>
+      </Material>
+      <notes>Anna Maria van Schurman (Keulen 1607-Wieuwerd 1678). Het is goed mogelijk dat dit het door Arnoud van Halen geschilderde portretje van Anna Maria van Schurman is, dat deel uitmaakte van zijn verzameling portretten van Nederlandse dichters, bekend onder de naam Panpo&#235;ticon Batavum. In zijn lofdicht op de verzameling noemt Bidloo 1720 het portretje van Anna Maria van Schurman op pp. 270-273: `[...]Begaafde Jufferschap, om buyten uw verwyt, // U in te voeren, als ter Zang-heldinnen strydt, Als and're Pallassen, met pantzers, pluymen, helmen; // Dit wilde uw Roem, in plaatz van luysteren, bedwelmen; // En gantsch te swygen heeft in uw verdienst geen vley, // Naar 't burgerlyk besef; dat ik zoo schoonen Rey // Zouw laten zonder hooft, Leyds-Vrou, en Koninginne // Tot den beroemden trant der Digterlyke Minne; // En gy, bescheydene, stel u ten besten voor, // Dat ik tot zulk een Kroon de Stigtsche-Maagd verkoor // Gy kent haar alle, de Eer van Neerlands Po&#235;tressen En wie kend Schurmans niet! [...]. [...] Gy, haar gezusteren, beschouw hoe wel bedreven // Door Arnouds fyn Pin&#231;eel dit, by haar Beeldenis, // In 't Panpo&#235;ticon, gevolgd, getroffen is [...]'. De serie, die oorspronkelijk uit 199 portretten bestond, is in de loop van de negentiende eeuw uit elkaar geraakt. In het Rijksmuseum Amsterdam worden nog 46 portretten bewaard. Zie Amsterdam 1976(a), inv. nrs. a1738 en a4555-a4558, p. 726; a4560-a4563 en a4565, p. 727; a4566, a4613 en a4567-a4569, p. 728; a4573, a4574, a1504 en a4600, p. 729; a4578-4582 en a4584, p. 730; a4585-a4592, p. 731; a4595, a4596, a4599 en a4594, p. 732; a4601, a4603, a4605, a4606 en a4608, p. 733; a4610-a4612, a4614 en a4615, p. 734. Net als de andere portretten uit de serie is het portret van Anna Maria van Schurman vervaardigd naar een onbekend voorbeeld, mogelijk een zelfportret. Waarschijnlijk werd het in opdracht van de tweede eigenaar van de verzameling, Michiel de Roode, vervangen door twee portretjes van Van Schurman door J.M. Quinkhard. Zie inv. nr. 2484. De portretten waren oorspronkelijk gevat in vergulde loden lijstjes. Zie Van Thiel 1978, p. 11. Het portret van Anna Maria van Schurman heeft een negentiende-eeuwse zwart geschilderde houten lijst. Rechts op de achtergrond bevindt zich Athena. Zie ook inv.nr. 6637.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">miniatuur</value>
+        </object_name>
+      </Object_name>
+      <object_number>1538</object_number>
+      <priref>23</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Halen, Arnoud van (?)</value>
+          </name>
+          <birth.date.start>1673</birth.date.start>
+          <birth.place>
+            <value lang="">Amsterdam</value>
+          </birth.place>
+          <death.date.start>1732</death.date.start>
+          <death.place>
+            <value lang="">Amsterdam</value>
+          </death.place>
+          <priref>21833</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1710</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>2484</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>6643 b</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>6643 c</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1538.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48094</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2014-10-21</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>15:29:50</edit.time>
+          <edit.time>16:34:02</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1538.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48094</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\PENT\1538_01.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>155767</priref>
+          <rights>&#169; Centraal Museum, Utrecht</rights>
+          <input.date>2019-08-16</input.date>
+          <edit.date>2019-08-16</edit.date>
+          <edit.time>13:04:05</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>155767</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\PENT\1538_02.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>155768</priref>
+          <rights>&#169; Centraal Museum, Utrecht</rights>
+          <input.date>2019-08-16</input.date>
+          <edit.date>2019-08-16</edit.date>
+          <edit.time>13:04:05</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>155768</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>olieverf op blik</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Portret van Anna Maria van Schurman (1607-1678)</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">140.6261</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '23'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6197</response_time>
+    <xml_creation_time unit="mS" culture="en-US">361.9938</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

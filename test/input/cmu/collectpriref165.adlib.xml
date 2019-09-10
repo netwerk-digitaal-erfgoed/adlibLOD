@@ -1,0 +1,478 @@
+<adlibXML>
+  <recordList>
+    <record priref="165" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:32" selected="False">
+      <acquisition.date>1934</acquisition.date>
+      <acquisition.method>
+        <value lang="">overdracht</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Bisschoppelijk Utrecht 695-1528</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, St. Salvatorkerk</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">kapittels (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">religie</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst tot 1850</value>
+      </collection>
+      <current_location.context>benedendepot 2A, kast 14, plank C</current_location.context>
+      <current_location.name>benedendepot 2A, kast 14, plank C</current_location.name>
+      <defaultlocation>
+        <location.default.name>benedendepot 2A, kast 14, plank C</location.default.name>
+        <location.default.context>benedendepot 2A, kast 14, plank C</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>benedendepot 2A, kast 15, plank B</location.default.name>
+        <location.default.context>benedendepot 2A, kast 15, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Doodskist met deksel versierd met bladornament</description>
+      </Description>
+      <Dimension>
+        <dimension.part>kist</dimension.part>
+        <dimension.value>48</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>kist</dimension.part>
+        <dimension.value>178.5</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>kist</dimension.part>
+        <dimension.value>49.5</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>deksel</dimension.part>
+        <dimension.value>26</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>deksel</dimension.part>
+        <dimension.value>187</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>deksel</dimension.part>
+        <dimension.value>56</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1184 1x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad, supplement</title>
+          <lead_word/>
+          <priref>2348</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 80-81, cat. nr. 46a met afb.; p. 47</documentation.page_reference>
+        <documentation.title>
+          <title>Willibrord en het begin van Nederland</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Vlierden, Marieke van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door Marieke van Vlierden. Marieke van Vlierden</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1995</year_of_publication>
+          <year_of_publication/>
+          <copy.number>96/84</copy.number>
+          <priref>14232</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 180, cat. nr. 1, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Beeldhouwkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 1-243]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Klinckaert, Jan W.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Klinckaert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>1486</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 84, p. 85 afb. in kleur.</documentation.page_reference>
+        <documentation.title>
+          <title>Vikingen! : overvallen in het stroomgebied van Rijn en Maas, 800-1000</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Willemsen, Annemarieke</value>
+          </author.name>
+          <author.name>
+            <value lang="">Simek, Rudolf</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bruin, Renger E. de [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Annemarieke Willemsen ; met bijdr. van Rudolf Simek en Renger de Bruin</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Bussum</value>
+          </place_of_publication>
+          <year_of_publication>2004</year_of_publication>
+          <year_of_publication/>
+          <copy.number>04/390</copy.number>
+          <copy.number>04/391</copy.number>
+          <copy.number>04/392</copy.number>
+          <priref>15085</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference/>
+        <documentation.title>
+          <title>Utrecht een hemel op aarde</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Vlierden, Marieke van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Drs. Marieke van Vlierden</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Zutphen</value>
+          </place_of_publication>
+          <year_of_publication>1988</year_of_publication>
+          <year_of_publication>1988</year_of_publication>
+          <copy.number>R05892</copy.number>
+          <priref>24812</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-11-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-11-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-11-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-06-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-04-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-04-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-03-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-02-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-11-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-08-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-08-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-10-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-10-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-12-13</edit.date>
+      </Edit>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Willibrord en het begin van Nederland</title>
+          <venue>
+            <value lang="">Museum Catharijneconvent</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1995-11-18</venue.date.start>
+          <venue.date.end>1996-01-28</venue.date.end>
+          <object.object_number>1680</object.object_number>
+          <object.object_number>2469</object.object_number>
+          <object.object_number>4916</object.object_number>
+          <object.object_number>4917</object.object_number>
+          <object.object_number>4918</object.object_number>
+          <object.object_number>12013</object.object_number>
+          <object.object_number>4953</object.object_number>
+          <object.object_number>4954</object.object_number>
+          <object.object_number>4955</object.object_number>
+          <object.object_number>4956</object.object_number>
+          <object.object_number>4957</object.object_number>
+          <object.object_number>4958</object.object_number>
+          <object.object_number>4959</object.object_number>
+          <object.object_number>4960</object.object_number>
+          <object.object_number>4963</object.object_number>
+          <object.object_number>4964</object.object_number>
+          <object.object_number>4968</object.object_number>
+          <object.object_number>4969</object.object_number>
+          <object.object_number>4970</object.object_number>
+          <object.object_number>4974</object.object_number>
+          <object.object_number>4978</object.object_number>
+          <object.object_number>4979</object.object_number>
+          <object.object_number>4980</object.object_number>
+          <object.object_number>4982</object.object_number>
+          <object.object_number>4984</object.object_number>
+          <object.object_number>4985</object.object_number>
+          <object.object_number>4990</object.object_number>
+          <object.object_number>4992</object.object_number>
+          <object.object_number>4995</object.object_number>
+          <object.object_number>4996</object.object_number>
+          <object.object_number>4998</object.object_number>
+          <object.object_number>4999</object.object_number>
+          <object.object_number>4986</object.object_number>
+          <object.object_number>4987</object.object_number>
+          <object.object_number>4988</object.object_number>
+          <priref>9258</priref>
+        </exhibition>
+        <exhibition.lref>9258</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-10-06</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">kalksteen</value>
+        </material>
+      </Material>
+      <notes>Gevonden onder de vloer van de St. Salvator bij de opgraving van 1934. De ingegroefde lijnmotieven zijn met de vrije hand getrokken. In de manier van decoreren is een zekere analogie vast te stellen met een sarcofaag uit Poitiers uit de zeventiende eeuw en enkele kalkstenen sarcofagen in Picardi&#235; uit dezelfde tijd. De sarcofaag werd vermoedelijk in afgewerkte vorm vanuit Noord-Frankrijk via de Maas naar Utrecht gevoerd.
+De sarcofaag bevatte de resten van twee lichamen. De persoon - of personen - voor wie hij was bestemd, moet hoog aanzien hebben genoten (zie: Utrecht, 1995/1996, pp. 80-81).</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">grafmonument</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">sarcofaag</value>
+        </object_name>
+      </Object_name>
+      <object_number>1680</object_number>
+      <priref>165</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Frans</value>
+          </name>
+          <priref>44505</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>750</production.date.end>
+        <production.date.end.prec>ca.</production.date.end.prec>
+        <production.date.start>700</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>1680_03.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>111786</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-10-13</input.date>
+          <edit.date>2016-10-17</edit.date>
+          <edit.time>10:48:52</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\INVENTARISNUMMERS\gecropt\1680_03.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>111786</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\BD 1680 D.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>6052</priref>
+          <input.date>2004-12-13</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.date>2007-04-26</edit.date>
+          <edit.time>16:20:43</edit.time>
+          <edit.time>09:49:04</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>6052</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>Jura kalksteen</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Sarcofaag</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">78.1201</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '165'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">707.2627</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

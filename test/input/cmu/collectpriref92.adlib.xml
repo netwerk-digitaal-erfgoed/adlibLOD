@@ -1,0 +1,391 @@
+<adlibXML>
+  <recordList>
+    <record priref="92" created="2015-06-15T22:38:59" modification="2019-05-27T15:27:07" selected="False">
+      <acquisition.date>1844</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Jacobikerk</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">gilden (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">hervormden (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">religie</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <current_location.context>metaalcabine, kast 07, plank F</current_location.context>
+      <current_location.name>metaalcabine, kast 07, plank F</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 07, plank F</location.default.name>
+        <location.default.context>metaalcabine, kast 07, plank F</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Drie schildjes van een kerkkroon in de vorm van cartouches: het eerste met de afbeelding van een molen met de initialen 'PCW' en het jaartal '1630'; het tweede met de afbeelding van een molen van binnen, waarin een paard loopt; met de initialen 'CJK' en het jaartal '1630'; het derde met het opschrift: '1630 DEKENS EN GILTBROEDERS VANT MEULLENAERSGILT HEBBEN DESE CROON DOEN MAKEN'. Alle drie schilden zijn bovenaan versierd met een St. Jacobsschelp.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>elk</dimension.part>
+        <dimension.value>24.3</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>elk</dimension.part>
+        <dimension.value>14</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1447</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 192</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 691</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 775, cat. nr. 150, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 38</documentation.page_reference>
+        <documentation.title>
+          <title>Geschiedenis van de kerspelkerk van St. Jacob te Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Riemsdijk, jhr. T.H.F. van [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door Th.H.F. van Riemsdijk</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Leiden</value>
+          </place_of_publication>
+          <year_of_publication>1882</year_of_publication>
+          <copy.number>R01535</copy.number>
+          <priref>4819</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 81</documentation.page_reference>
+        <documentation.title>
+          <title>Tentoonstelling van oude kunst uit Utrechtse kerken en gasthuizen</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Jonge, jonkvr. C.H. de [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">[voorw. C.H. de Jonge]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1943</year_of_publication>
+          <copy.number>R03032</copy.number>
+          <copy.number>r04832</copy.number>
+          <priref>12502</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-05-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-05-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-12-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-07-24</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-11-10</input.date>
+      <Inscription>
+        <inscription.content>1630 DEKENS EN GILTBROEDERS VAN MEULLENAERD GILT HEBBEN DESE CROON DOEN MAKEN</inscription.content>
+        <inscription.position>
+          <value lang="">op tweede schildje</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>PCW</inscription.content>
+        <inscription.position>
+          <value lang="">op eerste schildje</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>CIK</inscription.content>
+        <inscription.position>
+          <value lang="">op derde schildje</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>1630</inscription.content>
+        <inscription.position>
+          <value lang="">op eerste en derde schildje</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">geelkoper</value>
+        </material>
+      </Material>
+      <notes>De schildjes waren bevestigd op een kroon van het Molenaarsgilde in de Jacobikerk te Utrecht. De drie schildjes zijn alle bekroond met een schelpmotief, dat herinnert aan Jacobus de Meerdere.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">kroon</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">kerkkroon</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">schild</value>
+        </object_name>
+      </Object_name>
+      <object_number>1607</object_number>
+      <priref>92</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1630</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1607.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48147</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>16:34:09</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1607.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48147</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>geelkoper, gegoten</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Drie schildjes van een kerkkroon</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">79.6671</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '92'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">110.941</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,473 @@
+<adlibXML>
+  <recordList>
+    <record priref="115" created="2015-06-15T22:38:59" modification="2019-06-12T15:48:00" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">handel (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">bestuursinrichting  (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">slechts een gewicht aangetroffen</value>
+        </condition.notes>
+        <condition>
+          <value lang="">goed</value>
+        </condition>
+      </Condition>
+      <current_location.context>metaalcabine, kast 30, plank A</current_location.context>
+      <current_location.name>metaalcabine, kast 30, plank A</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 30, plank A</location.default.name>
+        <location.default.context>metaalcabine, kast 30, plank A</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Een stel Hollands Trooyze krukgewichten, zwart koper, zeskantig van Abraham Groengraft (Ijkmeester-Generaal van 23 jan. 1701 tot 20 jan. 1745 te Amterdam. Ijkmerk is gekroond Amsterdams wapen met de letters A.G.G.). De Franse lelie, die op alle gewichten ingeslagen is, betekend dat het Trooys gewicht is.
+Het stel gewichten bestaat uit de volgende gewichten 001) 50 mark met jaartal 1721 (2 stuks), 30 mark met jaartal 1721, 20 mark met jaartal 1721, 10 mark met letter L en 3 mark met letter L.
+NB. 1 mark Hollands Trooys = 1/2 Hollands Trooys pond = 246.1 gram. (aantekening van dhr. en mevr. dr. van Cittert, van het Physisch Laboratorium alhier; de gewichten eventueel aldaar na laten wegen).</description>
+      </Description>
+      <Description>
+        <description/>
+      </Description>
+      <Description>
+        <description>Bestaande uit zes stuks; naast de handvatsels is aan de ene zijde het gewicht ingestempeld, onderscheidenlijk 50, 50, 30, 20, 10 en 3 mark, aan de andere zijde het jaartal 1721 en merken.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>1</dimension.part>
+        <dimension.value>25</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>1</dimension.part>
+        <dimension.value>13</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>2</dimension.part>
+        <dimension.value>25</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>2</dimension.part>
+        <dimension.value>13</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>3</dimension.part>
+        <dimension.value>20</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>3</dimension.part>
+        <dimension.value>11</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>4</dimension.part>
+        <dimension.value>16.2</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>4</dimension.part>
+        <dimension.value>10.1</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>5</dimension.part>
+        <dimension.value>13</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>5</dimension.part>
+        <dimension.value>7.9</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>6</dimension.part>
+        <dimension.value>5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>6</dimension.part>
+        <dimension.value>5</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1692</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1751</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3045</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 804, cat. nr. 178, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-06-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-02-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-02-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-02-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-08</edit.date>
+      </Edit>
+      <gepubliceerd>x</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-11-15</input.date>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description>AGG</inscription.description>
+        <inscription.notes>=merk van de ijkmeester generaal van Holland en Westfriesland Abraham Groengraft (aangesteld 23-1-1701, overl. 20-1-1745)</inscription.notes>
+        <inscription.position>
+          <value lang="">op gewichten</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">merkteken</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>L</inscription.content>
+        <inscription.notes>L=1721</inscription.notes>
+        <inscription.position>
+          <value lang="">op kleine gewichten</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">datering</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>1721</inscription.content>
+        <inscription.position>
+          <value lang="">in gewichten</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">messing</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">gewicht</value>
+        </object_name>
+      </Object_name>
+      <object_number>1630</object_number>
+      <priref>115</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1721</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\onedelemetalen\o177.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>2083</priref>
+          <input.date>2003-12-27</input.date>
+          <edit.date>2018-02-16</edit.date>
+          <edit.date>2006-02-08</edit.date>
+          <edit.time>14:27:51</edit.time>
+          <edit.time>16:38:06</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>2083</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>inventarisnrs\H1630.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>109651</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-10-07</input.date>
+          <edit.date>2018-02-16</edit.date>
+          <edit.time>14:27:51</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1630.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>109651</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gegoten messing</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Zes krukgewichten</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">78.1273</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '115'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6256</response_time>
+    <xml_creation_time unit="mS" culture="en-US">187.5043</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

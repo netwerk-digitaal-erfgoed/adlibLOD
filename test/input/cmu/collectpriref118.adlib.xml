@@ -1,0 +1,498 @@
+<adlibXML>
+  <recordList>
+    <record priref="118" created="2015-06-15T22:38:59" modification="2019-04-01T16:03:30" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">handel (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">bestuursinrichting  (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 08, plank D</current_location.context>
+      <current_location.name>metaalcabine, kast 08, plank D</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 08, plank D</location.default.name>
+        <location.default.context>metaalcabine, kast 08, plank D</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Stel van koperen gewichten, bestaande uit 4 stuks; naast het handvat (bij het kleinste gewicht op het handvat) is aan de ene zijde het gewicht ingestempeld, resp. 5, 3, 2, en 1 Utrechtse ponden (2.35, 1.4, 0.93, 0.47 kg); aan de andere zijde het Utrechts stadswapen en op het grootste gewicht: een hand (merk van het Brabants gewicht, ontleend aan het wapen van Antwerpen).</description>
+      </Description>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.value>13</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.value>235</dimension.value>
+        <dimension.type>
+          <value lang="">gewicht</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.value>12</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.value>140</dimension.value>
+        <dimension.type>
+          <value lang="">gewicht</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.value>9.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.value>93</dimension.value>
+        <dimension.type>
+          <value lang="">gewicht</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.value>8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.value>47</dimension.value>
+        <dimension.type>
+          <value lang="">gewicht</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1695</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1754</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3048</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 820, cat. nr. 194, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-04-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-08-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De Provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Kasteel-Museum Sypestein</value>
+          </venue>
+          <venue.place>
+            <value lang="">Loosdrecht</value>
+          </venue.place>
+          <venue.date.start>1997-03-01</venue.date.start>
+          <venue.date.end>1997-04-13</venue.date.end>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1632</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>50010</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>762</object.object_number>
+          <object.object_number>763</object.object_number>
+          <priref>5806</priref>
+        </exhibition>
+        <exhibition.lref>5806</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum Woerden</value>
+          </venue>
+          <venue.place>
+            <value lang="">Woerden</value>
+          </venue.place>
+          <venue.date.start>1996-10-21</venue.date.start>
+          <venue.date.end>1997-01-12</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>9686</object.object_number>
+          <object.object_number>11048 a</object.object_number>
+          <object.object_number>11048 b</object.object_number>
+          <object.object_number>11138</object.object_number>
+          <object.object_number>18128</object.object_number>
+          <object.object_number>18539/001</object.object_number>
+          <object.object_number>18539/002</object.object_number>
+          <object.object_number>18539/003</object.object_number>
+          <object.object_number>26090/001</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>595</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9852</priref>
+        </exhibition>
+        <exhibition.lref>9852</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Historisch Museum Het Kleine Veenloo</value>
+          </venue>
+          <venue.place>
+            <value lang="">Veenendaal</value>
+          </venue.place>
+          <venue.date.start>1996-05-11</venue.date.start>
+          <venue.date.end>1996-07-06</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>9740</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>50083</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>599</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>602</object.object_number>
+          <object.object_number>603</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9465</priref>
+        </exhibition>
+        <exhibition.lref>9465</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1994-01-03</input.date>
+      <Inscription>
+        <inscription.description>Utrechts stadswapen</inscription.description>
+        <inscription.notes/>
+        <inscription.type>
+          <value lang="">wapen</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.description>hand</inscription.description>
+        <inscription.notes>hand=merk van het Brabants gewicht, ontleend aan het wapen van Antwerpen</inscription.notes>
+        <inscription.type>
+          <value lang="">merk</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">geel metaal</value>
+        </material>
+      </Material>
+      <notes>Gewichten van 1 t/m 4 Utrechtse pond. De gewichten zijn met Romeinse cijfers naast het handvat weergegeven, bij het kleinste gewicht op het handvat. De gewichten van 3 en 2 pond droegen vroeger een etiket, waarop resp. de volgende opschriften: 'Livres d'Utrecht valent (1) kilogramme 40.5 grammes 20/100 No. 50'; 'Livres d'Utrecht valent 936 grammes 80/100 No. 49'.
+Tot 1997 (publicatie van de collectiecatalogus Metalen) was de datering: 1810.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">gewicht</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">weegattribuut</value>
+        </object_name>
+      </Object_name>
+      <object_number>1633/001-004</object_number>
+      <priref>118</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1820</production.date.end>
+        <production.date.start>1800</production.date.start>
+      </Production_date>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1633=001-004.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>101968</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2015-10-02</input.date>
+          <edit.date>2018-02-16</edit.date>
+          <edit.time>14:27:10</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1633=001-004.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>101968</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gegoten geel metaal</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Vier krukgewichten</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2529</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '118'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">391.6413</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

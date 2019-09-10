@@ -1,0 +1,395 @@
+<adlibXML>
+  <recordList>
+    <record priref="129" created="2015-06-15T22:38:59" modification="2019-03-18T12:26:02" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">bestuursinrichting (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">verf is plaatselijk beschadigd</value>
+        </condition.notes>
+        <condition>
+          <value lang="">matig</value>
+        </condition>
+      </Condition>
+      <current_location.context>metaalcabine, kast 01, lade 4a</current_location.context>
+      <current_location.name>metaalcabine, kast 01, lade 4a</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 01, lade 4a</location.default.name>
+        <location.default.context>metaalcabine, kast 01, lade 4a</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Zwart geschilderd blikken plaatje met handbeschilderde tekst en plaatje van kalkoen bevattende het volgende opschrift: Het Gerecht van Tolsteeg en Klein Covelswade word geladen tegens Maandag den 5e Januarij 1807 des naarnoens ten 5 Uure precies in den Gerechtshuyze den Engel, en daarna ten huyze van de Heer Cameraar Lubberding tot het consumeren van een Vette (volgt de afbeelding van een kalkoen) op de boete.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>8.7</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>12.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>0.1</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1759</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1125</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1454</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 596-597, met afb. in kleur; p. 624, cat. nr. 6, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 34</documentation.page_reference>
+        <documentation.title>
+          <title>Gids door het Stedelijk Museum van Oudheden te Utrecht [1892]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1892</year_of_publication>
+          <copy.number>R00388</copy.number>
+          <priref>4886</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 44</documentation.page_reference>
+        <documentation.title>
+          <title>Gids door het Stedelijk Museum van Oudheden te Utrecht [1906]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1906</year_of_publication>
+          <copy.number>R00779</copy.number>
+          <copy.number>13/053</copy.number>
+          <priref>4887</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 43</documentation.page_reference>
+        <documentation.title>
+          <title>Gids door het Stedelijk Museum van Oudheden te Utrecht [1913]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1913</year_of_publication>
+          <year_of_publication/>
+          <copy.number>R00780</copy.number>
+          <copy.number>R00781</copy.number>
+          <copy.number>R00782</copy.number>
+          <priref>4888</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-03-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-09-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-06-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>tentoonstelling i.v.m. opening Paleis van Justitie te Utrecht</title>
+          <venue>
+            <value lang="">Paleis van Justitie, Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1965-10-07</venue.date.start>
+          <venue.date.end>1965-10-14</venue.date.end>
+          <object.object_number>1638</object.object_number>
+          <object.object_number>1641</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>1644</object.object_number>
+          <object.object_number>1712</object.object_number>
+          <object.object_number>1713</object.object_number>
+          <object.object_number>7669</object.object_number>
+          <object.object_number>558</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>50080</object.object_number>
+          <priref>9296</priref>
+        </exhibition>
+        <exhibition.lref>9296</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1994-02-28</input.date>
+      <Inscription>
+        <inscription.content>Het Gerecht van Tolsteeg en Klein Covelswade word geladen tegens Maandag den 5e Januarij 1807 des naarnoens ten 5 Uure precies in den Gerechtshuyze den Engel, en daarna ten huyze van de Heer Cameraar Lubberding tot het consumeren van een Vette [afbeelding van een kalkoen] op de boete.</inscription.content>
+        <inscription.position>
+          <value lang="">op bord</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">blik</value>
+        </material>
+      </Material>
+      <notes>Tolsteeg was een van de gerechten (zo heetten in Utrecht gemeenten buiten de steden) die behoorden tot de invloedssfeer van de stad Utrecht</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">plaat</value>
+        </object_name>
+      </Object_name>
+      <object_number>1644</object_number>
+      <priref>129</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1807</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1644.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48176</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2016-09-14</edit.date>
+          <edit.time>10:00:56</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1644.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48176</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>beschilderd blik</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Plaatje met opschrift</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">78.1331</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '129'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">142.0764</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

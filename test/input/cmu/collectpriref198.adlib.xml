@@ -1,0 +1,215 @@
+<adlibXML>
+  <recordList>
+    <record priref="198" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:44" selected="False">
+      <acquisition.date>1920</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst tot 1850</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">man</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">vrouw</value>
+      </content.motif.general>
+      <current_location.context>variadepot, kast 26, plank E</current_location.context>
+      <current_location.name>variadepot, kast 26, plank E</current_location.name>
+      <defaultlocation>
+        <location.default.name>variadepot, kast 26, plank E</location.default.name>
+        <location.default.context>variadepot, kast 26, plank E</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Beeldgroep van ongebakken klei met drie figuren, frontaal ten voeten uit lopend afgebeeld. In het midden een mager heer met lange hals en bakkebaarden. Hij is gekleed in een geklede jas, strikdas en slappe ronde hoed. Aan zijn rechterarm een jong meisje in een lange japon, de rok voorzien van dire volants, manteltje, een grote rieten hoed met afhangend lint op het hoofd, een bouquetje in de gehandschoende rechterhand. Aan zijn linkerarm een oud dametje in een lange rok, jak, luifelhoed met strik onder de kin, een zakdoek in de gehandschoende linkerhand.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>19</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>18</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>9</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 691, cat. nr. 456, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Beeldhouwkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 244-478]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Klinckaert, Jan W.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Klinckaert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>1487</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 368 5x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-04-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-06-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-10-07</input.date>
+      <Inscription>
+        <inscription.content>P.van Loon 1860</inscription.content>
+        <inscription.position>
+          <value lang="">linker zijkant</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur en datering</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>Les Anglais &#224; Paris</inscription.content>
+        <inscription.position>
+          <value lang="">voor op voetstuk</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ongebakken klei</value>
+        </material>
+      </Material>
+      <notes>Gedroogde klei, gaat verloren tenzij ze wordt afgegoten.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">beeld</value>
+        </object_name>
+      </Object_name>
+      <object_number>1692/021</object_number>
+      <priref>198</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Loon, Pieter van</value>
+          </name>
+          <birth.date.start>1801</birth.date.start>
+          <birth.place>
+            <value lang="">Amsterdam</value>
+          </birth.place>
+          <death.date.start>1873</death.date.start>
+          <death.place>
+            <value lang="">Utrecht</value>
+          </death.place>
+          <priref>4172</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang="">
+          <value lang="">beeldhouwer</value>
+        </creator.role>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1860</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\beeldhouwkunsttot1850\456.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>2639</priref>
+          <input.date>2003-12-27</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.time>16:12:46</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>2639</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>ongebakken klei</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">'Les Anglais &#224; Paris'</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">47.9131</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '198'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">63.5427</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

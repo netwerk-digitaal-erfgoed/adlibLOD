@@ -1,0 +1,330 @@
+<adlibXML>
+  <recordList>
+    <record priref="17" created="2015-06-15T22:38:59" modification="2018-08-21T14:52:31" selected="False">
+      <acquisition.date>1907</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">sport (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">cultuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">Willem de Zwijger</value>
+      </content.motif.general>
+      <current_location.context>kostuumdepot 1, kast 84, lade 27</current_location.context>
+      <current_location.name>kostuumdepot 1, kast 84, lade 27</current_location.name>
+      <defaultlocation>
+        <location.default.name>kostuumdepot 1, kast 84, lade 27</location.default.name>
+        <location.default.context>kostuumdepot 1, kast 84, lade 27</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>kostuumdepot 1, rek 86 B-6</location.default.name>
+        <location.default.context>kostuumdepot 1, rek 86 B-6</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Vaandel van groene zijde, met de afbeelding van prins Willem I, in medaillon, omgeven door een zilveren krans van laurier- en eikenbladeren. Op de achterkant een krans van klimopbladeren, waarin het opschrift. Met rode stok, waarop een vergulde leeuw, die het rijkswapen houdt. Bij het vaandel horen 28 penningen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.value>73</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.value>88</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>stok</dimension.part>
+        <dimension.value>275</dimension.value>
+        <dimension.type>
+          <value lang="">lengte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3836</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2076 x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-10-15</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-12-02</input.date>
+      <Inscription>
+        <inscription.content>DE ZWIJGER UTRECHT 1865</inscription.content>
+        <inscription.position>
+          <value lang="">op vaandel</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift en datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">zijde</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">hout</value>
+        </material>
+      </Material>
+      <notes>Vaandel met portret van Willem de Zwijger, op de stok een vergulde leeuw met het rijkswapen. Bij dit vaandel horen 28 prijspenningen (inv. nrs. 1527/001-028). De penningen zijn beschadigd door een brand in het huis Steenweg 65 op 21 januari 1905.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">vaandel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1527</object_number>
+      <priref>17</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1865</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>1527/001</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/002</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/003</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/004</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/005</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/029</related_object.reference>
+      </Related_object>
+      <Related_object/>
+      <Related_object>
+        <related_object.reference>1527/007</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/008</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/009</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/010</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/011</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/012</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/013</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/014</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/015</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/016</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/017</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/018</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/019</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/020</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/021</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/022</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/023</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/024</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/025</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/026</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/027</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/028</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1527/006</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\stadsgeschiedenis\1527.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>13127</priref>
+          <input.date>2006-11-11</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.date>2007-01-20</edit.date>
+          <edit.date>2006-11-11</edit.date>
+          <edit.time>16:32:29</edit.time>
+          <edit.time>16:35:28</edit.time>
+          <edit.time>14:07:26</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>13127</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>zijde, zilverdraad, hout, verguldsel</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Vaandel van de scherpschuttersvereniging De Zwijger</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">114.5071</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '17'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">130.1303</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

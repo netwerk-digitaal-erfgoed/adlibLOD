@@ -1,0 +1,237 @@
+<adlibXML>
+  <recordList>
+    <record priref="174" created="2015-06-15T22:38:59" modification="2019-02-18T14:36:34" selected="False">
+      <acquisition.date>1888</acquisition.date>
+      <acquisition.method>
+        <value lang="">aankoop</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst tot 1850</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">Hector</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">Andromache</value>
+      </content.motif.general>
+      <current_location.context>gipsdepot, kast 10, plank D</current_location.context>
+      <current_location.name>gipsdepot, kast 10, plank D</current_location.name>
+      <defaultlocation>
+        <location.default.name>gipsdepot, kast 10, plank D</location.default.name>
+        <location.default.context>gipsdepot, kast 10, plank D</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Terracotta reli&#235;f met een afbeelding van het vertrek van Hector na zijn afscheid van Andromache.</description>
+      </Description>
+      <Dimension>
+        <dimension.notes>inclusief lijst</dimension.notes>
+        <dimension.value>26</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>35</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>8.6</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 677, cat. nr. 442, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Beeldhouwkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 244-478]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Klinckaert, Jan W.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Klinckaert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>1487</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 413 x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 368</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-02-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-02-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-10-15</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-10-12</input.date>
+      <Inscription>
+        <inscription.content>J. Rijnboutt Fecit. 1831</inscription.content>
+        <inscription.position>
+          <value lang="">onbekend</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur en datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">terracotta</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">reli&#235;f</value>
+        </object_name>
+      </Object_name>
+      <object_number>1689</object_number>
+      <priref>174</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Rijnbout, Johannes</value>
+          </name>
+          <birth.date.start>1800-01-29</birth.date.start>
+          <birth.place>
+            <value lang="">Utrecht</value>
+          </birth.place>
+          <death.date.start>1868-12-09</death.date.start>
+          <death.place>
+            <value lang="">Utrecht</value>
+          </death.place>
+          <priref>21862</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1831</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\beeldhouwkunsttot1850\442.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>2624</priref>
+          <input.date>2003-12-27</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.time>16:12:42</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>2624</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>terracotta</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Reli&#235;f met vertrek van Hector na zijn afscheid van Andromache</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">95.0454</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '174'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6251</response_time>
+    <xml_creation_time unit="mS" culture="en-US">110.6589</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

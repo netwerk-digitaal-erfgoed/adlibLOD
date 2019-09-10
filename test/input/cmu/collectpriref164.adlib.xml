@@ -1,0 +1,154 @@
+<adlibXML>
+  <recordList>
+    <record priref="164" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:32" selected="False">
+      <acquisition.date>1923</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">aardewerk</value>
+      </collection>
+      <current_location.context>keramiekdepot, kast 2, plank B</current_location.context>
+      <current_location.name>keramiekdepot, kast 2, plank B</current_location.name>
+      <defaultlocation>
+        <location.default.name>keramiekdepot, kast 2, plank B</location.default.name>
+        <location.default.context>keramiekdepot, kast 2, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Pul met deksel, blauw gedecoreerd.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>17</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>6.7</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 530 21x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-04-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-01-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-01-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <input.date>1993-12-09</input.date>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description/>
+        <inscription.method/>
+        <inscription.notes/>
+        <inscription.position lang=""/>
+        <inscription.type lang="">
+          <value lang="">geen</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">porselein</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">Chinees aardewerk</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">pul</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">deksel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1679</object_number>
+      <priref>164</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Chinees</value>
+          </name>
+          <priref>45342</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1800</production.date.end>
+        <production.date.start>1700</production.date.start>
+      </Production_date>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>porselein</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Pul met deksel</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2486</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '164'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2486</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

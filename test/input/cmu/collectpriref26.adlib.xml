@@ -1,0 +1,392 @@
+<adlibXML>
+  <recordList>
+    <record priref="26" created="2015-06-15T22:38:59" modification="2019-05-10T11:20:30" selected="False">
+      <acquisition.date>1908</acquisition.date>
+      <acquisition.method>
+        <value lang="">legaat</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">sociale zorg (gezondheidszorg) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">edele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <content.motif.general>
+        <value lang="">wapen</value>
+      </content.motif.general>
+      <current_location.context>metaalcabine, kast 16, plank H</current_location.context>
+      <current_location.name>metaalcabine, kast 16, plank H</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 16, plank H</location.default.name>
+        <location.default.context>metaalcabine, kast 16, plank H</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>001) Inktkoker met zilver gemonteerd op zwart houten voetstuk. In het midden een knielende engelenfiguur met een lauwerkrans in de linkerhand; op het basement het jaartal 1849 in een cartouche. Ter weerszijde van de figuur een 002-005) glazen inktpot met zilveren deksel. Op het houten voetstuk in zilver het gekroonde wapen van de stad Utrecht met banderol, waarop opschrift.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>30</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>20</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>15</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 109</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 379</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3347</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 456, cat. nr. 333</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [edele metalen cat. nr. 251-500]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp; B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3651</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-12-07</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-30</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-11-30</input.date>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description>Minervakop met letter B</inscription.description>
+        <inscription.notes/>
+        <inscription.position>
+          <value lang="">?</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">kantoorteken</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description>lopende leeuw met 2</inscription.description>
+        <inscription.notes/>
+        <inscription.position>
+          <value lang="">?</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">gehalteteken</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>Q</inscription.content>
+        <inscription.notes>Q=1849-1850</inscription.notes>
+        <inscription.position>
+          <value lang="">?</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">jaarletter</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>VK//74</inscription.content>
+        <inscription.notes>=Johannes Mattheus van Kempen</inscription.notes>
+        <inscription.position>
+          <value lang="">?</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">meesterteken</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>DE STAD UTRECHT AAN DEN GENEESHEER J.B. DOMPELING</inscription.content>
+        <inscription.position>
+          <value lang="">op banderol</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">zilver</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">hout</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">glas</value>
+        </material>
+      </Material>
+      <notes>Deze inktkoker is in verscheidene exemplaren aangeboden door de stad Utrecht aan geneesheren, die zich verdienstelijk hadden gemaakt tijdens de  cholera-epidemie te Utrecht in 1849. Dit exemplaar was een geschenk aan de geneesheer J.B. Dompeling.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">inktkoker</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">inktstel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1541</object_number>
+      <priref>26</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Kempen, Johannes Mattheus van</value>
+          </name>
+          <birth.date.start>1814-10-22</birth.date.start>
+          <birth.place>
+            <value lang="">Utrecht</value>
+          </birth.place>
+          <death.date.start>1877-11-02</death.date.start>
+          <death.place>
+            <value lang="">Voorschoten</value>
+          </death.place>
+          <priref>21835</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1850</production.date.end>
+        <production.date.start>1849</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>7774</related_object.reference>
+      </Related_object>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1541.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>103141</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-01-17</input.date>
+          <edit.date>2016-07-13</edit.date>
+          <edit.time>13:41:21</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1541.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>103141</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>zilver; hout; glas</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Inktkoker</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">109.5759</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '26'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">172.0921</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

@@ -1,0 +1,66 @@
+<adlibXML>
+  <recordList>
+    <record priref="9" created="2015-06-15T22:38:59" modification="2019-03-06T16:08:25" selected="False">
+      <Edit>
+        <edit.date>2019-03-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <input.date>1993-12-02</input.date>
+      <object_number>1080</object_number>
+      <priref>9</priref>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">0</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '9'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

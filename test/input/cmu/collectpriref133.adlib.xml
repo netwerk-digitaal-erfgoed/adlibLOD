@@ -1,0 +1,261 @@
+<adlibXML>
+  <recordList>
+    <record priref="133" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:19" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Stads Aalmoezenierskamer</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">sociale zorg (armenzorg) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="">Een van de hoeken ingedeukt, verflaag beschadigd, roestig</value>
+        </condition.notes>
+      </Condition>
+      <current_location.context>Museum Catharijneconvent</current_location.context>
+      <current_location.name>Museum Catharijneconvent</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine</location.default.name>
+        <location.default.context>metaalcabine</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Zwart geschilderde blikken armenbus met koperen hangslot en opschrift: VOOR DEN ALGEMEENEN ARMEN en GEMEENTE BEGRAAFPLAATS VAN UTRECHT</description>
+      </Description>
+      <Dimension>
+        <dimension.value>19.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>12.5</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>19</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3196</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1182</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1550</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-05-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-02-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-08-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-07-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-08-18</edit.date>
+      </Edit>
+      <gepubliceerd>x</gepubliceerd>
+      <input.date>1995-08-30</input.date>
+      <Inscription>
+        <inscription.content>VOOR DEN ALGEMEENEN ARMEN en GEMEENTE BEGRAAFPLAATS VAN UTRECHT [gesleten]</inscription.content>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">blik</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">koper</value>
+        </material>
+      </Material>
+      <notes>Afkomstig van de Stads Aalmoezenierskamer, vroeger geplaatst bij de ingang van de gemeentelijke begraafplaats</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">armenbus</value>
+        </object_name>
+      </Object_name>
+      <object_number>1648</object_number>
+      <owner_hist.date.start>onbekend</owner_hist.date.start>
+      <owner_hist.owner>
+        <value lang="">Stads-Aalmoezenierskamer (Utrecht)</value>
+      </owner_hist.owner>
+      <priref>133</priref>
+      <production.date.notes>begin 19de eeuw</production.date.notes>
+      <Production_date>
+        <production.date.end>1825</production.date.end>
+        <production.date.start>1800</production.date.start>
+      </Production_date>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>blik, geschilderd</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Armenbus</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.6949</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '133'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">653.1454</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

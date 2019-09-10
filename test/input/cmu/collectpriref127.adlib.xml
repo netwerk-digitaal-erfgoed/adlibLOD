@@ -1,0 +1,587 @@
+<adlibXML>
+  <recordList>
+    <record priref="127" created="2015-06-15T22:38:59" modification="2019-05-08T11:10:58" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">rechtspraak (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang="">
+          <value lang="en-GB" invariant="true">plaatmateriaal is plaatselijk vervormd</value>
+        </condition.notes>
+      </Condition>
+      <current_location.context>metaalcabine, kast 12, plank B</current_location.context>
+      <current_location.name>metaalcabine, kast 12, plank B</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 12, plank B</location.default.name>
+        <location.default.context>metaalcabine, kast 12, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Rechthoekig ijzeren komfoor op vier poten en van twee hengsels voorzien aan de korte zijden (door de beul gebruikt voor het gloeien van brandijzers).</description>
+      </Description>
+      <Dimension>
+        <dimension.notes/>
+        <dimension.part/>
+        <dimension.precision/>
+        <dimension.type lang="">
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit lang="">
+          <value lang="">cm</value>
+        </dimension.unit>
+        <dimension.value>36</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.notes/>
+        <dimension.part/>
+        <dimension.precision/>
+        <dimension.type lang="">
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit lang="">
+          <value lang="">cm</value>
+        </dimension.unit>
+        <dimension.value>57</dimension.value>
+      </Dimension>
+      <Dimension>
+        <dimension.notes/>
+        <dimension.part/>
+        <dimension.precision/>
+        <dimension.type lang="">
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit lang="">
+          <value lang="">cm</value>
+        </dimension.unit>
+        <dimension.value>39</dimension.value>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>afb. p. 210</documentation.page_reference>
+        <documentation.title>
+          <title>Ach Lieve Tijd. Dertien eeuwen Utrecht etc.</title>
+          <lead_word/>
+          <statement_of_responsibility>
+            <value lang="">M.W.J. de Bruijn, P.D. 't Hart, K. Hazelzet, D.C. van der Maarel. J.E.A.L. Struick en S. Verbeeck (red.)</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Zwolle</value>
+          </place_of_publication>
+          <year_of_publication>1984-1985</year_of_publication>
+          <priref>349</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1756</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1403-2891]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2346</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1152</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1467</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 675, cat. nr. 53, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-05-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-04-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Heksen en tovenaars</title>
+          <venue>
+            <value lang="">Museon</value>
+          </venue>
+          <venue.place>
+            <value lang="">Den Haag</value>
+          </venue.place>
+          <venue.date.start>2009-04-16</venue.date.start>
+          <venue.date.end>2009-11-08</venue.date.end>
+          <object.object_number>1639</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>50010</object.object_number>
+          <object.object_number>1638</object.object_number>
+          <priref>12768</priref>
+        </exhibition>
+        <exhibition.lref>12768</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Zwerkballen, grobbebollen en toverkollen, heksen en tovenaars van toen en nu</title>
+          <venue>
+            <value lang="">Limburgs Museum</value>
+          </venue>
+          <venue.place/>
+          <venue.date.start>2007-03-21</venue.date.start>
+          <venue.date.end>2007-10-31</venue.date.end>
+          <object.object_number>1638</object.object_number>
+          <object.object_number>1639</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>50010</object.object_number>
+          <priref>12878</priref>
+        </exhibition>
+        <exhibition.lref>12878</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum Woerden</value>
+          </venue>
+          <venue.place>
+            <value lang="">Woerden</value>
+          </venue.place>
+          <venue.date.start>1996-10-21</venue.date.start>
+          <venue.date.end>1997-01-12</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>9686</object.object_number>
+          <object.object_number>11048 a</object.object_number>
+          <object.object_number>11048 b</object.object_number>
+          <object.object_number>11138</object.object_number>
+          <object.object_number>18128</object.object_number>
+          <object.object_number>18539/001</object.object_number>
+          <object.object_number>18539/002</object.object_number>
+          <object.object_number>18539/003</object.object_number>
+          <object.object_number>26090/001</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>595</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9852</priref>
+        </exhibition>
+        <exhibition.lref>9852</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Historisch Museum Het Kleine Veenloo</value>
+          </venue>
+          <venue.place>
+            <value lang="">Veenendaal</value>
+          </venue.place>
+          <venue.date.start>1996-05-11</venue.date.start>
+          <venue.date.end>1996-07-06</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>9740</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>50083</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>599</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>602</object.object_number>
+          <object.object_number>603</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9465</priref>
+        </exhibition>
+        <exhibition.lref>9465</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Recht en Slecht</title>
+          <venue>
+            <value lang="">Gemeentearchief Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1976-05-21</venue.date.start>
+          <venue.date.end>1976-07-03</venue.date.end>
+          <object.object_number>1640</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1798</object.object_number>
+          <object.object_number>2354</object.object_number>
+          <object.object_number>7623</object.object_number>
+          <object.object_number>559</object.object_number>
+          <object.object_number>50010</object.object_number>
+          <object.object_number>5267</object.object_number>
+          <object.object_number>3727</object.object_number>
+          <object.object_number>3436</object.object_number>
+          <object.object_number>3395</object.object_number>
+          <priref>9018</priref>
+        </exhibition>
+        <exhibition.lref>9018</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Hoe goud was de Gouden Eeuw?</title>
+          <venue>
+            <value lang="">Hedendaagse Kunst-Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1972-03-13</venue.date.start>
+          <venue.date.end>1972-06-11</venue.date.end>
+          <object.object_number>1635</object.object_number>
+          <object.object_number>1639</object.object_number>
+          <object.object_number>1640</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>1647/001-004</object.object_number>
+          <object.object_number>2350</object.object_number>
+          <object.object_number>2402</object.object_number>
+          <object.object_number>2505</object.object_number>
+          <object.object_number>2523</object.object_number>
+          <object.object_number>2528</object.object_number>
+          <object.object_number>7330</object.object_number>
+          <object.object_number>7372</object.object_number>
+          <object.object_number>75</object.object_number>
+          <object.object_number>137</object.object_number>
+          <object.object_number>561</object.object_number>
+          <object.object_number>651</object.object_number>
+          <object.object_number>1083</object.object_number>
+          <object.object_number>1084</object.object_number>
+          <object.object_number>883</object.object_number>
+          <priref>9121</priref>
+        </exhibition>
+        <exhibition.lref>9121</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>tentoonstelling i.v.m. opening Paleis van Justitie te Utrecht</title>
+          <venue>
+            <value lang="">Paleis van Justitie, Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1965-10-07</venue.date.start>
+          <venue.date.end>1965-10-14</venue.date.end>
+          <object.object_number>1638</object.object_number>
+          <object.object_number>1641</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>1644</object.object_number>
+          <object.object_number>1712</object.object_number>
+          <object.object_number>1713</object.object_number>
+          <object.object_number>7669</object.object_number>
+          <object.object_number>558</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>50080</object.object_number>
+          <priref>9296</priref>
+        </exhibition>
+        <exhibition.lref>9296</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Lustrumtentoonstelling Utrechts Studenten Corps</title>
+          <venue>
+            <value lang="">Utrechts Studenten Corps</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1961-06-23</venue.date.start>
+          <venue.date.end>1961-07-10</venue.date.end>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>1903</object.object_number>
+          <object.object_number>2637</object.object_number>
+          <priref>9403</priref>
+        </exhibition>
+        <exhibition.lref>9403</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>x</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1994-02-28</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ijzer</value>
+        </material>
+      </Material>
+      <notes>Dit komfoor werd gebruikt bij het brandmerken. Brandmerken werd als straf bij diefstal toegepast. Een ijzeren merk met het wapen van de stad werd in het komfoor verhit (zie inv.nr.1643).</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">martelwerktuig</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">komfoor</value>
+        </object_name>
+      </Object_name>
+      <object_number>1642</object_number>
+      <priref>127</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1700</production.date.end>
+        <production.date.start>1600</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>1643</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1642.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48174</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2016-09-22</edit.date>
+          <edit.time>11:27:44</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1642.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48174</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>inventarisnrs\H1642.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>104208</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-02-17</input.date>
+          <edit.date>2016-09-22</edit.date>
+          <edit.time>11:27:45</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1642.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>104208</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gesmeed en genageld ijzer</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Komfoor</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">109.3892</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '127'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">536.0344</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

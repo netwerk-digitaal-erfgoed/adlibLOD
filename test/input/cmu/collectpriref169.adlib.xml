@@ -1,0 +1,255 @@
+<adlibXML>
+  <recordList>
+    <record priref="169" created="2015-06-15T22:38:59" modification="2018-10-29T15:22:35" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst tot 1850</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">Sint Johannes</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">evangelist</value>
+      </content.motif.general>
+      <current_location.context>Nicola&#239;kerk, vitrine 4</current_location.context>
+      <current_location.name>Nicola&#239;kerk, vitrine 4</current_location.name>
+      <defaultlocation>
+        <location.default.name>variadepot, kast 30, plank C</location.default.name>
+        <location.default.context>variadepot, kast 30, plank C</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Albasten beeldje van Sint Johannes de evangelist. Hij is vergezeld van de adelaar, zijn evangelistensymbool. De rechterarm en de rechtervoet van het beeld zijn beschadigd.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>34.8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>13.7</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>7.5</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 533, cat. nr. 308, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Beeldhouwkunst tot 1850. De verzamelingen van het Centraal Museum Utrecht [cat. nrs. 244-478]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Klinckaert, Jan W.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Klinckaert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>1487</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 130</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 133</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-06-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-06-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-30</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-30</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-12-07</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-05</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-08-27</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">albast</value>
+        </material>
+      </Material>
+      <notes>Bij het beeld hoort een tweede beeld, met de voorstelling van Sint Marcus de evangelist (inv. nr. 1684/a).</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">beeld</value>
+        </object_name>
+      </Object_name>
+      <object_number>1684/b</object_number>
+      <priref>169</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Zuid-Nederlands (?)</value>
+          </name>
+          <priref>44868</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1600</production.date.end>
+        <production.date.start>1550</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>1684/a</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1684.b.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48205</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2011-05-18</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>15:30:25</edit.time>
+          <edit.time>16:34:17</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1684.b.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48205</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>albast</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Sint Johannes de Evangelist</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.923</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '169'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">93.7578</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

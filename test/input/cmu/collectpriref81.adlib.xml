@@ -1,0 +1,429 @@
+<adlibXML>
+  <recordList>
+    <record priref="81" created="2015-06-15T22:38:59" modification="2019-03-27T12:27:02" selected="False">
+      <acquisition.date>1878-1904</acquisition.date>
+      <acquisition.date.precision>tussen</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Janskerkhof 16</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral"/>
+        </association.subject.type>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">bestuurders (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 04, plank D</current_location.context>
+      <current_location.name>metaalcabine, kast 04, plank D</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 04, plank D</location.default.name>
+        <location.default.context>metaalcabine, kast 04, plank D</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Vier loodjes ter bescherming van spijkers in loden dakbedekking, twee versierd met het Utrechtse wapen en twee met een huismerk met de letters G.G. Twee zijn nog bevestigd aan de van spijkers voorziene plaatjes.</description>
+      </Description>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.precision/>
+        <dimension.value>4.6</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>001</dimension.part>
+        <dimension.precision/>
+        <dimension.value>4</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.precision/>
+        <dimension.value>4.2</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>002</dimension.part>
+        <dimension.precision/>
+        <dimension.value>4.1</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.precision>met stukje dakloo</dimension.precision>
+        <dimension.value>7</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>003</dimension.part>
+        <dimension.precision>met stukje dakloo</dimension.precision>
+        <dimension.value>5.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.precision>met stukje dakloo</dimension.precision>
+        <dimension.value>7.8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>004</dimension.part>
+        <dimension.precision>met stukje dakloo</dimension.precision>
+        <dimension.value>5.7</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 448</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1012 2x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1358</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 855, cat. nr. 227, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 43</documentation.page_reference>
+        <documentation.title>
+          <title>Gids door het Stedelijk Museum van Oudheden te Utrecht [1913]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1913</year_of_publication>
+          <year_of_publication/>
+          <copy.number>R00780</copy.number>
+          <copy.number>R00781</copy.number>
+          <copy.number>R00782</copy.number>
+          <priref>4888</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-03-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-09-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-09-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-11-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-08-13</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1995-10-18</input.date>
+      <Inscription>
+        <inscription.description>leters GG en huismerk</inscription.description>
+        <inscription.position>
+          <value lang="">001 en 004</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">merk</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.description>wapen van Utrecht</inscription.description>
+        <inscription.position>
+          <value lang="">002 en 003</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">wapen</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">lood</value>
+        </material>
+      </Material>
+      <notes>Afkomstig van het dak van Janskerkhof 16, de woning van de familie Martens van Sevenhoven.Het trotseerlood, meestal in schild- of medaillonvorm, wordt door de loodgieter of de leidekker aangebracht over de kop- of verzonken spijkers waarmee het loodwerk is bevestigd om lekken tegen te gaan.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">trotseerlood</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">bouwfragment</value>
+        </object_name>
+      </Object_name>
+      <object_number>1596</object_number>
+      <priref>81</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1659</production.date.end>
+        <production.date.start>1640</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>6979</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1596.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>101947</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2015-10-02</input.date>
+          <edit.date>2016-09-21</edit.date>
+          <edit.time>12:36:16</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1596.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>101947</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gegoten lood</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Vier trotseerloodjes (bouwfragment)</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">77.0312</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '81'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6254</response_time>
+    <xml_creation_time unit="mS" culture="en-US">125.0036</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

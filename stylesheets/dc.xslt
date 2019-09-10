@@ -9,12 +9,12 @@
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
 <xsl:param name="imageUrl">http://example.image.com/</xsl:param>
-<!--xsl:param name="provider">museum</xsl:param>
-<xsl:param name="language">en</xsl:param-->
 
-<!-- DISCUSS: hard to determine which language is used -->
-<!-- DISCUSS: HOWTO handle empty elements? -->
-<!-- DISCUSS: how to link a picture? -->
+<!-- TODO: handle multilanguage sourcesysteem -->
+<!-- TODO: check use test="string(.)" for empty elements -->
+<!-- TODO: find Class for referenced resources -->
+
+<!-- NB: use EDM if you need a visual representation -->
 
 <!-- RDF wrap -->
 <xsl:template match="recordList">
@@ -43,17 +43,18 @@
 
         <!-- DC subject -->
         <xsl:apply-templates select="Associated_subject"/>
-        <!-- DISCUSS: other subjects? -->
-        <!--xsl:apply-templates select="Content_person"/-->
+        <!-- TODO: add other subjects -->
         <!--xsl:apply-templates select="Content_subject"/-->
-        <!--xsl:apply-templates select="Associated_period"/-->
         <!--xsl:apply-templates select="Associated_person"/-->
+        <!--xsl:apply-templates select="Content_person"/-->
+
+        <!-- TODO DCT temporal -->
+        <!--xsl:apply-templates select="Associated_period"/-->
 
         <!-- DC description -->
         <xsl:apply-templates select="Description"/>
-        <!-- DISCUSS other descriptions? -->
+        <!-- TODO add other descriptions -->
         <!--xsl:apply-templates select="physical_description"/-->
-        <!--xsl:apply-templates select="notes"/-->
 
         <!-- DC type -->
         <xsl:apply-templates select="Object_name"/>
@@ -62,19 +63,15 @@
         <xsl:apply-templates select="Material"/>
 
         <!-- DC language -->
-        <!-- DISCUSS: shouldn't this be the language of the object ? -->
-        <!--dc:language>
-            <xsl:value-of select="$language"/>
-        </dc:language-->
+        <!-- Language of the resource not available in source -->
 
         <!-- DC publisher -->
-        <!-- DISCUSS: shouldn't this be the publisher of the object ? -->
+        <!-- TODO: test on creator.role -->
         <!--dc:publisher>
             <xsl:value-of select="$provider"/>
         </dc:publisher -->
 
         <!-- DC Terms created -->
-        <!-- DISCUSS: DC date? both or choose? -->
         <xsl:apply-templates select="Production_date"/>
 
         <!-- DC Terms temporal -->
@@ -87,11 +84,11 @@
         <xsl:apply-templates select="Related_object"/>
 
         <!-- DC Terms has part -->
-        <!-- DISCUSS: no example in testset? -->
+        <!-- no example in testset -->
         <!-- <xsl:apply-templates select="Parts"/-->
 
         <!-- DC Terms is part of -->
-        <xsl:apply-templates select="Part_of"/>
+        <!--xsl:apply-templates select="Part_of"/-->
 
     </rdf:Description>
 </xsl:template>
@@ -119,6 +116,7 @@
 <xsl:template match="Production">
 
     <xsl:if test="string(creator.lref)">
+        <!-- TODO: make dc:Agent -->
         <dc:creator>
             <rdf:Description>
                 <xsl:attribute name="rdf:about">
@@ -297,7 +295,7 @@
 
 <!-- DC Terms temporal -->
 <xsl:template match="production.period">
-    <!-- DISCUSS: make resource? what type? -->
+    <!-- TODO: create resource of type dc:PeriodOfTime -->
     <dct:temporal>
         <xsl:value-of select="."/>
     </dct:temporal>

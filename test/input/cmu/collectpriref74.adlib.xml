@@ -1,0 +1,657 @@
+<adlibXML>
+  <recordList>
+    <record priref="74" created="2015-06-15T22:38:59" modification="2018-08-21T14:52:53" selected="False">
+      <acquisition.date>1876</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">verdedigingswezen (schutterij) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <current_location.context>EXPO 6.4</current_location.context>
+      <current_location.name>EXPO 6.4</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaaldepot, kast 41, plank E</location.default.name>
+        <location.default.context>metaaldepot, kast 41, plank E</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Geel koperen tabaksdoos, waarop aan de ene zijde gegraveerd is het gevecht bij Vreeswijk (9 mei 1787), met onderschrift. De andere zijde stelt voor de vlucht der vijandelijke troepen, met onderschrift. In de doos grafschriften in handschrift.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>3</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>16.8</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>8.9</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 35, p. 12</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van de tentoonstelling "Burger in Utrecht", 16 mei-30 juni 1972</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1972</year_of_publication>
+          <year_of_publication/>
+          <copy.number>R02464</copy.number>
+          <copy.number>r04927</copy.number>
+          <priref>2043</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2922 1x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad, supplement</title>
+          <lead_word/>
+          <priref>2348</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 384</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2039</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 591-593, met afb. in kleur; p. 812, cat. nr. 186, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 52</documentation.page_reference>
+        <documentation.title>
+          <title>Gids door het Stedelijk Museum van Oudheden te Utrecht [1906]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1906</year_of_publication>
+          <copy.number>R00779</copy.number>
+          <copy.number>13/053</copy.number>
+          <priref>4887</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 149, afb. nr. 3 in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Zur&#252;ck nach Frankreich : die revolution&#228;re Karriere des Jean Antoine d'Averhoult</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bruin, Renger E. de [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Renger de Bruin</value>
+          </statement_of_responsibility>
+          <copy.number>D549</copy.number>
+          <priref>200002542</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 361, cat. nr. 7/50 b;  p. 149, afb. nr. 3 in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Hugenotten</title>
+          <lead_word>
+            <value lang="">Die</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Beneke, Sabine</value>
+          </author.name>
+          <author.name>
+            <value lang="">Ottomeyer, Hans</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">f&#252;r das Deutsche Historische Museum hrsg. von Sabine Beneke und Hans Ottomeyer</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Berlijn</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Wolfratshausen</value>
+          </place_of_publication>
+          <year_of_publication>2005</year_of_publication>
+          <year_of_publication/>
+          <copy.number>05/580</copy.number>
+          <priref>16246</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 65, afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Met hand en hart : zeven eeuwen smedengilde en St. Eloyengasthuis in Utrecht 1304-2004</title>
+          <lead_word/>
+          <statement_of_responsibility>
+            <value lang="">Ronald Rommes &amp; Joost van der Spek</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <place_of_publication/>
+          <year_of_publication>2004</year_of_publication>
+          <year_of_publication/>
+          <year_of_publication/>
+          <copy.number>05/276</copy.number>
+          <priref>15811</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-04-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-04-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-11-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-11-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-02-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-09-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-09-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-09-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-07-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-09-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-06-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-10-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-10-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-05-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition/>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Die Hugenotten</title>
+          <venue>
+            <value lang="">Deutsches Historisches Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Berlijn</value>
+          </venue.place>
+          <venue.date.start>2005-10-22</venue.date.start>
+          <venue.date.end>2006-02-12</venue.date.end>
+          <object.object_number>22584</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <priref>11076</priref>
+        </exhibition>
+        <exhibition.lref>11076</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum IJsselstein</value>
+          </venue>
+          <venue.place>
+            <value lang="">IJsselstein</value>
+          </venue.place>
+          <venue.date.start>1997-07-14</venue.date.start>
+          <venue.date.end>1997-09-15</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9933</priref>
+        </exhibition>
+        <exhibition.lref>9933</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum Woerden</value>
+          </venue>
+          <venue.place>
+            <value lang="">Woerden</value>
+          </venue.place>
+          <venue.date.start>1996-10-21</venue.date.start>
+          <venue.date.end>1997-01-12</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>9686</object.object_number>
+          <object.object_number>11048 a</object.object_number>
+          <object.object_number>11048 b</object.object_number>
+          <object.object_number>11138</object.object_number>
+          <object.object_number>18128</object.object_number>
+          <object.object_number>18539/001</object.object_number>
+          <object.object_number>18539/002</object.object_number>
+          <object.object_number>18539/003</object.object_number>
+          <object.object_number>26090/001</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>595</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9852</priref>
+        </exhibition>
+        <exhibition.lref>9852</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Historisch Museum Het Kleine Veenloo</value>
+          </venue>
+          <venue.place>
+            <value lang="">Veenendaal</value>
+          </venue.place>
+          <venue.date.start>1996-05-11</venue.date.start>
+          <venue.date.end>1996-07-06</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>9740</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>50083</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>599</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>602</object.object_number>
+          <object.object_number>603</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9465</priref>
+        </exhibition>
+        <exhibition.lref>9465</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Gevecht aan de vaart</title>
+          <venue>
+            <value lang="">Historisch Museum, Nieuwegein, Historische Kring</value>
+          </venue>
+          <venue.place>
+            <value lang="">Nieuwegein</value>
+          </venue.place>
+          <venue.date.start>1987-04-30</venue.date.start>
+          <venue.date.end>1987-05-02</venue.date.end>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>2340</object.object_number>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1166</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>604</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>609</object.object_number>
+          <object.object_number>2128</object.object_number>
+          <object.object_number>9563</object.object_number>
+          <priref>6524</priref>
+        </exhibition>
+        <exhibition.lref>6524</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <in_museum>x</in_museum>
+      <input.date>1993-10-07</input.date>
+      <Inscription>
+        <inscription.content>Dus heeft het kruit en lood (Visscher) en v.d. (Vlerk) ge (dood)</inscription.content>
+        <inscription.notes>tussen ( ) = afbeelding</inscription.notes>
+        <inscription.position>
+          <value lang="">onder gevecht Vreeswijk</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>'k Verlaat het (kruit) // En kies de (schuit) //  En laat haar den (buit)</inscription.content>
+        <inscription.notes>tussen ( ) = afbeelding</inscription.notes>
+        <inscription.position>
+          <value lang="">onder vlucht vijandelijke groepen</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>Ter Gedaghtenis der beide gesneuvelden door Ij. van Hamelsveld en M. Mulroo</inscription.content>
+        <inscription.notes>in handschrift</inscription.notes>
+        <inscription.position>
+          <value lang="">in doos, op grafschriften</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Label>
+        <label.text>In augustus 1786 nam de Utrechtse schutterij de macht in de stad over. Er werd een democratisch bestuursreglement ingevoerd. Ontevreden burgers (Patriotten) hadden daar al enkele jaren voor geijverd. In een poging de stad weer in het gareel te krijgen rukte een stadhouderlijk leger op 9 mei 1787 uit. In de avond kwam het bij Vreeswijk tot een treffen met de schutterij. Twee Utrechters, Cornelis Govert Visscher en Robert van der Vlerk, sneuvelden. De schutterijaanvoerder Jan Anthony d&#8217;Averhoult wist de paniek te bezweren en behaalde de overwinning. De gevallenen kregen een heldenbegrafenis. Relieken als plukjes haar en een met bloed bevlekte sjerp werden in het stadhuis tentoongesteld.</label.text>
+        <label.type>Publiekstekst NL</label.type>
+      </Label>
+      <Label>
+        <label.text>In August 1786, Utrecht&#8217;s militia took control of the city and laid down a law of democratic governance. Discontented citizens (the Patriots) had been fighting this cause for several years. In an attempt to restore order to the city, the stadtholder&#8217;s troops marched out on 9 May 1787. At nightfall, this ended in a clash with the militia at Vreeswijk. Two Utrecht citizens, Cornelis Govert Visscher and Robert van der Vlerk, were killed. Militia leader Jan Anthony d&#8217;Averhoult managed to defuse the panic and gain victory. The perished both received a hero&#8217;s funeral. Relics such as tufts of hair and a blood-stained sash were displayed in the city hall.</label.text>
+        <label.type>Publiekstekst ENG</label.type>
+      </Label>
+      <Material>
+        <material lang="">
+          <value lang="">messing</value>
+        </material>
+      </Material>
+      <notes>Op de tabaksdoos is het gevecht bij Vreeswijk op 9 mei 1787 tussen een stadhouderlijk leger en een Utrechtse militaire eenheid afgebeeld. Bij dit gevecht sneuvelden de officier Cornelis Govert Visscher en de kanonnier Robertus van der Vlerk. Zie ook inv.nrs. 608, 1022 en 2340</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">doos</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">tabaksdoos</value>
+        </object_name>
+      </Object_name>
+      <object_number>1589</object_number>
+      <priref>74</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1800</production.date.end>
+        <production.date.start>1787</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1589_01.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48110</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>16:34:04</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1589_01.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48110</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1589_02.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48111</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2018-10-02</edit.date>
+          <edit.date>2014-04-11</edit.date>
+          <edit.date>2014-04-11</edit.date>
+          <edit.date>2013-08-08</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>10:25:07</edit.time>
+          <edit.time>21:05:48</edit.time>
+          <edit.time>20:01:45</edit.time>
+          <edit.time>16:52:16</edit.time>
+          <edit.time>18:14:39</edit.time>
+          <edit.time>17:52:36</edit.time>
+          <edit.time>16:34:04</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1589_02.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48111</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>messing, vertind, geslagen</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Tabaksdoos</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">126.9939</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '74'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">3859.4342</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

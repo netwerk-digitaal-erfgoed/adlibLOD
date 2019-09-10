@@ -1,0 +1,593 @@
+<adlibXML>
+  <recordList>
+    <record priref="89" created="2015-06-15T22:38:59" modification="2019-07-03T12:57:28" selected="False">
+      <acquisition.date>1874</acquisition.date>
+      <acquisition.method>
+        <value lang="">bruikleen (?)</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Bisschoppelijk Utrecht 695-1528</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">Utrecht, Mariaplaats/hoek Mariastraat</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">kapittels (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">religie</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 30, plank E</current_location.context>
+      <current_location.name>metaalcabine, kast 30, plank E</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 30, plank E</location.default.name>
+        <location.default.context>metaalcabine, kast 30, plank E</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 42, plank B</location.default.name>
+        <location.default.context>metaalcabine, kast 42, plank B</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>variadepot, kast 21, plank B</location.default.name>
+        <location.default.context>variadepot, kast 21, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Afkomstig van het beeld van keizer Hendrik IV, dat gestaan heeft op het dak van het koor der St. Mariakerk. Op de benedenrand van de kroon de naam van de maker D. de Graaf 1781. 001) Keizerskroon, 002) rijksappel en 003) zwaard</description>
+      </Description>
+      <Dimension>
+        <dimension.part>kroon</dimension.part>
+        <dimension.value>55</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>appel</dimension.part>
+        <dimension.value>35</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>zwaard</dimension.part>
+        <dimension.value>135</dimension.value>
+        <dimension.type>
+          <value lang="">lengte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 54</documentation.page_reference>
+        <documentation.title>
+          <title>Beelden van Keizer Hendrik IV op de Mariaplaats te Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Rossum, W.J.C.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.J.C. van Rossum</value>
+          </statement_of_responsibility>
+          <priref>200000209</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1402</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 133</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 742</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 732, cat. nr. 109, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 72-77; afb. 7-9 op p. 72, 73</documentation.page_reference>
+        <documentation.title>
+          <title>Keizer Hendrik IV in Utrecht: enkele beelden en schilderijen</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Weide, Susanne J.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Susanne J. Weide</value>
+          </statement_of_responsibility>
+          <priref>200001126</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-07-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-06-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-04-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-01-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-07-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-01-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-01-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-07-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-02-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-08-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>De Appel. Tussen schuld en onschuld.</title>
+          <venue>
+            <value lang="">Museum De Buitenplaats</value>
+          </venue>
+          <venue.place>
+            <value lang="">Eelde</value>
+          </venue.place>
+          <venue.date.start>2016-09-24</venue.date.start>
+          <venue.date.end>2016-11-27</venue.date.end>
+          <object.object_number>2571</object.object_number>
+          <object.object_number>10009</object.object_number>
+          <object.object_number>1604</object.object_number>
+          <priref>15780</priref>
+        </exhibition>
+        <exhibition.lref>15780</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Wij en onze opvolgers zullen een ieder recht doen: het Utrechts provinciebestuur in historisch perspectief</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2003-02-11</venue.date.start>
+          <venue.date.end>2003-04-27</venue.date.end>
+          <nummer_cm>T200309</nummer_cm>
+          <object.object_number>1604</object.object_number>
+          <object.object_number>1618</object.object_number>
+          <object.object_number>2087</object.object_number>
+          <object.object_number>2226</object.object_number>
+          <object.object_number>2260</object.object_number>
+          <object.object_number>2291</object.object_number>
+          <object.object_number>2317</object.object_number>
+          <object.object_number>2318</object.object_number>
+          <object.object_number>2335</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>2354</object.object_number>
+          <object.object_number>2442</object.object_number>
+          <object.object_number>2468</object.object_number>
+          <object.object_number>2478</object.object_number>
+          <object.object_number>2488</object.object_number>
+          <object.object_number>2493</object.object_number>
+          <object.object_number>2498</object.object_number>
+          <object.object_number>2521</object.object_number>
+          <object.object_number>2525</object.object_number>
+          <object.object_number>2547</object.object_number>
+          <object.object_number>2552</object.object_number>
+          <object.object_number>2609</object.object_number>
+          <object.object_number>2650/001-009</object.object_number>
+          <object.object_number>3010/001-002</object.object_number>
+          <object.object_number>3040/001</object.object_number>
+          <object.object_number>3041/001</object.object_number>
+          <object.object_number>4822</object.object_number>
+          <object.object_number>5099</object.object_number>
+          <object.object_number>5293</object.object_number>
+          <object.object_number>5319</object.object_number>
+          <object.object_number>5321/001-002</object.object_number>
+          <object.object_number>5322/001</object.object_number>
+          <object.object_number>5323/001</object.object_number>
+          <object.object_number>5324/001-006</object.object_number>
+          <object.object_number>5325/001-006</object.object_number>
+          <object.object_number>5326/001-002</object.object_number>
+          <object.object_number>5327/001-006</object.object_number>
+          <object.object_number>6338</object.object_number>
+          <object.object_number>6471 a</object.object_number>
+          <object.object_number>7016</object.object_number>
+          <object.object_number>8395 a</object.object_number>
+          <object.object_number>8395 b</object.object_number>
+          <object.object_number>8763</object.object_number>
+          <object.object_number>8768</object.object_number>
+          <object.object_number>8870</object.object_number>
+          <object.object_number>8903</object.object_number>
+          <object.object_number>9249</object.object_number>
+          <object.object_number>10211</object.object_number>
+          <object.object_number>12223</object.object_number>
+          <object.object_number>12224</object.object_number>
+          <object.object_number>12354 a</object.object_number>
+          <object.object_number>12432</object.object_number>
+          <object.object_number>12645 a</object.object_number>
+          <object.object_number>12659</object.object_number>
+          <object.object_number>12670</object.object_number>
+          <object.object_number>12676</object.object_number>
+          <object.object_number>12677</object.object_number>
+          <object.object_number>20545</object.object_number>
+          <object.object_number>22727</object.object_number>
+          <object.object_number>28048</object.object_number>
+          <object.object_number>28416</object.object_number>
+          <object.object_number>849/001-002</object.object_number>
+          <object.object_number>50152</object.object_number>
+          <object.object_number>557</object.object_number>
+          <priref>8937</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200309_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8937</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-10-06</input.date>
+      <Inscription>
+        <inscription.content>D. de Graaf 1781</inscription.content>
+        <inscription.position>
+          <value lang="">op benedenrand kroon</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur en datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">hout</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">ijzer</value>
+        </material>
+      </Material>
+      <notes>De drie voorwerpen zijn afkomstig van het beeld van keizer Hendrik IV (1056-1106), dat gestaan heeft op het dak van het koor van de Mariakerk. Hendrik IV was de stichter van de Mariakerk. Het oorspronkelijke beeld werd in 1562 vervaardigd door de beeldhouwer Rychard Henricksz. (zie de Fabriekstekeningen van de  St. Mariakerk van 1562). De stadskameraar werd 19 februari 1781 door de Vroedschap gemachtigd om 't beeld van de keizer Hendrick, staande boven de tegenwoordige Muziekzaal te vernieuwen, daar het oude bijna geheel vergaan was (zie: van der Monde Tijdschrift, I, p. 315). Datzelfde jaar werd het beeld geheel vernieuwd door de beeldhouwer W.N. Koopman en de smid D. de Graaf. Het beeld zou op 12 juni 1844 naar het archief in het stadhuis zijn overgebracht. Het is later op de gevel van het huis hoek Mariastraat-Mariaplaats geplaatst.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">kroon</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">rijksappel</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">zwaard</value>
+        </object_name>
+      </Object_name>
+      <object_number>1604</object_number>
+      <priref>89</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Graaf, D. de</value>
+          </name>
+          <priref>21844</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang="">
+          <value lang="">smid</value>
+        </creator.role>
+        <production.place lang=""/>
+      </Production>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Koopman, W.N.</value>
+          </name>
+          <url>https://rkd.nl/explore/artists/90749</url>
+          <priref>45624</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang="">
+          <value lang="">beeldhouwer</value>
+        </creator.role>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1781</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>14807</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\STADSGESCHIEDENIS\1604.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>15322</priref>
+          <input.date>2007-05-08</input.date>
+          <edit.date>2016-09-22</edit.date>
+          <edit.date>2007-09-03</edit.date>
+          <edit.time>11:24:59</edit.time>
+          <edit.time>14:28:04</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Cbestanden\1604.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>15322</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\C1604.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>95555</priref>
+          <rights>image &amp; copyright Centraal Museum Utrecht / Adriaan van Dam</rights>
+          <input.date>2014-04-18</input.date>
+          <edit.date>2016-09-22</edit.date>
+          <edit.time>11:25:01</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>95555</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>inventarisnrs\H1604.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>104188</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-02-17</input.date>
+          <edit.date>2016-09-22</edit.date>
+          <edit.time>11:25:02</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1604.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>104188</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>smeedijzer</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Keizerskroon, rijksappel en zwaard</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">172.1559</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '89'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">566.3907</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

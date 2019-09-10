@@ -1,0 +1,291 @@
+<adlibXML>
+  <recordList>
+    <record priref="16" created="2015-06-15T22:38:59" modification="2018-08-21T14:52:30" selected="False">
+      <acquisition.date>1904</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">sport (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">cultuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <current_location.context>kostuumdepot 1, kast 84, lade 26</current_location.context>
+      <current_location.name>kostuumdepot 1, kast 84, lade 26</current_location.name>
+      <defaultlocation>
+        <location.default.name>kostuumdepot 1, kast 84, lade 26</location.default.name>
+        <location.default.context>kostuumdepot 1, kast 84, lade 26</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>kostuumdepot 1, kast 85, bovenop</location.default.name>
+        <location.default.context>kostuumdepot 1, kast 85, bovenop</location.default.context>
+      </defaultlocation>
+      <defaultlocation>
+        <location.default.name>kostuumdepot 1, rek 86 B-27</location.default.name>
+        <location.default.context>kostuumdepot 1, rek 86 B-27</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Vaandel van groen fluweel met gouden franje geboord en met kwasten voorzien, met afbeelding van het stadswapen in een krans van klimop. Aan de dwarslat van het vaandel hangt een roodwit koord voor prijspenningen. Stok met goudkleurige knoppen. Met 12 prijspenningen.</description>
+      </Description>
+      <Dimension>
+        <dimension.part/>
+        <dimension.value>149</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part/>
+        <dimension.value>95</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.part>stok</dimension.part>
+        <dimension.value>113.5</dimension.value>
+        <dimension.type>
+          <value lang="">lengte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3829</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2066 1x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-07-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-12-02</input.date>
+      <Inscription>
+        <inscription.content>UTR. GYM. VER. // MILO // 1870</inscription.content>
+        <inscription.notes/>
+        <inscription.position>
+          <value lang="">op vaandel</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>V.V.V.V</inscription.content>
+        <inscription.notes>V.V.V.V = Vroom Vrij Vrank Vroed</inscription.notes>
+        <inscription.position>
+          <value lang="">in elke hoek</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">fluweel</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">hout</value>
+        </material>
+      </Material>
+      <notes>Bij dit vaandel horen 12 prijspenningen (inv. nrs. 1521/001-012).</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">vaandel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1521</object_number>
+      <priref>16</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1870</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>1521/001</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/002</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/003</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/004</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/005</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/006</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/007</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/008</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/009</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/010</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/011</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1521/012</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\STADSGESCHIEDENIS\1521.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>13125</priref>
+          <input.date>2006-11-11</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.date>2006-11-11</edit.date>
+          <edit.time>16:32:29</edit.time>
+          <edit.time>14:07:25</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>13125</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>fluweel, gouddraad, koord, hout</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Vaandel van de Utrechtse Gymnastiekvereniging Milo</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">281.2521</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '16'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.7167</response_time>
+    <xml_creation_time unit="mS" culture="en-US">328.1468</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

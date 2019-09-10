@@ -1,0 +1,292 @@
+<adlibXML>
+  <recordList>
+    <record priref="72" created="2015-06-15T22:38:59" modification="2019-03-13T10:43:15" selected="False">
+      <acquisition.date>1887-10-21</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 01, lade 2a</current_location.context>
+      <current_location.name>metaalcabine, kast 01, lade 2a</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 01, lade 2a</location.default.name>
+        <location.default.context>metaalcabine, kast 01, lade 2a</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Ge&#235;mailleerde snuifdoos met verguld koperen rand; op het deksel in een cartouche de voorstelling van een musicerend paar in een landschap, een in een landschap zittende dame, die uit een muziekboek zingt, terwijl een staande heer haar op de fluit begeleidt. Om de rand in cartouches kleine bloementakken.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>3</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>7.5</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>6</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 400 35x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2037</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 811, cat. nr. 185, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [onedele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">L.E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3653</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 46, afb. p. 47</documentation.page_reference>
+        <documentation.title>
+          <title>Emaille</title>
+          <lead_word/>
+          <priref>200000697</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-03-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-01</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-02-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-07-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-08-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Ze zullen ons een zorg zijn... georganiseerd door het Provinciaal Comit&#233; Utrecht-Monumentenjaar 1975</title>
+          <venue>
+            <value lang="">Provinciehuis Utrecht</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1975-05-02</venue.date.start>
+          <venue.date.end>1975-06-10</venue.date.end>
+          <object.object_number>1587</object.object_number>
+          <object.object_number>1725</object.object_number>
+          <object.object_number>4405</object.object_number>
+          <object.object_number>5312/001-002</object.object_number>
+          <priref>9297</priref>
+        </exhibition>
+        <exhibition.lref>9297</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-10-07</input.date>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">email</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">geel metaal</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">doos</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">snuifdoos</value>
+        </object_name>
+      </Object_name>
+      <object_number>1587</object_number>
+      <priref>72</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1770</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\onedelemetalen\o184.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>2090</priref>
+          <input.date>2003-12-27</input.date>
+          <edit.date>2016-09-14</edit.date>
+          <edit.time>09:42:06</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>2090</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>inventarisnrs\H1587.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>104185</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-02-17</input.date>
+          <edit.date>2016-09-14</edit.date>
+          <edit.time>09:42:06</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1587.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>104185</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>email; geel metaal</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Snuifdoos</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">106.6294</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '72'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">266.7766</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

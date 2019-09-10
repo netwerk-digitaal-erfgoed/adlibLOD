@@ -1,0 +1,199 @@
+<adlibXML>
+  <recordList>
+    <record priref="195" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:43" selected="False">
+      <acquisition.date>1920</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst</value>
+      </collection>
+      <collection>
+        <value lang="">beeldhouwkunst tot 1850</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">jongetje van voetstuk afgebroken, zijn hoofd en linkerarm ontbreken</value>
+        </condition.notes>
+      </Condition>
+      <current_location.context>variadepot, kast 26, plank F</current_location.context>
+      <current_location.name>variadepot, kast 26, plank F</current_location.name>
+      <defaultlocation>
+        <location.default.name>variadepot, kast 26, plank F</location.default.name>
+        <location.default.context>variadepot, kast 26, plank F</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Links loopt een heer, frontaal ten voeten uit afgebeeld, in zijn rechterhand een hoedendoos aan een koord, onder de arm een pakje; over zijn linkerarm hangt een jas, in de hand houdt hij een wandelstok en een botaniseertrommel. Naast hem loopt rechts, hem een arm gevend, zijn welgedane echtgenote in mantel en hoed met lint om de kin, de rechterhand in de mantelzak. Achter de heer een jongetje, dat hem met de linkerhand aan de jaspand trekt en de rechter omhoogheft.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>15.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>14</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>9</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 755, cat. nr. 774</documentation.page_reference>
+        <documentation.title>
+          <title>Beeldhouwkunst tot 1850. de verzamelingen van het centraal museum utrecht [cat. nrs. 479-800]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Klinckaert, Jan W.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Klinckaert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>1488</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 368 5x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-04-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-04-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-06-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>*</gepubliceerd>
+      <input.date>1993-10-07</input.date>
+      <Inscription>
+        <inscription.content>P.V.L.1868</inscription.content>
+        <inscription.position>
+          <value lang="">op grond naast jongetje</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">monogram en datering</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>niet altijd</inscription.content>
+        <inscription.position>
+          <value lang="">op de grond</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">ongebakken klei</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">beeld</value>
+        </object_name>
+      </Object_name>
+      <object_number>1692/018</object_number>
+      <priref>195</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Loon, Pieter van</value>
+          </name>
+          <birth.date.start>1801</birth.date.start>
+          <birth.place>
+            <value lang="">Amsterdam</value>
+          </birth.place>
+          <death.date.start>1873</death.date.start>
+          <death.place>
+            <value lang="">Utrecht</value>
+          </death.place>
+          <priref>4172</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang="">
+          <value lang="">beeldhouwer</value>
+        </creator.role>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1868</production.date.start>
+      </Production_date>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>ongebakken klei</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Echtpaar op reis</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">31.2497</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '195'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6261</response_time>
+    <xml_creation_time unit="mS" culture="en-US">31.2497</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

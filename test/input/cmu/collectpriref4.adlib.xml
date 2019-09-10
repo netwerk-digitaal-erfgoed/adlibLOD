@@ -1,0 +1,1004 @@
+<adlibXML>
+  <recordList>
+    <record priref="4" created="2015-06-15T22:38:59" modification="2018-10-05T11:44:42" selected="False">
+      <acquisition.date>1876-07</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">verdedigingswezen (schutterij) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">prenten en tekeningen</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">geschiedenis</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">Visscher, mr. Cornelis Govert, begrafenis van</value>
+      </content.motif.general>
+      <current_location.context>prentendepot, vak 7 D</current_location.context>
+      <current_location.name>prentendepot, vak 7 D</current_location.name>
+      <defaultlocation>
+        <location.default.name>prentendepot, vak 7 D</location.default.name>
+        <location.default.context>prentendepot, vak 7 D</location.default.context>
+      </defaultlocation>
+      <Dimension>
+        <dimension.value>42</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>63</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 238, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Archeologische en bouwhistorische kroniek van de gemeente Utrecht over 1986</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Kipp, A.F.E.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">A.F.E. Kipp e.a.</value>
+          </statement_of_responsibility>
+          <priref>200000082</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 654</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus der schilderijen [1952]</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1952</year_of_publication>
+          <priref>2274</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 9</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 2134</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3330</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 44, afb. p. 45</documentation.page_reference>
+        <documentation.title>
+          <title>Utrechtse Parade 1495-1995 : van Van Scorel tot Rietveld en Koch</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Adriaans-Buij, J.M. (Hanneke) [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bosma, Marja</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bruin, Renger E. de [dr.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Koot, Roman</value>
+          </author.name>
+          <author.name>
+            <value lang="">Meyere, Jos A.L. de [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Zijl, Ida van (M.I.E.) [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">red. Renger de Bruin, Jos de Meyere, Suzanne de Sitter. teksten Hanneke Adriaans, Marja Bosma, Renger de Bruin, Roman Koot, Jos de Meyere, Ida van Zijl</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1994</year_of_publication>
+          <copy.number>94/283</copy.number>
+          <copy.number>R01038</copy.number>
+          <copy.number>94/284</copy.number>
+          <copy.number>CC51</copy.number>
+          <copy.number>R01378</copy.number>
+          <copy.number>r04819</copy.number>
+          <priref>3063</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 17, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Dood en begraven : sterven en rouwen 1700-1900 : tentoonstelling ter gelegenheid van het 150-jarig bestaan van de Eerste Algemene Begraafplaats Soestbergen te Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Janssens, A.M. [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Snoep, D.P. [dr.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Zijl, Ida van (M.I.E.) [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Veldkamp, Matty</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dirkse-Balhan, A.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">[voorw. Adeline M. Janssens ; samenst. D. P. Snoep en M.I.E. van Zijl m.m.v. M.J. Veldkamp ; teksten A. Dirkse- Balhan ... et al.]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1980</year_of_publication>
+          <copy.number>CC282</copy.number>
+          <copy.number>R02460</copy.number>
+          <priref>3377</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 98-99, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Utrecht : de Oude Gracht : Van Pellecussenpoort tot de Liesbosch II</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Hulzen, A. van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">A. van Hulzen</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amersfoort</value>
+          </place_of_publication>
+          <year_of_publication>1991</year_of_publication>
+          <copy.number>94/236b</copy.number>
+          <priref>13106</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 79, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Utrecht in de achttiende eeuw</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Graafhuis, A.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">A. Graafhuis ; met veertig tek. van Jan de Beyer en zijn tijdgenoten</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Den Haag</value>
+          </place_of_publication>
+          <year_of_publication>1965</year_of_publication>
+          <year_of_publication/>
+          <copy.number>R00806</copy.number>
+          <copy.number>R01851</copy.number>
+          <priref>13144</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 354, afb. p. 47</documentation.page_reference>
+        <documentation.title>
+          <title>Voor vaderland en vrijheid : revolutie in Nederland 1780-1787</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Grijzenhout, Frans</value>
+          </author.name>
+          <author.name>
+            <value lang="">Sas, N.C.F. van</value>
+          </author.name>
+          <author.name>
+            <value lang="">Janssens, A.M. [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">F. Grijzenhout, N.C.F. van Sas ; [voorw. Adeline M. Janssens]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1987</year_of_publication>
+          <copy.number>CC128</copy.number>
+          <copy.number>R00634</copy.number>
+          <copy.number>R00635</copy.number>
+          <priref>13824</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 4</documentation.page_reference>
+        <documentation.title>
+          <title>Vreeswijks verleden in woord en beeld</title>
+          <lead_word/>
+          <priref>13882</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference/>
+        <documentation.title>
+          <title>Soestbergen : Utrechts aardse paradijstuin : de Eerste Algemene Begraafplaats Soestbergen te Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Maes, Edwin</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Edwin Maes</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>2006</year_of_publication>
+          <copy.number>06/507</copy.number>
+          <priref>17585</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-11-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-02-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-07-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-11-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-10-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-09-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-09-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-05-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-02-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2003-09-24</edit.date>
+      </Edit>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum IJsselstein</value>
+          </venue>
+          <venue.place>
+            <value lang="">IJsselstein</value>
+          </venue.place>
+          <venue.date.start>1997-07-14</venue.date.start>
+          <venue.date.end>1997-09-15</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9933</priref>
+        </exhibition>
+        <exhibition.lref>9933</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Stadsmuseum Woerden</value>
+          </venue>
+          <venue.place>
+            <value lang="">Woerden</value>
+          </venue.place>
+          <venue.date.start>1996-10-21</venue.date.start>
+          <venue.date.end>1997-01-12</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>9686</object.object_number>
+          <object.object_number>11048 a</object.object_number>
+          <object.object_number>11048 b</object.object_number>
+          <object.object_number>11138</object.object_number>
+          <object.object_number>18128</object.object_number>
+          <object.object_number>18539/001</object.object_number>
+          <object.object_number>18539/002</object.object_number>
+          <object.object_number>18539/003</object.object_number>
+          <object.object_number>26090/001</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>1476</object.object_number>
+          <object.object_number>595</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9852</priref>
+        </exhibition>
+        <exhibition.lref>9852</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>"...En nu die kale Fransen!" De provincie Utrecht in de Bataafs-Franse tijd (1795-1813)</title>
+          <venue>
+            <value lang="">Historisch Museum Het Kleine Veenloo</value>
+          </venue>
+          <venue.place>
+            <value lang="">Veenendaal</value>
+          </venue.place>
+          <venue.date.start>1996-05-11</venue.date.start>
+          <venue.date.end>1996-07-06</venue.date.end>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>1627</object.object_number>
+          <object.object_number>1629</object.object_number>
+          <object.object_number>1633/001-004</object.object_number>
+          <object.object_number>1642</object.object_number>
+          <object.object_number>1643</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>6829</object.object_number>
+          <object.object_number>7361</object.object_number>
+          <object.object_number>9740</object.object_number>
+          <object.object_number>552</object.object_number>
+          <object.object_number>50082</object.object_number>
+          <object.object_number>50083</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>599</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>602</object.object_number>
+          <object.object_number>603</object.object_number>
+          <object.object_number>C 1928/3002</object.object_number>
+          <object.object_number>653</object.object_number>
+          <object.object_number>762</object.object_number>
+          <priref>9465</priref>
+        </exhibition>
+        <exhibition.lref>9465</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Voor Vaderland en Vrijheid (Nationale Patriottententoonstelling)</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1987-09-04</venue.date.start>
+          <venue.date.end>1987-10-18</venue.date.end>
+          <notes>Nederland in de jaren 80 van de 18e eeuw was een republiek in permanente crisis. Nieuwe, verlichte idee&#235;n deden op elk gebied van het leven hun intrede. De positie van de offici&#235;le, hervormde, kerk werd ter discussie gesteld. Velen maakten zich ernstig zorgen om de nationale welvaart en de verzwakte positie van Nederland in de wereld.</notes>
+          <notes>De vele problemen spitsten zich toe in de strijd tussen prinsgezinden, de aanhangers van stadhouder prins Willem V, en de patriotten, stedelijke regenten die de bevoegdheden van de stadhouder bestreden, maar ook burgers die invloed wilden uitoefenen op de samenstelling van het stadsbestuur.</notes>
+          <notes>In opiniebladen, pamfletten, gedichten en liederen werd de strijd tussen beide groepen gevoerd, en met spot- en propagandateksten, afbeeldingen op schilderijen, glazen, aardewerk, met lintjes en speldjes. Veel patriotten vreesden dat de twist niet met woorden kon worden beslecht en organiseerden zich in wapengenootschappen.</notes>
+          <notes>In 1787 kwam een voorlopig einde aan de strijd. Na een incident bij Goejanverwellesluis, waarbij de echtgenote van Willem V enige uren door patriotten was vastgehouden, herstelden de Pruisische legers van haar broer de orangistische orde in het land. Ruim zeven jaar later, in 1795, zouden de patriotten met hulp van de Fransen toch aan de macht komen.</notes>
+          <notes>In 1987 werd het tweede eeuwfeest van de Nederlandse Revolutie grootschalig herdacht. Met congressen en symposia, met publicaties, een fietstocht naar het slagveld in Vreeswijk en met veel tentoonstellingen. De nationale tentoonstelling over de patriottentijd werd gehouden in het Centraal Museum. Immers "De zaak van Utregt is als het middenpunt, op het welk het oog van de gantsche Natie is geslagen," omschreef De Post van den Neder-Rhijn de cruciale rol die de stad Utrecht speelde in die tijd.</notes>
+          <nummer_cm>T198708</nummer_cm>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1646</object.object_number>
+          <object.object_number>2290</object.object_number>
+          <object.object_number>2316</object.object_number>
+          <object.object_number>2340</object.object_number>
+          <object.object_number>2341</object.object_number>
+          <object.object_number>10242</object.object_number>
+          <object.object_number>14986</object.object_number>
+          <object.object_number>22584</object.object_number>
+          <object.object_number>595</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>599</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>602</object.object_number>
+          <object.object_number>603</object.object_number>
+          <object.object_number>604</object.object_number>
+          <object.object_number>605</object.object_number>
+          <object.object_number>606</object.object_number>
+          <object.object_number>C 1928/2920</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>642</object.object_number>
+          <object.object_number>762</object.object_number>
+          <object.object_number>763</object.object_number>
+          <object.object_number>1272</object.object_number>
+          <priref>8734</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_008.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_009.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_010.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_011.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_012.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_013.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_014.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_D_015.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_008.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_009.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_010.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_011.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_012.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_013.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_014.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_015.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_016.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_017.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_018.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T198708_F_019.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8734</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Gevecht aan de vaart</title>
+          <venue>
+            <value lang="">Historisch Museum, Nieuwegein, Historische Kring</value>
+          </venue>
+          <venue.place>
+            <value lang="">Nieuwegein</value>
+          </venue.place>
+          <venue.date.start>1987-04-30</venue.date.start>
+          <venue.date.end>1987-05-02</venue.date.end>
+          <object.object_number>1589</object.object_number>
+          <object.object_number>2340</object.object_number>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>1166</object.object_number>
+          <object.object_number>598</object.object_number>
+          <object.object_number>600</object.object_number>
+          <object.object_number>601</object.object_number>
+          <object.object_number>604</object.object_number>
+          <object.object_number>608</object.object_number>
+          <object.object_number>609</object.object_number>
+          <object.object_number>2128</object.object_number>
+          <object.object_number>9563</object.object_number>
+          <priref>6524</priref>
+        </exhibition>
+        <exhibition.lref>6524</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Vreeswijks verleden in woord en beeld</title>
+          <venue>
+            <value lang="">Openbare Lagere School, Vreeswijk</value>
+          </venue>
+          <venue.place>
+            <value lang="">Vreeswijk</value>
+          </venue.place>
+          <venue.date.start>1964-10-29</venue.date.start>
+          <venue.date.end>1964-10-31</venue.date.end>
+          <object.object_number>1022</object.object_number>
+          <object.object_number>1025</object.object_number>
+          <object.object_number>2340</object.object_number>
+          <object.object_number>608</object.object_number>
+          <priref>9593</priref>
+        </exhibition>
+        <exhibition.lref>9593</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>T</gepubliceerd>
+      <Highres>T</Highres>
+      <input.date>2003-09-24</input.date>
+      <input.date>1993-09-29</input.date>
+      <Inscription>
+        <inscription.content>Afbeelding der begrafenis van den Wel.Ed. Heer en Mr. Cornelis Govert Visscher op den 9en Mei 1787 bij Vreeswijk aan de Vaart gesneuveld</inscription.content>
+        <inscription.description/>
+        <inscription.position>
+          <value lang="">o. op passe-partout</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.description>het wapen van Mr. Visscher met de vier kwartieren, de wapens van Visscher, Colijns, Van Hengst en Verdion</inscription.description>
+        <inscription.position>
+          <value lang="">m.o. op passe-partout</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">wapen</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">papier</value>
+        </material>
+      </Material>
+      <notes>Toen op 9 mei 1787 om 10 uur 's avonds de stadhouderlijk troepen onder leiding van regimentscommandant Van Efferen en de patriotse Utrechtse schutters elkaar troffen, vuurde het grenadierspeleton van de Staten de eerste twee salvo's af. Bij het eerste salvo sneuvelde de Utrechtse kanonnier Robertus van der Vlerk en bij het tweede de kapitein-luitenant Cornelis Govert Visscher. Na een korte schotenwisseling bleek het artillerievuur van de Utrechtse schutters de doorslag te geven en sloeg het stadhouderlijke bataljon op de vlucht.
+Op deze aquarel van de begrafenis van mr. Cornelis Govert Visscher is de stoet te zien, bestaande uit een groep patriotten, de rouwkoets met slippen, vier volgrijtuigen, een groep in het zwart geklede personen en weer een groep patriotten. De stoet gaat ten aanschouwe van een grote menigte van rechts over de Oudegracht en de Smeebrug de Korte Smeestraat in. Op de achtergrond aan weerszijde de huizen van de Oudegracht en het geboomte.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">tekening</value>
+        </object_name>
+      </Object_name>
+      <object_number>1025</object_number>
+      <priref>4</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Utrechts</value>
+          </name>
+          <priref>21825</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1787</production.date.start>
+        <production.date.start.prec>ca.</production.date.start.prec>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>25993</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>15029</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>1022</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>2340</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X1025.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>47647</priref>
+          <rights>Image copyright CMU</rights>
+          <edit.date>2014-10-21</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.date>2011-01-20</edit.date>
+          <edit.time>15:29:28</edit.time>
+          <edit.time>16:41:43</edit.time>
+          <edit.time>16:32:48</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X1025.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>47647</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>aquarel op papier</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-US" invariant="true">De begrafenis van mr. Cornelis Govert Visscher</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">156.2769</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '4'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">2593.2806</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

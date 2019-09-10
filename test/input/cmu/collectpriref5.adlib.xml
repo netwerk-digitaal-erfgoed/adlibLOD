@@ -1,0 +1,301 @@
+<adlibXML>
+  <recordList>
+    <record priref="5" created="2015-06-15T22:38:59" modification="2019-08-16T13:02:29" selected="False">
+      <acquisition.date>1878</acquisition.date>
+      <acquisition.date.precision>voor</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">onbekend</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">gilden (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">beeldende kunst</value>
+      </collection>
+      <collection>
+        <value lang="">prenten en tekeningen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">heraldiek</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">wapenbord</value>
+      </content.motif.general>
+      <current_location.context>prentendepot, vak 12 D</current_location.context>
+      <current_location.name>prentendepot, vak 12 D</current_location.name>
+      <defaultlocation>
+        <location.default.name>prentendepot, vak 12 D</location.default.name>
+        <location.default.context>prentendepot, vak 12 D</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Wapenbord met de 'NAMEN EN WAPENEN DER PRAESIDES DEZER STADS ORDINAR. MEDae. DOCTORES, Beginnende met den Jaare MDCCLXVI' (tot 1793). Met 28 ingekleurde wapens. In kleuren getekend op perkament in zwart houten lijst.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>116</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte (met lijst)</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>101</dimension.value>
+        <dimension.type>
+          <value lang="">breedte (met lijst)</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3404</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 998</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1662</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-08-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-02-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-01-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-15</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-12-14</input.date>
+      <Inscription>
+        <inscription.content>NAMEN EN WAPENEN // DER PRAESIDES DEZER STADS // ORDINAR: MEDae DOCTORES. // Beginnende Met Den Jaare MDCCLXVI</inscription.content>
+        <inscription.method>met verf</inscription.method>
+        <inscription.type>
+          <value lang="">opschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">perkament</value>
+        </material>
+      </Material>
+      <notes>Wapenbord met de namen en wapens van de het Chirurgijnsgilde van 1766 tot 1793. Slechts 28 van de 96 wapens zijn ingevuld.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">wapenbord</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">tekening</value>
+        </object_name>
+      </Object_name>
+      <object_number>1026</object_number>
+      <priref>5</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1793</production.date.end>
+        <production.date.start>1766</production.date.start>
+      </Production_date>
+      <Related_object>
+        <related_object.reference>1027</related_object.reference>
+      </Related_object>
+      <Related_object>
+        <related_object.reference>8689</related_object.reference>
+      </Related_object>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\WERKOPPAPIERTOT1850\PT1026.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>7130</priref>
+          <input.date>2005-11-07</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.date>2005-11-07</edit.date>
+          <edit.time>16:22:58</edit.time>
+          <edit.time>20:51:32</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>7130</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\PENT\1026_01.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>155566</priref>
+          <rights>&#169; Centraal Museum, Utrecht</rights>
+          <input.date>2019-08-16</input.date>
+          <edit.date>2019-08-16</edit.date>
+          <edit.time>13:02:29</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>155566</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>verf op perkament</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Wapenbord van het Chirurgijnsgilde</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">140.5523</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '5'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">15.6238</response_time>
+    <xml_creation_time unit="mS" culture="en-US">318.8473</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

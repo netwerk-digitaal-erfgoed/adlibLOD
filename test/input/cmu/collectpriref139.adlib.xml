@@ -1,0 +1,672 @@
+<adlibXML>
+  <recordList>
+    <record priref="139" created="2015-06-15T22:38:59" modification="2019-06-03T13:36:34" selected="False">
+      <acquisition.date>1798</acquisition.date>
+      <acquisition.date.precision>waarschijnlijk</acquisition.date.precision>
+      <acquisition.method>
+        <value lang="">overdracht</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">GEOKEYW</value>
+          <value lang="0">geography</value>
+          <value lang="1">geografie</value>
+          <value lang="2">g&#233;ographie</value>
+          <value lang="3">Geografie</value>
+          <value lang="4">&#1580;&#1594;&#1585;&#1575;&#1601;&#1610;</value>
+          <value lang="5">geografia</value>
+          <value lang="6">&#947;&#949;&#969;&#947;&#961;&#945;&#966;&#943;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">goudsmedengilde (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">herkomst</value>
+        </association.subject.association>
+      </Associated_subject>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">gilden (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">sociaal-economisch</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 27, plank E</current_location.context>
+      <current_location.name>metaalcabine, kast 27, plank E</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 27, plank E</location.default.name>
+        <location.default.context>metaalcabine, kast 27, plank E</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Insculpatieplaat met de namen en merken van de goudsmeden uit de jaren 1704-1740. Koperen plaat met de namen en merken van de goudsmeden uit de jaren 1704-1740. Bovenaan versierd met een cartouche met voluten, in het schild het teken van de Goudsmedengilde: een gekroonde hamer en twee gekruiste veren, met opschrift. Naast de merken die ook hier gedeeltelijk zijn uitgeslepen, vindt men bij vele namen ook een doodshoofd met twee gekruiste beenderen ten teken van het overlijden van het lid van het gilde.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>54</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>27</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>0.1</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3410</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 974</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1878</year_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <copy.number>R00774</copy.number>
+          <copy.number>R01949</copy.number>
+          <priref>2351</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1607</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 31, afb. p. 32</documentation.page_reference>
+        <documentation.title>
+          <title>Utrechtse Parade 1495-1995 : van Van Scorel tot Rietveld en Koch</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Adriaans-Buij, J.M. (Hanneke) [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bosma, Marja</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bruin, Renger E. de [dr.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Koot, Roman</value>
+          </author.name>
+          <author.name>
+            <value lang="">Meyere, Jos A.L. de [drs.]</value>
+          </author.name>
+          <author.name>
+            <value lang="">Zijl, Ida van (M.I.E.) [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">red. Renger de Bruin, Jos de Meyere, Suzanne de Sitter. teksten Hanneke Adriaans, Marja Bosma, Renger de Bruin, Roman Koot, Jos de Meyere, Ida van Zijl</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1994</year_of_publication>
+          <copy.number>94/283</copy.number>
+          <copy.number>R01038</copy.number>
+          <copy.number>94/284</copy.number>
+          <copy.number>CC51</copy.number>
+          <copy.number>R01378</copy.number>
+          <copy.number>r04819</copy.number>
+          <priref>3063</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 919, cat. nr. 592</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum [onedele metalen cat. nr. 544-823]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3649</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>hfst. 3, noot 42</documentation.page_reference>
+        <documentation.title>
+          <title>Utrechtse smedengilde : metaalbewerkers in Utrecht in de 17e en 18e eeuw</title>
+          <lead_word>
+            <value lang="">Het</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Ritter, Gerard</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Gerard Ritter</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">[Utrecht]</value>
+          </place_of_publication>
+          <year_of_publication>1987</year_of_publication>
+          <copy.number>96/405</copy.number>
+          <copy.number>R00845</copy.number>
+          <priref>13247</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-06-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-11-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-10-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-11-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-11-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Het Gilde van St. Eloy</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2004-09-11</venue.date.start>
+          <venue.date.end>2004-11-14</venue.date.end>
+          <notes>Historische tentoonstelling ter gelegenheid van de viering van het 700-jarig bestaan van het smedengilde Sint Eloy in Utrecht.</notes>
+          <nummer_cm>T200437</nummer_cm>
+          <object.object_number>6849</object.object_number>
+          <object.object_number>473</object.object_number>
+          <object.object_number>9447</object.object_number>
+          <object.object_number>1675</object.object_number>
+          <object.object_number>24539</object.object_number>
+          <object.object_number>9547</object.object_number>
+          <object.object_number>1576</object.object_number>
+          <object.object_number>5337</object.object_number>
+          <object.object_number>2478</object.object_number>
+          <object.object_number>1651</object.object_number>
+          <object.object_number>6720</object.object_number>
+          <object.object_number>11745</object.object_number>
+          <object.object_number>25667/001</object.object_number>
+          <object.object_number>25667/002</object.object_number>
+          <object.object_number>25667/003</object.object_number>
+          <object.object_number>25667/004</object.object_number>
+          <object.object_number>3010/001-002</object.object_number>
+          <object.object_number>4321 b</object.object_number>
+          <object.object_number>4321 c</object.object_number>
+          <object.object_number>4321 b</object.object_number>
+          <object.object_number>4321 c</object.object_number>
+          <object.object_number>4321 d</object.object_number>
+          <object.object_number>4321 e</object.object_number>
+          <object.object_number>4321 f</object.object_number>
+          <object.object_number>4321 g</object.object_number>
+          <object.object_number>4321 h</object.object_number>
+          <object.object_number>4321 i</object.object_number>
+          <object.object_number>4321 j</object.object_number>
+          <object.object_number>4321 k</object.object_number>
+          <object.object_number>4321 l</object.object_number>
+          <object.object_number>4321 m</object.object_number>
+          <object.object_number>3015</object.object_number>
+          <object.object_number>3013</object.object_number>
+          <object.object_number>3014</object.object_number>
+          <object.object_number>3017/001-002</object.object_number>
+          <object.object_number>3024/001-002</object.object_number>
+          <object.object_number>3025/001-002</object.object_number>
+          <object.object_number>3026/001-002</object.object_number>
+          <object.object_number>3021/001-002</object.object_number>
+          <object.object_number>3022/001-002</object.object_number>
+          <object.object_number>1652</object.object_number>
+          <object.object_number>1653</object.object_number>
+          <object.object_number>1654</object.object_number>
+          <object.object_number>1667</object.object_number>
+          <object.object_number>3012</object.object_number>
+          <object.object_number>2525</object.object_number>
+          <object.object_number>648</object.object_number>
+          <object.object_number>24768/001</object.object_number>
+          <object.object_number>24768/002</object.object_number>
+          <object.object_number>18155</object.object_number>
+          <priref>10523</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200437_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200437_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>10523</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Markten in Utrecht</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2001-03-17</venue.date.start>
+          <venue.date.end>2001-07-01</venue.date.end>
+          <notes>De expositie Markten in Utrecht vertelde aan de hand van zeer uiteenlopende voorwerpen de ontwikkeling van een (voor de huidige begrippen) klein, maar internationaal geori&#235;nteerd marktcentrum naar een stad die weliswaar groeit maar zijn verreafstandshandel verliest. De stedelijke markt krijgt een regionale functie. Pas in de tweede helft van de 20ste eeuw wordt Utrecht door de groei van de Jaarbeurs weer een handelscentrum van nationale betekenis. Tegelijkertijd verdwijnen de oude markten uit de binnenstad.
+
+Honderden voorwerpen van bodemvondsten, schilderijen en maquettes tot foto's en gebruiksvoorwerpen gaven van deze ontwikkelingen een beeld.
+
+De tentoonstelling was vormgegeven door Traast &amp; Gruzon.
+Aan de totstandkoming van de expositie was bijgedragen door de Dienst Maatschappelijke Ontwikkeling van de gemeente Utrecht en door de Stichting K.F. Hein Fonds.</notes>
+          <nummer_cm>T200104</nummer_cm>
+          <object.object_number>1651</object.object_number>
+          <object.object_number>1652</object.object_number>
+          <object.object_number>1653</object.object_number>
+          <object.object_number>1654</object.object_number>
+          <object.object_number>1712</object.object_number>
+          <object.object_number>1719</object.object_number>
+          <object.object_number>1788/002</object.object_number>
+          <object.object_number>1788/003</object.object_number>
+          <object.object_number>2131</object.object_number>
+          <object.object_number>2262</object.object_number>
+          <object.object_number>2292</object.object_number>
+          <object.object_number>2298</object.object_number>
+          <object.object_number>2335</object.object_number>
+          <object.object_number>2390</object.object_number>
+          <object.object_number>2477</object.object_number>
+          <object.object_number>2493</object.object_number>
+          <object.object_number>2511</object.object_number>
+          <object.object_number>2523</object.object_number>
+          <object.object_number>2525</object.object_number>
+          <object.object_number>2542</object.object_number>
+          <object.object_number>3012</object.object_number>
+          <object.object_number>3013</object.object_number>
+          <object.object_number>3014</object.object_number>
+          <object.object_number>3015</object.object_number>
+          <object.object_number>3016</object.object_number>
+          <object.object_number>3021/001-002</object.object_number>
+          <object.object_number>3023</object.object_number>
+          <object.object_number>3024/001-002</object.object_number>
+          <object.object_number>3025/001-002</object.object_number>
+          <object.object_number>3026/001-002</object.object_number>
+          <object.object_number>3027</object.object_number>
+          <object.object_number>3028</object.object_number>
+          <object.object_number>4321 a</object.object_number>
+          <object.object_number>4321 b</object.object_number>
+          <object.object_number>4321 c</object.object_number>
+          <object.object_number>4321 d</object.object_number>
+          <object.object_number>4321 e</object.object_number>
+          <object.object_number>4321 f</object.object_number>
+          <object.object_number>4321 g</object.object_number>
+          <object.object_number>4321 h</object.object_number>
+          <object.object_number>4321 i</object.object_number>
+          <object.object_number>4321 j</object.object_number>
+          <object.object_number>4321 k</object.object_number>
+          <object.object_number>4321 l</object.object_number>
+          <object.object_number>4321 m</object.object_number>
+          <object.object_number>5101</object.object_number>
+          <object.object_number>6364 a</object.object_number>
+          <object.object_number>6924</object.object_number>
+          <object.object_number>7163</object.object_number>
+          <object.object_number>7862</object.object_number>
+          <object.object_number>9300</object.object_number>
+          <object.object_number>10418</object.object_number>
+          <object.object_number>11217</object.object_number>
+          <object.object_number>13073</object.object_number>
+          <object.object_number>14141</object.object_number>
+          <object.object_number>14142</object.object_number>
+          <object.object_number>14539</object.object_number>
+          <object.object_number>15012</object.object_number>
+          <object.object_number>16469</object.object_number>
+          <object.object_number>16470</object.object_number>
+          <object.object_number>16471</object.object_number>
+          <object.object_number>16472</object.object_number>
+          <object.object_number>18512</object.object_number>
+          <object.object_number>26685</object.object_number>
+          <object.object_number>78</object.object_number>
+          <object.object_number>50009</object.object_number>
+          <object.object_number>28449</object.object_number>
+          <priref>8900</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_008.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_009.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_010.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200104_D_011.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8900</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-11-15</input.date>
+      <Inscription>
+        <inscription.content>Deeckenen Arnoldus Schijf, Gerart Van Thiel; Ceurmeesters Eustatius Reynaert de Jongh, Nicolaes Van Duyn, Henricus Vos; Bus Mr. Mourits Limmercier 1704</inscription.content>
+        <inscription.position>
+          <value lang="">m.b. in cartouche</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur en datering</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">rood metaal</value>
+        </material>
+      </Material>
+      <notes>Insculpatieplaat met de namen en merken van de goudsmeden uit de jaren 1704-1740. Koperen plaat met de namen en merken van de goudsmeden uit de jaren 1704-1740. Bovenaan versierd met een cartouche met voluten, in het schild het teken van de Goudsmedengilde: een gekroonde hamer en twee gekruiste veren, met opschrift. Naast de merken die ook hier gedeeltelijk zijn uitgeslepen, vindt men bij vele namen ook een doodshoofd met twee gekruiste beenderen ten teken van het overlijden van het lid van het gilde.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">koperplaat</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">insculpatieplaat</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">naamlijst</value>
+        </object_name>
+      </Object_name>
+      <object_number>1654</object_number>
+      <priref>139</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Limmercier, Mourits</value>
+          </name>
+          <priref>21855</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang="">
+          <value lang="">Utrecht</value>
+        </production.place>
+      </Production>
+      <Production_date>
+        <production.date.end>1740</production.date.end>
+        <production.date.start>1704</production.date.start>
+      </Production_date>
+      <Reproduction/>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1654.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>cmuusers</record_access.user>
+          <priref>102661</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2015-11</input.date>
+          <edit.date>2016-08-10</edit.date>
+          <edit.date>2016-04-29</edit.date>
+          <edit.date>2016-01-17</edit.date>
+          <edit.time>10:37:38</edit.time>
+          <edit.time>16:17:23</edit.time>
+          <edit.time>11:14:50</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1654.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>102661</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>gegraveerd rood metaal</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Insculpatieplaat goudsmeden</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">46.2217</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '139'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">565.0645</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

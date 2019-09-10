@@ -1,0 +1,312 @@
+<adlibXML>
+  <recordList>
+    <record priref="8" created="2015-06-15T22:38:59" modification="2019-03-04T15:20:00" selected="False">
+      <acquisition.date>1896</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Moderne tijd 1795-heden</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">verdedigingswezen (schutterij) (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">bestuur</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">stempels/zegels</value>
+      </collection>
+      <collection>
+        <value lang="">onedele metalen</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <current_location.context>metaalcabine, kast 02, lade 4a</current_location.context>
+      <current_location.name>metaalcabine, kast 02, lade 4a</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 02, lade 4a</location.default.name>
+        <location.default.context>metaalcabine, kast 02, lade 4a</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Stempel van het zegel van de afdeling Utrecht van de Vereeniging Het Metalen Kruis, met voorstelling van een wapentrofee met het Metalen Kruis, met omschrift. Het Metalen Kruis is een Nederlandse onderscheiding en ereteken dat in 1831 werd toegekend aan degenen die aan de Tiendaagse Veldtocht hadden deelgenomen. Het stempel is gebroken en daarom in een rand gevat.</description>
+      </Description>
+      <Description>
+        <description/>
+      </Description>
+      <Description>
+        <description>Voorstellende een wapentrophee met het metalen Kruis; met boven- en onderschrift: METALEN KRUIS AFDEELING UTRECHT. Koper met afruk in zwavel. De stempel is gebroken en daarom in een geelkoperen rand gevat.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>5</dimension.value>
+        <dimension.type>
+          <value lang="">diameter</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>3.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 3873</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1093 3x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1878], supplement</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1878</year_of_publication>
+          <priref>2352</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 878</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door S. Muller Fz.. S. Muller Fz.</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication/>
+          <year_of_publication>1904</year_of_publication>
+          <year_of_publication>1904</year_of_publication>
+          <copy.number>R00387</copy.number>
+          <copy.number>R00775</copy.number>
+          <copy.number>R00776</copy.number>
+          <priref>2353</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-03-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-03-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-01-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-03-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-03-02</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-08-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-08-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <Exhibition>
+        <exhibition>
+          <title>Wunderwerk - G&#246;ttliche Ordnung und vermessene Welt</title>
+          <venue>
+            <value lang="">Di&#246;zesanmuseum Paderborn</value>
+          </venue>
+          <venue.place>
+            <value lang="">Paderborn</value>
+          </venue.place>
+          <venue.date.start>2003-09-14</venue.date.start>
+          <venue.date.end>2004-01-11</venue.date.end>
+          <object.object_number>1079/001</object.object_number>
+          <object.object_number>12705</object.object_number>
+          <priref>6877</priref>
+        </exhibition>
+        <exhibition.lref>6877</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>x</gepubliceerd>
+      <input.date>1993-12-02</input.date>
+      <Inscription>
+        <inscription.content>METALEN KRUIS AFDEELING UTRECHT</inscription.content>
+        <inscription.type>
+          <value lang="">omschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">rood metaal</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">geel metaal</value>
+        </material>
+      </Material>
+      <notes>Het Metalen Kruis was een vereniging van oud-strijders die hadden deelgenomen aan de strijd tegen de Belgen in 1830-1831.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">stempel</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">zegelstempel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1079/001</object_number>
+      <priref>8</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem</value>
+          </name>
+          <priref>20046</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <production.date.notes>midden 19de eeuw</production.date.notes>
+      <Production_date>
+        <production.date.end>1875</production.date.end>
+        <production.date.start>1831</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1079=001.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>103457</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-01-21</input.date>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1079=001.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>103457</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>rood metaal; geel metaal</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Zegelstempel Het Metalen Kruis</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">62.5032</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '8'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">156.2511</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

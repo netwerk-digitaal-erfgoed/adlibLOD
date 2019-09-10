@@ -1,0 +1,310 @@
+<adlibXML>
+  <recordList>
+    <record priref="28" created="2015-06-15T22:38:59" modification="2019-03-06T12:28:30" selected="False">
+      <acquisition.date>1918</acquisition.date>
+      <acquisition.method>
+        <value lang="">schenking</value>
+      </acquisition.method>
+      <Associated_period>
+        <association.period lang="">
+          <value lang="">Habsburgse tijd en Republiek 1528-1795</value>
+        </association.period>
+      </Associated_period>
+      <Associated_subject>
+        <association.subject.type>
+          <value lang="neutral">SUBJECT</value>
+          <value lang="0">subject</value>
+          <value lang="1">onderwerp</value>
+          <value lang="2">sujet</value>
+          <value lang="3">Thema</value>
+          <value lang="4">&#1605;&#1608;&#1590;&#1608;&#1593;</value>
+          <value lang="5">soggetto</value>
+          <value lang="6">&#952;&#941;&#956;&#945;</value>
+        </association.subject.type>
+        <association.subject>
+          <value lang="">provinciebestuur (Utrecht)</value>
+        </association.subject>
+        <association.subject.association>
+          <value lang="">provincie Utrecht</value>
+        </association.subject.association>
+      </Associated_subject>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">edele metalen</value>
+      </collection>
+      <collection>
+        <value lang="">stadsgeschiedenis</value>
+      </collection>
+      <Condition>
+        <condition lang="">
+          <value lang="">goed</value>
+        </condition>
+        <condition.notes lang=""/>
+      </Condition>
+      <content.motif.general>
+        <value lang="">Johannes de Doper</value>
+      </content.motif.general>
+      <content.motif.general>
+        <value lang="">wapen</value>
+      </content.motif.general>
+      <current_location.context>metaalcabine, kast 02, lade 4a</current_location.context>
+      <current_location.name>metaalcabine, kast 02, lade 4a</current_location.name>
+      <defaultlocation>
+        <location.default.name>metaalcabine, kast 02, lade 4a</location.default.name>
+        <location.default.context>metaalcabine, kast 02, lade 4a</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Ovaal zilveren stempel met afbeelding van mannelijk persoon op blote voeten en wapen in het midden. De man draagt het lam gods in een hand en een staf in de andere hand. Dubbele gegraveerde tekst rondom.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>8</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>6</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>181</dimension.value>
+        <dimension.type>
+          <value lang="">gewicht</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">gr</value>
+        </dimension.unit>
+      </Dimension>
+      <dimension.free>gehalte 840/000</dimension.free>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1373</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 1-1403]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <priref>2345</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 370, cat. nr. 188, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum Utrecht [edele metalen cat. nr. 1-250]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp; B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3650</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-03-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-03-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-10-05</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-03-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-11-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-08-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-04-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-02-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-02-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-05-30</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>2000-06-19</input.date>
+      <Inscription>
+        <inscription.content>D</inscription.content>
+        <inscription.description/>
+        <inscription.notes>D=1787</inscription.notes>
+        <inscription.position>
+          <value lang="">op handvat</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">jaarletter</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description>klaverblad in vierpas</inscription.description>
+        <inscription.position>
+          <value lang="">op handvat</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">meesterteken</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>SIG. FRED. WILH. D. G. NASSOU WEILBURG PRINC. HEREDIT. PRAEPOS. &amp; ARCH. ECCL.S. IOANN. TRAIECT. 1787</inscription.content>
+        <inscription.position>
+          <value lang="">op handvat</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">omschrift</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">zilver</value>
+        </material>
+      </Material>
+      <notes>Voorgesteld is Johannes de Doper met in de handen een kruis en een boek, waarop het Lam Gods, en daarvoor het gekroonde wapen van Nassau-Weilburg. De ovale zegelstempel, met opengezaagd scharnierend handvat, is gebruikt door de in het omschrift genoemde Prins van Nassau-Weilburg, de laatste titulaire proost van Sint Jan, hetgeen aan het einde van de achttiende eeuw inhield dat hij de beheerder was van de (land)goederen van het kapittel.</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">stempel</value>
+        </object_name>
+      </Object_name>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">zegelstempel</value>
+        </object_name>
+      </Object_name>
+      <object_number>1543</object_number>
+      <priref>28</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Anoniem Utrechts</value>
+          </name>
+          <priref>21825</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1787</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\edelemetalen\e188.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>1614</priref>
+          <input.date>2003-12-27</input.date>
+          <edit.date>2010-05-03</edit.date>
+          <edit.time>16:08:40</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires/>
+        <reproduction.reference.lref>1614</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction/>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1543.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>103561</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-01-21</input.date>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1543.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>103561</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>zilver</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Zegelstempel Frederik Willem van Nassau-Weilburg</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">46.8773</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '28'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">78.1272</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

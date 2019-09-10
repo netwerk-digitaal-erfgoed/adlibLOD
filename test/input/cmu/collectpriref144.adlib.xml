@@ -1,0 +1,307 @@
+<adlibXML>
+  <recordList>
+    <record priref="144" created="2015-06-15T22:38:59" modification="2018-08-21T14:53:24" selected="False">
+      <acquisition.date>1909</acquisition.date>
+      <acquisition.method>
+        <value lang="">aankoop</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">toegepaste kunst</value>
+      </collection>
+      <collection>
+        <value lang="">meubelen tot 1900</value>
+      </collection>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">het metaal is dofgeworden</value>
+        </condition.notes>
+        <condition>
+          <value lang="">goed</value>
+        </condition>
+      </Condition>
+      <Condition>
+        <condition.notes>
+          <value lang="en-GB" invariant="true">Staat 2005:
+Van de oorspronkelijke barometer ontbreekt bijna alles. Alleen de achterplaat is nog aanwezig met de schaalverdeling.</value>
+        </condition.notes>
+      </Condition>
+      <current_location.context>variadepot, kast 7, plank B</current_location.context>
+      <current_location.name>variadepot, kast 7, plank B</current_location.name>
+      <defaultlocation>
+        <location.default.name>variadepot, kast 7, plank B</location.default.name>
+        <location.default.context>variadepot, kast 7, plank B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Op een houten plaat met halfronde boven- en onderkant is aan de onderkant een metalen plaat in de vorm van een cartouche bevestigd. Op de rechterkant is een dubbele schaalverdeling gegraveerd van -18 tot 18 en van -28 tot 31. Daarnaast zijn de volgende termen aangebracht: Orcaan, hev. storm, storm, V.R. of Wd, Reg of Wind, Gd Weer, Mooy weer, vast weer, Hl schoon. Onderaan bevindt zich de inscriptie: J. St. P.
+Boven dit metalen plaatje is een langere metalen cartouchevormige plaat bevestigd. Onderaan bevindt zich de inscriptie: J. St. Pieter Fecit Utrecht. Aan de rechterkant is een schaalverdeling aangebracht van -16 tot 12 met ernaast de volgende termen: heel schoon, bestendig, mooy weer, goed weer, veranderlyk, regen of wind, veel rn of wind, storm. De plaat is decoratief gegraveerd met bladvoluten, bloemenranken en een ruitjes- en blokjespatroon aan de linkerkant. Bovenin de plaat zit een schroef met erboven een gat.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>112</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>65</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>1.5</dimension.value>
+        <dimension.type>
+          <value lang="">diepte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>p. 598, cat. nr. 3756</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Historisch Museum der stad [cat. nrs. 2891-4142]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Schuylenburg, W.C. [dr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W.C. Schuylenburg</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>2347</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 1921 1x</documentation.page_reference>
+        <documentation.title>
+          <title>Catalogus van het Museum van Oudheden [1904], supplement</title>
+          <lead_word/>
+          <priref>2354</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 937, cat. nr. 752</documentation.page_reference>
+        <documentation.title>
+          <title>Edele en onedele metalen. De verzamelingen van het Centraal Museum [onedele metalen cat. nr. 544-823]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bergh-Hoogterp, Louise E. van den</value>
+          </author.name>
+          <author.name>
+            <value lang="">Dubbe, B.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Louise E. van den Bergh-Hoogterp en B. Dubbe</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1997</year_of_publication>
+          <priref>3649</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 10</documentation.page_reference>
+        <documentation.title>
+          <title>200 Jaar antieke barometers 1670-1870</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Cotthem, Th.H. van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">door Th.H. van Cotthem</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Schiedam</value>
+          </place_of_publication>
+          <year_of_publication>1977</year_of_publication>
+          <copy.number>R01948</copy.number>
+          <priref>206</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 59</documentation.page_reference>
+        <documentation.title>
+          <title>Verslag over het voorgevallene in de gemeente-verzamelingen in 1909</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Ragay, David</value>
+          </author.name>
+          <author.name>
+            <value lang="">Muller Fz., Samuel [mr.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">aan Burgermeester en Wethouders aangeboden door de vaste Raadscommissie van bijstand in het toezicht op het oud-archief der Gemeente</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1910</year_of_publication>
+          <priref>17156</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2018-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-03-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-12-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-02-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-01-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-08-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-05-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-08-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-04-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-03-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-05-11</edit.date>
+      </Edit>
+      <gepubliceerd>1</gepubliceerd>
+      <input.date>1993-11-10</input.date>
+      <Inscription>
+        <inscription.content>J. St. Pieter Fecit Utrecht</inscription.content>
+        <inscription.position>
+          <value lang="">bovenzijde</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur</value>
+        </inscription.type>
+      </Inscription>
+      <Inscription>
+        <inscription.content>J. St. P.</inscription.content>
+        <inscription.position>
+          <value lang="">onderzijde</value>
+        </inscription.position>
+        <inscription.type>
+          <value lang="">signatuur</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Material>
+        <material lang="">
+          <value lang="">hout</value>
+        </material>
+      </Material>
+      <Material>
+        <material lang="">
+          <value lang="">wit metaal</value>
+        </material>
+      </Material>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">barometerschaal</value>
+        </object_name>
+      </Object_name>
+      <object_number>1659</object_number>
+      <physical_description>Op de houten plank zijn twee metalen plaatjes bevestigd.</physical_description>
+      <priref>144</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Sint Pieter, Johannes</value>
+          </name>
+          <birth.date.start>?</birth.date.start>
+          <death.date.start>?</death.date.start>
+          <priref>21856</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.end>1800</production.date.end>
+        <production.date.start>1750</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\inventarisnrs\H1659.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>103214</priref>
+          <rights>image copyright CMU</rights>
+          <input.date>2016-01-17</input.date>
+          <edit.date>2016-10-13</edit.date>
+          <edit.time>14:15:44</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Hmetaal\H1659.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>103214</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>hout; wit metaal</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="en-GB" invariant="true">Barometerschaal</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">77.1513</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '144'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">109.381</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>
