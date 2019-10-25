@@ -76,6 +76,6 @@
       <param name="database">movies</param>
     </cgistring>
     <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
-    <response_time unit="mS" culture="en-US">51</response_time>
+    <response_time unit="mS" culture="en-US">46</response_time>
   </diagnostic>
 </adlibXML>

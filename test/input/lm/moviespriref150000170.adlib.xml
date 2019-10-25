@@ -73,6 +73,6 @@ De familie maakt zich gereed voor het feest. Op paaszondag gaat het gezelschap n
       <param name="database">movies</param>
     </cgistring>
     <xml_creation_time unit="mS" culture="en-US">0</xml_creation_time>
-    <response_time unit="mS" culture="en-US">50</response_time>
+    <response_time unit="mS" culture="en-US">45</response_time>
   </diagnostic>
 </adlibXML>
