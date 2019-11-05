@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/1>
+    schema:about "onderwerp" ;
+    schema:description "Beschrijving: borstbeeld, driekwart frontaal naar links gewend, gekleed in het uniform der patriotten. Geplaatst in een lijst die tussen twee pilasters tegen een stenen muur is opgehangen; van boven bekroond met een guirlande, waaronder opschrift. Onderaan krijgstrofeeën met het familiewapen van Visscher, waaronder een vers." ;
+    schema:identifier "1022" ;
+    schema:material """
+          papier
+        """ ;
+    schema:name """
+          Portret van Cornelis Govert Visscher (1764-1787)
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Portret van Cornelis Govert Visscher (1764-1787)
+        """ .
+

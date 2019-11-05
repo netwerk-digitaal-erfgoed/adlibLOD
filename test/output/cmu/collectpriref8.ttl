@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/8>
+    schema:about "onderwerp" ;
+    schema:dateCreated "1875" ;
+    schema:description "Stempel van het zegel van de afdeling Utrecht van de Vereeniging Het Metalen Kruis, met voorstelling van een wapentrofee met het Metalen Kruis, met omschrift. Het Metalen Kruis is een Nederlandse onderscheiding en ereteken dat in 1831 werd toegekend aan degenen die aan de Tiendaagse Veldtocht hadden deelgenomen. Het stempel is gebroken en daarom in een rand gevat.Voorstellende een wapentrophee met het metalen Kruis; met boven- en onderschrift: METALEN KRUIS AFDEELING UTRECHT. Koper met afruk in zwavel. De stempel is gebroken en daarom in een geelkoperen rand gevat." ;
+    schema:identifier "1079/001" ;
+    schema:material """
+          rood metaal
+        """ ;
+    schema:name """
+          Zegelstempel Het Metalen Kruis
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Zegelstempel Het Metalen Kruis
+        """ .
+

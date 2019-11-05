@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/5>
+    schema:about "onderwerp" ;
+    schema:dateCreated "1793" ;
+    schema:description "Wapenbord met de 'NAMEN EN WAPENEN DER PRAESIDES DEZER STADS ORDINAR. MEDae. DOCTORES, Beginnende met den Jaare MDCCLXVI' (tot 1793). Met 28 ingekleurde wapens. In kleuren getekend op perkament in zwart houten lijst." ;
+    schema:identifier "1026" ;
+    schema:material """
+          perkament
+        """ ;
+    schema:name """
+          Wapenbord van het Chirurgijnsgilde
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Wapenbord van het Chirurgijnsgilde
+        """ .
+

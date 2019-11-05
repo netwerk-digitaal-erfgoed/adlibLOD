@@ -382,6 +382,9 @@
 
 <!-- ################ TEMPLATES ################ -->
 
+<!-- do not map diagnostics -->
+<xsl:template match="diagnostic"/>
+
 <!-- rdf:about -->
 <xsl:template name="attr-about">
     <xsl:param name="value"/>

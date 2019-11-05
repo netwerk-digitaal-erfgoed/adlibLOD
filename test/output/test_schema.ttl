@@ -8372,7 +8372,7 @@
     a schema:Class ;
     rdfs:label "concept" .
 
-<http://test.nl/ontology/culturele affiniteit>
+<http://test.nl/ontology/culturele\u0020affiniteit>
     schema:name "culturele affiniteit" ;
     a schema:Class ;
     rdfs:label "culturele affiniteit" .
