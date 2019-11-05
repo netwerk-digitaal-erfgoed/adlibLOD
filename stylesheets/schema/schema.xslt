@@ -5,8 +5,6 @@
 <!ENTITY dct "http://purl.org/dc/dcmitype/" >
 ]>
 
-
-
 <xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -40,7 +38,8 @@
           <xsl:with-param name="resource" select="true()"/>
         </xsl:call-template>
         
-        <!-- rdf:type detail --> 
+        <!-- rdf:type detail -->
+        <!-- NOTE IZ: deze dingen zijn niet per definitie een rdf:Class -->
         <xsl:if test="string(Object_name/object_name.lref)">
           <xsl:call-template name="type">
             <xsl:with-param name="value" select="concat($baseUri,'ontology/',Object_name/object_name.lref)"/>
@@ -53,7 +52,7 @@
             <xsl:with-param name="value" select="object_number"/>
         </xsl:call-template>
 
-        <!-- schema:name -->
+        <!-- schema:name NOTE IZ: schema:title?-->
         <xsl:if test="not(Title/title.type = 'former title') and string(Title/title)">
           <xsl:call-template name="name">
               <xsl:with-param name="value" select="Title/title"/>
@@ -140,6 +139,8 @@
           </xsl:call-template>
         </xsl:if>
         
+        <!-- NOTE IZ: Dimension? -->
+
         <!-- schema:related  -->
         <xsl:if test="string(Related_object/related_object.association.lref)">
           <xsl:call-template name="related">
@@ -210,6 +211,7 @@
         
         
     <!-- Organization schema:owner -->
+    <!-- NOTE IZ: misschien hebben ze het in bruikleen ... -->
     <xsl:if test="string(institution.name.lref)">
       <rdf:Description>
           <!-- URI -->
@@ -268,8 +270,7 @@
           <xsl:with-param name="value" select="'&schema;Class'"/>
           <xsl:with-param name="resource" select="true()"/>
         </xsl:call-template>
-        <!-- rdfs:
- --> 
+        <!-- rdfs: --> 
         <xsl:call-template name="subClassOf">
           <xsl:with-param name="value" select="Content_subject/content.subject.type/value[@lang='1']"/>
           <xsl:with-param name="resource" select="true()"/>
@@ -436,6 +437,7 @@
 
 
 <!-- schema:name / rdfs:label -->
+<!-- NOTE IZ: wat is het verschil tussen apply-templates select="$value" en value-of ? -->
 <xsl:template name="name">
     <xsl:param name="value"/>
     <schema:name>
