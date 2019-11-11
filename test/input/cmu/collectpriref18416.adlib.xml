@@ -1,0 +1,1800 @@
+<adlibXML>
+  <recordList>
+    <record priref="18416" created="2015-06-15T22:38:59" modification="2019-11-11T12:24:39" selected="False">
+      <acquisition.date>1980-01-30</acquisition.date>
+      <acquisition.method>
+        <value lang="">bruikleen Stichting Van Baaren Museum</value>
+      </acquisition.method>
+      <collection>
+        <value lang="">beeldende kunst 1850 - heden</value>
+      </collection>
+      <collection>
+        <value lang="">schilderkunst</value>
+      </collection>
+      <content.motif.general>
+        <value lang="">stilleven</value>
+      </content.motif.general>
+      <current_location.context>Ueno Royal Museum</current_location.context>
+      <current_location.name>Ueno Royal Museum</current_location.name>
+      <defaultlocation>
+        <location.default.name>schilderijendepot, rek 24 B</location.default.name>
+        <location.default.context>schilderijendepot, rek 24 B</location.default.context>
+      </defaultlocation>
+      <Description>
+        <description>Op een bruin tafelblad en voor een donkerbruine achtergrond staat een grijze aardewerken schaal vol peren. Rechts en links voor de schaal eveneens enkele peren.</description>
+      </Description>
+      <Dimension>
+        <dimension.value>33.5</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>43.5</dimension.value>
+        <dimension.type>
+          <value lang="">breedte</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>53</dimension.value>
+        <dimension.type>
+          <value lang="">hoogte met lijst</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Dimension>
+        <dimension.value>63</dimension.value>
+        <dimension.type>
+          <value lang="">breedte met lijst</value>
+        </dimension.type>
+        <dimension.unit>
+          <value lang="">cm</value>
+        </dimension.unit>
+      </Dimension>
+      <Documentation>
+        <documentation.page_reference>pp. 25-26</documentation.page_reference>
+        <documentation.title>
+          <title>Alles wat aesthetisch boeit : De collecties L.H. en J.F. van Baaren en D. Hannema</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Adrichem, Jan van</value>
+          </author.name>
+          <author.name>
+            <value lang="">Delissen, Nicole</value>
+          </author.name>
+          <author.name>
+            <value lang="">Martis, Adi</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">teksten Nicole Delissen ... [et al.]. eindred. Adi Martis en Jan van Adrichem</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Wijhe</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1993</year_of_publication>
+          <year_of_publication/>
+          <copy.number>93/416</copy.number>
+          <copy.number>93/417</copy.number>
+          <priref>592</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 15</documentation.page_reference>
+        <documentation.title>
+          <title>Collectie Van Baaren [1966]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Baart, A.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">samenst. A. Baart ... [et al.]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">[Gouda</value>
+          </place_of_publication>
+          <year_of_publication>1966]</year_of_publication>
+          <copy.number>R00119</copy.number>
+          <copy.number>r04906</copy.number>
+          <priref>2690</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 35</documentation.page_reference>
+        <documentation.title>
+          <title>Collectie Van Baaren [1976]</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1976</year_of_publication>
+          <copy.number>cc206</copy.number>
+          <copy.number>r00122</copy.number>
+          <copy.number>r03234</copy.number>
+          <copy.number>r04950</copy.number>
+          <priref>2691</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 72-75, met afb. in kleur; p. 250-251, cat. nr. 70, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>collectie Van Baaren</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Adrichem, Jan van</value>
+          </author.name>
+          <author.name>
+            <value lang="">Vergeest, Aukje</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">auteurs Aukje Vergeest ... [et al.]. red. Jan van Adrichem ... [et al.]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1995</year_of_publication>
+          <copy.number>95/343</copy.number>
+          <copy.number>95/344</copy.number>
+          <copy.number>CC322</copy.number>
+          <copy.number>CC323</copy.number>
+          <priref>3049</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 14, nr. 7</documentation.page_reference>
+        <documentation.title>
+          <title>Collectie Van Baaren : gids van het Museum Van Baaren</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Offerhaus, J.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">samenst. J. Offerhaus</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1967</year_of_publication>
+          <copy.number>R00118</copy.number>
+          <priref>2688</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 300-302, 415</documentation.page_reference>
+        <documentation.title>
+          <title>Hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890)</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Vanbeselaere, Walther</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">W. Vanbeselaere</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam/Antwerpen</value>
+          </place_of_publication>
+          <year_of_publication>1937</year_of_publication>
+          <priref>5733</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 287, cat. nr. 95; afb. in kleur op p. 183</documentation.page_reference>
+        <documentation.title>
+          <title>In dienst van de kunst : Antwerps mecenaat rond `Kunst van Heden` (1905-1959)</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Antwerpen</value>
+          </place_of_publication>
+          <year_of_publication>1991</year_of_publication>
+          <priref>6039</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 30 met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Masters of Utrecht : 17-19th Century Paintings from the Collection of Centraal Museum Utrecht</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Bosma, Marja</value>
+          </author.name>
+          <author.name>
+            <value lang="">Ex, Sjarel</value>
+          </author.name>
+          <author.name>
+            <value lang="">Meyere, Jos A.L. de [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">projectteam Sjarel Ex ... [et al.] ; authors Marja Bosma, Jos de Meyere</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Nagasaki</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1994</year_of_publication>
+          <year_of_publication>1994</year_of_publication>
+          <copy.number>94/254</copy.number>
+          <copy.number>CC534</copy.number>
+          <priref>8510</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 159, cat. nr. 135, afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>muze als motor I : beeldende kunst en de ontwikkeling van het moderne Brabant 1796-1940</title>
+          <lead_word>
+            <value lang="">De</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Mooij, Charles de</value>
+          </author.name>
+          <author.name>
+            <value lang="">Trappeniers, Maureen</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">samenst. Charles de Mooij en Maureen Trappeniers</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Den Bosch</value>
+          </place_of_publication>
+          <year_of_publication>1996</year_of_publication>
+          <copy.number>96/565</copy.number>
+          <priref>9213</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 17 afb.; p. 44 afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Na het vrijen de jackpot</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Franke, Herman</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">H. Franke</value>
+          </statement_of_responsibility>
+          <priref>200001329</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 204-205, cat. nr. 926, met afb. in kleur; p. 198</documentation.page_reference>
+        <documentation.title>
+          <title>new complete Van Gogh : paintings, drawings, sketches</title>
+          <lead_word>
+            <value lang="">The</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Hulsker, Jan</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Jan Hulsker</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Philadelphia</value>
+          </place_of_publication>
+          <year_of_publication>1996</year_of_publication>
+          <year_of_publication/>
+          <copy.number>97/350</copy.number>
+          <priref>9544</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>deel I: cat. nr. 105, p. 39; deel II: p. XXVIII, nr. 105 afb.</documentation.page_reference>
+        <documentation.title>
+          <title>L'oeuvre de Vincent van Gogh. Catalogue raisonn&#233;</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Baart de la Faille, J.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">J. Baart de la Faille</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Parijs</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Brussel</value>
+          </place_of_publication>
+          <year_of_publication>1928</year_of_publication>
+          <year_of_publication/>
+          <priref>9823</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>deel 1, p. 105: nr. 194, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>L'opera pittorica completa di Van Gogh e i suoi nesii grafici (twee delen)</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Lecaldano, P.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">P. Lecaldano</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Milaan</value>
+          </place_of_publication>
+          <year_of_publication>1966 (Franse editie 1972)</year_of_publication>
+          <priref>10049</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>afb. 6, p. 2</documentation.page_reference>
+        <documentation.title>
+          <title>Ruimte en perspectief</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Blotkamp-de Roos, V.F. (Hoos) [drs.]</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">[tekst Hoos Blotkamp]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1980</year_of_publication>
+          <copy.number>CC146</copy.number>
+          <copy.number>R03277</copy.number>
+          <copy.number>r2176</copy.number>
+          <priref>11498</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 15</documentation.page_reference>
+        <documentation.title>
+          <title>Schilderijen en tekeningen door Vincent van Gogh</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>1905</year_of_publication>
+          <priref>11675</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 15, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Tentoonstelling van schilderijen door Vincent van Gogh, J.B. Jongkind en Floris Verster</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>1932</year_of_publication>
+          <priref>12511</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>nr. 926, pp. 196, 204-205, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Van Gogh en zijn weg : Het complete werk</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Hulsker, Jan</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">J. Hulsker</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>1989 [herziene uitgave van editie uit 1977]</year_of_publication>
+          <priref>13341</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 234, cat. nr. 95, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Uitert, Evert van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">red. Evert van Uitert</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Zwolle</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Den Bosch</value>
+          </place_of_publication>
+          <year_of_publication>1987</year_of_publication>
+          <year_of_publication/>
+          <copy.number>R00098</copy.number>
+          <priref>13343</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 82, p. 208, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Van Gogh und die Haager Schule</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Dorn, Roland</value>
+          </author.name>
+          <author.name>
+            <value lang="">Schr&#246;der, Klaus Albrecht</value>
+          </author.name>
+          <author.name>
+            <value lang="">Sillevis, John</value>
+          </author.name>
+          <author.name>
+            <value lang="">Winklbauer, Andrea</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">hrsg. von Roland Dorn, Klaus Albrecht Schr&#246;der und John Sillevis. mit Beitr. von Roland Dorn, John Sillevis und Andrea Winklbauer</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Milano</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Wenen</value>
+          </place_of_publication>
+          <year_of_publication>1996</year_of_publication>
+          <year_of_publication/>
+          <copy.number>96/171</copy.number>
+          <priref>13354</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 9, met afb. nr. 5 in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Vierkante, kubieke en abstracte appels</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Uitert, Evert van</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Evert van Uitert</value>
+          </statement_of_responsibility>
+          <priref>200001857</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>deel 1, p. 123, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Vincent van Gogh : S&#228;mtliche Gem&#228;lde</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Metzger, Rainer</value>
+          </author.name>
+          <author.name>
+            <value lang="">Walter, Ingo F.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">I.F. Walter, R. Metzger</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Keulen</value>
+          </place_of_publication>
+          <year_of_publication>1989</year_of_publication>
+          <priref>13682</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 23</documentation.page_reference>
+        <documentation.title>
+          <title>Vincent van Gogh 1853-1890 : Quelques oeuvres de l'&#233;poque 1881-1886 provenant de collections particuli&#232;res n&#233;erlandaises</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>1956</year_of_publication>
+          <priref>13694</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 107: nr. 115, met afb.</documentation.page_reference>
+        <documentation.title>
+          <title>Vincent van Gogh [1939]</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Faille, J.B. de la</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">J.B. de la Faille</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Parijs</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Londen</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">New York</value>
+          </place_of_publication>
+          <year_of_publication>1939</year_of_publication>
+          <year_of_publication/>
+          <year_of_publication/>
+          <priref>13695</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 17, 35</documentation.page_reference>
+        <documentation.title>
+          <title>Vincent van Gogh en de keramiek</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Tralbaut, M.E.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">M.E. Tralbaut</value>
+          </statement_of_responsibility>
+          <priref>200001864</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>cat. nr. 7</documentation.page_reference>
+        <documentation.title>
+          <title>Vincent van Gogh (Utrecht)</title>
+          <lead_word/>
+          <place_of_publication>
+            <value lang="">Utrecht</value>
+          </place_of_publication>
+          <year_of_publication>1905</year_of_publication>
+          <priref>13702</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 79: nr. f 105, met afb.; p. 615</documentation.page_reference>
+        <documentation.title>
+          <title>Works of Vincent van Gogh : His Paintings and Drawings</title>
+          <lead_word>
+            <value lang="">The</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Faille, J.B. de la</value>
+          </author.name>
+          <author.name>
+            <value lang="">Hammacher, A.M.</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">J.B. de la Faille, A.M. Hammacher</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>1970</year_of_publication>
+          <copy.number>R06003</copy.number>
+          <priref>14350</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference/>
+        <documentation.title>
+          <title>fr&#252;he van Gogh und seine Zeitgenossen</title>
+          <lead_word>
+            <value lang="">Der</value>
+          </lead_word>
+          <author.name>
+            <value lang="">Meyere, drs. J.A.L. de</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">J.A.L. de Meyere</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Hannover</value>
+          </place_of_publication>
+          <year_of_publication>1990</year_of_publication>
+          <copy.number>D756</copy.number>
+          <priref>200002838</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>pp. 22-23, met afb. in kleur</documentation.page_reference>
+        <documentation.title>
+          <title>Aan tafel met Van Gogh</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Leeman, Fred</value>
+          </author.name>
+          <author.name>
+            <value lang="">Fagel, Paul</value>
+          </author.name>
+          <author.name>
+            <value lang="">Fagel, Marcel</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Fred Leeman, Paul &amp; Marcel Fagel</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">Amsterdam</value>
+          </place_of_publication>
+          <year_of_publication>2006</year_of_publication>
+          <copy.number>06/464</copy.number>
+          <priref>17537</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 123; p. 147, cat. nr. 41 afb in kleur; p. 231, cat. 41</documentation.page_reference>
+        <documentation.title>
+          <title>Augenschmaus : vom Essen im Stillleben</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Brugger, Ingried</value>
+          </author.name>
+          <author.name>
+            <value lang="">Eipeldauer, Heike</value>
+          </author.name>
+          <author.name>
+            <value lang="">Bendiner, Kenneth</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">hrsg. Ingried Brugger und Heike Eipeldauer ; mit Beitr. von Kenneth Bendiner ... [et al.]</value>
+          </statement_of_responsibility>
+          <place_of_publication>
+            <value lang="">M&#252;nchen</value>
+          </place_of_publication>
+          <place_of_publication>
+            <value lang="">Wien</value>
+          </place_of_publication>
+          <year_of_publication>2010</year_of_publication>
+          <year_of_publication/>
+          <copy.number>10/139</copy.number>
+          <priref>20721</priref>
+        </documentation.title>
+      </Documentation>
+      <Documentation>
+        <documentation.page_reference>p. 200, afb. in kleur en cat.nr. 101 op p. 341</documentation.page_reference>
+        <documentation.title>
+          <title>Van Gogh : Tra il grano e il cielo</title>
+          <lead_word/>
+          <author.name>
+            <value lang="">Goldin, Marco</value>
+          </author.name>
+          <statement_of_responsibility>
+            <value lang="">Marco Goldin</value>
+          </statement_of_responsibility>
+          <place_of_publication/>
+          <year_of_publication>2017</year_of_publication>
+          <copy.number>17/168</copy.number>
+          <priref>25017</priref>
+        </documentation.title>
+      </Documentation>
+      <Edit>
+        <edit.date>2019-11-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-09-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-09-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-07-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-07-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-04-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-04-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-04-11</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-02-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2019-01-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-12-06</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-11-19</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-06-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2018-03-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-10-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-09-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-09-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-14</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-08-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2017-02-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2016-09-29</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-11-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-07-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-02-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2015-01-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-10-13</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2014-01-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-09-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-08-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-07-17</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-04-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2013-02-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2012-03-26</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2011-05-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-07-09</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-06-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-06-16</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-02-25</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-02-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-02-22</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2010-02-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-09-08</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2009-07-27</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-11-24</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-07-23</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2008-01-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-12-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-08-30</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2007-06-18</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2006-10-10</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-12-28</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-11-21</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-08-31</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-07-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-06-03</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-03-20</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2005-01-12</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-10-04</edit.date>
+      </Edit>
+      <Edit>
+        <edit.date>2004-08-06</edit.date>
+      </Edit>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Van Gogh. The Formative Years</title>
+          <venue>
+            <value lang="">Basilica Palladiana</value>
+          </venue>
+          <venue.place>
+            <value lang="">Vicenza</value>
+          </venue.place>
+          <venue.date.start>2017-10-07</venue.date.start>
+          <venue.date.end>2018-04-08</venue.date.end>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <priref>15938</priref>
+        </exhibition>
+        <exhibition.lref>15938</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Rondom de pastorie</title>
+          <venue>
+            <value lang="">Noordbrabantsmuseum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Den Bosch</value>
+          </venue.place>
+          <venue.date.start>2015-10-10</venue.date.start>
+          <venue.date.end>2015-12-20</venue.date.end>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21828</object.object_number>
+          <priref>15559</priref>
+        </exhibition>
+        <exhibition.lref>15559</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Augenschmaus. Vom Essen im Stilleben</title>
+          <venue>
+            <value lang="">Kunstforum der Bank Austria</value>
+          </venue>
+          <venue.place>
+            <value lang="">Wenen</value>
+          </venue.place>
+          <venue.date.start>2010-02-10</venue.date.start>
+          <venue.date.end>2010-05-30</venue.date.end>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21828</object.object_number>
+          <priref>13703</priref>
+        </exhibition>
+        <exhibition.lref>13703</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>De Haagse School en de jonge Van Gogh</title>
+          <venue>
+            <value lang="">Gemeentemuseum Den Haag</value>
+          </venue>
+          <venue.place>
+            <value lang="">Den Haag</value>
+          </venue.place>
+          <venue.date.start>2005-02-05</venue.date.start>
+          <venue.date.end>2005-05-16</venue.date.end>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>22116</object.object_number>
+          <priref>10711</priref>
+        </exhibition>
+        <exhibition.lref>10711</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Revisor</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>2003-01-31</venue.date.start>
+          <venue.date.end>2003-06-01</venue.date.end>
+          <notes>In het voorjaar van 2003 stond het Centraal Museum in het teken van 'De Verleiding'. Het literaire tijdschrift Revisor bracht een themanummer uit over verleiding. Twintig Nederlandse auteurs en dichters schreven een lofzang op een werk uit de collectie van het Centraal Museum.</notes>
+          <nummer_cm>T200304</nummer_cm>
+          <object.object_number>2339</object.object_number>
+          <object.object_number>6570</object.object_number>
+          <object.object_number>8235</object.object_number>
+          <object.object_number>10004</object.object_number>
+          <object.object_number>10390</object.object_number>
+          <object.object_number>10576</object.object_number>
+          <object.object_number>10786</object.object_number>
+          <object.object_number>12219</object.object_number>
+          <object.object_number>12432 a</object.object_number>
+          <object.object_number>13207</object.object_number>
+          <object.object_number>13570</object.object_number>
+          <object.object_number>14547</object.object_number>
+          <object.object_number>14800</object.object_number>
+          <object.object_number>16473</object.object_number>
+          <object.object_number>16708/001-002</object.object_number>
+          <object.object_number>16916</object.object_number>
+          <object.object_number>17623</object.object_number>
+          <object.object_number>20086</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21799</object.object_number>
+          <object.object_number>21836</object.object_number>
+          <object.object_number>21857</object.object_number>
+          <object.object_number>21976</object.object_number>
+          <object.object_number>22034 en a</object.object_number>
+          <object.object_number>22054</object.object_number>
+          <object.object_number>22092</object.object_number>
+          <object.object_number>22113</object.object_number>
+          <object.object_number>22129</object.object_number>
+          <object.object_number>22147</object.object_number>
+          <object.object_number>22168</object.object_number>
+          <object.object_number>23041</object.object_number>
+          <object.object_number>26358</object.object_number>
+          <object.object_number>26603</object.object_number>
+          <object.object_number>26824</object.object_number>
+          <object.object_number>26939</object.object_number>
+          <object.object_number>27245/001-006</object.object_number>
+          <object.object_number>27393</object.object_number>
+          <object.object_number>28662/001-008</object.object_number>
+          <object.object_number>16708/001</object.object_number>
+          <object.object_number>16708/002</object.object_number>
+          <priref>8935</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200304_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T200304_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8935</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>XXIV Bienal de S&#227;o Paulo</title>
+          <venue>
+            <value lang="">Bi&#235;nnale, S&#227;o Paulo</value>
+          </venue>
+          <venue.place>
+            <value lang="">S&#227;o Paulo</value>
+          </venue.place>
+          <venue.date.start>1998-10-02</venue.date.start>
+          <venue.date.end>1998-12-13</venue.date.end>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <priref>7835</priref>
+        </exhibition>
+        <exhibition.lref>7835</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>De Muze als Motor. Beeldende kunst en de ontwikkeling van het moderne Brabant I 1796-1940</title>
+          <venue>
+            <value lang="">Noordbrabants Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Den Bosch</value>
+          </venue.place>
+          <venue.date.start>1996-09-14</venue.date.start>
+          <venue.date.end>1996-12-02</venue.date.end>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <priref>2861</priref>
+        </exhibition>
+        <exhibition.lref>2861</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Van Gogh und die Haager Schule</title>
+          <venue>
+            <value lang="">Kunstforum der Bank Austria</value>
+          </venue>
+          <venue.place>
+            <value lang="">Wenen</value>
+          </venue.place>
+          <venue.date.start>1996-02-28</venue.date.start>
+          <venue.date.end>1996-05-27</venue.date.end>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <priref>9729</priref>
+        </exhibition>
+        <exhibition.lref>9729</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Alles wat aesthetisch boeit</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1993-09-18</venue.date.start>
+          <venue.date.end>1993-11-07</venue.date.end>
+          <notes>De Utrechtse zus en broer Josephina (1890-1959) en Lambertus (1888-1964) van Baaren verzamelden tussen 1925 en 1964 19de- en 20ste-eeuwse schilderijen, tekeningen, beelden, Japanse prenten en zilver. Hun verzameling groeide uit tot een kunstcollectie van nationale betekenis. Na hun dood werd hun voormalig woonhuis aan de Oudegracht ingericht als Van Baaren Museum. Uiteindelijk is de collectie in 1980 als langdurig bruikleen in het Centraal Museum ondergebracht.</notes>
+          <notes>Een deel van de verzameling werd in 1993 in het Centraal Museum ge&#235;xposeerd, tezamen met werken uit een andere belangrijke priv&#233;collectie, namelijk die van Dirk Hannema (1895-1984), de omstreden oud-directeur van het museum Boymans. De collecties spiegelden zich aan elkaar en toonden zo de gevestigde Nederlandse smaak ten tijde van het ontstaan. Deze was nauw verbonden aan de idee&#235;n en voorkeuren van de invloedrijke kunstpedagoog H.P. Bremmer (1871-1956).</notes>
+          <notes>Naast schilderijen werden er tekeningen en sculpturen getoond, zowel uit de late negentiende eeuw als de uit de eerste helft van de twintigste eeuw, van de hand van onder meer Theo van Rijsselberghe, Charley Toorop, Vincent van Gogh, Paul Signac, John R&#228;decker, Giorgio de Chirico en Johannes Bosboom.</notes>
+          <notes>Bij de tentoonstelling, die eerder te zien was in het door Hannema gestichte museum te Heino, verscheen een catalogus, samengesteld door studenten van de Universiteit Utrecht onder begeleiding van Adi Martis en Jan van Adrichem.</notes>
+          <nummer_cm>T199317</nummer_cm>
+          <object.object_number>21775</object.object_number>
+          <object.object_number>21780</object.object_number>
+          <object.object_number>21783</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21785</object.object_number>
+          <object.object_number>21786</object.object_number>
+          <object.object_number>21791</object.object_number>
+          <object.object_number>21792</object.object_number>
+          <object.object_number>21803</object.object_number>
+          <object.object_number>21810</object.object_number>
+          <object.object_number>21849</object.object_number>
+          <object.object_number>21941</object.object_number>
+          <object.object_number>21943</object.object_number>
+          <object.object_number>21950</object.object_number>
+          <object.object_number>21992</object.object_number>
+          <object.object_number>21996</object.object_number>
+          <object.object_number>21998</object.object_number>
+          <object.object_number>21999</object.object_number>
+          <object.object_number>22001</object.object_number>
+          <object.object_number>22005</object.object_number>
+          <object.object_number>22008</object.object_number>
+          <object.object_number>22013</object.object_number>
+          <object.object_number>22034 en a</object.object_number>
+          <object.object_number>22035</object.object_number>
+          <object.object_number>22039</object.object_number>
+          <object.object_number>22042</object.object_number>
+          <object.object_number>22049</object.object_number>
+          <object.object_number>22062</object.object_number>
+          <object.object_number>22064</object.object_number>
+          <object.object_number>22066</object.object_number>
+          <object.object_number>22068</object.object_number>
+          <object.object_number>22070</object.object_number>
+          <object.object_number>22073</object.object_number>
+          <object.object_number>22075</object.object_number>
+          <object.object_number>22108</object.object_number>
+          <object.object_number>22109</object.object_number>
+          <object.object_number>22111</object.object_number>
+          <object.object_number>22116</object.object_number>
+          <object.object_number>22117</object.object_number>
+          <object.object_number>22118</object.object_number>
+          <object.object_number>22119</object.object_number>
+          <object.object_number>22122</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <object.object_number>22124</object.object_number>
+          <object.object_number>22129</object.object_number>
+          <object.object_number>22130</object.object_number>
+          <object.object_number>22133</object.object_number>
+          <object.object_number>22134</object.object_number>
+          <object.object_number>22135</object.object_number>
+          <object.object_number>22136</object.object_number>
+          <object.object_number>22138</object.object_number>
+          <object.object_number>22139</object.object_number>
+          <object.object_number>22142</object.object_number>
+          <object.object_number>22145</object.object_number>
+          <object.object_number>22146</object.object_number>
+          <object.object_number>22147</object.object_number>
+          <object.object_number>22148</object.object_number>
+          <object.object_number>22150</object.object_number>
+          <object.object_number>22152</object.object_number>
+          <object.object_number>22154</object.object_number>
+          <object.object_number>22164</object.object_number>
+          <object.object_number>22170</object.object_number>
+          <object.object_number>22174</object.object_number>
+          <object.object_number>22178</object.object_number>
+          <priref>8828</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T199317_D_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8828</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Selectie uit de collectie van Baaren</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1992-06-20</venue.date.start>
+          <venue.date.end>1992-08-15</venue.date.end>
+          <notes>De Van Baaren collectie is een particuliere collectie, aangelegd door Lambertus Hendrikus van Baaren (1888-1964) en zijn zuster Josephina Francisca (1890-1959). Ze bestaat hoofdzakelijk uit werk van Nederlandse en Franse schilders uit de periode 1850-1920. De collectie is in 1980 door de Van Baaren Stichting aan het Centraal Museum in langdurige bruikleen gegeven.</notes>
+          <notes>Een selectie uit de meer dan 300 werken was van 20 juni tot en met 15 augustus 1992 te bezichtigen in het Centraal Museum.</notes>
+          <nummer_cm>T199209</nummer_cm>
+          <object.object_number>21781</object.object_number>
+          <object.object_number>21783</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21786</object.object_number>
+          <object.object_number>21800</object.object_number>
+          <object.object_number>21803</object.object_number>
+          <object.object_number>21815</object.object_number>
+          <object.object_number>21818</object.object_number>
+          <object.object_number>21820</object.object_number>
+          <object.object_number>21823</object.object_number>
+          <object.object_number>21829</object.object_number>
+          <object.object_number>21834</object.object_number>
+          <object.object_number>21941</object.object_number>
+          <object.object_number>21949</object.object_number>
+          <object.object_number>21951</object.object_number>
+          <object.object_number>21955</object.object_number>
+          <object.object_number>21961</object.object_number>
+          <object.object_number>21989</object.object_number>
+          <object.object_number>21990</object.object_number>
+          <object.object_number>22018</object.object_number>
+          <object.object_number>22048</object.object_number>
+          <object.object_number>22052</object.object_number>
+          <object.object_number>22053</object.object_number>
+          <object.object_number>22064</object.object_number>
+          <object.object_number>22067</object.object_number>
+          <object.object_number>22112</object.object_number>
+          <object.object_number>22124</object.object_number>
+          <object.object_number>22128</object.object_number>
+          <object.object_number>22129</object.object_number>
+          <object.object_number>22133</object.object_number>
+          <priref>8808</priref>
+        </exhibition>
+        <exhibition.lref>8808</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>In dienst van de kunst. Antwerps mecenaat rond "Kunst van Heden" (1905-1959). Retrospectieve tentoonstelling</title>
+          <venue>
+            <value lang="">Koninklijk Museum voor Schone Kunsten, Antwerpen</value>
+          </venue>
+          <venue.place>
+            <value lang="">Antwerpen</value>
+          </venue.place>
+          <venue.date.start>1991-02-17</venue.date.start>
+          <venue.date.end>1991-04-21</venue.date.end>
+          <object.object_number>21784</object.object_number>
+          <priref>1446</priref>
+        </exhibition>
+        <exhibition.lref>1446</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Van Gogh in Brabant</title>
+          <venue>
+            <value lang="">Noordbrabants Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Den Bosch</value>
+          </venue.place>
+          <venue.date.start>1987-11-03</venue.date.start>
+          <venue.date.end>1988-01-10</venue.date.end>
+          <object.object_number>13968</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <priref>2849</priref>
+        </exhibition>
+        <exhibition.lref>2849</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Niederl&#228;ndische Stilleben - von Breugel bis van Gogh</title>
+          <venue>
+            <value lang="">Herzog Anton Ulrich-Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Braunschweig</value>
+          </venue.place>
+          <venue.date.start>1983-06-16</venue.date.start>
+          <venue.date.end>1983-07-31</venue.date.end>
+          <object.object_number>2262</object.object_number>
+          <object.object_number>10073</object.object_number>
+          <object.object_number>14547</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <priref>2294</priref>
+        </exhibition>
+        <exhibition.lref>2294</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>De vrucht van het verleden</title>
+          <venue>
+            <value lang="">Kunsthandel P. de Boer</value>
+          </venue>
+          <venue.place>
+            <value lang="">Amsterdam</value>
+          </venue.place>
+          <venue.date.start>1983-04-22</venue.date.start>
+          <venue.date.end>1983-05-31</venue.date.end>
+          <object.object_number>2262</object.object_number>
+          <object.object_number>10073</object.object_number>
+          <object.object_number>14547</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <priref>688</priref>
+        </exhibition>
+        <exhibition.lref>688</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Collectie Van Baaren</title>
+          <venue>
+            <value lang="">Centraal Museum</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1976-05-20</venue.date.start>
+          <venue.date.end>1976-09-15</venue.date.end>
+          <notes>Lambertus Hendrikus van Baaren (1888-1964) was aannemer, later vooral makelaar en taxateur. Hij vergaarde zijn fortuin door de aankoop van onroerende goederen. Samen met zijn zus Josephina Francisca (1890-1959) bewoonde hij het pand 'De drie regenbogen' aan de Oude Gracht 317 in Utrecht. In het begin van de jaren 30 begonnen broer en zus, die beiden ongehuwd zijn gebleven, met het aanleggen van een verzameling van kunstvoorwerpen: schilderijen, porselein, zilver en enkele meubelen. Zij kochten voornamelijk Franse schilderkunst uit de periode 1850-1950 en Nederlandse schilder- en beeldhouwkunst uit dezelfde tijd. De collectie weerspiegelt de gevestigde Nederlandse smaak van de tijd waarin ze ontstond. Pas toen broer en zus in de jaren &#8217;50 besloten dat de collectie na hun overlijden bijeen moest blijven, voerden ze een inhaalslag uit om moderner werk toe te voegen.</notes>
+          <notes>Na het overlijden van Lambertus werd het woonhuis aan de Oude Gracht verbouwd tot het Museum Van Baaren, waarbij de oude sfeer zoveel mogelijk werd gehandhaafd. In januari 1966 werd het museum voor het publiek opengesteld.</notes>
+          <notes>Van 20 mei tot en met 15 september 1976 waren in het Centraal Museum 150 schilderijen en tekeningen uit de collectie te bezichtigen, dit naar aanleiding van het voornemen om de hele collectie als bruikleen onder te brengen in het Centraal Museum. Dat gebeurde uiteindelijk in 1980.</notes>
+          <nummer_cm>T197606</nummer_cm>
+          <object.object_number>21776</object.object_number>
+          <object.object_number>21778</object.object_number>
+          <object.object_number>21780</object.object_number>
+          <object.object_number>21781</object.object_number>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21785</object.object_number>
+          <object.object_number>21786</object.object_number>
+          <object.object_number>21789</object.object_number>
+          <object.object_number>21791</object.object_number>
+          <object.object_number>21792</object.object_number>
+          <object.object_number>21793</object.object_number>
+          <object.object_number>21795</object.object_number>
+          <object.object_number>21797</object.object_number>
+          <object.object_number>21802</object.object_number>
+          <object.object_number>21803</object.object_number>
+          <object.object_number>21804</object.object_number>
+          <object.object_number>21805</object.object_number>
+          <object.object_number>21807</object.object_number>
+          <object.object_number>21814</object.object_number>
+          <object.object_number>21815</object.object_number>
+          <object.object_number>21817</object.object_number>
+          <object.object_number>21818</object.object_number>
+          <object.object_number>21820</object.object_number>
+          <object.object_number>21821</object.object_number>
+          <object.object_number>21822</object.object_number>
+          <object.object_number>21823</object.object_number>
+          <object.object_number>21824</object.object_number>
+          <object.object_number>21829</object.object_number>
+          <object.object_number>21830</object.object_number>
+          <object.object_number>21832</object.object_number>
+          <object.object_number>21834</object.object_number>
+          <object.object_number>21843</object.object_number>
+          <object.object_number>21844</object.object_number>
+          <object.object_number>21845</object.object_number>
+          <object.object_number>21846</object.object_number>
+          <object.object_number>21851</object.object_number>
+          <object.object_number>21932</object.object_number>
+          <object.object_number>21933</object.object_number>
+          <object.object_number>21943</object.object_number>
+          <object.object_number>21947</object.object_number>
+          <object.object_number>21949</object.object_number>
+          <object.object_number>21951</object.object_number>
+          <object.object_number>21952</object.object_number>
+          <object.object_number>21956</object.object_number>
+          <object.object_number>21958</object.object_number>
+          <object.object_number>21961</object.object_number>
+          <object.object_number>21967</object.object_number>
+          <object.object_number>21968</object.object_number>
+          <object.object_number>21971</object.object_number>
+          <object.object_number>21977</object.object_number>
+          <object.object_number>21979</object.object_number>
+          <object.object_number>21989</object.object_number>
+          <object.object_number>21991</object.object_number>
+          <object.object_number>21992</object.object_number>
+          <object.object_number>21993</object.object_number>
+          <object.object_number>21994</object.object_number>
+          <object.object_number>21995</object.object_number>
+          <object.object_number>21996</object.object_number>
+          <object.object_number>21998</object.object_number>
+          <object.object_number>21999</object.object_number>
+          <object.object_number>22001</object.object_number>
+          <object.object_number>22004</object.object_number>
+          <object.object_number>22005</object.object_number>
+          <object.object_number>22006</object.object_number>
+          <object.object_number>22008</object.object_number>
+          <object.object_number>22011</object.object_number>
+          <object.object_number>22012</object.object_number>
+          <object.object_number>22015</object.object_number>
+          <object.object_number>22017</object.object_number>
+          <object.object_number>22022</object.object_number>
+          <object.object_number>22024</object.object_number>
+          <object.object_number>22025</object.object_number>
+          <object.object_number>22029</object.object_number>
+          <object.object_number>22030</object.object_number>
+          <object.object_number>22032</object.object_number>
+          <object.object_number>22034 en a</object.object_number>
+          <object.object_number>22035</object.object_number>
+          <object.object_number>22036</object.object_number>
+          <object.object_number>22037</object.object_number>
+          <object.object_number>22042</object.object_number>
+          <object.object_number>22043</object.object_number>
+          <object.object_number>22044</object.object_number>
+          <object.object_number>22045</object.object_number>
+          <object.object_number>22049</object.object_number>
+          <object.object_number>22052</object.object_number>
+          <object.object_number>22054</object.object_number>
+          <object.object_number>22061</object.object_number>
+          <object.object_number>22062</object.object_number>
+          <object.object_number>22063</object.object_number>
+          <object.object_number>22064</object.object_number>
+          <object.object_number>22065</object.object_number>
+          <object.object_number>22066</object.object_number>
+          <object.object_number>22067</object.object_number>
+          <object.object_number>22068</object.object_number>
+          <object.object_number>22071</object.object_number>
+          <object.object_number>22072</object.object_number>
+          <object.object_number>22073</object.object_number>
+          <object.object_number>22075</object.object_number>
+          <object.object_number>22076</object.object_number>
+          <object.object_number>22078</object.object_number>
+          <object.object_number>22079</object.object_number>
+          <object.object_number>22080</object.object_number>
+          <object.object_number>22083</object.object_number>
+          <object.object_number>22084</object.object_number>
+          <object.object_number>22102</object.object_number>
+          <object.object_number>22108</object.object_number>
+          <object.object_number>22109</object.object_number>
+          <object.object_number>22111</object.object_number>
+          <object.object_number>22112</object.object_number>
+          <object.object_number>22113</object.object_number>
+          <object.object_number>22115</object.object_number>
+          <object.object_number>22116</object.object_number>
+          <object.object_number>22117</object.object_number>
+          <object.object_number>22118</object.object_number>
+          <object.object_number>22119</object.object_number>
+          <object.object_number>22120</object.object_number>
+          <object.object_number>22121</object.object_number>
+          <object.object_number>22122</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <object.object_number>22124</object.object_number>
+          <object.object_number>22125</object.object_number>
+          <object.object_number>22126</object.object_number>
+          <object.object_number>22127</object.object_number>
+          <object.object_number>22128</object.object_number>
+          <object.object_number>22129</object.object_number>
+          <object.object_number>22130</object.object_number>
+          <object.object_number>22131</object.object_number>
+          <object.object_number>22132</object.object_number>
+          <object.object_number>22133</object.object_number>
+          <object.object_number>22134</object.object_number>
+          <object.object_number>22135</object.object_number>
+          <object.object_number>22136</object.object_number>
+          <object.object_number>22137</object.object_number>
+          <object.object_number>22138</object.object_number>
+          <object.object_number>22139</object.object_number>
+          <object.object_number>22140</object.object_number>
+          <object.object_number>22141</object.object_number>
+          <object.object_number>22142</object.object_number>
+          <object.object_number>22143</object.object_number>
+          <object.object_number>22144</object.object_number>
+          <object.object_number>22145</object.object_number>
+          <object.object_number>22146</object.object_number>
+          <object.object_number>22147</object.object_number>
+          <priref>8619</priref>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_D_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_D_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_001.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_002.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_003.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_004.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_005.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_006.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+          <reproduction.reference>
+            <reference_number>\tentoonstellingen\T197606_F_007.jpg</reference_number>
+            <record_access.user>cmuiisef</record_access.user>
+            <record_access.user>cmuiisfabrique</record_access.user>
+            <record_access.user>cmuiisoai</record_access.user>
+            <record_access.user>cmuiisopendata</record_access.user>
+            <record_access.user>CMUUsers</record_access.user>
+          </reproduction.reference>
+        </exhibition>
+        <exhibition.lref>8619</exhibition.lref>
+      </Exhibition>
+      <Exhibition/>
+      <Exhibition>
+        <exhibition>
+          <title>Vincent van Gogh 1853-1890. Quelques oeuvres de l'&#233;poque 1881-1886 provenant de collections particuli&#232;res n&#233;erlandaises</title>
+          <venue>
+            <value lang="">Kunsthandel E.J. van Wisselingh &amp; Co</value>
+          </venue>
+          <venue.place>
+            <value lang="">Amsterdam</value>
+          </venue.place>
+          <venue.date.start>1956-02-20</venue.date.start>
+          <venue.date.end>1956-03-17</venue.date.end>
+          <object.object_number>21782</object.object_number>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21785</object.object_number>
+          <object.object_number>21790</object.object_number>
+          <object.object_number>21828</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <priref>618</priref>
+        </exhibition>
+        <exhibition.lref>618</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Schilderijen door Vincent van Gogh, J.B. Jongkind en Floris Verster</title>
+          <venue>
+            <value lang="">Kunsthandel Huinck &amp; Scherjon</value>
+          </venue>
+          <venue.place>
+            <value lang="">Amsterdam</value>
+          </venue.place>
+          <venue.date.start>1932-05-14</venue.date.start>
+          <venue.date.end>1932-06-18</venue.date.end>
+          <object.object_number>21784</object.object_number>
+          <object.object_number>21790</object.object_number>
+          <object.object_number>22048</object.object_number>
+          <object.object_number>22117</object.object_number>
+          <object.object_number>22123</object.object_number>
+          <priref>630</priref>
+        </exhibition>
+        <exhibition.lref>630</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Vincent van Gogh</title>
+          <venue>
+            <value lang="">Vereeniging Voor de Kunst</value>
+          </venue>
+          <venue.place>
+            <value lang="">Utrecht</value>
+          </venue.place>
+          <venue.date.start>1905-09-10</venue.date.start>
+          <venue.date.end>1905-10-01</venue.date.end>
+          <object.object_number>21784</object.object_number>
+          <priref>9414</priref>
+        </exhibition>
+        <exhibition.lref>9414</exhibition.lref>
+      </Exhibition>
+      <Exhibition>
+        <exhibition>
+          <title>Schilderijen en tekeningen door Vincent van Gogh</title>
+          <venue>
+            <value lang="">Stedelijk Museum, Amsterdam</value>
+          </venue>
+          <venue.place>
+            <value lang="">Amsterdam</value>
+          </venue.place>
+          <venue.date.start>1905-05-07</venue.date.start>
+          <venue.date.end>1905-05-08</venue.date.end>
+          <object.object_number>21784</object.object_number>
+          <priref>1127</priref>
+        </exhibition>
+        <exhibition.lref>1127</exhibition.lref>
+      </Exhibition>
+      <gepubliceerd>*</gepubliceerd>
+      <Highres>x</Highres>
+      <input.date>1993-02-22</input.date>
+      <Inscription>
+        <inscription.content/>
+        <inscription.description/>
+        <inscription.method/>
+        <inscription.notes/>
+        <inscription.position lang=""/>
+        <inscription.type lang="">
+          <value lang="">niet gesign., niet gedat.</value>
+        </inscription.type>
+      </Inscription>
+      <institution.name>
+        <value lang="">Centraal Museum</value>
+      </institution.name>
+      <Label>
+        <label.text>Dit werk behoort tot een reeks stillevens die Van Gogh in de herfst van 1885 in Nuenen schilderde. Hij schreef zijn broer Theo dat het schilderen van stillevens zeer nuttig was om het modelleren door middel van kleurtonaliteiten te leren.</label.text>
+        <label.type>Publiekstekst NL</label.type>
+      </Label>
+      <Material>
+        <material lang="">
+          <value lang="">doek</value>
+        </material>
+      </Material>
+      <notes>Voor 1995 (coll. cat. Van Baaren) getiteld: Nature morte poires (schaal met peren)</notes>
+      <Object_name>
+        <object_name lang="">
+          <value lang="">schilderij</value>
+        </object_name>
+      </Object_name>
+      <object_number>21784</object_number>
+      <owner_hist.date.start>1905</owner_hist.date.start>
+      <owner_hist.date.start>?</owner_hist.date.start>
+      <owner_hist.date.start>1937, voor</owner_hist.date.start>
+      <owner_hist.date.start>1955</owner_hist.date.start>
+      <owner_hist.owner>
+        <value lang="">Bremmer, H.P. [dr.]</value>
+      </owner_hist.owner>
+      <owner_hist.owner>
+        <value lang="">Gogh-Bonger, Jo van</value>
+      </owner_hist.owner>
+      <owner_hist.owner>
+        <value lang="">Beer Poortugael, jhr. Anton Willem den</value>
+      </owner_hist.owner>
+      <owner_hist.owner>
+        <value lang="">Baaren, L.H. en J.F. van</value>
+      </owner_hist.owner>
+      <priref>18416</priref>
+      <Production>
+        <creator lang="">
+          <name>
+            <value lang="">Gogh, Vincent van</value>
+          </name>
+          <birth.date.start>1853-03-30</birth.date.start>
+          <birth.place>
+            <value lang="">Groot Zundert</value>
+          </birth.place>
+          <death.date.start>1890-07-29</death.date.start>
+          <death.place>
+            <value lang="">Auvers sur Oise</value>
+          </death.place>
+          <url> https://rkd.nl/explore/artists/32439</url>
+          <priref>686</priref>
+        </creator>
+        <creator.qualifier/>
+        <creator.role lang=""/>
+        <production.place lang=""/>
+      </Production>
+      <Production_date>
+        <production.date.start>1885</production.date.start>
+      </Production_date>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X21784_01.jpg</reference_number>
+          <record_access.user>cmuiisef</record_access.user>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48531</priref>
+          <rights>Collectie Centraal Museum, Utrecht, bruikleen Stichting Van Baaren Museum</rights>
+          <rights>Image copyright CMU</rights>
+          <reference_number_hires>OBJECTEN\Xbestanden\gecropt\X21784_01.tif</reference_number_hires>
+          <edit.date>2014-10-21</edit.date>
+          <edit.time>15:30:05</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X21784_01.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48531</reproduction.reference.lref>
+      </Reproduction>
+      <Reproduction>
+        <reproduction.reference>
+          <reference_number>\NIEUW\X21784_02.jpg</reference_number>
+          <record_access.user>cmuiisfabrique</record_access.user>
+          <record_access.user>cmuiisoai</record_access.user>
+          <record_access.user>cmuiisopendata</record_access.user>
+          <record_access.user>CMUUsers</record_access.user>
+          <priref>48532</priref>
+          <rights>Collectie Centraal Museum, Utrecht, bruikleen Stichting Van Baaren Museum</rights>
+          <rights>Image copyright CMU</rights>
+          <reference_number_hires>OBJECTEN\Xbestanden\gecropt\X21784_02.tif</reference_number_hires>
+          <edit.date>2018-10-02</edit.date>
+          <edit.date>2014-10-21</edit.date>
+          <edit.date>2014-04-11</edit.date>
+          <edit.date>2014-04-11</edit.date>
+          <edit.date>2013-08-08</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2013-02-19</edit.date>
+          <edit.date>2012-03-26</edit.date>
+          <edit.date>2011-10-10</edit.date>
+          <edit.date>2011-10-10</edit.date>
+          <edit.time>10:25:22</edit.time>
+          <edit.time>15:30:05</edit.time>
+          <edit.time>21:05:59</edit.time>
+          <edit.time>20:01:57</edit.time>
+          <edit.time>16:52:30</edit.time>
+          <edit.time>18:14:45</edit.time>
+          <edit.time>17:52:46</edit.time>
+          <edit.time>16:08:42</edit.time>
+          <edit.time>14:07:13</edit.time>
+          <edit.time>14:06:18</edit.time>
+        </reproduction.reference>
+        <reproduction.reference.hires>OBJECTEN\Xbestanden\gecropt\X21784_02.tif</reproduction.reference.hires>
+        <reproduction.reference.lref>48532</reproduction.reference.lref>
+      </Reproduction>
+      <reproduction.freeofcopyright>x</reproduction.freeofcopyright>
+      <techniek.vrije.tekst>olieverf op doek</techniek.vrije.tekst>
+      <Title>
+        <title>
+          <value lang="">Stilleven met stenen bak met peren</value>
+        </title>
+      </Title>
+    </record>
+  </recordList>
+  <diagnostic>
+    <hits>1</hits>
+    <xmltype>Grouped</xmltype>
+    <link_resolve_time unit="mS" culture="en-US">187.5017</link_resolve_time>
+    <first_item>1</first_item>
+    <search>priref Equals '18416'</search>
+    <sort/>
+    <limit>1</limit>
+    <hits_on_display>1</hits_on_display>
+    <response_time unit="mS" culture="en-US">0</response_time>
+    <xml_creation_time unit="mS" culture="en-US">4609.4309</xml_creation_time>
+    <dbname>collect</dbname>
+    <dsname>intern</dsname>
+    <cgistring>
+      <param name="database">collect</param>
+    </cgistring>
+  </diagnostic>
+</adlibXML>

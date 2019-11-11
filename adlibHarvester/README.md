@@ -20,3 +20,7 @@ examples
 ```
 ./adlibHarvester.py -ep "https://lmus-web.adlibhosting.com/webapi/wwwopac.ashx" -db "movies" -s "website_url=*"
 ```
+
+```
+./adlibHarvester.py -ep "http://cmu.adlibhosting.com/wwwopacximages/wwwopac.ashx" -db "collect" -s "creator=*Gogh*"
+```

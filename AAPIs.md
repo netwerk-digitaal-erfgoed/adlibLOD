@@ -3,7 +3,6 @@
 ## Our testdatabase provided by Axiell
     endpoint = "https://lodp-web.adlibhosting.com/webapi50/wwwopac.ashx"
     database = "Collect"
-    baseUri = "https://lodp.bladiebla.nl/" + priref
 
 ## Amsterdam Museum
     endpoint = "http://amdata.adlibsoft.com/wwwopac.ashx"
@@ -18,12 +17,10 @@
 ## Limburgs Museum
     endpoint = "https://lmus-web.adlibhosting.com/webapi/wwwopac.ashx"
     database = "collect"
-    baseUri = "http://lm.bladiebla.nl/" + priref
 
 ## Centraal Museum
     endpoint = "http://cmu.adlibhosting.com/wwwopacximages/wwwopac.ashx"
     database = "collect"
-    baseUri = "http://cmu.bladiebla.nl/" + priref
 
 ## Zuiderzeemuseum
     endpoint = "http://adlib.zuiderzeemuseum.nl/api2/wwwopac.ashx"

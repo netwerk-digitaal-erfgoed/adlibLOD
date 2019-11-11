@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.com/agent/686>
+    a dct:Agent ;
+    rdfs:label "Gogh, Vincent van" ;
+    owl:sameAs <https://rkd.nl/explore/artists/32439> .
+
+<http://example.com/object/10387>
+    dc:creator <http://example.com/agent/686> ;
+    dc:description "In een donker boomrijk landschap in groen en bruin, met links op het 2e plan een boomgroep en rechts op de achtergrond een rij popels; links op de voorgrond gestoffeerd met een vrouwtje op de rug gezien; aan de horizon in de doorkijk tussen beide boomgroepen, gele en oranje lichtende strepen van de juist ondergaande zon. In bruin en groene toon." ;
+    dc:title "Tegen de avond" ;
+    dc:type "schilderij" ;
+    dct:created "1885" ;
+    dct:extent "breedte (met lijst) 118 cm", "breedte 92.6 cm", "diepte (met lijst) 10 cm", "hoogte (met lijst) 79 cm", "hoogte 53.3 cm" ;
+    dct:medium "doek" ;
+    a dct:PhysicalResource .
+
