@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/18417>
+    schema:dateCreated "1881" ;
+    schema:description "Het meisje staande à trois quart, met een hark in haar handen. Zij draagt een zwart kapje, een wit-groen jak en een blauw-groene rok. Links van haar (voor de beschouwer rechts) staat een mand. Als achtergrond een boerderij met knotwilgen ervoor." ;
+    schema:identifier "21785" ;
+    schema:material """
+          papier
+        """ ;
+    schema:name """
+          Jong meisje in een tuin (Harkend meisje)
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Jong meisje in een tuin (Harkend meisje)
+        """ .
+

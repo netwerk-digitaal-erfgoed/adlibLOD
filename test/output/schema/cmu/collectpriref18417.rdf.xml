@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/">
+  <rdf:Description rdf:about="http://test.nl/object/18417">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:identifier>21785</schema:identifier>
+    <schema:name>
+          Jong meisje in een tuin (Harkend meisje)
+        </schema:name>
+    <rdfs:label>
+          Jong meisje in een tuin (Harkend meisje)
+        </rdfs:label>
+    <schema:description>Het meisje staande à trois quart, met een hark in haar handen. Zij draagt een zwart kapje, een wit-groen jak en een blauw-groene rok. Links van haar (voor de beschouwer rechts) staat een mand. Als achtergrond een boerderij met knotwilgen ervoor.</schema:description>
+    <schema:material>
+          papier
+        </schema:material>
+    <schema:dateCreated>1881</schema:dateCreated>
+  </rdf:Description>
+</rdf:RDF>
+  
+

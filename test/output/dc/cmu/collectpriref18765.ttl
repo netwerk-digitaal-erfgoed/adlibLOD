@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/18765>
+    dc:creator "Gogh, Vincent van1853-03-30Groot Zundert1890-07-29Auvers sur Oise https://rkd.nl/explore/artists/32439686" ;
+    dc:description "Zicht in een bloeiend loofbos, met in het midden onderste gedeelte van een boomstam. Beige-, geel, roodbruin, roze-paars, grijs- zwarte kleuren. Verf opgebracht in strepen en stippen, hier en daar in dikke klodders." ;
+    dc:title "Sous-bois" ;
+    dc:type "schilderij" ;
+    dct:created "1887" ;
+    dct:extent "breedte (met lijst) 64.5 cm", "breedte 46.5 cm", "hoogte (met lijst) 51.5 cm", "hoogte 33 cm" ;
+    dct:medium "doek" ;
+    a dct:PhysicalResource .
+

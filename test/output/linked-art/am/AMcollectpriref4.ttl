@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<http://example.com/data/identifier/4>
+    crm:P190_has_symbolic_content "A 63" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300312355> ;
+    a crm:E42_Identifier .
+
+<http://example.com/data/object/4>
+    crm:P108i_was_produced_by <http://example.com/data/production/4> ;
+    crm:P1_is_identified_by <http://example.com/data/identifier/4> ;
+    a crm:E22_Human-Made_Object .
+
+<http://example.com/data/production/4>
+    crm:P4_has_time-span [
+        a crm:E52_Time-Span
+    ] ;
+    a crm:E12_Production .
+

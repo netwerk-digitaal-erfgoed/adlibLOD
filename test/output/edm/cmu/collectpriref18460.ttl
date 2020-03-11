@@ -1,0 +1,81 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix mrel: <http://id.loc.gov/vocabulary/relators/> .
+
+<http://example.com/agent/>
+    a edm:Agent ;
+    skos:prefLabel """
+          
+            Gogh, Vincent van
+          
+          1853-03-30
+          
+            Groot Zundert
+          
+          1890-07-29
+          
+            Auvers sur Oise
+          
+           https://rkd.nl/explore/artists/32439
+          686
+        """ .
+
+<http://example.com/aggregation/18460>
+    edm:aggregatedCHO <http://example.com/object/18460> ;
+    edm:dataProvider "museum" ;
+    edm:isShownAt <http://example.com/object/page/18460> ;
+    edm:isShownBy <http://example.image.com/object/18460> ;
+    edm:object <http://example.image.com/object/18460> ;
+    edm:provider "museum" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a ore:Aggregation .
+
+<http://example.com/concept/>
+    a skos:Concept ;
+    skos:prefLabel """
+          doek
+        """, """
+          paneel
+        """, """
+          schilderij
+        """ .
+
+<http://example.com/object/18460>
+    dc:description "Tegen een donkerbruine achtergrond en op een lichtere bruine ondergrond staan een aardewerken kruik, een Keulse pot, een fles, een aardewerken pot en klompen." ;
+    dc:identifier "21828" ;
+    dc:language "en" ;
+    dc:publisher "museum" ;
+    dc:title """
+          Stilleven met kruik
+        """ ;
+    dct:created "1884" ;
+    dct:extent """
+          breedte
+         56 
+          cm
+        """, """
+          breedte met lijst
+         73 
+          cm
+        """, """
+          hoogte
+         42 
+          cm
+        """, """
+          hoogte met lijst
+         60 
+          cm
+        """ ;
+    edm:type "IMAGE" ;
+    a edm:ProvidedCHO .
+
+<http://example.image.com/object/18460>
+    dc:format "image/jpeg" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a edm:WebResource .
+

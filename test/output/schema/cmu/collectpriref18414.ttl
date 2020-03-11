@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/18414>
+    schema:description "Landschap in de schemering, links een boerderij met witte gevel, ervoor een boompje, rechts een boerderij met hooiberg erachter." ;
+    schema:identifier "21782" ;
+    schema:material """
+          papier
+        """ ;
+    schema:name """
+          Schemering (Oude boerderijen te Loosduinen)
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Schemering (Oude boerderijen te Loosduinen)
+        """ .
+

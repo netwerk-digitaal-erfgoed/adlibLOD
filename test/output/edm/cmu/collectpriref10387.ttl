@@ -1,0 +1,83 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix mrel: <http://id.loc.gov/vocabulary/relators/> .
+
+<http://example.com/agent/>
+    a edm:Agent ;
+    skos:prefLabel """
+          
+            Gogh, Vincent van
+          
+          1853-03-30
+          
+            Groot Zundert
+          
+          1890-07-29
+          
+            Auvers sur Oise
+          
+           https://rkd.nl/explore/artists/32439
+          686
+        """ .
+
+<http://example.com/aggregation/10387>
+    edm:aggregatedCHO <http://example.com/object/10387> ;
+    edm:dataProvider "museum" ;
+    edm:isShownAt <http://example.com/object/page/10387> ;
+    edm:isShownBy <http://example.image.com/object/10387> ;
+    edm:object <http://example.image.com/object/10387> ;
+    edm:provider "museum" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a ore:Aggregation .
+
+<http://example.com/concept/>
+    a skos:Concept ;
+    skos:prefLabel """
+          doek
+        """, """
+          schilderij
+        """ .
+
+<http://example.com/object/10387>
+    dc:description "In een donker boomrijk landschap in groen en bruin, met links op het 2e plan een boomgroep en rechts op de achtergrond een rij popels; links op de voorgrond gestoffeerd met een vrouwtje op de rug gezien; aan de horizon in de doorkijk tussen beide boomgroepen, gele en oranje lichtende strepen van de juist ondergaande zon. In bruin en groene toon." ;
+    dc:identifier "13968" ;
+    dc:language "en" ;
+    dc:publisher "museum" ;
+    dc:title """
+          Tegen de avond
+        """ ;
+    dct:created "1885" ;
+    dct:extent """
+          breedte
+         92.6 
+          cm
+        """, """
+          breedte (met lijst)
+         118 
+          cm
+        """, """
+          diepte (met lijst)
+         10 
+          cm
+        """, """
+          hoogte
+         53.3 
+          cm
+        """, """
+          hoogte (met lijst)
+         79 
+          cm
+        """ ;
+    edm:type "IMAGE" ;
+    a edm:ProvidedCHO .
+
+<http://example.image.com/object/10387>
+    dc:format "image/jpeg" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a edm:WebResource .
+

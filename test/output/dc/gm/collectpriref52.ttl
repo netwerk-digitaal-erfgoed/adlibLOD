@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/52>
+    dc:creator "Olaf, Erwin" ;
+    dc:description "Deze serie geënsceneerde foto's is zo gecomponeerd dat alle elementen - de modellen, de accessoires, het licht etc. - bijdragen aan de sfeer van zijn sprookjesachtige droomwereld. Door een lichtbron te plaatsen achter de transparante foto, wordt dit effect versterkt.", "This series of staged photographs is composed in such a manner that all the elements - models. accessories, light. etc. - contribute to the atmosphere of its fairy-like dream world. This effect is intensified by a source of light being placed behind the transparent photographs." ;
+    dc:title "Tinkerbell's Friends  I" ;
+    dc:type "foto's" ;
+    dct:created "1989" ;
+    dct:extent "breedte 100 cm", "hoogte 100 cm" ;
+    dct:spatial "Amsterdam" ;
+    a dct:PhysicalResource .
+

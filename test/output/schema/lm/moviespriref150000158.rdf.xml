@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/">
+  <rdf:Description rdf:about="http://test.nl/object/150000158">
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:identifier>0055</schema:identifier>
+    <schema:name>Velden: 1. Kindsheidoptocht; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht</schema:name>
+    <rdfs:label>Velden: 1. Kindsheidoptocht; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht</rdfs:label>
+    <schema:about>geografie</schema:about>
+    <schema:description>Optochten in Velden tussen 1950 en 1955: 1. Kindsheidoptocht. Kinderen verkleed als Chineesjes, de fanfare met het tamboerkorps en toespraak door kapelaan Canjels; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht (carnaval; kleur).</schema:description>
+  </rdf:Description>
+</rdf:RDF>
+  
+

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdaGr2: <http://rdvocab.info/ElementsGr2/> .
+@prefix mrel: <http://id.loc.gov/vocabulary/relators/> .
+
+<http://example.com/aggregation/\u00209>
+    edm:aggregatedCHO <http://example.com/object/\u00209> ;
+    edm:dataProvider "museum" ;
+    edm:isShownAt <http://example.com/object/page/\u00209> ;
+    edm:isShownBy <http://example.image.com/object/\u00209> ;
+    edm:object <http://example.image.com/object/\u00209> ;
+    edm:provider "museum" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a ore:Aggregation .
+
+<http://example.com/object/9>
+    mrel:spn "Amsterdam Museum" ;
+    dc:identifier "A 118" ;
+    dc:language "en" ;
+    dc:publisher "museum" ;
+    edm:type "IMAGE" ;
+    a edm:ProvidedCHO .
+
+<http://example.image.com/object/\u00209>
+    dc:format "image/jpeg" ;
+    edm:rights <http://rightsstatements.org/vocab/InC/1.0/> ;
+    a edm:WebResource .
+

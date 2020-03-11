@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
+  <edm:ProvidedCHO rdf:about="http://example.com/object/150000081">
+    <dc:identifier>0020</dc:identifier>
+    <dc:title>Viva Sittardia</dc:title>
+    <dc:description>De film laat beelden zien van de kampioensploeg Sittardia op het speelveld in de Sittardse wijk Baandert. Uitblinker is de 18- jarige Willy Dullens. Het publiek bejubelt zijn favorieten zoals o.a. Sjeer Gruiser, Joep Beckers, Piet Quix, Jo Plum en Math Schmeitz. De kampioenen van de eerste divisie maken in landauers een triomftocht door Sittard. Sittardia debuteert enkele maanden later in de eredivisie. Er wordt gespeeld in een nieuw stadion De Baandert. Cineast Jan van Kempen was aanwezig bij de trainingen van oefenmeester Frans Debruyn en maakte de voorbereiding mee van het eerste thuis duel tegen landskampioen DWS Amsterdam. Het nieuwe stadion was op die 23e augustus uitverkocht (25.000 toeschouwers). We zien flitsen van dit duel maar ook shots van supporters en bekende Sittardenaren. Een hoofdrol is er voor Leo Horn, oud- Sittardenaar en scheidsrechter van dit eredivisieduel. Tenslotte zijn er nog enkele korte flitsen te zien van het (uit) duel MVV - Sittardia in het Maastrichtse Geuseltstadion.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:publisher>museum</dc:publisher>
+    <dct:created>1964</dct:created>
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="http://example.com/aggregation/150000081">
+    <edm:aggregatedCHO rdf:resource="http://example.com/object/150000081"/>
+    <edm:dataProvider>museum</edm:dataProvider>
+    <edm:isShownAt rdf:resource="http://example.com/object/page/150000081"/>
+    <edm:isShownBy rdf:resource="http://example.image.com/object/150000081"/>
+    <edm:object rdf:resource="http://example.image.com/object/150000081"/>
+    <edm:provider>museum</edm:provider>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </ore:Aggregation>
+  <edm:WebResource rdf:about="http://example.image.com/object/150000081">
+    <dc:format>image/jpeg</dc:format>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </edm:WebResource>
+  <edm:Agent rdf:about="http://example.com/agent/">
+    <skos:prefLabel>Kempen, J. van</skos:prefLabel>
+  </edm:Agent>
+</rdf:RDF>
+  
+

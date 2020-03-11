@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<http://example.com/data/identifier/150000158>
+    crm:P190_has_symbolic_content "0055" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300312355> ;
+    a crm:E42_Identifier .
+
+<http://example.com/data/object/150000158>
+    crm:P108i_was_produced_by <http://example.com/data/production/150000158> ;
+    crm:P1_is_identified_by <http://example.com/data/identifier/150000158>, <http://example.com/data/title/150000158> ;
+    a crm:E22_Human-Made_Object .
+
+<http://example.com/data/production/150000158>
+    crm:P14_carried_out_by [
+        crm:P1_is_identified_by [
+            crm:P190_has_symbolic_content "Rieter, Th." ;
+            a crm:E33_E41_Linguistic_Appellation
+        ] ;
+        a crm:E39_Actor
+    ] ;
+    crm:P4_has_time-span [
+        a crm:E52_Time-Span
+    ] ;
+    a crm:E12_Production .
+
+<http://example.com/data/title/150000158>
+    crm:P190_has_symbolic_content "Velden: 1. Kindsheidoptocht; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+    a crm:E33_E41_Linguistic_Appellation .
+

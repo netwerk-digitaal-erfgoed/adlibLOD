@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/18416>
+    schema:description "Op een bruin tafelblad en voor een donkerbruine achtergrond staat een grijze aardewerken schaal vol peren. Rechts en links voor de schaal eveneens enkele peren." ;
+    schema:identifier "21784" ;
+    schema:material """
+          doek
+        """ ;
+    schema:name """
+          Stilleven met stenen bak met peren
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Stilleven met stenen bak met peren
+        """ .
+

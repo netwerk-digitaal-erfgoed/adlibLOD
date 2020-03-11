@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+  <dct:PhysicalResource rdf:about="http://example.com/object/18417">
+    <dc:title>Jong meisje in een tuin (Harkend meisje)</dc:title>
+    <dc:creator>Gogh, Vincent van1853-03-30Groot Zundert1890-07-29Auvers sur Oise https://rkd.nl/explore/artists/32439686</dc:creator>
+    <dc:description>Het meisje staande à trois quart, met een hark in haar handen. Zij draagt een zwart kapje, een wit-groen jak en een blauw-groene rok. Links van haar (voor de beschouwer rechts) staat een mand. Als achtergrond een boerderij met knotwilgen ervoor.</dc:description>
+    <dc:type>tekening</dc:type>
+    <dct:medium>papier</dct:medium>
+    <dct:created>1881</dct:created>
+    <dct:extent>hoogte (dagmaat) 58 cm</dct:extent>
+    <dct:extent>breedte (dagmaat) 46 cm</dct:extent>
+    <dct:extent>hoogte met lijst 72 cm</dct:extent>
+    <dct:extent>breedte met lijst 60 cm</dct:extent>
+  </dct:PhysicalResource>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
+  <edm:ProvidedCHO rdf:about="http://example.com/object/56">
+    <dc:identifier>1996.0204</dc:identifier>
+    <dc:title>Idexa</dc:title>
+    <dc:description>Tegen een fel oranje achtergrond zien we een tengere vrouw staan in een mannelijk rebels outfit. Een stevig mouwloos ruiten hemd is losjes om het naakte bovenlijf geknoopt en laat ruimte aan een grote tatouage op de rechterbovenarm. De taille van de vrouw is 'gewapend' met een zware riem met holster. Haar sieraden zijn piercings in oor en neus, een halsketting met een grote scarabee en een leren polsband met metalen noppen. Een doek die strak om het hoofd geknoopt zit verbergt alle sporen van het haar. Haar gezicht trekt de meeste andacht: van onder twee zwaar aangezette wenkbrauwen kijkt ze de beschouwer direct, maar ingetogen aan. De combinatie van de traditionele portretfoto als helder en realistisch karakterbeeld en het tweeslachtige voorkomen van het model verwarren ons als kijker. Het is de verwarring die Catherine Opie in haar werk beoogd.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:publisher>museum</dc:publisher>
+    <dct:created>1993</dct:created>
+    <dct:temporal>20e eeuw</dct:temporal>
+    <dct:extent>papier hoogte 49.6 cm</dct:extent>
+    <dct:extent>papier breedte 38.6 cm</dct:extent>
+    <dct:extent>beeld hoogte 48.6 cm</dct:extent>
+    <dct:extent>beeld breedte 38.1 cm</dct:extent>
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="http://example.com/aggregation/56">
+    <edm:aggregatedCHO rdf:resource="http://example.com/object/56"/>
+    <edm:dataProvider>museum</edm:dataProvider>
+    <edm:isShownAt rdf:resource="http://example.com/object/page/56"/>
+    <edm:isShownBy rdf:resource="http://example.image.com/object/56"/>
+    <edm:object rdf:resource="http://example.image.com/object/56"/>
+    <edm:provider>museum</edm:provider>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </ore:Aggregation>
+  <edm:WebResource rdf:about="http://example.image.com/object/56">
+    <dc:format>image/jpeg</dc:format>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </edm:WebResource>
+  <edm:Agent rdf:about="http://example.com/agent/">
+    <skos:prefLabel>Opie, Catherine</skos:prefLabel>
+  </edm:Agent>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>papier</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
+  
+

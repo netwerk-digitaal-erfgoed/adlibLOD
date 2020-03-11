@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<http://test.nl/object/18765>
+    schema:dateCreated "1887" ;
+    schema:description "Zicht in een bloeiend loofbos, met in het midden onderste gedeelte van een boomstam. Beige-, geel, roodbruin, roze-paars, grijs- zwarte kleuren. Verf opgebracht in strepen en stippen, hier en daar in dikke klodders." ;
+    schema:identifier "22123" ;
+    schema:material """
+          doek
+        """ ;
+    schema:name """
+          Sous-bois
+        """ ;
+    a schema:CreativeWork ;
+    rdfs:label """
+          Sous-bois
+        """ .
+

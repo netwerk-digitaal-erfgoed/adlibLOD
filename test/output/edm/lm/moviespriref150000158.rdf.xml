@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
+  <edm:ProvidedCHO rdf:about="http://example.com/object/150000158">
+    <dc:identifier>0055</dc:identifier>
+    <dc:title>Velden: 1. Kindsheidoptocht; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht</dc:title>
+    <dc:description>Optochten in Velden tussen 1950 en 1955: 1. Kindsheidoptocht. Kinderen verkleed als Chineesjes, de fanfare met het tamboerkorps en toespraak door kapelaan Canjels; 2. Palmhöltjesoptocht; 3. Gekke Maandag-optocht (carnaval; kleur).</dc:description>
+    <dc:language>en</dc:language>
+    <dc:publisher>museum</dc:publisher>
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="http://example.com/aggregation/150000158">
+    <edm:aggregatedCHO rdf:resource="http://example.com/object/150000158"/>
+    <edm:dataProvider>museum</edm:dataProvider>
+    <edm:isShownAt rdf:resource="http://example.com/object/page/150000158"/>
+    <edm:isShownBy rdf:resource="http://example.image.com/object/150000158"/>
+    <edm:object rdf:resource="http://example.image.com/object/150000158"/>
+    <edm:provider>museum</edm:provider>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </ore:Aggregation>
+  <edm:WebResource rdf:about="http://example.image.com/object/150000158">
+    <dc:format>image/jpeg</dc:format>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </edm:WebResource>
+  <edm:Agent rdf:about="http://example.com/agent/">
+    <skos:prefLabel>Rieter, Th.</skos:prefLabel>
+  </edm:Agent>
+</rdf:RDF>
+  
+

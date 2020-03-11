@@ -1,0 +1,80 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<http://example.com/data/identifier/61>
+    crm:P190_has_symbolic_content "0000.2376" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300312355> ;
+    a crm:E42_Identifier .
+
+<http://example.com/data/object/61>
+    crm:P108i_was_produced_by <http://example.com/data/production/61> ;
+    crm:P1_is_identified_by <http://example.com/data/identifier/61>, <http://example.com/data/title/61> ;
+    crm:P2_has_type [
+        crm:P190_has_symbolic_content "schilderijen" ;
+        crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+        a crm:E33_E41_Linguistic_Appellation
+    ], [
+        crm:P190_has_symbolic_content "portretten" ;
+        crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+        a crm:E33_E41_Linguistic_Appellation
+    ] ;
+    crm:P43_has_dimension [
+        crm:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+        crm:P90_has_value 90 ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P90_has_value 5 ;
+        crm:P91_has_type "dimension type unknown" ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+        crm:P90_has_value 1044 ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+        crm:P90_has_value 757 ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P90_has_value 7 ;
+        crm:P91_has_type "dimension type unknown" ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379097> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+        crm:P90_has_value 1175 ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ] ;
+    crm:P45_consists_of [
+        a skos:Concept ;
+        skos:prefLabel "olieverf"
+    ], [
+        a skos:Concept ;
+        skos:prefLabel "paneel (hout)"
+    ] ;
+    a crm:E22_Human-Made_Object .
+
+<http://example.com/data/production/61>
+    crm:P14_carried_out_by [
+        crm:P1_is_identified_by [
+            crm:P190_has_symbolic_content "onbekend" ;
+            a crm:E33_E41_Linguistic_Appellation
+        ] ;
+        a crm:E39_Actor
+    ] ;
+    crm:P4_has_time-span [
+        crm:P82a_begin_of_the_begin "1598-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        a crm:E52_Time-Span
+    ] ;
+    a crm:E12_Production .
+
+<http://example.com/data/title/61>
+    crm:P190_has_symbolic_content "Anna Elema" ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+    a crm:E33_E41_Linguistic_Appellation .
+

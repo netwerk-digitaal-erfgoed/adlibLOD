@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/60>
+    dc:creator "Molinier, Pierre" ;
+    dc:description "zelfportret, been met kunstpenis" ;
+    dc:title "Mon fétiche des jambes" ;
+    dc:type "foto's" ;
+    dct:created "1966" ;
+    dct:extent "breedte 12.5 cm", "hoogte 17.5 cm" ;
+    dct:medium "fotopapier" ;
+    a dct:PhysicalResource .
+

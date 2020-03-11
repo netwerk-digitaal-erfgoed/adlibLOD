@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
+  <edm:ProvidedCHO rdf:about="http://example.com/object/10387">
+    <dc:identifier>13968</dc:identifier>
+    <dc:title>
+          Tegen de avond
+        </dc:title>
+    <dc:description>In een donker boomrijk landschap in groen en bruin, met links op het 2e plan een boomgroep en rechts op de achtergrond een rij popels; links op de voorgrond gestoffeerd met een vrouwtje op de rug gezien; aan de horizon in de doorkijk tussen beide boomgroepen, gele en oranje lichtende strepen van de juist ondergaande zon. In bruin en groene toon.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:publisher>museum</dc:publisher>
+    <dct:created>1885</dct:created>
+    <dct:extent>
+          hoogte
+         53.3 
+          cm
+        </dct:extent>
+    <dct:extent>
+          breedte
+         92.6 
+          cm
+        </dct:extent>
+    <dct:extent>
+          hoogte (met lijst)
+         79 
+          cm
+        </dct:extent>
+    <dct:extent>
+          breedte (met lijst)
+         118 
+          cm
+        </dct:extent>
+    <dct:extent>
+          diepte (met lijst)
+         10 
+          cm
+        </dct:extent>
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="http://example.com/aggregation/10387">
+    <edm:aggregatedCHO rdf:resource="http://example.com/object/10387"/>
+    <edm:dataProvider>museum</edm:dataProvider>
+    <edm:isShownAt rdf:resource="http://example.com/object/page/10387"/>
+    <edm:isShownBy rdf:resource="http://example.image.com/object/10387"/>
+    <edm:object rdf:resource="http://example.image.com/object/10387"/>
+    <edm:provider>museum</edm:provider>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </ore:Aggregation>
+  <edm:WebResource rdf:about="http://example.image.com/object/10387">
+    <dc:format>image/jpeg</dc:format>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </edm:WebResource>
+  <edm:Agent rdf:about="http://example.com/agent/">
+    <skos:prefLabel>
+          
+            Gogh, Vincent van
+          
+          1853-03-30
+          
+            Groot Zundert
+          
+          1890-07-29
+          
+            Auvers sur Oise
+          
+           https://rkd.nl/explore/artists/32439
+          686
+        </skos:prefLabel>
+  </edm:Agent>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>
+          schilderij
+        </skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>
+          doek
+        </skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
+  
+

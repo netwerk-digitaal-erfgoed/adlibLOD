@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:mrel="http://id.loc.gov/vocabulary/relators/">
+  <edm:ProvidedCHO rdf:about="http://example.com/object/51">
+    <dc:identifier>1953.0117</dc:identifier>
+    <dc:title>Kor Kuiler</dc:title>
+    <dc:description>portret van de dirigent en componist Kornelis Jacobus Kuiler ten halve lijve geschilderd en gewend naar links, met de linkerhand half in de jaszak en met de rechterhand een muziekblad vasthoudend.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:publisher>museum</dc:publisher>
+    <dct:created>1934</dct:created>
+    <dct:temporal>20e eeuw</dct:temporal>
+    <dct:extent>doek hoogte 83.2 cm</dct:extent>
+    <dct:extent>breedte 67 cm</dct:extent>
+    <dct:extent>lijst hoogte 99 cm</dct:extent>
+    <dct:extent>breedte 82 cm</dct:extent>
+    <dct:extent>dikte 6 cm</dct:extent>
+    <edm:type>IMAGE</edm:type>
+  </edm:ProvidedCHO>
+  <ore:Aggregation rdf:about="http://example.com/aggregation/51">
+    <edm:aggregatedCHO rdf:resource="http://example.com/object/51"/>
+    <edm:dataProvider>museum</edm:dataProvider>
+    <edm:isShownAt rdf:resource="http://example.com/object/page/51"/>
+    <edm:isShownBy rdf:resource="http://example.image.com/object/51"/>
+    <edm:object rdf:resource="http://example.image.com/object/51"/>
+    <edm:provider>museum</edm:provider>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </ore:Aggregation>
+  <edm:WebResource rdf:about="http://example.image.com/object/51">
+    <dc:format>image/jpeg</dc:format>
+    <edm:rights rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </edm:WebResource>
+  <edm:Agent rdf:about="http://example.com/agent/">
+    <skos:prefLabel>Bach, Franciscus Hermanus</skos:prefLabel>
+  </edm:Agent>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>schilderijen</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>portretten</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>olieverf</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://example.com/concept/">
+    <skos:prefLabel>doek</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
+  
+

@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/59>
+    dc:creator "Ontani, Luigi" ;
+    dc:title "L 'ermafrodito" ;
+    dc:type "geënsceneerde foto's" ;
+    dct:created "1985 - 1986" ;
+    dct:extent "dikte 3.5 cm", "geheel breedte 225.5 cm", "geheel hoogte 106 cm" ;
+    dct:medium "fotopapier" ;
+    a dct:PhysicalResource .
+

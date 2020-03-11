@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+<http://example.com/object/18422>
+    dc:creator "Gogh, Vincent van1853-03-30Groot Zundert1890-07-29Auvers sur Oise https://rkd.nl/explore/artists/32439686" ;
+    dc:description "Oude man met zijn rechter profiel naar de toeschouwer. Hij staat voorovergebogen en leunt op zijn stok." ;
+    dc:title "Diaconiemannetje" ;
+    dc:type "tekening" ;
+    dct:created "1882" ;
+    dct:extent "breedte (dagmaat) 24.5 cm", "breedte met lijst 43.5 cm", "hoogte (dagmaat) 48 cm", "hoogte met lijst 69.5 cm" ;
+    dct:medium "papier", "zwart krijt" ;
+    a dct:PhysicalResource .
+
