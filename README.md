@@ -19,7 +19,6 @@ xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesh
 ```
 
 ### Saxon
-!!TODO
 Usage example:
 ```
 saxon -s:test/input/testdata.adlib.xml -xsl:stylesheets/dc/dc.xslt -o:test/output/dc/testdata.rdf.xml
@@ -30,9 +29,11 @@ Conversion of the test set to [EDM](http://www.europeana.eu/schemas/edm/):
 saxon -s:test/input/testdata.adlib.xml -xsl:stylesheets/edm/edm-dc.xslt -o:test/output/edm/testdata.rdf.xml
 ```
 
-### Msxml-dll
-!!TODO
-Is part of the Adlib intrastructure
+### MSXML 4.0
+Usage example:
+```
+msxsl.exe input\testdata.adlib.xml ..\stylesheets\schema\schema.xslt -o testdata.rdf.xml
+```
 
 ## Various schemas
 We developed the stylesheets top-to-bottom implementing all basicfields of a description into the schema at hand, and bottom-up by searching for all available data in the fields from the schema.

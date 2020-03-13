@@ -98,7 +98,7 @@
 
 <!-- identifier -->
 <xsl:template match="object_number">
-    <xsl:param name="priref" select="$priref"/>
+    <xsl:param name="priref"/>
     <xsl:if test="string(.)">
         <crm:P1_is_identified_by>
              <crm:E42_Identifier>
@@ -118,7 +118,7 @@
 
 <!-- title -->
 <xsl:template match="Title/title">
-    <xsl:param name="priref" select="$priref"/>
+    <xsl:param name="priref"/>
     <xsl:if test="string(.)">
         <crm:P1_is_identified_by>
             <crm:E33_E41_Linguistic_Appellation>
@@ -266,7 +266,7 @@
 
 <!-- named templates -->
 <xsl:template name="valueconverter">
-    <xsl:param name="value" select="$value"/>
+    <xsl:param name="value"/>
     <xsl:choose>
         <xsl:when test="format-number(translate($value, ',.', '.'), '###0.##########') != 'NaN'">
             <xsl:value-of select="format-number(translate($value, ',.', '.'), '###0.##########')" />
@@ -279,7 +279,7 @@
 
 <!-- datum conversie -->
 <xsl:template name="begindateconverter">
-    <xsl:param name="date" select="$date"/>
+    <xsl:param name="date"/>
     <xsl:choose>
         <xsl:when test="(number($date) &gt; 0) and (number($date) &lt; 9999)">
             <xsl:value-of select="$date"/>
@@ -299,7 +299,7 @@
 </xsl:template>
 
 <xsl:template name="enddateconverter">
-    <xsl:param name="date" select="$date"/>
+    <xsl:param name="date"/>
     <xsl:choose>
         <xsl:when test="(number($date) &gt; 0) and (number($date) &lt; 9999)">
             <xsl:value-of select="$date"/>
