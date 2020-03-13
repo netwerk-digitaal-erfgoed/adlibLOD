@@ -1,1 +1,1 @@
-msxsl.exe input\testdata.adlib.xml ..\stylesheets\schema\schema.xslt -o testdata.rdf.xml
+msxsl.exe input\testdata.adlib.xml ..\stylesheets\schema\schema.xslt -o output\schema\testdata.rdf.xml
