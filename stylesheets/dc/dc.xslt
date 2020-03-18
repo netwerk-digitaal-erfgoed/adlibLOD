@@ -6,7 +6,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:dct="http://purl.org/dc/terms/">
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
-<xsl:strip-space elements="*"/>
+<!--xsl:strip-space elements="*"/-->
 
 <xsl:param name="baseUri">http://example.com/</xsl:param>
 <xsl:param name="imageUrl">http://example.image.com/</xsl:param>

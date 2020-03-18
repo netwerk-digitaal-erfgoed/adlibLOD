@@ -19,20 +19,20 @@ xsltproc --stringparam baseUri https://lodp-web.adlibhosting.com/priref/ stylesh
 ```
 
 ### Saxon
-Usage example:
+Usage example (Windows?):
 ```
 saxon -s:test/input/testdata.adlib.xml -xsl:stylesheets/dc/dc.xslt -o:test/output/dc/testdata.rdf.xml
 ```
 
-Conversion of the test set to [EDM](http://www.europeana.eu/schemas/edm/):
+Usage example (Linux):
 ```
-saxon -s:test/input/testdata.adlib.xml -xsl:stylesheets/edm/edm-dc.xslt -o:test/output/edm/testdata.rdf.xml
+saxon-xslt test/input/testdata.adlib.xml stylesheets/edm/edm-dc.xslt -o test/output/edm/testdata.rdf.xml
 ```
 
 ### MSXML 4.0
 Usage example:
 ```
-msxsl.exe input\testdata.adlib.xml ..\stylesheets\schema\schema.xslt -o testdata.rdf.xml
+msxsl.exe test\input\testdata.adlib.xml stylesheets\schema\schema.xslt -o test\output\testdata.rdf.xml
 ```
 
 ## Various schemas

@@ -6,7 +6,7 @@
     xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
 
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
-<xsl:strip-space elements="*"/>
+<!--xsl:strip-space elements="*"/-->
 
 <xsl:param name="baseUri">http://example.com/data/</xsl:param>
 
