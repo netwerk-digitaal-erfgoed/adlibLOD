@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
   <crm:E22_Human-Made_Object rdf:about="http://example.com/data/object/150000164">
     <crm:P1_is_identified_by>
       <crm:E42_Identifier rdf:about="http://example.com/data/identifier/150000164">
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312355">
+            <rdfs:label>accession numbers</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P190_has_symbolic_content>0056</crm:P190_has_symbolic_content>
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
     <crm:P1_is_identified_by>
       <crm:E33_E41_Linguistic_Appellation rdf:about="http://example.com/data/title/150000164">
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
-        <crm:P190_has_symbolic_content>Sportflitsen uit Velden</crm:P190_has_symbolic_content>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300404670">
+            <rdfs:label>primary name</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
       </crm:E33_E41_Linguistic_Appellation>
     </crm:P1_is_identified_by>
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="http://example.com/data/production/150000164">
         <crm:P4_has_time-span>
           <crm:E52_Time-Span>
-            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-01-01</crm:P82a_begin_of_the_begin>
-            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-12-31</crm:P82b_end_of_the_end>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1940-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1940-12-31T23:59:59</crm:P82b_end_of_the_end>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
         <crm:P14_carried_out_by>
           <crm:E39_Actor>
+            <rdfs:label>Rieter, Th.</rdfs:label>
             <crm:P1_is_identified_by>
               <crm:E33_E41_Linguistic_Appellation>
                 <crm:P190_has_symbolic_content>Rieter, Th.</crm:P190_has_symbolic_content>
@@ -34,3 +43,5 @@
     </crm:P108i_was_produced_by>
   </crm:E22_Human-Made_Object>
 </rdf:RDF>
+  
+

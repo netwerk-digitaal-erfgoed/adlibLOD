@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
+
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
   <crm:E22_Human-Made_Object rdf:about="http://example.com/data/object/51">
     <crm:P2_has_type>
-      <crm:E33_E41_Linguistic_Appellation>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
-        <crm:P190_has_symbolic_content>schilderijen</crm:P190_has_symbolic_content>
-      </crm:E33_E41_Linguistic_Appellation>
+      <crm:E55_Type>
+        <rdfs:label>schilderijen</rdfs:label>
+      </crm:E55_Type>
     </crm:P2_has_type>
     <crm:P2_has_type>
-      <crm:E33_E41_Linguistic_Appellation>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
-        <crm:P190_has_symbolic_content>portretten</crm:P190_has_symbolic_content>
-      </crm:E33_E41_Linguistic_Appellation>
+      <crm:E55_Type>
+        <rdfs:label>portretten</rdfs:label>
+      </crm:E55_Type>
     </crm:P2_has_type>
     <crm:P1_is_identified_by>
       <crm:E42_Identifier rdf:about="http://example.com/data/identifier/51">
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312355">
+            <rdfs:label>accession numbers</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P190_has_symbolic_content>1953.0117</crm:P190_has_symbolic_content>
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
     <crm:P1_is_identified_by>
       <crm:E33_E41_Linguistic_Appellation rdf:about="http://example.com/data/title/51">
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
-        <crm:P190_has_symbolic_content>Kor Kuiler</crm:P190_has_symbolic_content>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300404670">
+            <rdfs:label>primary name</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
       </crm:E33_E41_Linguistic_Appellation>
     </crm:P1_is_identified_by>
     <crm:P108i_was_produced_by>
       <crm:E12_Production rdf:about="http://example.com/data/production/51">
         <crm:P4_has_time-span>
           <crm:E52_Time-Span>
-            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1934-01-01</crm:P82a_begin_of_the_begin>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1934-01-01T00:00:00</crm:P82a_begin_of_the_begin>
           </crm:E52_Time-Span>
         </crm:P4_has_time-span>
         <crm:P14_carried_out_by>
           <crm:E39_Actor>
+            <rdfs:label>Bach, Franciscus Hermanus</rdfs:label>
             <crm:P1_is_identified_by>
               <crm:E33_E41_Linguistic_Appellation>
                 <crm:P190_has_symbolic_content>Bach, Franciscus Hermanus</crm:P190_has_symbolic_content>
@@ -41,52 +48,99 @@
             </crm:P1_is_identified_by>
           </crm:E39_Actor>
         </crm:P14_carried_out_by>
+        <crm:P32_used_general_technique>
+          <crm:E55_Type>
+            <rdfs:label>schilderen</rdfs:label>
+          </crm:E55_Type>
+        </crm:P32_used_general_technique>
       </crm:E12_Production>
     </crm:P108i_was_produced_by>
     <crm:P43_has_dimension>
       <crm:E54_Dimension>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300055644">
+            <rdfs:label>hoogte</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">832</crm:P90_has_value>
-        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+        <crm:P91_has_unit>
+          <crm:E58_Measurement_Unit rdf:about="http://vocab.getty.edu/aat/300379098">
+            <rdfs:label>centimeters</rdfs:label>
+          </crm:E58_Measurement_Unit>
+        </crm:P91_has_unit>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P43_has_dimension>
       <crm:E54_Dimension>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055647"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300055647">
+            <rdfs:label>breedte</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">67</crm:P90_has_value>
-        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+        <crm:P91_has_unit>
+          <crm:E58_Measurement_Unit rdf:about="http://vocab.getty.edu/aat/300379098">
+            <rdfs:label>centimeters</rdfs:label>
+          </crm:E58_Measurement_Unit>
+        </crm:P91_has_unit>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P43_has_dimension>
       <crm:E54_Dimension>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300055644">
+            <rdfs:label>hoogte</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">99</crm:P90_has_value>
-        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+        <crm:P91_has_unit>
+          <crm:E58_Measurement_Unit rdf:about="http://vocab.getty.edu/aat/300379098">
+            <rdfs:label>centimeters</rdfs:label>
+          </crm:E58_Measurement_Unit>
+        </crm:P91_has_unit>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P43_has_dimension>
       <crm:E54_Dimension>
-        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055647"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300055647">
+            <rdfs:label>breedte</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">82</crm:P90_has_value>
-        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+        <crm:P91_has_unit>
+          <crm:E58_Measurement_Unit rdf:about="http://vocab.getty.edu/aat/300379098">
+            <rdfs:label>centimeters</rdfs:label>
+          </crm:E58_Measurement_Unit>
+        </crm:P91_has_unit>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P43_has_dimension>
       <crm:E54_Dimension>
-        <crm:P91_has_type>dimension type unknown</crm:P91_has_type>
+        <crm:P2_has_type>
+          <crm:E55_Type>
+            <rdfs:label>dikte</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
         <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6</crm:P90_has_value>
-        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+        <crm:P91_has_unit>
+          <crm:E58_Measurement_Unit rdf:about="http://vocab.getty.edu/aat/300379098">
+            <rdfs:label>centimeters</rdfs:label>
+          </crm:E58_Measurement_Unit>
+        </crm:P91_has_unit>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P45_consists_of>
-      <skos:Concept>
-        <skos:prefLabel>olieverf</skos:prefLabel>
-      </skos:Concept>
+      <crm:E57_Material>
+        <rdfs:label>olieverf</rdfs:label>
+      </crm:E57_Material>
     </crm:P45_consists_of>
     <crm:P45_consists_of>
-      <skos:Concept>
-        <skos:prefLabel>doek</skos:prefLabel>
-      </skos:Concept>
+      <crm:E57_Material>
+        <rdfs:label>doek</rdfs:label>
+      </crm:E57_Material>
     </crm:P45_consists_of>
   </crm:E22_Human-Made_Object>
 </rdf:RDF>
+  
+

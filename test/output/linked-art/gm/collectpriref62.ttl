@@ -1,6 +1,11 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<hhttp://vocab.getty.edu/aat/300072633>
+    a crm:E55_Type ;
+    rdfs:label "diepte" .
 
 <http://example.com/data/identifier/62>
     crm:P190_has_symbolic_content "0000.1078" ;
@@ -11,16 +16,19 @@
     crm:P108i_was_produced_by <http://example.com/data/production/62> ;
     crm:P1_is_identified_by <http://example.com/data/identifier/62>, <http://example.com/data/title/62> ;
     crm:P2_has_type [
-        crm:P190_has_symbolic_content "schilderijen" ;
-        crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
-        a crm:E33_E41_Linguistic_Appellation
+        a crm:E55_Type ;
+        rdfs:label "schilderijen"
     ], [
-        crm:P190_has_symbolic_content "portretten" ;
-        crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
-        a crm:E33_E41_Linguistic_Appellation
+        a crm:E55_Type ;
+        rdfs:label "portretten"
     ] ;
     crm:P43_has_dimension [
-        crm:P2_has_type <http://vocab.getty.edu/aat/300072633> ;
+        crm:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+        crm:P90_has_value 773 ;
+        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
+        a crm:E54_Dimension
+    ], [
+        crm:P2_has_type <hhttp://vocab.getty.edu/aat/300072633> ;
         crm:P90_has_value 55 ;
         crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
         a crm:E54_Dimension
@@ -39,18 +47,13 @@
         crm:P90_has_value 914 ;
         crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
         a crm:E54_Dimension
-    ], [
-        crm:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
-        crm:P90_has_value 773 ;
-        crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
-        a crm:E54_Dimension
     ] ;
     crm:P45_consists_of [
-        a skos:Concept ;
-        skos:prefLabel "olieverf"
+        a crm:E57_Material ;
+        rdfs:label "olieverf"
     ], [
-        a skos:Concept ;
-        skos:prefLabel "paneel (hout)"
+        a crm:E57_Material ;
+        rdfs:label "paneel (hout)"
     ] ;
     a crm:E22_Human-Made_Object .
 
@@ -60,16 +63,40 @@
             crm:P190_has_symbolic_content "onbekend" ;
             a crm:E33_E41_Linguistic_Appellation
         ] ;
-        a crm:E39_Actor
+        a crm:E39_Actor ;
+        rdfs:label "onbekend"
+    ] ;
+    crm:P32_used_general_technique [
+        a crm:E55_Type ;
+        rdfs:label "schilderen"
     ] ;
     crm:P4_has_time-span [
-        crm:P82a_begin_of_the_begin "1685-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        crm:P82a_begin_of_the_begin "1685-01-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
         a crm:E52_Time-Span
     ] ;
     a crm:E12_Production .
 
 <http://example.com/data/title/62>
-    crm:P190_has_symbolic_content "Petronella Elisabeth Schade" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
     a crm:E33_E41_Linguistic_Appellation .
+
+<http://vocab.getty.edu/aat/300055644>
+    a crm:E55_Type ;
+    rdfs:label "hoogte" .
+
+<http://vocab.getty.edu/aat/300055647>
+    a crm:E55_Type ;
+    rdfs:label "breedte" .
+
+<http://vocab.getty.edu/aat/300312355>
+    a crm:E55_Type ;
+    rdfs:label "accession numbers" .
+
+<http://vocab.getty.edu/aat/300379098>
+    a crm:E58_Measurement_Unit ;
+    rdfs:label "centimeters" .
+
+<http://vocab.getty.edu/aat/300404670>
+    a crm:E55_Type ;
+    rdfs:label "primary name" .
 

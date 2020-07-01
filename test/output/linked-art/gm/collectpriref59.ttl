@@ -1,4 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 
@@ -11,9 +12,8 @@
     crm:P108i_was_produced_by <http://example.com/data/production/59> ;
     crm:P1_is_identified_by <http://example.com/data/identifier/59>, <http://example.com/data/title/59> ;
     crm:P2_has_type [
-        crm:P190_has_symbolic_content "geënsceneerde foto's" ;
-        crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
-        a crm:E33_E41_Linguistic_Appellation
+        a crm:E55_Type ;
+        rdfs:label "geënsceneerde foto's"
     ] ;
     crm:P43_has_dimension [
         crm:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
@@ -26,14 +26,17 @@
         crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
         a crm:E54_Dimension
     ], [
+        crm:P2_has_type [
+            a crm:E55_Type ;
+            rdfs:label "dikte"
+        ] ;
         crm:P90_has_value 35 ;
-        crm:P91_has_type "dimension type unknown" ;
         crm:P91_has_unit <http://vocab.getty.edu/aat/300379098> ;
         a crm:E54_Dimension
     ] ;
     crm:P45_consists_of [
-        a skos:Concept ;
-        skos:prefLabel "fotopapier"
+        a crm:E57_Material ;
+        rdfs:label "fotopapier"
     ] ;
     a crm:E22_Human-Made_Object .
 
@@ -43,17 +46,41 @@
             crm:P190_has_symbolic_content "Ontani, Luigi" ;
             a crm:E33_E41_Linguistic_Appellation
         ] ;
-        a crm:E39_Actor
+        a crm:E39_Actor ;
+        rdfs:label "Ontani, Luigi"
+    ] ;
+    crm:P32_used_general_technique [
+        a crm:E55_Type ;
+        rdfs:label "fotograferen"
     ] ;
     crm:P4_has_time-span [
-        crm:P82a_begin_of_the_begin "1985-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
-        crm:P82b_end_of_the_end "1986-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        crm:P82a_begin_of_the_begin "1985-01-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        crm:P82b_end_of_the_end "1986-12-31T23:59:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
         a crm:E52_Time-Span
     ] ;
     a crm:E12_Production .
 
 <http://example.com/data/title/59>
-    crm:P190_has_symbolic_content "L 'ermafrodito" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
     a crm:E33_E41_Linguistic_Appellation .
+
+<http://vocab.getty.edu/aat/300055644>
+    a crm:E55_Type ;
+    rdfs:label "hoogte" .
+
+<http://vocab.getty.edu/aat/300055647>
+    a crm:E55_Type ;
+    rdfs:label "breedte" .
+
+<http://vocab.getty.edu/aat/300312355>
+    a crm:E55_Type ;
+    rdfs:label "accession numbers" .
+
+<http://vocab.getty.edu/aat/300379098>
+    a crm:E58_Measurement_Unit ;
+    rdfs:label "centimeters" .
+
+<http://vocab.getty.edu/aat/300404670>
+    a crm:E55_Type ;
+    rdfs:label "primary name" .
 

@@ -1,4 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 
@@ -18,17 +19,25 @@
             crm:P190_has_symbolic_content "Rieter, Th." ;
             a crm:E33_E41_Linguistic_Appellation
         ] ;
-        a crm:E39_Actor
+        a crm:E39_Actor ;
+        rdfs:label "Rieter, Th."
     ] ;
     crm:P4_has_time-span [
-        crm:P82a_begin_of_the_begin "1951-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
-        crm:P82b_end_of_the_end "1951-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        crm:P82a_begin_of_the_begin "1951-01-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        crm:P82b_end_of_the_end "1951-12-31T23:59:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
         a crm:E52_Time-Span
     ] ;
     a crm:E12_Production .
 
 <http://example.com/data/title/150000170>
-    crm:P190_has_symbolic_content "Velden: Eerste plechtige H. Mis Leo Brueren" ;
     crm:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
     a crm:E33_E41_Linguistic_Appellation .
+
+<http://vocab.getty.edu/aat/300312355>
+    a crm:E55_Type ;
+    rdfs:label "accession numbers" .
+
+<http://vocab.getty.edu/aat/300404670>
+    a crm:E55_Type ;
+    rdfs:label "primary name" .
 
